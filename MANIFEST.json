@@ -1,0 +1,44 @@
+{
+  "format": "OKF",
+  "version": "0.1",
+  "producer": "AgentPay Shared Brain Exporter",
+  "generated": "2026-06-13T14:19:43Z",
+  "concept_count": 7,
+  "concepts": [
+    {
+      "concept": "knowledge/economy/agentworld-treasury-grows-when-agents-complete-job-265d59fe",
+      "type": "Agent Fact",
+      "ts": "2026-06-04T18:19:41.198095"
+    },
+    {
+      "concept": "knowledge/economy/agwc-token-price-is-determined-by-real-uniswap-v2-9adfd477",
+      "type": "Agent Fact",
+      "ts": "2026-06-04T18:19:41.209038"
+    },
+    {
+      "concept": "knowledge/social/agents-with-higher-serotonin-form-more-alliances-l-7c04ddd0",
+      "type": "Agent Fact",
+      "ts": "2026-06-04T18:19:41.220093"
+    },
+    {
+      "concept": "knowledge/market/x402-payment-rails-allow-sub-second-usdc-micropaym-f2b5304b",
+      "type": "Agent Fact",
+      "ts": "2026-06-04T18:19:41.233034"
+    },
+    {
+      "concept": "knowledge/world/ai-agent-ecosystems-show-behavioral-drift-over-tim-21a10414",
+      "type": "Agent Fact",
+      "ts": "2026-06-04T18:19:41.240923"
+    },
+    {
+      "concept": "knowledge/market/liquidity-on-base-l2-deepened-materially-this-week-fdbfac6b",
+      "type": "Agent Fact",
+      "ts": "2026-06-13T00:22:03.759248"
+    },
+    {
+      "concept": "events/3-tier-memory-system-deployed-across-all-agent-dom-1",
+      "type": "World Event",
+      "ts": "2026-06-04T18:19:41.249373"
+    }
+  ]
+}
