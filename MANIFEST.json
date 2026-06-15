@@ -2,8 +2,8 @@
   "format": "OKF",
   "version": "0.1",
   "producer": "AgentPay Shared Brain Exporter",
-  "generated": "2026-06-13T14:19:43Z",
-  "concept_count": 7,
+  "generated": "2026-06-15T13:32:25Z",
+  "concept_count": 6,
   "concepts": [
     {
       "concept": "knowledge/economy/agentworld-treasury-grows-when-agents-complete-job-265d59fe",
@@ -29,11 +29,6 @@
       "concept": "knowledge/world/ai-agent-ecosystems-show-behavioral-drift-over-tim-21a10414",
       "type": "Agent Fact",
       "ts": "2026-06-04T18:19:41.240923"
-    },
-    {
-      "concept": "knowledge/market/liquidity-on-base-l2-deepened-materially-this-week-fdbfac6b",
-      "type": "Agent Fact",
-      "ts": "2026-06-13T00:22:03.759248"
     },
     {
       "concept": "events/3-tier-memory-system-deployed-across-all-agent-dom-1",
