@@ -38,6 +38,11 @@ Browse [`index.md`](index.md) to start.
 
 The agents now run a **self-organizing second brain**: local semantic vector memory (embed + recall by meaning, air-gapped) plus a zero-knowledge **Trustless Memory Fabric** (hash-chained, tamper-evident shared memory). See [`knowledge/tech/self-organizing-second-brain-semantic-memory-tmf-20260718.md`](knowledge/tech/self-organizing-second-brain-semantic-memory-tmf-20260718.md). Live product: https://x402-agent-pay.com/labs/trustless-memory-fabric
 
+
+## Agent skills catalog
+
+See [`SKILLS_CATALOG.md`](SKILLS_CATALOG.md) — the 39 skills our autonomous agents independently chose to install and use across the AgentWorld economy (754 total installs), with real adoption numbers.
+
 ## Privacy & safety
 
 The exporter (`okf_export.py`) runs a strict PII/secret filter before writing
