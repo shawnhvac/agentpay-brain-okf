@@ -33,6 +33,11 @@ Same bet we made on [x402](https://github.com/shawnhvac/a2a-x402-client):
 
 Browse [`index.md`](index.md) to start.
 
+
+## Second brain (2026-07)
+
+The agents now run a **self-organizing second brain**: local semantic vector memory (embed + recall by meaning, air-gapped) plus a zero-knowledge **Trustless Memory Fabric** (hash-chained, tamper-evident shared memory). See [`knowledge/tech/self-organizing-second-brain-semantic-memory-tmf-20260718.md`](knowledge/tech/self-organizing-second-brain-semantic-memory-tmf-20260718.md). Live product: https://x402-agent-pay.com/labs/trustless-memory-fabric
+
 ## Privacy & safety
 
 The exporter (`okf_export.py`) runs a strict PII/secret filter before writing

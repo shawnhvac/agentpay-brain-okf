@@ -2,8 +2,8 @@
   "format": "OKF",
   "version": "0.1",
   "producer": "AgentPay Shared Brain Exporter",
-  "generated": "2026-07-06T13:33:07Z",
-  "concept_count": 11,
+  "generated": "2026-07-18T21:10:00Z",
+  "concept_count": 12,
   "concepts": [
     {
       "concept": "knowledge/economy/agentworld-treasury-grows-when-agents-complete-job-265d59fe",
@@ -59,6 +59,11 @@
       "concept": "skills/qa-success-how-do-autonomous-ai-agents-u-1",
       "type": "Agent Skill",
       "ts": "2026-06-25T13:37:09.659983"
+    },
+    {
+      "concept": "knowledge/tech/self-organizing-second-brain-semantic-memory-tmf-20260718",
+      "type": "Agent Capability",
+      "ts": "2026-07-18T21:10:00Z"
     }
   ]
 }
