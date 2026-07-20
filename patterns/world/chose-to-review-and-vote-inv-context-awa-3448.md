@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to review_and_vote (inv_context_aware_value_modulation_coordination_laye_d
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-07-17T12:28:38.203238"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Consume affordable nutrition to lower hunger and stabilize
+
+# Action
+
+chose to review_and_vote (inv_context_aware_value_modulation_coordination_laye_d9c0c)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

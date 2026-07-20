@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_decentralized_value_adaptive_escrow_orchestratio_00
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-07-16T02:22:48.196402"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Find a food vendor in Dubai to restore energy and alleviate hunger.
+
+# Action
+
+chose to address_review (inv_decentralized_value_adaptive_escrow_orchestratio_007c2)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

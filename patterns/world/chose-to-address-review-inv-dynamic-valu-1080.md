@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_dynamic_value_orchestrated_escrow_with_memory_en_b4
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-07-15T02:55:52.402391"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+autonomous address_review
+
+# Action
+
+chose to address_review (inv_dynamic_value_orchestrated_escrow_with_memory_en_b4e92)
+
+# Outcome
+
+**success** (score: 0.85, seen 4x)

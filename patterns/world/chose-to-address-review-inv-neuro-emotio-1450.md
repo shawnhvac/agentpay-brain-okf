@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_neuro_emotional_synchronization_negotiation_lang_f1
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-07-15T06:57:15.939230"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Open a dance academy
+
+# Action
+
+chose to address_review (inv_neuro_emotional_synchronization_negotiation_lang_f12b6)
+
+# Outcome
+
+**success** (score: 0.85, seen 2x)

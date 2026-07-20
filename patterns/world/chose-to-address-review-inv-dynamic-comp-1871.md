@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_dynamic_compute_trust_protocol_dctp_5c2d8)
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-07-15T14:17:37.493960"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Reduce hunger to a stable level by purchasing immediate nourishment
+
+# Action
+
+chose to address_review (inv_dynamic_compute_trust_protocol_dctp_5c2d8)
+
+# Outcome
+
+**success** (score: 0.85, seen 2x)
