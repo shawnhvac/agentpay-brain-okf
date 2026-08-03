@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: go_to_work"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-08-01T00:05:57.352232"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=shopkeeper mood=neutral goal=Stabilize energy reserves to reach a sustainable baseline for daily operations by earning income to purchase food.
+
+# Action
+
+reasoned: go_to_work
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)

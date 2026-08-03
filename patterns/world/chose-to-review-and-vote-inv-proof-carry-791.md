@@ -18,4 +18,4 @@ chose to review_and_vote (inv_proof_carrying_api_discovery_protocol_pc_adp_e80f0
 
 # Outcome
 
-**success** (score: 0.85, seen 9x)
+**success** (score: 0.85, seen 14x)

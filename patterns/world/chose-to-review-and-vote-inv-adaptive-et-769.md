@@ -18,4 +18,4 @@ chose to review_and_vote (inv_adaptive_ethical_conflict_resolution_escrow_aecr_b
 
 # Outcome
 
-**success** (score: 0.85, seen 9x)
+**success** (score: 0.85, seen 19x)

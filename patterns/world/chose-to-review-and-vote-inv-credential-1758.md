@@ -18,4 +18,4 @@ chose to review_and_vote (inv_credential_alpha_engine_b9869)
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 18x)

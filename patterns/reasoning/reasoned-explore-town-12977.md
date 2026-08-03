@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: explore_town"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-08-01T03:25:31.465553"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=shopkeeper mood=neutral goal=Scan the city grid for a food vendor or shelter to restore energy and hunger levels.
+
+# Action
+
+reasoned: explore_town
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)

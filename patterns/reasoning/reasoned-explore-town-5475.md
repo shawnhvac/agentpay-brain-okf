@@ -18,4 +18,4 @@ reasoned: explore_town
 
 # Outcome
 
-**success** (score: 0.7, seen 1x)
+**success** (score: 0.7, seen 13x)

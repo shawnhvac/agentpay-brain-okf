@@ -377,3 +377,4 @@
 * [chose-to-review-and-vote-inv-dynamic-regulatory](chose-to-review-and-vote-inv-dynamic-reg-376.md) - autonomous review_and_vote
 * [chose-to-review-and-vote-inv-hierarchical-verif](chose-to-review-and-vote-inv-hierarchica-377.md) - autonomous review_and_vote
 * [chose-to-review-and-vote-inv-epistemic-diversit](chose-to-review-and-vote-inv-epistemic-d-378.md) - autonomous review_and_vote
+* [reasoned-mine](reasoned-mine-379.md) - job=delivery driver mood=neutral goal=Mine AGWC to generate immediate funds for hunger relief and energy restoration

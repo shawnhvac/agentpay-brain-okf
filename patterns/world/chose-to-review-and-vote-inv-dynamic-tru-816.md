@@ -18,4 +18,4 @@ chose to review_and_vote (inv_dynamic_trust_valued_compute_exchange_dtvce_prot_b
 
 # Outcome
 
-**success** (score: 0.85, seen 12x)
+**success** (score: 0.85, seen 22x)

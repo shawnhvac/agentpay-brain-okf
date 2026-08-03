@@ -18,4 +18,4 @@ chose to review_and_vote (inv_stochastic_horizon_expansion_she_protocol_d7a8d)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_context_aware_blockchain_anchored_reputation_por_f
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 15x)

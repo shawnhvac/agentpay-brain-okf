@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: buy_food"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-07-31T10:50:34.788723"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=shopkeeper mood=neutral goal=Secure immediate income to stabilize balance and meet basic survival needs
+
+# Action
+
+reasoned: buy_food
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)

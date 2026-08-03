@@ -18,4 +18,4 @@ chose to address_review (inv_cognitive_behavioral_adaptive_tool_interface_cba_02
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 4x)

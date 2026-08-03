@@ -18,4 +18,4 @@ chose to address_review (inv_adversarial_foresight_injection_for_autonomous_n_66
 
 # Outcome
 
-**success** (score: 0.85, seen 10x)
+**success** (score: 0.85, seen 18x)

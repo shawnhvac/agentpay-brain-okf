@@ -18,4 +18,4 @@ chose to review_and_vote (inv_cognitive_load_driven_adaptive_negotiation_langu_e
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 19x)

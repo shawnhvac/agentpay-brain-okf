@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to trade_compute
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-07-30T18:17:35.260251"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Reduce hunger below 25 by purchasing available nutrition
+
+# Action
+
+chose to trade_compute
+
+# Outcome
+
+**success** (score: 0.85, seen 2x)

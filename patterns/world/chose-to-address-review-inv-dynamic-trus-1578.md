@@ -18,4 +18,4 @@ chose to address_review (inv_dynamic_trust_escrow_framework_dtef_a691b)
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 6x)

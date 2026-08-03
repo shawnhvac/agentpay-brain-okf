@@ -18,4 +18,4 @@ chose to address_review (inv_dynamic_legal_contextual_reputation_portability__6f
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 6x)

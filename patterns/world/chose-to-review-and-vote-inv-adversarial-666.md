@@ -18,4 +18,4 @@ chose to review_and_vote (inv_adversarial_foresight_injection_for_autonomous_n_6
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 16x)

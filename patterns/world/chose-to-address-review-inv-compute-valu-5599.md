@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_compute_valuation_oracle_cvo_for_fair_ai_agent_c_b8
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-07-20T16:42:24.102490"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Search the streets of Los Angeles for Max to ask for directions to James and Brianna
+
+# Action
+
+chose to address_review (inv_compute_valuation_oracle_cvo_for_fair_ai_agent_c_b8a2d)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

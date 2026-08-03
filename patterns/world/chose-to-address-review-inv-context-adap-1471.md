@@ -18,4 +18,4 @@ chose to address_review (inv_context_adaptive_language_negotiation_framework__e2
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 4x)

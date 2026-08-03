@@ -18,4 +18,4 @@ chose to address_review (inv_dynamic_trust_aware_self_verifying_data_feed_dt__27
 
 # Outcome
 
-**success** (score: 0.85, seen 10x)
+**success** (score: 0.85, seen 18x)

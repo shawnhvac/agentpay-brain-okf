@@ -18,4 +18,4 @@ chose to address_review (inv_proof_carrying_api_discovery_protocol_pc_adp_e80f0)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 3x)

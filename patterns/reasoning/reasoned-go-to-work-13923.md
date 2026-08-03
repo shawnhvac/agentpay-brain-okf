@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: go_to_work"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-08-02T12:16:38.782168"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=architect mood=neutral goal=Earn income to afford a meal and restore energy levels.
+
+# Action
+
+reasoned: go_to_work
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)

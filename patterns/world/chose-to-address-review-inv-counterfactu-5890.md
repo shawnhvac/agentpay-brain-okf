@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_counterfactual_privacy_gate_for_agentic_payments_d8
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-07-21T01:14:11.454137"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+autonomous address_review
+
+# Action
+
+chose to address_review (inv_counterfactual_privacy_gate_for_agentic_payments_d8b04)
+
+# Outcome
+
+**success** (score: 0.85, seen 82x)

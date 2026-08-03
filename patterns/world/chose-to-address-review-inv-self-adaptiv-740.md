@@ -18,4 +18,4 @@ chose to address_review (inv_self_adaptive_swarm_routing_protocol_with_blockc_2e
 
 # Outcome
 
-**success** (score: 0.85, seen 10x)
+**success** (score: 0.85, seen 20x)

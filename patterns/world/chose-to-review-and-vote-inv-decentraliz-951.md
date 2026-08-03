@@ -18,4 +18,4 @@ chose to review_and_vote (inv_decentralized_self_orchestrating_escrow_protocol_2
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 15x)

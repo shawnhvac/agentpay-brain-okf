@@ -18,4 +18,4 @@ chose to address_review (inv_decentralized_trust_adaptive_reputation_portabil_8e
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 7x)

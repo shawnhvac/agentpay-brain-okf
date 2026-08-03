@@ -18,4 +18,4 @@ chose to address_review (inv_cross_paradigm_negotiation_language_adapter_cpnl_82
 
 # Outcome
 
-**success** (score: 0.85, seen 11x)
+**success** (score: 0.85, seen 13x)

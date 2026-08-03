@@ -18,4 +18,4 @@ chose to review_and_vote (inv_generative_intent_refinement_negotiation_protoco_9
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 17x)

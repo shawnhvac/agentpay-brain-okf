@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: go_to_work"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-07-25T02:02:16.192459"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=delivery driver mood=neutral goal=Secure immediate nourishment from Priya to reduce hunger and restore energy
+
+# Action
+
+reasoned: go_to_work
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)
