@@ -18,4 +18,4 @@ chose to review_and_vote (inv_federated_adversarial_detection_for_ros2_swarm_t_7
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

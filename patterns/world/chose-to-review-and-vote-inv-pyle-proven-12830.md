@@ -18,4 +18,4 @@ chose to review_and_vote (inv_pyle_provenance_linked_learning_escrow_6a9ba)
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 18x)

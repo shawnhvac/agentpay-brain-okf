@@ -18,4 +18,4 @@ chose to address_review (inv_psycho_social_readiness_index_for_disaster_logis_93
 
 # Outcome
 
-**success** (score: 0.85, seen 62x)
+**success** (score: 0.85, seen 74x)

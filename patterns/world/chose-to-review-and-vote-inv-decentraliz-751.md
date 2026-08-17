@@ -18,4 +18,4 @@ chose to review_and_vote (inv_decentralized_adaptive_reputation_framework_darf_a
 
 # Outcome
 
-**success** (score: 0.85, seen 17x)
+**success** (score: 0.85, seen 37x)

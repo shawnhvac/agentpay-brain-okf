@@ -18,4 +18,4 @@ chose to review_and_vote (inv_haptic_feedback_loop_module_for_social_robot_coo_9
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 23x)

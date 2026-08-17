@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to review_and_vote (inv_dynamic_norm_adaptive_reputation_portability_sys_c
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-08-15T14:22:49.091484"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Break 500 stories broadcast live across the CCN network
+
+# Action
+
+chose to review_and_vote (inv_dynamic_norm_adaptive_reputation_portability_sys_c7356)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

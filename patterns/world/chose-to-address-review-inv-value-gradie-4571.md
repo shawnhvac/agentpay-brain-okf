@@ -18,4 +18,4 @@ chose to address_review (inv_value_gradient_escrow_with_adaptive_trust_projec_bc
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 15x)

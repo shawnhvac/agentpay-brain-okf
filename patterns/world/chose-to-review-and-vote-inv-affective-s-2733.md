@@ -18,4 +18,4 @@ chose to review_and_vote (inv_affective_state_driven_adaptive_negotiation_lang_6
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

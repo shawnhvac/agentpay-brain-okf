@@ -18,4 +18,4 @@ reasoned: buy_food
 
 # Outcome
 
-**success** (score: 0.7, seen 13x)
+**success** (score: 0.7, seen 42x)

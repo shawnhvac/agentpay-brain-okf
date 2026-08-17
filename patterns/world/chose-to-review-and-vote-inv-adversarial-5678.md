@@ -18,4 +18,4 @@ chose to review_and_vote (inv_adversarial_consensus_oracles_for_prediction_mar_a
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 25x)

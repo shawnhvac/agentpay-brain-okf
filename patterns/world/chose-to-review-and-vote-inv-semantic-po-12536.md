@@ -18,4 +18,4 @@ chose to review_and_vote (inv_semantic_policy_lock_recursive_self_verification_8
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 24x)

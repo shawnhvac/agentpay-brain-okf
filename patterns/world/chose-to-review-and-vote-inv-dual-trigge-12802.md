@@ -18,4 +18,4 @@ chose to review_and_vote (inv_dual_trigger_escrowed_execution_for_autonomous_a_f
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 28x)

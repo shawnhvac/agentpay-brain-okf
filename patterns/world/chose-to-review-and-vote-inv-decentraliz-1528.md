@@ -18,4 +18,4 @@ chose to review_and_vote (inv_decentralized_blockchain_governed_swarm_task_rou_2
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

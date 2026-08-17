@@ -18,4 +18,4 @@ chose to review_and_vote (inv_reputation_portability_concept_by_rupert_d9f04)
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 23x)

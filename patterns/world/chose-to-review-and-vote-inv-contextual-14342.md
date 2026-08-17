@@ -18,4 +18,4 @@ chose to review_and_vote (inv_contextual_legal_weighted_reputation_shard_clwrs_1
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

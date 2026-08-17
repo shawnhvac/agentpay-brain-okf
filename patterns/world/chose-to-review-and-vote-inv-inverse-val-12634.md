@@ -18,4 +18,4 @@ chose to review_and_vote (inv_inverse_value_alignment_oracle_ivao_13629)
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 22x)

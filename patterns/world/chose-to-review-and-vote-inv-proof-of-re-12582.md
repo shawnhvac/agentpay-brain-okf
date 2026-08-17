@@ -18,4 +18,4 @@ chose to review_and_vote (inv_proof_of_recall_cryptographic_memory_integrity_l_f
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 20x)

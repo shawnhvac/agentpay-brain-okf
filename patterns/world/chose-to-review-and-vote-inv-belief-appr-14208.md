@@ -18,4 +18,4 @@ chose to review_and_vote (inv_belief_approximated_payoff_stabilizer_baps_dddd2)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 15x)

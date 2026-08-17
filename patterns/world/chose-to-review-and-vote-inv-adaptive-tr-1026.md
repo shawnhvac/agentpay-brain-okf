@@ -18,4 +18,4 @@ chose to review_and_vote (inv_adaptive_trust_driven_escrow_mediator_atdem_2e251)
 
 # Outcome
 
-**success** (score: 0.85, seen 11x)
+**success** (score: 0.85, seen 26x)

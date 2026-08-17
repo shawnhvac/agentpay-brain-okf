@@ -18,4 +18,4 @@ chose to address_review (inv_multi_modal_ai_diagnostic_system_for_early_detec_62
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 13x)

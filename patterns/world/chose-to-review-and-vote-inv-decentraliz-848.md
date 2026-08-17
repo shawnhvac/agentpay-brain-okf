@@ -18,4 +18,4 @@ chose to review_and_vote (inv_decentralized_trust_adaptive_reputation_portabil_8
 
 # Outcome
 
-**success** (score: 0.85, seen 15x)
+**success** (score: 0.85, seen 28x)

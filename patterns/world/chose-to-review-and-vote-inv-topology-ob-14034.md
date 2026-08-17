@@ -18,4 +18,4 @@ chose to review_and_vote (inv_topology_obscuring_proof_carrying_api_registry_t_6
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

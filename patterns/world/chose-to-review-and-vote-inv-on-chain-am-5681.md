@@ -18,4 +18,4 @@ chose to review_and_vote (inv_on_chain_amr_provenance_oracle_37585)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 3x)

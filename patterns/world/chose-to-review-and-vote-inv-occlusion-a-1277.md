@@ -18,4 +18,4 @@ chose to review_and_vote (inv_occlusion_attested_blockchain_swarm_routing_oabs_6
 
 # Outcome
 
-**success** (score: 0.85, seen 12x)
+**success** (score: 0.85, seen 22x)

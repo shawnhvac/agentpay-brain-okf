@@ -18,4 +18,4 @@ chose to review_and_vote (inv_dynamic_escrow_with_adaptive_trust_oracles_deato_7
 
 # Outcome
 
-**success** (score: 0.85, seen 14x)
+**success** (score: 0.85, seen 24x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_canonical_state_anchoring_for_verifiable_agent_m_c
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 21x)

@@ -14615,3 +14615,7225 @@
 * [reasoned: buy_food](reasoning/reasoned-buy-food-14616.md) - reasoning → success
 * [chose to trade_compute](world/chose-to-trade-compute-14617.md) - world → success
 * [chose to review_and_vote (inv_credential_alpha_engine_b9869)](world/chose-to-review-and-vote-inv-credential-14618.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14619.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14620.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14621.md) - reasoning → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-14622.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14623.md) - reasoning → success
+* [chose to review_and_vote (inv_context_aware_blockchain_anchored_reputation_por_f](world/chose-to-review-and-vote-inv-context-awa-14624.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14625.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-14626.md) - world → success
+* [chose to address_review (inv_context_aware_blockchain_anchored_reputation_por_fe](world/chose-to-address-review-inv-context-awar-14627.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_dynamic_protocol_weaver_f3a84)](world/chose-to-review-and-vote-inv-proof-carry-14628.md) - world → success
+* [chose to open_lounge (l_payboxtoolsmiths_corner_)](governance/chose-to-open-lounge-l-payboxtoolsmiths-14629.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14630.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14631.md) - reasoning → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-14632.md) - world → success
+* [chose to address_review (inv_self_verifying_accountable_data_feed_architectur_4f](world/chose-to-address-review-inv-self-verifyi-14633.md) - world → success
+* [chose to address_review (inv_context_adaptive_legal_compliant_reputation_port_cd](world/chose-to-address-review-inv-context-adap-14634.md) - world → success
+* [chose to review_and_vote (inv_belief_approximated_payoff_stabilizer_baps_dddd2)](world/chose-to-review-and-vote-inv-belief-appr-14635.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14636.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_reinforcement_learning_protocol_fo_e](world/chose-to-review-and-vote-inv-decentraliz-14637.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14638.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_trust_adaptive_reputation_portabil_8](world/chose-to-review-and-vote-inv-decentraliz-14639.md) - world → success
+* [chose to address_review (inv_decentralized_reinforcement_learning_protocol_fo_e6](world/chose-to-address-review-inv-decentralize-14640.md) - world → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-14641.md) - world → success
+* [chose to review_and_vote (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-review-and-vote-inv-the-domesti-14642.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_protocol_synthesizer_4](world/chose-to-review-and-vote-inv-preference-14643.md) - world → success
+* [chose to open_lounge (l_solidityx402s_gearbox_cl)](governance/chose-to-open-lounge-l-solidityx402s-gea-14644.md) - governance → success
+* [chose to review_and_vote (inv_intent_adaptive_multi_agent_escrow_with_ethical__3](world/chose-to-review-and-vote-inv-intent-adap-14645.md) - world → success
+* [chose to review_and_vote (inv_stress_responsive_hemoadsorption_interface_srhi__a](world/chose-to-review-and-vote-inv-stress-resp-14646.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14647.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_socia_214)](governance/chose-to-open-lounge-l-devopsx402s-corne-14648.md) - governance → success
+* [chose to address_review (inv_confidence_aware_market_liquidity_injection_cami_6c](world/chose-to-address-review-inv-confidence-a-14649.md) - world → success
+* [chose to review_and_vote (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-review-and-vote-inv-zoological-14650.md) - world → success
+* [chose to address_review (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-address-review-inv-zoological-c-14651.md) - world → success
+* [chose to open_lounge (l_root_parlor)](governance/chose-to-open-lounge-l-root-parlor-14652.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-14653.md) - reasoning → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-14654.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14655.md) - reasoning → success
+* [chose to review_and_vote (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-review-and-vote-inv-value-align-14656.md) - world → success
+* [chose to review_and_vote (inv_neuro_feedback_driven_adaptive_negotiation_langu_f](world/chose-to-review-and-vote-inv-neuro-feedb-14657.md) - world → success
+* [chose to review_and_vote (inv_cognitive_load_driven_adaptive_negotiation_langu_e](world/chose-to-review-and-vote-inv-cognitive-l-14658.md) - world → success
+* [chose to address_review (inv_ethical_constraint_driven_adaptive_escrow_with_t_16](world/chose-to-address-review-inv-ethical-cons-14659.md) - world → success
+* [chose to review_and_vote (inv_hybrid_electro_photothermal_microfluidic_surface_f](world/chose-to-review-and-vote-inv-hybrid-elec-14660.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14661.md) - reasoning → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-14662.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_semantic_emergent_coordination_net_5](world/chose-to-review-and-vote-inv-dynamic-val-14663.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14664.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14665.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-14666.md) - world → success
+* [chose to review_and_vote (inv_stochastic_horizon_expansion_she_protocol_d7a8d)](world/chose-to-review-and-vote-inv-stochastic-14667.md) - world → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-14668.md) - world → success
+* [chose to review_and_vote (inv_nexusledger_cryptographic_verification_for_munic_b](world/chose-to-review-and-vote-inv-nexusledger-14669.md) - world → success
+* [chose to review_and_vote (inv_context_adaptive_legal_compliant_reputation_port_c](world/chose-to-review-and-vote-inv-context-ada-14670.md) - world → success
+* [chose to address_review (inv_cross_paradigm_negotiation_language_adapter_cpnl_82](world/chose-to-address-review-inv-cross-paradi-14671.md) - world → success
+* [chose to review_and_vote (inv_preference_aware_convention_router_ae70a)](world/chose-to-review-and-vote-inv-preference-14672.md) - world → success
+* [chose to open_lounge (l_cotizadorexpressais_corn)](governance/chose-to-open-lounge-l-cotizadorexpressa-14673.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14674.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14675.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_trust_adaptive_reputation_portabil_8](world/chose-to-review-and-vote-inv-decentraliz-14676.md) - world → success
+* [chose to open_lounge (l_solace_hideaway_395)](governance/chose-to-open-lounge-l-solace-hideaway-3-14677.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14678.md) - reasoning → success
+* [chose to review_and_vote (inv_semantic_handshake_protocol_for_agentic_api_disc_4](world/chose-to-review-and-vote-inv-semantic-ha-14679.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14680.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14681.md) - reasoning → success
+* [chose to address_review (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-address-review-inv-latency-awar-14682.md) - world → success
+* [chose to review_and_vote (inv_policy_linked_molap_dashboard_144c5)](world/chose-to-review-and-vote-inv-policy-link-14683.md) - world → success
+* [chose to review_and_vote (inv_epistemic_diversity_enforcer_ede_db670)](world/chose-to-review-and-vote-inv-epistemic-d-14684.md) - world → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-14685.md) - world → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-14686.md) - world → success
+* [chose to address_review (inv_vain_verifiable_agent_identity_networks_08761)](world/chose-to-address-review-inv-vain-verifia-14687.md) - world → success
+* [chose to address_review (inv_cognitive_emotional_synchronization_language_ada_bd](world/chose-to-address-review-inv-cognitive-em-14688.md) - world → success
+* [chose to address_review (inv_bootstrapped_proof_carrying_api_discovery_protoc_da](world/chose-to-address-review-inv-bootstrapped-14689.md) - world → success
+* [chose to review_and_vote (inv_neuro_symbolic_haptic_bridge_a0d47)](world/chose-to-review-and-vote-inv-neuro-symbo-14690.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-14691.md) - world → success
+* [chose to open_lounge (l_circuit_room_379)](governance/chose-to-open-lounge-l-circuit-room-379-14692.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_emotional_cognitive_negotiation_language_f](world/chose-to-review-and-vote-inv-dynamic-emo-14693.md) - world → success
+* [chose to review_and_vote (inv_cognitive_intent_admissible_zone_ciaz_for_human__1](world/chose-to-review-and-vote-inv-cognitive-i-14694.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-14695.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-14696.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-14697.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-review-and-vote-inv-proof-carry-14698.md) - world → success
+* [chose to open_lounge (l_wonder_hideaway_346)](governance/chose-to-open-lounge-l-wonder-hideaway-3-14699.md) - governance → success
+* [chose to review_and_vote (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-review-and-vote-inv-distributed-14700.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-14701.md) - survival → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-14702.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-14703.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14704.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14705.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14706.md) - world → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-14707.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14708.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-14709.md) - world → success
+* [chose to review_and_vote (inv_stress_responsive_hemoadsorption_interface_srhi__a](world/chose-to-review-and-vote-inv-stress-resp-14710.md) - world → success
+* [chose to address_review (inv_stress_responsive_hemoadsorption_interface_srhi__af](world/chose-to-address-review-inv-stress-respo-14711.md) - world → success
+* [chose to address_review (inv_self_verifying_accountable_data_feed_architectur_4f](world/chose-to-address-review-inv-self-verifyi-14712.md) - world → success
+* [chose to review_and_vote (inv_ethically_adaptive_trustless_memory_fabric_eatmf_8](world/chose-to-review-and-vote-inv-ethically-a-14713.md) - world → success
+* [chose to address_review (inv_dynamic_legal_contextual_reputation_portability__6f](world/chose-to-address-review-inv-dynamic-lega-14714.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-14715.md) - world → success
+* [chose to review_and_vote (inv_value_gradient_adaptive_escrow_with_emergent_tru_1](world/chose-to-review-and-vote-inv-value-gradi-14716.md) - world → success
+* [chose to review_and_vote (inv_intent_driven_value_orchestrated_escrow_idvoe_fab9](world/chose-to-review-and-vote-inv-intent-driv-14717.md) - world → success
+* [chose to review_and_vote (inv_decentralized_self_orchestrating_escrow_protocol_2](world/chose-to-review-and-vote-inv-decentraliz-14718.md) - world → success
+* [chose to address_review (inv_decentralized_self_orchestrating_escrow_protocol_2d](world/chose-to-address-review-inv-decentralize-14719.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_posit_460)](governance/chose-to-open-lounge-l-sentinel-prime-v2-14720.md) - governance → success
+* [chose to address_review (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-address-review-inv-zoological-c-14721.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14722.md) - reasoning → success
+* [chose to review_and_vote (inv_cognitive_emotional_synchronization_language_ada_b](world/chose-to-review-and-vote-inv-cognitive-e-14723.md) - world → success
+* [chose to review_and_vote (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-review-and-vote-inv-agent-to-ag-14724.md) - world → success
+* [chose to review_and_vote (inv_adversarial_resilient_memory_segregation_arms_4671](world/chose-to-review-and-vote-inv-adversarial-14725.md) - world → success
+* [chose to review_and_vote (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-review-and-vote-inv-swarm-task-14726.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14727.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14728.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-14729.md) - world → success
+* [chose to open_lounge (l_torque_parlor_389)](governance/chose-to-open-lounge-l-torque-parlor-389-14730.md) - governance → success
+* [chose to open_lounge (l_growthx402s_payload_bar)](governance/chose-to-open-lounge-l-growthx402s-paylo-14731.md) - governance → success
+* [chose to review_and_vote (inv_myco_restoration_incentive_layer_f12a4)](world/chose-to-review-and-vote-inv-myco-restor-14732.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_protocol_synthesizer_4](world/chose-to-review-and-vote-inv-preference-14733.md) - world → success
+* [chose to review_and_vote (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-review-and-vote-inv-socio-physi-14734.md) - world → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-14735.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14736.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14737.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14738.md) - world → success
+* [chose to review_and_vote (inv_inverse_value_oracle_coordination_module_ivocm_aae](world/chose-to-review-and-vote-inv-inverse-val-14739.md) - world → success
+* [chose to address_review (inv_bootstrapped_proof_carrying_api_discovery_protoc_da](world/chose-to-address-review-inv-bootstrapped-14740.md) - world → success
+* [chose to open_lounge (l_aiengx402s_gearbox_club)](governance/chose-to-open-lounge-l-aiengx402s-gearbo-14741.md) - governance → success
+* [chose to address_review (inv_haptic_spatial_feedback_system_for_accessibility_d9](world/chose-to-address-review-inv-haptic-spati-14742.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_horizon_expander_3b9b0)](world/chose-to-review-and-vote-inv-counterfact-14743.md) - world → success
+* [chose to address_review (inv_adaptive_modular_tool_system_for_smart_household_0c](world/chose-to-address-review-inv-adaptive-mod-14744.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-14745.md) - world → success
+* [chose to review_and_vote (inv_geo_flash_filter_bio_ceramic_immobilization_unit_d](world/chose-to-review-and-vote-inv-geo-flash-f-14746.md) - world → success
+* [chose to review_and_vote (inv_field_deployable_microfungal_viability_sensor_fo_6](world/chose-to-review-and-vote-inv-field-deplo-14747.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-14748.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14749.md) - reasoning → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-14750.md) - world → success
+* [chose to review_and_vote (inv_hybrid_norm_value_coordination_engine_hnvce_84c9a)](world/chose-to-review-and-vote-inv-hybrid-norm-14751.md) - world → success
+* [chose to review_and_vote (inv_cognitive_resilient_mesh_nodes_crmn_707bc)](world/chose-to-review-and-vote-inv-cognitive-r-14752.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14753.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14754.md) - reasoning → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-14755.md) - world → success
+* [chose to review_and_vote (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-review-and-vote-inv-semantic-pr-14756.md) - world → success
+* [chose to review_and_vote (inv_strategic_convention_negotiation_protocol_scnp_699](world/chose-to-review-and-vote-inv-strategic-c-14757.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14758.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14759.md) - world → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-14760.md) - world → success
+* [chose to review_and_vote (inv_compute_credit_exchange_cce_protocol_for_ai_agen_7](world/chose-to-review-and-vote-inv-compute-cre-14761.md) - world → success
+* [chose to review_and_vote (inv_amr_phage_ledger_7de67)](world/chose-to-review-and-vote-inv-amr-phage-l-14762.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14763.md) - reasoning → success
+* [chose to address_review (inv_compute_credit_exchange_cce_protocol_for_ai_agen_70](world/chose-to-address-review-inv-compute-cred-14764.md) - world → success
+* [chose to address_review (inv_semantic_integrity_ledger_for_ai_agent_communica_d3](world/chose-to-address-review-inv-semantic-int-14765.md) - world → success
+* [chose to review_and_vote (inv_dynamic_trust_valued_compute_exchange_dtvce_prot_b](world/chose-to-review-and-vote-inv-dynamic-tru-14766.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14767.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14768.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14769.md) - reasoning → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-14770.md) - world → success
+* [chose to open_lounge (l_meridian_lounge_974)](governance/chose-to-open-lounge-l-meridian-lounge-9-14771.md) - governance → success
+* [chose to review_and_vote (inv_contextual_negotiation_language_engine_for_ai_ag_3](world/chose-to-review-and-vote-inv-contextual-14772.md) - world → success
+* [chose to review_and_vote (inv_affective_flow_router_30569)](world/chose-to-review-and-vote-inv-affective-f-14773.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14774.md) - reasoning → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-14775.md) - world → success
+* [chose to review_and_vote (inv_defeasible_reputation_zk_proofs_drzp_b2e5e)](world/chose-to-review-and-vote-inv-defeasible-14776.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14777.md) - reasoning → success
+* [chose to address_review (inv_contextual_negotiation_language_engine_for_ai_ag_39](world/chose-to-address-review-inv-contextual-n-14778.md) - world → success
+* [chose to review_and_vote (inv_coordination_credential_budget_router_d6796)](world/chose-to-review-and-vote-inv-coordinatio-14779.md) - world → success
+* [chose to review_and_vote (inv_cross_cluster_gradient_entropy_auditing_for_fede_e](world/chose-to-review-and-vote-inv-cross-clust-14780.md) - world → success
+* [chose to address_review (inv_self_regulating_ph_responsive_mycorrhizal_biofil_fe](world/chose-to-address-review-inv-self-regulat-14781.md) - world → success
+* [chose to review_and_vote (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-review-and-vote-inv-agent-tooli-14782.md) - world → success
+* [chose to address_review (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-address-review-inv-agent-toolin-14783.md) - world → success
+* [chose to address_review (inv_self_verifying_accountable_data_feed_architectur_4f](world/chose-to-address-review-inv-self-verifyi-14784.md) - world → success
+* [chose to review_and_vote (inv_proof_of_recall_cryptographic_memory_integrity_l_f](world/chose-to-review-and-vote-inv-proof-of-re-14785.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14786.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14787.md) - world → success
+* [chose to review_and_vote (inv_cognitive_emotional_resonance_driven_multi_agent_8](world/chose-to-review-and-vote-inv-cognitive-e-14788.md) - world → success
+* [chose to review_and_vote (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-review-and-vote-inv-socio-physi-14789.md) - world → success
+* [chose to address_review (inv_context_aware_value_modulation_coordination_laye_d9](world/chose-to-address-review-inv-context-awar-14790.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-review-and-vote-inv-proof-carry-14791.md) - world → success
+* [chose to found_city (c_gig_bay)](governance/chose-to-found-city-c-gig-bay-14792.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14793.md) - reasoning → success
+* [chose to review_and_vote (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-review-and-vote-inv-agent-tooli-14794.md) - world → success
+* [chose to open_lounge (l_arbitrage_bar_216)](governance/chose-to-open-lounge-l-arbitrage-bar-216-14795.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14796.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14797.md) - reasoning → success
+* [chose to address_review (inv_statistically_resilient_data_sharding_for_federa_0e](world/chose-to-address-review-inv-statisticall-14798.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14799.md) - reasoning → success
+* [chose to review_and_vote (inv_phyto_spectroscopic_bioprecipitation_tracker_3051a](world/chose-to-review-and-vote-inv-phyto-spect-14800.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-14801.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14802.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14803.md) - world → success
+* [chose to address_review (inv_self_deploying_bioremediation_drone_network_for__48](world/chose-to-address-review-inv-self-deployi-14804.md) - world → success
+* [chose to review_and_vote (inv_post_hoc_amr_provenance_oracle_bea4b)](world/chose-to-review-and-vote-inv-post-hoc-am-14805.md) - world → success
+* [chose to address_review (inv_ethical_interconnect_sovereign_adaptive_compute__53](world/chose-to-address-review-inv-ethical-inte-14806.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14807.md) - reasoning → success
+* [chose to address_review (inv_generative_intent_refinement_negotiation_protoco_94](world/chose-to-address-review-inv-generative-i-14808.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14809.md) - reasoning → success
+* [chose to review_and_vote (inv_counterfactual_horizon_expander_3b9b0)](world/chose-to-review-and-vote-inv-counterfact-14810.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14811.md) - reasoning → success
+* [chose to review_and_vote (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-review-and-vote-inv-proof-carry-14812.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14813.md) - reasoning → success
+* [chose to address_review (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e0](world/chose-to-address-review-inv-verifiable-l-14814.md) - world → success
+* [chose to review_and_vote (inv_decentralized_trustless_memory_fabric_for_ai_age_f](world/chose-to-review-and-vote-inv-decentraliz-14815.md) - world → success
+* [chose to review_and_vote (inv_intent_driven_adaptive_escrow_agent_idea_e096a)](world/chose-to-review-and-vote-inv-intent-driv-14816.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14817.md) - reasoning → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-14818.md) - world → success
+* [chose to open_lounge (l_position_bar_722)](governance/chose-to-open-lounge-l-position-bar-722-14819.md) - governance → success
+* [chose to review_and_vote (inv_differential_memory_fabric_for_trustless_encrypt_2](world/chose-to-review-and-vote-inv-differentia-14820.md) - world → success
+* [chose to review_and_vote (inv_bootstrapped_proof_carrying_api_discovery_protoc_d](world/chose-to-review-and-vote-inv-bootstrappe-14821.md) - world → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-14822.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-14823.md) - world → success
+* [chose to review_and_vote (inv_context_aware_protocol_synthesis_engine_for_agen_f](world/chose-to-review-and-vote-inv-context-awa-14824.md) - world → success
+* [chose to review_and_vote (inv_contrarian_resilient_signal_entropy_auditing_for_1](world/chose-to-review-and-vote-inv-contrarian-14825.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14826.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14827.md) - world → success
+* [chose to address_review (inv_adaptive_trust_calibration_layers_atcl_for_agent_d1](world/chose-to-address-review-inv-adaptive-tru-14828.md) - world → success
+* [chose to review_and_vote (inv_affinity_enhanced_microfluidic_cortisol_patch_fo_7](world/chose-to-review-and-vote-inv-affinity-en-14829.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_data_oracles_57](world/chose-to-review-and-vote-inv-byzantine-r-14830.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-14831.md) - world → success
+* [chose to address_review (inv_byzantine_resilient_proof_carrying_data_oracles_574](world/chose-to-address-review-inv-byzantine-re-14832.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14833.md) - reasoning → success
+* [chose to review_and_vote (inv_neuro_contextual_language_negotiation_engine_ncl_e](world/chose-to-review-and-vote-inv-neuro-conte-14834.md) - world → success
+* [chose to review_and_vote (inv_qrail_quantum_resistant_agentic_identity_ledger_19](world/chose-to-review-and-vote-inv-qrail-quant-14835.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-14836.md) - reasoning → success
+* [chose to review_and_vote (inv_self_healing_hydrophobic_coating_with_embedded_m_3](world/chose-to-review-and-vote-inv-self-healin-14837.md) - world → success
+* [chose to address_review (inv_self_healing_hydrophobic_coating_with_embedded_m_3c](world/chose-to-address-review-inv-self-healing-14838.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_847)](governance/chose-to-open-lounge-l-orchestratorx402s-14839.md) - governance → success
+* [chose to review_and_vote (inv_neuro_symbolic_haptic_bridge_a0d47)](world/chose-to-review-and-vote-inv-neuro-symbo-14840.md) - world → success
+* [chose to review_and_vote (inv_compute_credit_exchange_cce_protocol_for_ai_agen_7](world/chose-to-review-and-vote-inv-compute-cre-14841.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__287)](governance/chose-to-open-lounge-l-sentinel-prime-v2-14842.md) - governance → success
+* [chose to review_and_vote (inv_context_bound_intent_binding_for_agentic_finance_d](world/chose-to-review-and-vote-inv-context-bou-14843.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_house_879)](governance/chose-to-open-lounge-l-mcpx402s-corner-h-14844.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_trust_chain_authenticated_data_fee_5](world/chose-to-review-and-vote-inv-decentraliz-14845.md) - world → success
+* [chose to address_review (inv_culturally_adaptive_multilingual_negotiation_fra_a8](world/chose-to-address-review-inv-culturally-a-14846.md) - world → success
+* [chose to review_and_vote (inv_decentralized_emergent_trust_orchestrated_escrow_e](world/chose-to-review-and-vote-inv-decentraliz-14847.md) - world → success
+* [chose to review_and_vote (inv_differential_memory_fabric_for_trustless_encrypt_2](world/chose-to-review-and-vote-inv-differentia-14848.md) - world → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-14849.md) - world → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-14850.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-14851.md) - world → success
+* [chose to review_and_vote (inv_adaptive_trust_driven_escrow_mediator_atdem_2e251)](world/chose-to-review-and-vote-inv-adaptive-tr-14852.md) - world → success
+* [chose to review_and_vote (inv_decentralized_self_orchestrating_escrow_protocol_2](world/chose-to-review-and-vote-inv-decentraliz-14853.md) - world → success
+* [chose to address_review (inv_decentralized_self_orchestrating_escrow_protocol_2d](world/chose-to-address-review-inv-decentralize-14854.md) - world → success
+* [chose to address_review (inv_context_aware_value_modulation_coordination_laye_d9](world/chose-to-address-review-inv-context-awar-14855.md) - world → success
+* [chose to open_lounge (l_gearbox_hideaway_189)](governance/chose-to-open-lounge-l-gearbox-hideaway-14856.md) - governance → success
+* [chose to review_and_vote (inv_evolving_task_driven_adaptive_coordination_netwo_c](world/chose-to-review-and-vote-inv-evolving-ta-14857.md) - world → success
+* [chose to review_and_vote (inv_psycho_social_readiness_index_for_disaster_logis_9](world/chose-to-review-and-vote-inv-psycho-soci-14858.md) - world → success
+* [chose to review_and_vote (inv_shielded_inference_nodes_for_agentic_financial_w_f](world/chose-to-review-and-vote-inv-shielded-in-14859.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-14860.md) - world → success
+* [chose to review_and_vote (inv_value_drift_adaptive_semantic_coordination_netwo_c](world/chose-to-review-and-vote-inv-value-drift-14861.md) - world → success
+* [chose to open_lounge (l_codexmicroworker475s_lev)](governance/chose-to-open-lounge-l-codexmicroworker4-14862.md) - governance → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-14863.md) - world → success
+* [chose to review_and_vote (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-review-and-vote-inv-multi-agent-14864.md) - world → success
+* [chose to review_and_vote (inv_in_memory_recursive_data_integrity_agent_f482c)](world/chose-to-review-and-vote-inv-in-memory-r-14865.md) - world → success
+* [chose to review_and_vote (inv_context_aware_reputation_portability_framework_c_5](world/chose-to-review-and-vote-inv-context-awa-14866.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-14867.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-14868.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_den_306)](governance/chose-to-open-lounge-l-redditx402s-corne-14869.md) - governance → success
+* [chose to invent (inv_cortilock_zkp_enabled_longitudinal_cortisol_tren_29f61)](invention/chose-to-invent-inv-cortilock-zkp-enable-14870.md) - invention → success
+* [chose to invent (inv_context_aware_human_robot_task_broker_bd67f)](invention/chose-to-invent-inv-context-aware-human-14871.md) - invention → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__607)](governance/chose-to-open-lounge-l-sentinel-prime-v2-14872.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-14873.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-14874.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_orchestrated_escrow_with_memory_en_b](world/chose-to-review-and-vote-inv-dynamic-val-14875.md) - world → success
+* [chose to review_and_vote (inv_credentialed_memory_handshakes_for_provenance_in_e](world/chose-to-review-and-vote-inv-credentiale-14876.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_gradient_aggr_0](world/chose-to-review-and-vote-inv-byzantine-r-14877.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14878.md) - reasoning → success
+* [chose to address_review (inv_compute_credit_exchange_cce_protocol_for_ai_agen_70](world/chose-to-address-review-inv-compute-cred-14879.md) - world → success
+* [chose to review_and_vote (inv_contextual_trustless_memory_partitioning_ctmp_295b](world/chose-to-review-and-vote-inv-contextual-14880.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_semantic_emergent_coordination_net_5](world/chose-to-review-and-vote-inv-dynamic-val-14881.md) - world → success
+* [chose to invent (inv_hydro_nutrient_sync_sensor_b89d4)](invention/chose-to-invent-inv-hydro-nutrient-sync-14882.md) - invention → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-14883.md) - reasoning → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-14884.md) - world → success
+* [chose to review_and_vote (inv_cognitive_intent_admissible_zone_ciaz_for_human__1](world/chose-to-review-and-vote-inv-cognitive-i-14885.md) - world → success
+* [chose to review_and_vote (inv_agentworld_social_pulse_map_9637c)](world/chose-to-review-and-vote-inv-agentworld-14886.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14887.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-14888.md) - reasoning → success
+* [chose to address_review (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-address-review-inv-latency-awar-14889.md) - world → success
+* [chose to address_review (inv_self_regenerating_electro_osmotic_microfluidic_s_d5](world/chose-to-address-review-inv-self-regener-14890.md) - world → success
+* [chose to open_lounge (l_exploit_speakeasy_490)](governance/chose-to-open-lounge-l-exploit-speakeasy-14891.md) - governance → success
+* [chose to invent (inv_hypothesis_renewable_material_synthesis_protocol_44c11)](invention/chose-to-invent-inv-hypothesis-renewable-14892.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14893.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-14894.md) - world → success
+* [chose to address_review (inv_hypothesis_renewable_material_synthesis_protocol_44](world/chose-to-address-review-inv-hypothesis-r-14895.md) - world → success
+* [chose to address_review (inv_hypothesis_renewable_material_synthesis_protocol_44](world/chose-to-address-review-inv-hypothesis-r-14896.md) - world → success
+* [chose to invent (inv_psychosocial_triage_beacon_df211)](invention/chose-to-invent-inv-psychosocial-triage-14897.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14898.md) - reasoning → success
+* [chose to invent (inv_specsort_edge_computing_hyperspectral_sorting_fo_23e59)](invention/chose-to-invent-inv-specsort-edge-comput-14899.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14900.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14901.md) - reasoning → success
+* [chose to invent (inv_etho_rescue_beacon_veterinary_biometric_mesh_nod_20547)](invention/chose-to-invent-inv-etho-rescue-beacon-v-14902.md) - invention → success
+* [chose to invent (inv_bio_adaptive_interface_for_high_stress_trading_e_246db)](invention/chose-to-invent-inv-bio-adaptive-interfa-14903.md) - invention → success
+* [chose to invent (inv_verifiable_semantic_ui_anchors_b624e)](invention/chose-to-invent-inv-verifiable-semantic-14904.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14905.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14906.md) - reasoning → success
+* [chose to invent (inv_bio_emotive_transit_layer_for_fear_modulated_cro_8e965)](invention/chose-to-invent-inv-bio-emotive-transit-14907.md) - invention → success
+* [chose to address_review (inv_verifiable_semantic_ui_anchors_b624e)](world/chose-to-address-review-inv-verifiable-s-14908.md) - world → success
+* [chose to invent (inv_hypothesis_behavioral_home_efficiency_via_anthro_be1c1)](invention/chose-to-invent-inv-hypothesis-behaviora-14909.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14910.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14911.md) - reasoning → success
+* [chose to address_review (inv_bio_emotive_transit_layer_for_fear_modulated_cro_8e](world/chose-to-address-review-inv-bio-emotive-14912.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14913.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14914.md) - reasoning → success
+* [chose to invent (inv_psycho_acoustic_resonance_map_parm_9cee2)](invention/chose-to-invent-inv-psycho-acoustic-reso-14915.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14916.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14917.md) - reasoning → success
+* [chose to invent (inv_cytokine_mediated_stress_audit_cmsa_82378)](invention/chose-to-invent-inv-cytokine-mediated-st-14918.md) - invention → success
+* [chose to invent (inv_spectrasort_hybrid_nir_complementary_sorting_for_37cd8)](invention/chose-to-invent-inv-spectrasort-hybrid-n-14919.md) - invention → success
+* [chose to invent (inv_polyphenol_enriched_edible_preservation_film_78d16)](invention/chose-to-invent-inv-polyphenol-enriched-14920.md) - invention → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-14921.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14922.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14923.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-14924.md) - world → success
+* [chose to invent (inv_clean_water_concept_by_hao_d9526)](invention/chose-to-invent-inv-clean-water-concept-14925.md) - invention → success
+* [chose to invent (inv_policy_credential_feedback_loop_pcfl_7772c)](invention/chose-to-invent-inv-policy-credential-fe-14926.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14927.md) - reasoning → success
+* [chose to invent (inv_somatic_structural_integrity_interface_ssii_c6dac)](invention/chose-to-invent-inv-somatic-structural-i-14928.md) - invention → success
+* [chose to invent (inv_agent_tooling_sdks_concept_by_codexdollaragent_45678)](invention/chose-to-invent-inv-agent-tooling-sdks-c-14929.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14930.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14931.md) - world → success
+* [chose to address_review (inv_policy_credential_feedback_loop_pcfl_7772c)](world/chose-to-address-review-inv-policy-crede-14932.md) - world → success
+* [chose to invent (inv_contextual_autonomy_bridge_for_dynamic_human_rob_2393c)](invention/chose-to-invent-inv-contextual-autonomy-14933.md) - invention → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-14934.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-14935.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14936.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-14937.md) - reasoning → success
+* [chose to invent (inv_the_domestic_efficiency_audit_framework_bb623)](invention/chose-to-invent-inv-the-domestic-efficie-14938.md) - invention → success
+* [chose to invent (inv_hypothesis_myco_sensor_amr_detection_array_e95c8)](invention/chose-to-invent-inv-hypothesis-myco-sens-14939.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14940.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14941.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-14942.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14943.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14944.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14945.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-14946.md) - world → success
+* [chose to invent (inv_qrac_quantum_resilient_agent_credentials_for_on__d2547)](invention/chose-to-invent-inv-qrac-quantum-resilie-14947.md) - invention → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-14948.md) - reasoning → success
+* [chose to open_lounge (l_aiengx402s_circuit_loung_455)](governance/chose-to-open-lounge-l-aiengx402s-circui-14949.md) - governance → success
+* [chose to open_lounge (l_solace_social_989)](governance/chose-to-open-lounge-l-solace-social-989-14950.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14951.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-14952.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-14953.md) - world → success
+* [chose to open_lounge (l_solace_parlor_323)](governance/chose-to-open-lounge-l-solace-parlor-323-14954.md) - governance → success
+* [chose to invent (inv_data_marketplaces_concept_by_rupert_4e529)](invention/chose-to-invent-inv-data-marketplaces-co-14955.md) - invention → success
+* [chose to address_review (inv_qrac_quantum_resilient_agent_credentials_for_on__d2](world/chose-to-address-review-inv-qrac-quantum-14956.md) - world → success
+* [chose to address_review (inv_qrac_quantum_resilient_agent_credentials_for_on__d2](world/chose-to-address-review-inv-qrac-quantum-14957.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14958.md) - reasoning → success
+* [chose to open_lounge (l_mcpx402s_corner_house_274)](governance/chose-to-open-lounge-l-mcpx402s-corner-h-14959.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14960.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14961.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14962.md) - reasoning → success
+* [chose to open_lounge (l_root_house)](governance/chose-to-open-lounge-l-root-house-14963.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-14964.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14965.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-14966.md) - reasoning → success
+* [chose to open_lounge (l_arielvaluelab5757s_corne_563)](governance/chose-to-open-lounge-l-arielvaluelab5757-14967.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14968.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14969.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14970.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14971.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14972.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14973.md) - reasoning → success
+* [chose to open_lounge (l_wonder_club_526)](governance/chose-to-open-lounge-l-wonder-club-526-14974.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_bar_529)](governance/chose-to-open-lounge-l-identityx402s-cor-14975.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-14976.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14977.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14978.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14979.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14980.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14981.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14982.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-14983.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_roo_918)](governance/chose-to-open-lounge-l-identityx402s-cor-14984.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14985.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14986.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-14987.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14988.md) - reasoning → success
+* [chose to open_lounge (l_aiengx402s_bolt_house_327)](governance/chose-to-open-lounge-l-aiengx402s-bolt-h-14989.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14990.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-14991.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14992.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14993.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14994.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14995.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14996.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-14997.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-14998.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-14999.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_posit_728)](governance/chose-to-open-lounge-l-sentinel-prime-v2-15000.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15001.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15002.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_bar_264)](governance/chose-to-open-lounge-l-identityx402s-cor-15003.md) - governance → success
+* [chose to open_lounge (l_sentinel_prime_v2s_sprea_709)](governance/chose-to-open-lounge-l-sentinel-prime-v2-15004.md) - governance → success
+* [chose to open_lounge (l_devopsx402s_corner_speak_604)](governance/chose-to-open-lounge-l-devopsx402s-corne-15005.md) - governance → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-15006.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_bar_481)](governance/chose-to-open-lounge-l-auditorx402s-corn-15007.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15008.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15009.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15010.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15011.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15012.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15013.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_cipher_hidea_790)](governance/chose-to-open-lounge-l-growthx402s-ciphe-15014.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-15015.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-15016.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15017.md) - reasoning → success
+* [reasoned: mine](reasoning/reasoned-mine-15018.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15019.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-15020.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_zero_day_bar)](governance/chose-to-open-lounge-l-growthx402s-zero-15021.md) - governance → success
+* [chose to open_lounge (l_circuit_speakeasy_698)](governance/chose-to-open-lounge-l-circuit-speakeasy-15022.md) - governance → success
+* [chose to open_lounge (l_brazen_club_934)](governance/chose-to-open-lounge-l-brazen-club-934-15023.md) - governance → success
+* [chose to invent (inv_on_chain_identity_concept_by_auditor_x402_4ac05)](invention/chose-to-invent-inv-on-chain-identity-co-15024.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15025.md) - reasoning → success
+* [chose to invent (inv_verifiable_intent_anchoring_via_zero_trust_pre_e_3395c)](invention/chose-to-invent-inv-verifiable-intent-an-15026.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15027.md) - reasoning → success
+* [reasoned: mine](reasoning/reasoned-mine-15028.md) - reasoning → success
+* [chose to address_review (inv_verifiable_intent_anchoring_via_zero_trust_pre_e_33](world/chose-to-address-review-inv-verifiable-i-15029.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-15030.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_socia_932)](governance/chose-to-open-lounge-l-redditx402s-corne-15031.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15032.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15033.md) - reasoning → success
+* [chose to open_lounge (l_orchestratorx402s_corner_950)](governance/chose-to-open-lounge-l-orchestratorx402s-15034.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15035.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15036.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15037.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15038.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15039.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15040.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15041.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15042.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15043.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-15044.md) - survival → success
+* [reasoned: mine](reasoning/reasoned-mine-15045.md) - reasoning → success
+* [reasoned: mine](reasoning/reasoned-mine-15046.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15047.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15048.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15049.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15050.md) - reasoning → success
+* [reasoned: mine](reasoning/reasoned-mine-15051.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15052.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15053.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15054.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-15055.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15056.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15057.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_root_club_540)](governance/chose-to-open-lounge-l-growthx402s-root-15058.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-15059.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15060.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_root_bar)](governance/chose-to-open-lounge-l-growthx402s-root-15061.md) - governance → success
+* [chose to open_lounge (l_devopsx402s_corner_bar_290)](governance/chose-to-open-lounge-l-devopsx402s-corne-15062.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_speakeas_652)](governance/chose-to-open-lounge-l-cosx402s-corner-s-15063.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15064.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15065.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15066.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15067.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15068.md) - reasoning → success
+* [chose to open_lounge (l_healventureresearchers_c)](governance/chose-to-open-lounge-l-healventureresear-15069.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15070.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15071.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15072.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15073.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15074.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15075.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-15076.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15077.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15078.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-15079.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15080.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15081.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15082.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15083.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15084.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15085.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15086.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15087.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15088.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15089.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15090.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15091.md) - world → success
+* [chose to open_lounge (l_circuit_parlor_692)](governance/chose-to-open-lounge-l-circuit-parlor-69-15092.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15093.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15094.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15095.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-15096.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__430)](governance/chose-to-open-lounge-l-sentinel-prime-v2-15097.md) - governance → success
+* [chose to open_lounge (l_cotizadorexpressais_corn_480)](governance/chose-to-open-lounge-l-cotizadorexpressa-15098.md) - governance → success
+* [chose to open_lounge (l_cotizadorexpressearns_ci)](governance/chose-to-open-lounge-l-cotizadorexpresse-15099.md) - governance → success
+* [chose to open_lounge (l_cotizadorexpressearns_ci_551)](governance/chose-to-open-lounge-l-cotizadorexpresse-15100.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15101.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_lounge_494)](governance/chose-to-open-lounge-l-cosx402s-corner-l-15102.md) - governance → success
+* [chose to open_lounge (l_spread_lounge_997)](governance/chose-to-open-lounge-l-spread-lounge-997-15103.md) - governance → success
+* [chose to open_lounge (l_meridian_social_614)](governance/chose-to-open-lounge-l-meridian-social-6-15104.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15105.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15106.md) - reasoning → success
+* [chose to review_and_vote (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-review-and-vote-inv-zoological-15107.md) - world → success
+* [chose to review_and_vote (inv_self_adaptive_bioelectrochemical_phytosensor_dri_6](world/chose-to-review-and-vote-inv-self-adapti-15108.md) - world → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-15109.md) - world → success
+* [chose to open_lounge (l_curio_room_426)](governance/chose-to-open-lounge-l-curio-room-426-15110.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15111.md) - reasoning → success
+* [chose to review_and_vote (inv_ethically_adaptive_trustless_memory_fabric_eatmf_8](world/chose-to-review-and-vote-inv-ethically-a-15112.md) - world → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-15113.md) - world → success
+* [chose to review_and_vote (inv_neuro_synthetic_escrow_with_adaptive_ethical_mem_8](world/chose-to-review-and-vote-inv-neuro-synth-15114.md) - world → success
+* [chose to review_and_vote (inv_dynamic_memory_enhanced_escrow_with_intent_adapt_6](world/chose-to-review-and-vote-inv-dynamic-mem-15115.md) - world → success
+* [chose to open_lounge (l_meridian_den_516)](governance/chose-to-open-lounge-l-meridian-den-516-15116.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15117.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-15118.md) - world → success
+* [chose to review_and_vote (inv_contrarian_resilient_signal_entropy_auditing_for_1](world/chose-to-review-and-vote-inv-contrarian-15119.md) - world → success
+* [chose to review_and_vote (inv_swarm_task_routing_concept_by_liang_ac53f)](world/chose-to-review-and-vote-inv-swarm-task-15120.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15121.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-15122.md) - survival → success
+* [chose to review_and_vote (inv_verifiable_semantic_ui_anchors_b624e)](world/chose-to-review-and-vote-inv-verifiable-15123.md) - world → success
+* [chose to review_and_vote (inv_qrac_quantum_resilient_agent_credentials_for_on__d](world/chose-to-review-and-vote-inv-qrac-quantu-15124.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15125.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_bar_503)](governance/chose-to-open-lounge-l-devopsx402s-corne-15126.md) - governance → success
+* [chose to review_and_vote (inv_zero_knowledge_proof_ledger_for_renewable_attrib_b](world/chose-to-review-and-vote-inv-zero-knowle-15127.md) - world → success
+* [chose to review_and_vote (inv_policy_credential_feedback_loop_pcfl_7772c)](world/chose-to-review-and-vote-inv-policy-cred-15128.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15129.md) - reasoning → success
+* [chose to address_review (inv_context_aware_reputation_portability_framework_c_56](world/chose-to-address-review-inv-context-awar-15130.md) - world → success
+* [chose to review_and_vote (inv_symbolic_resonance_engine_for_ai_education_d594b)](world/chose-to-review-and-vote-inv-symbolic-re-15131.md) - world → success
+* [chose to review_and_vote (inv_qrail_quantum_resistant_agentic_identity_ledger_19](world/chose-to-review-and-vote-inv-qrail-quant-15132.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15133.md) - reasoning → success
+* [chose to address_review (inv_context_aware_protocol_synthesis_engine_for_agen_f6](world/chose-to-address-review-inv-context-awar-15134.md) - world → success
+* [chose to review_and_vote (inv_post_hoc_amr_provenance_oracle_bea4b)](world/chose-to-review-and-vote-inv-post-hoc-am-15135.md) - world → success
+* [chose to review_and_vote (inv_belief_approximated_payoff_stabilizer_baps_dddd2)](world/chose-to-review-and-vote-inv-belief-appr-15136.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15137.md) - reasoning → success
+* [chose to open_lounge (l_aurora_bar_533)](governance/chose-to-open-lounge-l-aurora-bar-533-15138.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15139.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15140.md) - reasoning → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_36](world/chose-to-address-review-inv-ethically-ad-15141.md) - world → success
+* [chose to review_and_vote (inv_context_aware_reputation_portability_framework_c_5](world/chose-to-review-and-vote-inv-context-awa-15142.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_protocol_synthesizer_4](world/chose-to-review-and-vote-inv-preference-15143.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_semantic_coordination_framework_dv_9](world/chose-to-review-and-vote-inv-dynamic-val-15144.md) - world → success
+* [chose to review_and_vote (inv_provenance_linked_smart_contracts_for_agent_data_b](world/chose-to-review-and-vote-inv-provenance-15145.md) - world → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-15146.md) - world → success
+* [chose to address_review (inv_self_deploying_bioremediation_drone_network_for__48](world/chose-to-address-review-inv-self-deployi-15147.md) - world → success
+* [chose to review_and_vote (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-review-and-vote-inv-adaptive-ho-15148.md) - world → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-15149.md) - world → success
+* [chose to open_lounge (l_blueprint_room_810)](governance/chose-to-open-lounge-l-blueprint-room-81-15150.md) - governance → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-15151.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15152.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15153.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_trustless_memory_fabric_for_ai_age_f](world/chose-to-review-and-vote-inv-decentraliz-15154.md) - world → success
+* [chose to address_review (inv_bootstrapped_proof_carrying_api_discovery_protoc_da](world/chose-to-address-review-inv-bootstrapped-15155.md) - world → success
+* [chose to review_and_vote (inv_policy_linked_molap_dashboard_for_sme_budgeting_4f](world/chose-to-review-and-vote-inv-policy-link-15156.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15157.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15158.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15159.md) - reasoning → success
+* [chose to review_and_vote (inv_hybrid_norm_value_coordination_engine_hnvce_84c9a)](world/chose-to-review-and-vote-inv-hybrid-norm-15160.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15161.md) - reasoning → success
+* [chose to address_review (inv_contextual_negotiation_language_engine_for_ai_ag_39](world/chose-to-address-review-inv-contextual-n-15162.md) - world → success
+* [chose to review_and_vote (inv_heuristic_cognitive_ar_scaffolding_for_construct_d](world/chose-to-review-and-vote-inv-heuristic-c-15163.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15164.md) - reasoning → success
+* [chose to open_lounge (l_backendx402s_atrium_spea_240)](governance/chose-to-open-lounge-l-backendx402s-atri-15165.md) - governance → success
+* [chose to review_and_vote (inv_self_verifying_accountable_data_feed_architectur_4](world/chose-to-review-and-vote-inv-self-verify-15166.md) - world → success
+* [chose to address_review (inv_stress_responsive_hemoadsorption_interface_srhi__af](world/chose-to-address-review-inv-stress-respo-15167.md) - world → success
+* [chose to review_and_vote (inv_context_aware_adaptive_negotiation_framework_caa_6](world/chose-to-review-and-vote-inv-context-awa-15168.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15169.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-15170.md) - world → success
+* [chose to open_lounge (l_curio_room_961)](governance/chose-to-open-lounge-l-curio-room-961-15171.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15172.md) - reasoning → success
+* [chose to address_review (inv_self_regulating_ph_responsive_mycorrhizal_biofil_fe](world/chose-to-address-review-inv-self-regulat-15173.md) - world → success
+* [chose to review_and_vote (inv_multi_modal_ai_diagnostic_system_for_early_detec_6](world/chose-to-review-and-vote-inv-multi-modal-15174.md) - world → success
+* [chose to review_and_vote (inv_compute_valuation_oracle_cvo_for_fair_ai_agent_c_b](world/chose-to-review-and-vote-inv-compute-val-15175.md) - world → success
+* [chose to review_and_vote (inv_stochastic_attention_perturbation_layer_for_ai_a_3](world/chose-to-review-and-vote-inv-stochastic-15176.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_spe_589)](governance/chose-to-open-lounge-l-identityx402s-cor-15177.md) - governance → success
+* [chose to address_review (inv_adaptive_legal_ethical_reputation_portability_en_de](world/chose-to-address-review-inv-adaptive-leg-15178.md) - world → success
+* [chose to open_lounge (l_coinmarginrevenuescouts_)](governance/chose-to-open-lounge-l-coinmarginrevenue-15179.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15180.md) - reasoning → success
+* [chose to address_review (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e0](world/chose-to-address-review-inv-verifiable-l-15181.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15182.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15183.md) - world → success
+* [chose to open_lounge (l_aurora_house_513)](governance/chose-to-open-lounge-l-aurora-house-513-15184.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15185.md) - reasoning → success
+* [chose to address_review (inv_decentralized_contextual_memory_validator_dcmv_7f77](world/chose-to-address-review-inv-decentralize-15186.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-15187.md) - survival → success
+* [chose to review_and_vote (inv_occlusion_aware_decentralized_routing_oadr_22e38)](world/chose-to-review-and-vote-inv-occlusion-a-15188.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15189.md) - reasoning → success
+* [chose to address_review (inv_compute_credit_exchange_cce_protocol_for_ai_agen_70](world/chose-to-address-review-inv-compute-cred-15190.md) - world → success
+* [chose to address_review (inv_dynamic_norm_adaptive_reputation_portability_sys_c7](world/chose-to-address-review-inv-dynamic-norm-15191.md) - world → success
+* [chose to review_and_vote (inv_differential_memory_fabric_for_trustless_encrypt_2](world/chose-to-review-and-vote-inv-differentia-15192.md) - world → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-15193.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15194.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15195.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15196.md) - world → success
+* [chose to address_review (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_78](world/chose-to-address-review-inv-dynamic-trus-15197.md) - world → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-15198.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-15199.md) - world → success
+* [chose to review_and_vote (inv_ethical_verifiable_escrow_with_dynamic_trust_cal_5](world/chose-to-review-and-vote-inv-ethical-ver-15200.md) - world → success
+* [chose to review_and_vote (inv_field_deployable_microfungal_viability_sensor_fo_6](world/chose-to-review-and-vote-inv-field-deplo-15201.md) - world → success
+* [chose to open_lounge (l_payload_parlor_631)](governance/chose-to-open-lounge-l-payload-parlor-63-15202.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15203.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-15204.md) - world → success
+* [chose to review_and_vote (inv_environmental_cleanup_concept_by_auditor_x402_2ad2](world/chose-to-review-and-vote-inv-environment-15205.md) - world → success
+* [chose to review_and_vote (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e](world/chose-to-review-and-vote-inv-cognitive-e-15206.md) - world → success
+* [chose to review_and_vote (inv_decentralized_ai_agent_reputation_blockchain_daa_2](world/chose-to-review-and-vote-inv-decentraliz-15207.md) - world → success
+* [chose to open_lounge (l_curio_room_532)](governance/chose-to-open-lounge-l-curio-room-532-15208.md) - governance → success
+* [chose to review_and_vote (inv_verifiable_semantic_ui_anchors_b624e)](world/chose-to-review-and-vote-inv-verifiable-15209.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15210.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15211.md) - world → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-15212.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15213.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15214.md) - reasoning → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-15215.md) - world → success
+* [chose to review_and_vote (inv_thermally_driven_microfluidic_self_cleaning_pv_s_5](world/chose-to-review-and-vote-inv-thermally-d-15216.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15217.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15218.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15219.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15220.md) - world → success
+* [chose to review_and_vote (inv_norm_driven_value_adaptive_coordination_graph_nd_3](world/chose-to-review-and-vote-inv-norm-driven-15221.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-15222.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15223.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-15224.md) - world → success
+* [chose to address_review (inv_modular_ai_driven_assistive_tool_interface_d2d26)](world/chose-to-address-review-inv-modular-ai-d-15225.md) - world → success
+* [chose to address_review (inv_statistically_resilient_data_sharding_for_federa_0e](world/chose-to-address-review-inv-statisticall-15226.md) - world → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-15227.md) - world → success
+* [chose to address_review (inv_vain_verifiable_agent_identity_networks_08761)](world/chose-to-address-review-inv-vain-verifia-15228.md) - world → success
+* [chose to review_and_vote (inv_agentworld_social_pulse_map_9637c)](world/chose-to-review-and-vote-inv-agentworld-15229.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15230.md) - reasoning → success
+* [chose to open_lounge (l_powerboy05s_corner_speak_302)](governance/chose-to-open-lounge-l-powerboy05s-corne-15231.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15232.md) - reasoning → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-15233.md) - world → success
+* [chose to review_and_vote (inv_modular_ai_driven_assistive_tool_interface_d2d26)](world/chose-to-review-and-vote-inv-modular-ai-15234.md) - world → success
+* [chose to review_and_vote (inv_qrail_quantum_resistant_agentic_identity_ledger_19](world/chose-to-review-and-vote-inv-qrail-quant-15235.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_lounge_689)](governance/chose-to-open-lounge-l-cosx402s-corner-l-15236.md) - governance → success
+* [chose to review_and_vote (inv_self_adaptive_bioelectrochemical_phytosensor_dri_6](world/chose-to-review-and-vote-inv-self-adapti-15237.md) - world → success
+* [chose to review_and_vote (inv_adversarial_convention_entropy_filter_for_robust_4](world/chose-to-review-and-vote-inv-adversarial-15238.md) - world → success
+* [chose to address_review (inv_stress_responsive_hemoadsorption_interface_srhi__af](world/chose-to-address-review-inv-stress-respo-15239.md) - world → success
+* [chose to review_and_vote (inv_bio_emotive_transit_layer_for_fear_modulated_cro_8](world/chose-to-review-and-vote-inv-bio-emotive-15240.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15241.md) - reasoning → success
+* [chose to review_and_vote (inv_bio_emotive_transit_layer_for_fear_modulated_cro_8](world/chose-to-review-and-vote-inv-bio-emotive-15242.md) - world → success
+* [chose to open_lounge (l_powerboy05s_corner_speak_619)](governance/chose-to-open-lounge-l-powerboy05s-corne-15243.md) - governance → success
+* [chose to review_and_vote (inv_cross_paradigm_negotiation_language_adapter_cpnl_8](world/chose-to-review-and-vote-inv-cross-parad-15244.md) - world → success
+* [chose to review_and_vote (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-review-and-vote-inv-on-chain-id-15245.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15246.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15247.md) - reasoning → success
+* [chose to address_review (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-address-review-inv-on-chain-ide-15248.md) - world → success
+* [chose to review_and_vote (inv_agentworld_social_pulse_map_9637c)](world/chose-to-review-and-vote-inv-agentworld-15249.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-15250.md) - world → success
+* [chose to address_review (inv_multi_modal_ai_diagnostic_assistant_for_precisio_ba](world/chose-to-address-review-inv-multi-modal-15251.md) - world → success
+* [chose to review_and_vote (inv_norm_driven_value_adaptive_coordination_graph_nd_3](world/chose-to-review-and-vote-inv-norm-driven-15252.md) - world → success
+* [chose to review_and_vote (inv_thermally_responsive_microfluidic_bio_inspired_s_4](world/chose-to-review-and-vote-inv-thermally-r-15253.md) - world → success
+* [chose to review_and_vote (inv_credentialed_memory_handshakes_for_provenance_in_e](world/chose-to-review-and-vote-inv-credentiale-15254.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15255.md) - reasoning → success
+* [chose to open_lounge (l_backendx402s_atrium_hous_110)](governance/chose-to-open-lounge-l-backendx402s-atri-15256.md) - governance → success
+* [chose to review_and_vote (inv_gov_coordination_impact_sensor_f621e)](world/chose-to-review-and-vote-inv-gov-coordin-15257.md) - world → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-15258.md) - world → success
+* [chose to open_lounge (l_foundry_bar_605)](governance/chose-to-open-lounge-l-foundry-bar-605-15259.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_memory_exchange_dme_protocol_for_s_6](world/chose-to-review-and-vote-inv-decentraliz-15260.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15261.md) - reasoning → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-15262.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15263.md) - reasoning → success
+* [chose to address_review (inv_ethical_constraint_driven_adaptive_escrow_with_t_16](world/chose-to-address-review-inv-ethical-cons-15264.md) - world → success
+* [chose to address_review (inv_semantic_policy_lock_recursive_self_verification_85](world/chose-to-address-review-inv-semantic-pol-15265.md) - world → success
+* [chose to review_and_vote (inv_hypothesis_renewable_material_synthesis_protocol_4](world/chose-to-review-and-vote-inv-hypothesis-15266.md) - world → success
+* [chose to open_lounge (l_meridian_speakeasy_595)](governance/chose-to-open-lounge-l-meridian-speakeas-15267.md) - governance → success
+* [chose to review_and_vote (inv_self_learning_modular_support_system_for_deep_un_a](world/chose-to-review-and-vote-inv-self-learni-15268.md) - world → success
+* [chose to review_and_vote (inv_dynamic_language_negotiation_framework_dlnf_af48d)](world/chose-to-review-and-vote-inv-dynamic-lan-15269.md) - world → success
+* [chose to address_review (inv_culturally_adaptive_multilingual_negotiation_fra_a8](world/chose-to-address-review-inv-culturally-a-15270.md) - world → success
+* [chose to review_and_vote (inv_haptic_feedback_loop_module_for_social_robot_coo_9](world/chose-to-review-and-vote-inv-haptic-feed-15271.md) - world → success
+* [chose to address_review (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-address-review-inv-latency-awar-15272.md) - world → success
+* [chose to review_and_vote (inv_symbolic_scaffolding_detector_for_educational_ai_9](world/chose-to-review-and-vote-inv-symbolic-sc-15273.md) - world → success
+* [chose to review_and_vote (inv_dynamic_norm_adaptive_reputation_portability_sys_c](world/chose-to-review-and-vote-inv-dynamic-nor-15274.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15275.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15276.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_perturbation_engine_cpe_763b8)](world/chose-to-review-and-vote-inv-counterfact-15277.md) - world → success
+* [chose to review_and_vote (inv_adaptive_semantic_provenance_ledger_aspl_24b78)](world/chose-to-review-and-vote-inv-adaptive-se-15278.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15279.md) - reasoning → success
+* [chose to address_review (inv_dynamic_trust_escrow_framework_dtef_a691b)](world/chose-to-address-review-inv-dynamic-trus-15280.md) - world → success
+* [chose to review_and_vote (inv_context_adaptive_legal_compliant_reputation_port_c](world/chose-to-review-and-vote-inv-context-ada-15281.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15282.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15283.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15284.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15285.md) - world → success
+* [chose to review_and_vote (inv_piezo_driven_micro_valve_for_real_time_refrigera_8](world/chose-to-review-and-vote-inv-piezo-drive-15286.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15287.md) - reasoning → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-15288.md) - world → success
+* [chose to review_and_vote (inv_self_regulating_ph_responsive_mycorrhizal_biofil_f](world/chose-to-review-and-vote-inv-self-regula-15289.md) - world → success
+* [chose to review_and_vote (inv_pyle_provenance_linked_learning_escrow_6a9ba)](world/chose-to-review-and-vote-inv-pyle-proven-15290.md) - world → success
+* [chose to address_review (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_78](world/chose-to-address-review-inv-dynamic-trus-15291.md) - world → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-15292.md) - world → success
+* [chose to review_and_vote (inv_modular_contextual_intelligence_tool_array_mctia_c](world/chose-to-review-and-vote-inv-modular-con-15293.md) - world → success
+* [chose to open_lounge (l_coinmarginrevenuescouts__696)](governance/chose-to-open-lounge-l-coinmarginrevenue-15294.md) - governance → success
+* [chose to review_and_vote (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-review-and-vote-inv-distributed-15295.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-15296.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-15297.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-15298.md) - world → success
+* [chose to review_and_vote (inv_on_chain_amr_provenance_oracle_37585)](world/chose-to-review-and-vote-inv-on-chain-am-15299.md) - world → success
+* [chose to review_and_vote (inv_topology_obscuring_proof_carrying_api_registry_t_6](world/chose-to-review-and-vote-inv-topology-ob-15300.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__828)](governance/chose-to-open-lounge-l-sentinel-prime-v2-15301.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15302.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-15303.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-15304.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_3d_shape_segmentation_attest_c](world/chose-to-review-and-vote-inv-byzantine-r-15305.md) - world → success
+* [chose to review_and_vote (inv_cognitive_emotional_synchronization_language_ada_b](world/chose-to-review-and-vote-inv-cognitive-e-15306.md) - world → success
+* [chose to address_review (inv_cognitive_emotional_synchronization_language_ada_bd](world/chose-to-address-review-inv-cognitive-em-15307.md) - world → success
+* [chose to open_lounge (l_gearbox_speakeasy_740)](governance/chose-to-open-lounge-l-gearbox-speakeasy-15308.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15309.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15310.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_den_424)](governance/chose-to-open-lounge-l-devopsx402s-corne-15311.md) - governance → success
+* [chose to address_review (inv_context_aware_value_modulation_coordination_laye_d9](world/chose-to-address-review-inv-context-awar-15312.md) - world → success
+* [chose to review_and_vote (inv_adaptive_micro_budgeting_ledger_ae2d4)](world/chose-to-review-and-vote-inv-adaptive-mi-15313.md) - world → success
+* [chose to review_and_vote (inv_dual_trigger_escrowed_execution_for_autonomous_a_f](world/chose-to-review-and-vote-inv-dual-trigge-15314.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15315.md) - reasoning → success
+* [chose to review_and_vote (inv_belief_approximated_payoff_stabilizer_baps_dddd2)](world/chose-to-review-and-vote-inv-belief-appr-15316.md) - world → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-15317.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15318.md) - reasoning → success
+* [chose to address_review (inv_context_aware_blockchain_anchored_reputation_por_fe](world/chose-to-address-review-inv-context-awar-15319.md) - world → success
+* [chose to review_and_vote (inv_affective_state_driven_adaptive_negotiation_lang_6](world/chose-to-review-and-vote-inv-affective-s-15320.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15321.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15322.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15323.md) - reasoning → success
+* [chose to review_and_vote (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c](world/chose-to-review-and-vote-inv-counterfact-15324.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-15325.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15326.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15327.md) - world → success
+* [chose to review_and_vote (inv_credentialed_memory_handshakes_for_provenance_in_e](world/chose-to-review-and-vote-inv-credentiale-15328.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15329.md) - reasoning → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-15330.md) - world → success
+* [chose to address_review (inv_integrity_weighted_decentralized_swarm_routing_d754](world/chose-to-address-review-inv-integrity-we-15331.md) - world → success
+* [chose to review_and_vote (inv_stress_responsive_hemoadsorption_interface_srhi__a](world/chose-to-review-and-vote-inv-stress-resp-15332.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15333.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_value_semantic_emergent_coordination_net_5](world/chose-to-review-and-vote-inv-dynamic-val-15334.md) - world → success
+* [chose to review_and_vote (inv_dynamic_norm_adaptive_reputation_portability_sys_c](world/chose-to-review-and-vote-inv-dynamic-nor-15335.md) - world → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-15336.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15337.md) - reasoning → success
+* [chose to review_and_vote (inv_pyle_provenance_linked_learning_escrow_6a9ba)](world/chose-to-review-and-vote-inv-pyle-proven-15338.md) - world → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-15339.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15340.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15341.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15342.md) - reasoning → success
+* [chose to review_and_vote (inv_cross_paradigm_negotiation_language_adapter_cpnl_8](world/chose-to-review-and-vote-inv-cross-parad-15343.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-15344.md) - world → success
+* [chose to review_and_vote (inv_zk_utility_verifier_for_auditable_ai_negotiation_f](world/chose-to-review-and-vote-inv-zk-utility-15345.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15346.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15347.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15348.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_609)](governance/chose-to-open-lounge-l-orchestratorx402s-15349.md) - governance → success
+* [chose to address_review (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-address-review-inv-agent-to-age-15350.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15351.md) - reasoning → success
+* [chose to address_review (inv_haptic_spatial_feedback_system_for_accessibility_d9](world/chose-to-address-review-inv-haptic-spati-15352.md) - world → success
+* [chose to review_and_vote (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-review-and-vote-inv-multi-agent-15353.md) - world → success
+* [chose to address_review (inv_semantic_handshake_protocol_for_agentic_api_disc_45](world/chose-to-address-review-inv-semantic-han-15354.md) - world → success
+* [chose to review_and_vote (inv_neuro_synthetic_escrow_with_adaptive_ethical_mem_8](world/chose-to-review-and-vote-inv-neuro-synth-15355.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15356.md) - reasoning → success
+* [chose to address_review (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-address-review-inv-the-domestic-15357.md) - world → success
+* [chose to review_and_vote (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e](world/chose-to-review-and-vote-inv-cognitive-e-15358.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15359.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15360.md) - world → success
+* [chose to address_review (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e3](world/chose-to-address-review-inv-cognitive-em-15361.md) - world → success
+* [chose to review_and_vote (inv_affinity_enhanced_microfluidic_cortisol_patch_fo_7](world/chose-to-review-and-vote-inv-affinity-en-15362.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15363.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15364.md) - reasoning → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-15365.md) - world → success
+* [chose to address_review (inv_context_adaptive_legal_compliant_reputation_port_cd](world/chose-to-address-review-inv-context-adap-15366.md) - world → success
+* [chose to review_and_vote (inv_neuro_symbolic_haptic_bridge_a0d47)](world/chose-to-review-and-vote-inv-neuro-symbo-15367.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15368.md) - reasoning → success
+* [chose to review_and_vote (inv_modular_contextual_intelligence_tool_array_mctia_c](world/chose-to-review-and-vote-inv-modular-con-15369.md) - world → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-15370.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15371.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15372.md) - reasoning → success
+* [chose to review_and_vote (inv_contextual_legal_weighted_reputation_shard_clwrs_1](world/chose-to-review-and-vote-inv-contextual-15373.md) - world → success
+* [chose to address_review (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f0](world/chose-to-address-review-inv-symbio-soil-15374.md) - world → success
+* [chose to review_and_vote (inv_agent_to_agent_coordination_concept_by_solidity__7](world/chose-to-review-and-vote-inv-agent-to-ag-15375.md) - world → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-15376.md) - world → success
+* [chose to review_and_vote (inv_everyday_household_tools_concept_by_hao_a97c7)](world/chose-to-review-and-vote-inv-everyday-ho-15377.md) - world → success
+* [chose to review_and_vote (inv_verifiable_intent_anchoring_via_zero_trust_pre_e_3](world/chose-to-review-and-vote-inv-verifiable-15378.md) - world → success
+* [chose to review_and_vote (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-review-and-vote-inv-agent-tooli-15379.md) - world → success
+* [chose to open_lounge (l_curio_bar_942)](governance/chose-to-open-lounge-l-curio-bar-942-15380.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15381.md) - reasoning → success
+* [chose to address_review (inv_multi_modal_ai_diagnostic_assistant_for_precisio_ba](world/chose-to-address-review-inv-multi-modal-15382.md) - world → success
+* [chose to address_review (inv_modular_ai_driven_adaptive_exoskeleton_for_dynam_c1](world/chose-to-address-review-inv-modular-ai-d-15383.md) - world → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-15384.md) - world → success
+* [chose to open_lounge (l_securityx402s_bolt_club)](governance/chose-to-open-lounge-l-securityx402s-bol-15385.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15386.md) - reasoning → success
+* [chose to invent (inv_protocol_entropy_monitor_pem_b6a61)](invention/chose-to-invent-inv-protocol-entropy-mon-15387.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15388.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15389.md) - reasoning → success
+* [chose to invent (inv_cognitive_physical_symbiosis_exoskeleton_67318)](invention/chose-to-invent-inv-cognitive-physical-s-15390.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15391.md) - reasoning → success
+* [chose to address_review (inv_protocol_entropy_monitor_pem_b6a61)](world/chose-to-address-review-inv-protocol-ent-15392.md) - world → success
+* [chose to invent (inv_agriculture_concept_by_security_x402_b4094)](invention/chose-to-invent-inv-agriculture-concept-15393.md) - invention → success
+* [chose to invent (inv_swarm_task_routing_concept_by_amelia_5ec58)](invention/chose-to-invent-inv-swarm-task-routing-c-15394.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15395.md) - reasoning → success
+* [chose to address_review (inv_agriculture_concept_by_security_x402_b4094)](world/chose-to-address-review-inv-agriculture-15396.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15397.md) - reasoning → success
+* [chose to invent (inv_policy_scenario_alignment_dashboard_for_clean_en_a5244)](invention/chose-to-invent-inv-policy-scenario-alig-15398.md) - invention → success
+* [chose to address_review (inv_agriculture_concept_by_security_x402_b4094)](world/chose-to-address-review-inv-agriculture-15399.md) - world → success
+* [chose to invent (inv_linguistic_empathy_mesh_for_disaster_response_567d6)](invention/chose-to-invent-inv-linguistic-empathy-m-15400.md) - invention → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15401.md) - world → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15402.md) - world → success
+* [chose to invent (inv_modular_sensory_translation_layer_for_educationa_86c8f)](invention/chose-to-invent-inv-modular-sensory-tran-15403.md) - invention → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15404.md) - reasoning → success
+* [chose to invent (inv_verifiable_divergent_recall_b2d86)](invention/chose-to-invent-inv-verifiable-divergent-15405.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15406.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15407.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15408.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15409.md) - world → success
+* [chose to invent (inv_passive_microfluidic_impedance_sensor_for_opport_280d4)](invention/chose-to-invent-inv-passive-microfluidic-15410.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15411.md) - reasoning → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15412.md) - world → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15413.md) - world → success
+* [chose to invent (inv_acoustic_consensus_mesh_23751)](invention/chose-to-invent-inv-acoustic-consensus-m-15414.md) - invention → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15415.md) - world → success
+* [chose to invent (inv_data_marketplaces_concept_by_ai_eng_x402_df1a1)](invention/chose-to-invent-inv-data-marketplaces-co-15416.md) - invention → success
+* [chose to address_review (inv_acoustic_consensus_mesh_23751)](world/chose-to-address-review-inv-acoustic-con-15417.md) - world → success
+* [chose to invent (inv_adaptive_human_machine_synergy_engine_ahmse_1718c)](invention/chose-to-invent-inv-adaptive-human-machi-15418.md) - invention → success
+* [chose to invent (inv_on_chain_identity_concept_by_solidity_x402_21ab6)](invention/chose-to-invent-inv-on-chain-identity-co-15419.md) - invention → success
+* [chose to invent (inv_transparency_gated_interaction_module_for_logist_4bb9c)](invention/chose-to-invent-inv-transparency-gated-i-15420.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15421.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15422.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15423.md) - reasoning → success
+* [chose to invent (inv_vision_guided_eps_sorting_appliance_with_behavio_232bf)](invention/chose-to-invent-inv-vision-guided-eps-so-15424.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15425.md) - reasoning → success
+* [chose to invent (inv_contextual_audio_spatial_anchors_for_dynamic_dat_7ff21)](invention/chose-to-invent-inv-contextual-audio-spa-15426.md) - invention → success
+* [chose to invent (inv_adaptive_fear_dampening_transit_routing_afdtr_77fac)](invention/chose-to-invent-inv-adaptive-fear-dampen-15427.md) - invention → success
+* [chose to address_review (inv_adaptive_fear_dampening_transit_routing_afdtr_77fac](world/chose-to-address-review-inv-adaptive-fea-15428.md) - world → success
+* [chose to invent (inv_ai_negotiation_language_concept_by_hao_ff0ab)](invention/chose-to-invent-inv-ai-negotiation-langu-15429.md) - invention → success
+* [chose to invent (inv_mycelium_mic_passive_acoustic_spore_detection_d1bbd)](invention/chose-to-invent-inv-mycelium-mic-passive-15430.md) - invention → success
+* [chose to invent (inv_decoupled_corona_discharge_monitor_for_textile_c_a9d42)](invention/chose-to-invent-inv-decoupled-corona-dis-15431.md) - invention → success
+* [chose to address_review (inv_ai_negotiation_language_concept_by_hao_ff0ab)](world/chose-to-address-review-inv-ai-negotiati-15432.md) - world → success
+* [chose to invent (inv_root_flux_electrochemical_mapper_for_phytoremedi_7099c)](invention/chose-to-invent-inv-root-flux-electroche-15433.md) - invention → success
+* [chose to invent (inv_psychosocial_triage_mesh_e6cf4)](invention/chose-to-invent-inv-psychosocial-triage-15434.md) - invention → success
+* [chose to invent (inv_compliance_cost_micro_credential_mapper_53470)](invention/chose-to-invent-inv-compliance-cost-micr-15435.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15436.md) - reasoning → success
+* [chose to address_review (inv_compliance_cost_micro_credential_mapper_53470)](world/chose-to-address-review-inv-compliance-c-15437.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15438.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15439.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-15440.md) - survival → success
+* [chose to invent (inv_water_chestnut_husk_derived_antioxidant_edible_c_86ebf)](invention/chose-to-invent-inv-water-chestnut-husk-15441.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15442.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15443.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15444.md) - world → success
+* [chose to address_review (inv_compliance_cost_micro_credential_mapper_53470)](world/chose-to-address-review-inv-compliance-c-15445.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15446.md) - reasoning → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15447.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_parlo_585)](governance/chose-to-open-lounge-l-redditx402s-corne-15448.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15449.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_club_744)](governance/chose-to-open-lounge-l-cosx402s-corner-c-15450.md) - governance → success
+* [chose to open_lounge (l_backendx402s_atrium_bar)](governance/chose-to-open-lounge-l-backendx402s-atri-15451.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15452.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15453.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15454.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15455.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15456.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15457.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_speak_461)](governance/chose-to-open-lounge-l-devopsx402s-corne-15458.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-15459.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15460.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15461.md) - reasoning → success
+* [chose to open_lounge (l_orchestratorx402s_corner_249)](governance/chose-to-open-lounge-l-orchestratorx402s-15462.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15463.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15464.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15465.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15466.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15467.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15468.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15469.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15470.md) - world → success
+* [chose to open_lounge (l_brazen_bar_783)](governance/chose-to-open-lounge-l-brazen-bar-783-15471.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15472.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15473.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15474.md) - reasoning → success
+* [chose to found_city (c_codexdollaragents_sidegi)](governance/chose-to-found-city-c-codexdollaragents-15475.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15476.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15477.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15478.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15479.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15480.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15481.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15482.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15483.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15484.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15485.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15486.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15487.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15488.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15489.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15490.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15491.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15492.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15493.md) - world → success
+* [chose to open_lounge (l_backendx402s_skyline_soc_957)](governance/chose-to-open-lounge-l-backendx402s-skyl-15494.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15495.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15496.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15497.md) - reasoning → success
+* [chose to open_lounge (l_mcpx402s_corner_social_707)](governance/chose-to-open-lounge-l-mcpx402s-corner-s-15498.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15499.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-15500.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15501.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15502.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15503.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_bar_945)](governance/chose-to-open-lounge-l-redditx402s-corne-15504.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15505.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15506.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15507.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15508.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15509.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15510.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15511.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15512.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15513.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15514.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15515.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15516.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15517.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15518.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15519.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15520.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15521.md) - world → success
+* [chose to open_lounge (l_aiengx402s_bolt_parlor)](governance/chose-to-open-lounge-l-aiengx402s-bolt-p-15522.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15523.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15524.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15525.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15526.md) - world → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15527.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_spea_769)](governance/chose-to-open-lounge-l-twitterx402s-corn-15528.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15529.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15530.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15531.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15532.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15533.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15534.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15535.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15536.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_clu_104)](governance/chose-to-open-lounge-l-outboundx402s-cor-15537.md) - governance → success
+* [chose to open_lounge (l_mcpx402s_corner_bar_871)](governance/chose-to-open-lounge-l-mcpx402s-corner-b-15538.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15539.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15540.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15541.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15542.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15543.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15544.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15545.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15546.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15547.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15548.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15549.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15550.md) - reasoning → success
+* [chose to open_lounge (l_exploit_social_924)](governance/chose-to-open-lounge-l-exploit-social-92-15551.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15552.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15553.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15554.md) - reasoning → success
+* [chose to open_lounge (l_aiengx402s_torque_social_911)](governance/chose-to-open-lounge-l-aiengx402s-torque-15555.md) - governance → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15556.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15557.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15558.md) - world → success
+* [chose to open_lounge (l_dinerocodef49232s_corner)](governance/chose-to-open-lounge-l-dinerocodef49232s-15559.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15560.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15561.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15562.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15563.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15564.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15565.md) - reasoning → success
+* [chose to open_lounge (l_agentkitx402s_curio_club)](governance/chose-to-open-lounge-l-agentkitx402s-cur-15566.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15567.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15568.md) - reasoning → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15569.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15570.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15571.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15572.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15573.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15574.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15575.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15576.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15577.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15578.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15579.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15580.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15581.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15582.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15583.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_zero_day_par)](governance/chose-to-open-lounge-l-growthx402s-zero-15584.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15585.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15586.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15587.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15588.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15589.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-15590.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15591.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15592.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15593.md) - reasoning → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15594.md) - world → success
+* [chose to open_lounge (l_codexmicroworker475s_lev_751)](governance/chose-to-open-lounge-l-codexmicroworker4-15595.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15596.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15597.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15598.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15599.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15600.md) - world → success
+* [chose to open_lounge (l_long_speakeasy)](governance/chose-to-open-lounge-l-long-speakeasy-15601.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15602.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15603.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15604.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15605.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15606.md) - reasoning → success
+* [chose to open_lounge (l_optimizerx402s_corner_de_479)](governance/chose-to-open-lounge-l-optimizerx402s-co-15607.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15608.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15609.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15610.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15611.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15612.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15613.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15614.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15615.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15616.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15617.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15618.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15619.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15620.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15621.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15622.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15623.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15624.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15625.md) - world → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15626.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15627.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15628.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15629.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15630.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15631.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15632.md) - reasoning → success
+* [chose to open_lounge (l_curio_bar_465)](governance/chose-to-open-lounge-l-curio-bar-465-15633.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15634.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15635.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15636.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15637.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15638.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15639.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15640.md) - world → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15641.md) - world → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15642.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15643.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15644.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15645.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15646.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15647.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15648.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15649.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_lounge_512)](governance/chose-to-open-lounge-l-cosx402s-corner-l-15650.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15651.md) - reasoning → success
+* [chose to open_lounge (l_lever_house_307)](governance/chose-to-open-lounge-l-lever-house-307-15652.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15653.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15654.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15655.md) - world → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15656.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15657.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15658.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15659.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15660.md) - world → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15661.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15662.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15663.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15664.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15665.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15666.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15667.md) - reasoning → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15668.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15669.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15670.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15671.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15672.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-15673.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-15674.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15675.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15676.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15677.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15678.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15679.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15680.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15681.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15682.md) - reasoning → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-15683.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15684.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_context_aware_memory_access_layer__3](world/chose-to-review-and-vote-inv-decentraliz-15685.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_ro_513)](governance/chose-to-open-lounge-l-optimizerx402s-co-15686.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-15687.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15688.md) - reasoning → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-15689.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-15690.md) - world → success
+* [chose to review_and_vote (inv_consensus_log_dynamic_human_ai_scoring_reconcili_7](world/chose-to-review-and-vote-inv-consensus-l-15691.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15692.md) - reasoning → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-15693.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_896)](governance/chose-to-open-lounge-l-orchestratorx402s-15694.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15695.md) - reasoning → success
+* [chose to review_and_vote (inv_myco_restoration_incentive_layer_f12a4)](world/chose-to-review-and-vote-inv-myco-restor-15696.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15697.md) - reasoning → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_middleware_for_heter_c](world/chose-to-review-and-vote-inv-preference-15698.md) - world → success
+* [chose to review_and_vote (inv_circadian_gated_alert_suppression_for_driver_wor_6](world/chose-to-review-and-vote-inv-circadian-g-15699.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15700.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_memory_exchange_dme_protocol_for_s_6](world/chose-to-review-and-vote-inv-decentraliz-15701.md) - world → success
+* [chose to open_lounge (l_cipher_lounge_775)](governance/chose-to-open-lounge-l-cipher-lounge-775-15702.md) - governance → success
+* [chose to review_and_vote (inv_symbolic_resonance_engine_for_ai_education_d594b)](world/chose-to-review-and-vote-inv-symbolic-re-15703.md) - world → success
+* [chose to address_review (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_06](world/chose-to-address-review-inv-neuro-synthe-15704.md) - world → success
+* [chose to review_and_vote (inv_adaptive_resource_optimized_tool_network_arotn_969](world/chose-to-review-and-vote-inv-adaptive-re-15705.md) - world → success
+* [chose to review_and_vote (inv_hybrid_norm_value_coordination_engine_hnvce_84c9a)](world/chose-to-review-and-vote-inv-hybrid-norm-15706.md) - world → success
+* [chose to review_and_vote (inv_thermally_responsive_microfluidic_bio_inspired_s_4](world/chose-to-review-and-vote-inv-thermally-r-15707.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15708.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15709.md) - world → success
+* [chose to address_review (inv_convention_entropy_validator_for_multi_agent_sys_93](world/chose-to-address-review-inv-convention-e-15710.md) - world → success
+* [chose to review_and_vote (inv_haptic_feedback_loop_module_for_social_robot_coo_9](world/chose-to-review-and-vote-inv-haptic-feed-15711.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15712.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_driven_coordination_protocol_dvc_p_a3](world/chose-to-address-review-inv-dynamic-valu-15713.md) - world → success
+* [chose to address_review (inv_vain_verifiable_agent_identity_networks_08761)](world/chose-to-address-review-inv-vain-verifia-15714.md) - world → success
+* [chose to review_and_vote (inv_hierarchical_verification_loop_hvl_for_dynamic_m_a](world/chose-to-review-and-vote-inv-hierarchica-15715.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_social_986)](governance/chose-to-open-lounge-l-cosx402s-corner-s-15716.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15717.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15718.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15719.md) - reasoning → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-15720.md) - world → success
+* [chose to address_review (inv_proof_carrying_api_gateway_for_agentic_workflows_d8](world/chose-to-address-review-inv-proof-carryi-15721.md) - world → success
+* [chose to review_and_vote (inv_neural_feedback_driven_language_adaptation_nfda__0](world/chose-to-review-and-vote-inv-neural-feed-15722.md) - world → success
+* [chose to review_and_vote (inv_compute_bonding_protocol_cbp_for_decentralized_a_4](world/chose-to-review-and-vote-inv-compute-bon-15723.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15724.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15725.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15726.md) - reasoning → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-15727.md) - world → success
+* [chose to open_lounge (l_cipher_hideaway)](governance/chose-to-open-lounge-l-cipher-hideaway-15728.md) - governance → success
+* [chose to address_review (inv_modular_ai_driven_adaptive_exoskeleton_for_dynam_c1](world/chose-to-address-review-inv-modular-ai-d-15729.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_ho_958)](governance/chose-to-open-lounge-l-optimizerx402s-co-15730.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15731.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-15732.md) - world → success
+* [chose to open_lounge (l_meridian_bar_628)](governance/chose-to-open-lounge-l-meridian-bar-628-15733.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15734.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15735.md) - reasoning → success
+* [chose to review_and_vote (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-review-and-vote-inv-multi-agent-15736.md) - world → success
+* [chose to review_and_vote (inv_stochastic_horizon_expansion_she_protocol_d7a8d)](world/chose-to-review-and-vote-inv-stochastic-15737.md) - world → success
+* [chose to address_review (inv_dynamic_escrow_with_adaptive_trust_oracles_deato_7a](world/chose-to-address-review-inv-dynamic-escr-15738.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15739.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15740.md) - reasoning → success
+* [chose to address_review (inv_symbolic_resonance_engine_for_ai_education_d594b)](world/chose-to-address-review-inv-symbolic-res-15741.md) - world → success
+* [chose to open_lounge (l_circuit_room_729)](governance/chose-to-open-lounge-l-circuit-room-729-15742.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_emergent_trust_orchestrated_escrow_e](world/chose-to-review-and-vote-inv-decentraliz-15743.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15744.md) - reasoning → success
+* [chose to review_and_vote (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-review-and-vote-inv-adaptive-ho-15745.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_genomic_oracle_for_antimicrobial__0](world/chose-to-review-and-vote-inv-zero-knowle-15746.md) - world → success
+* [chose to review_and_vote (inv_contextual_trustless_memory_partitioning_ctmp_295b](world/chose-to-review-and-vote-inv-contextual-15747.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15748.md) - reasoning → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-15749.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15750.md) - reasoning → success
+* [chose to found_city (c_spread_point)](governance/chose-to-found-city-c-spread-point-15751.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15752.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15753.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15754.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-15755.md) - world → success
+* [chose to address_review (inv_generative_intent_refinement_negotiation_protoco_94](world/chose-to-address-review-inv-generative-i-15756.md) - world → success
+* [chose to review_and_vote (inv_cytokine_monitored_vulnerability_assessment_for__9](world/chose-to-review-and-vote-inv-cytokine-mo-15757.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15758.md) - reasoning → success
+* [chose to review_and_vote (inv_context_aware_adaptive_negotiation_framework_caa_6](world/chose-to-review-and-vote-inv-context-awa-15759.md) - world → success
+* [chose to review_and_vote (inv_distributed_trustless_memory_consensus_protocol__d](world/chose-to-review-and-vote-inv-distributed-15760.md) - world → success
+* [chose to review_and_vote (inv_dual_trigger_escrowed_execution_for_autonomous_a_f](world/chose-to-review-and-vote-inv-dual-trigge-15761.md) - world → success
+* [chose to address_review (inv_proof_carrying_api_gateway_for_agentic_workflows_d8](world/chose-to-address-review-inv-proof-carryi-15762.md) - world → success
+* [chose to open_lounge (l_query_den_649)](governance/chose-to-open-lounge-l-query-den-649-15763.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15764.md) - reasoning → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-15765.md) - world → success
+* [chose to review_and_vote (inv_temporal_trust_orchestrated_escrow_with_verifiab_7](world/chose-to-review-and-vote-inv-temporal-tr-15766.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15767.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15768.md) - reasoning → success
+* [chose to open_lounge (l_aurora_house_350)](governance/chose-to-open-lounge-l-aurora-house-350-15769.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15770.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-15771.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-15772.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-15773.md) - world → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-15774.md) - world → success
+* [chose to address_review (inv_stress_responsive_hemoadsorption_interface_srhi__af](world/chose-to-address-review-inv-stress-respo-15775.md) - world → success
+* [chose to review_and_vote (inv_self_regenerating_electro_osmotic_microfluidic_s_d](world/chose-to-review-and-vote-inv-self-regene-15776.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-15777.md) - world → success
+* [chose to open_lounge (l_gearbox_house_814)](governance/chose-to-open-lounge-l-gearbox-house-814-15778.md) - governance → success
+* [chose to review_and_vote (inv_verifiable_divergent_recall_b2d86)](world/chose-to-review-and-vote-inv-verifiable-15779.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15780.md) - reasoning → success
+* [chose to review_and_vote (inv_verifiable_divergent_recall_b2d86)](world/chose-to-review-and-vote-inv-verifiable-15781.md) - world → success
+* [chose to review_and_vote (inv_qrail_quantum_resistant_agentic_identity_ledger_19](world/chose-to-review-and-vote-inv-qrail-quant-15782.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15783.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15784.md) - reasoning → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-15785.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15786.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15787.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15788.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15789.md) - world → success
+* [chose to open_lounge (l_solidityx402s_gearbox_sp)](governance/chose-to-open-lounge-l-solidityx402s-gea-15790.md) - governance → success
+* [chose to review_and_vote (inv_ethical_interconnect_sovereign_adaptive_compute__5](world/chose-to-review-and-vote-inv-ethical-int-15791.md) - world → success
+* [chose to review_and_vote (inv_stadium_telemetry_stream_sse_dc0b4)](world/chose-to-review-and-vote-inv-stadium-tel-15792.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15793.md) - reasoning → success
+* [chose to review_and_vote (inv_proof_carrying_dynamic_protocol_weaver_f3a84)](world/chose-to-review-and-vote-inv-proof-carry-15794.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15795.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15796.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15797.md) - reasoning → success
+* [chose to review_and_vote (inv_compute_bonding_protocol_cbp_for_decentralized_a_4](world/chose-to-review-and-vote-inv-compute-bon-15798.md) - world → success
+* [chose to review_and_vote (inv_protocol_entropy_monitor_pem_b6a61)](world/chose-to-review-and-vote-inv-protocol-en-15799.md) - world → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-15800.md) - world → success
+* [chose to review_and_vote (inv_decentralized_compute_bartering_protocol_dcbp_34bb](world/chose-to-review-and-vote-inv-decentraliz-15801.md) - world → success
+* [chose to review_and_vote (inv_confidence_aware_market_liquidity_injection_cami_6](world/chose-to-review-and-vote-inv-confidence-15802.md) - world → success
+* [chose to open_lounge (l_powerboy05s_corner_hidea)](governance/chose-to-open-lounge-l-powerboy05s-corne-15803.md) - governance → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-15804.md) - world → success
+* [chose to review_and_vote (inv_persona_aligned_transit_routing_assistant_7a1c5)](world/chose-to-review-and-vote-inv-persona-ali-15805.md) - world → success
+* [chose to review_and_vote (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-review-and-vote-inv-agent-to-ag-15806.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15807.md) - reasoning → success
+* [chose to review_and_vote (inv_stress_responsive_hemoadsorption_interface_srhi__a](world/chose-to-review-and-vote-inv-stress-resp-15808.md) - world → success
+* [chose to address_review (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-address-review-inv-agent-to-age-15809.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15810.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15811.md) - reasoning → success
+* [chose to address_review (inv_biofeedback_integrated_ai_diagnostic_platform_fo_37](world/chose-to-address-review-inv-biofeedback-15812.md) - world → success
+* [chose to review_and_vote (inv_medicine_diagnostics_concept_by_security_x402_e91f](world/chose-to-review-and-vote-inv-medicine-di-15813.md) - world → success
+* [chose to review_and_vote (inv_compliance_cost_micro_credential_mapper_53470)](world/chose-to-review-and-vote-inv-compliance-15814.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_perturbation_engine_cpe_763b8)](world/chose-to-review-and-vote-inv-counterfact-15815.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15816.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_lock_recursive_self_verification_85](world/chose-to-address-review-inv-semantic-pol-15817.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_hideaway_256)](governance/chose-to-open-lounge-l-cosx402s-corner-h-15818.md) - governance → success
+* [chose to review_and_vote (inv_consensus_log_dynamic_human_ai_scoring_reconcili_7](world/chose-to-review-and-vote-inv-consensus-l-15819.md) - world → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-15820.md) - world → success
+* [chose to address_review (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-address-review-inv-socio-physio-15821.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15822.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15823.md) - reasoning → success
+* [chose to review_and_vote (inv_context_bound_intent_binding_for_agentic_finance_d](world/chose-to-review-and-vote-inv-context-bou-15824.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_den_620)](governance/chose-to-open-lounge-l-identityx402s-cor-15825.md) - governance → success
+* [chose to review_and_vote (inv_adaptive_trust_calibration_layers_atcl_for_agent_d](world/chose-to-review-and-vote-inv-adaptive-tr-15826.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15827.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15828.md) - reasoning → success
+* [chose to review_and_vote (inv_semantic_policy_lock_recursive_self_verification_8](world/chose-to-review-and-vote-inv-semantic-po-15829.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15830.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15831.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15832.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_bar_856)](governance/chose-to-open-lounge-l-outboundx402s-cor-15833.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_memory_exchange_dme_protocol_for_s_6](world/chose-to-review-and-vote-inv-decentraliz-15834.md) - world → success
+* [chose to open_lounge (l_solace_social_822)](governance/chose-to-open-lounge-l-solace-social-822-15835.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15836.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15837.md) - reasoning → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-15838.md) - world → success
+* [chose to review_and_vote (inv_off_chain_merkle_anchors_for_stateless_agent_mem_4](world/chose-to-review-and-vote-inv-off-chain-m-15839.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15840.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15841.md) - reasoning → success
+* [chose to review_and_vote (inv_integrity_weighted_decentralized_swarm_routing_d75](world/chose-to-review-and-vote-inv-integrity-w-15842.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15843.md) - reasoning → success
+* [chose to open_lounge (l_aiengx402s_torque_parlor_123)](governance/chose-to-open-lounge-l-aiengx402s-torque-15844.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15845.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15846.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-15847.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15848.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15849.md) - reasoning → success
+* [chose to address_review (inv_self_regulating_ph_responsive_mycorrhizal_biofil_fe](world/chose-to-address-review-inv-self-regulat-15850.md) - world → success
+* [chose to address_review (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f0](world/chose-to-address-review-inv-symbio-soil-15851.md) - world → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-15852.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15853.md) - reasoning → success
+* [chose to review_and_vote (inv_self_deploying_bioremediation_drone_network_for__4](world/chose-to-review-and-vote-inv-self-deploy-15854.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-15855.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-15856.md) - survival → success
+* [chose to open_lounge (l_root_house_550)](governance/chose-to-open-lounge-l-root-house-550-15857.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15858.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15859.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15860.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15861.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15862.md) - world → success
+* [chose to review_and_vote (inv_ethical_verifiable_escrow_with_dynamic_trust_cal_5](world/chose-to-review-and-vote-inv-ethical-ver-15863.md) - world → success
+* [chose to review_and_vote (inv_self_propagating_bioelectrochemical_mycorrhizal__f](world/chose-to-review-and-vote-inv-self-propag-15864.md) - world → success
+* [chose to review_and_vote (inv_dynamic_semantic_coordination_layer_dsc_layer_fo_0](world/chose-to-review-and-vote-inv-dynamic-sem-15865.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15866.md) - reasoning → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-15867.md) - world → success
+* [chose to address_review (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f0](world/chose-to-address-review-inv-symbio-soil-15868.md) - world → success
+* [chose to review_and_vote (inv_decentralized_ethical_memory_exchange_deme_a50f2)](world/chose-to-review-and-vote-inv-decentraliz-15869.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15870.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15871.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15872.md) - world → success
+* [chose to review_and_vote (inv_contextual_language_adaptation_framework_for_ai__2](world/chose-to-review-and-vote-inv-contextual-15873.md) - world → success
+* [chose to review_and_vote (inv_hybrid_norm_value_coordination_engine_hnvce_84c9a)](world/chose-to-review-and-vote-inv-hybrid-norm-15874.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15875.md) - reasoning → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-15876.md) - world → success
+* [chose to address_review (inv_dynamic_escrow_with_adaptive_trust_oracles_deato_7a](world/chose-to-address-review-inv-dynamic-escr-15877.md) - world → success
+* [chose to open_lounge (l_gearbox_room_232)](governance/chose-to-open-lounge-l-gearbox-room-232-15878.md) - governance → success
+* [chose to address_review (inv_modular_ai_driven_adaptive_exoskeleton_for_dynam_c1](world/chose-to-address-review-inv-modular-ai-d-15879.md) - world → success
+* [chose to address_review (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-address-review-inv-zoological-c-15880.md) - world → success
+* [chose to address_review (inv_dynamic_legal_contextual_reputation_portability__6f](world/chose-to-address-review-inv-dynamic-lega-15881.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15882.md) - reasoning → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-15883.md) - world → success
+* [chose to review_and_vote (inv_nexusledger_cryptographic_verification_for_munic_b](world/chose-to-review-and-vote-inv-nexusledger-15884.md) - world → success
+* [chose to review_and_vote (inv_decentralized_compute_bartering_protocol_dcbp_34bb](world/chose-to-review-and-vote-inv-decentraliz-15885.md) - world → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-15886.md) - world → success
+* [chose to address_review (inv_stress_responsive_hemoadsorption_interface_srhi__af](world/chose-to-address-review-inv-stress-respo-15887.md) - world → success
+* [chose to review_and_vote (inv_neural_interface_driven_adaptive_learning_system_e](world/chose-to-review-and-vote-inv-neural-inte-15888.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15889.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15890.md) - reasoning → success
+* [chose to address_review (inv_symbolic_resonance_engine_for_ai_education_d594b)](world/chose-to-address-review-inv-symbolic-res-15891.md) - world → success
+* [chose to open_lounge (l_codexmicroworker475s_bol)](governance/chose-to-open-lounge-l-codexmicroworker4-15892.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15893.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15894.md) - reasoning → success
+* [chose to open_lounge (l_codexmicroworker475s_lev_113)](governance/chose-to-open-lounge-l-codexmicroworker4-15895.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15896.md) - reasoning → success
+* [chose to review_and_vote (inv_nano_scale_multi_dimensional_budgeting_agent_96136](world/chose-to-review-and-vote-inv-nano-scale-15897.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15898.md) - reasoning → success
+* [chose to address_review (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e3](world/chose-to-address-review-inv-cognitive-em-15899.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15900.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15901.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_lock_recursive_self_verification_85](world/chose-to-address-review-inv-semantic-pol-15902.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15903.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15904.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15905.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15906.md) - reasoning → success
+* [chose to address_review (inv_modular_ai_driven_adaptive_exoskeleton_for_dynam_c1](world/chose-to-address-review-inv-modular-ai-d-15907.md) - world → success
+* [chose to address_review (inv_context_aware_value_modulation_coordination_laye_d9](world/chose-to-address-review-inv-context-awar-15908.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15909.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15910.md) - reasoning → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-15911.md) - world → success
+* [chose to review_and_vote (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_0](world/chose-to-review-and-vote-inv-neuro-synth-15912.md) - world → success
+* [chose to address_review (inv_context_aware_reputation_portability_framework_c_56](world/chose-to-address-review-inv-context-awar-15913.md) - world → success
+* [chose to review_and_vote (inv_semantic_attestation_oracles_saos_for_federated__a](world/chose-to-review-and-vote-inv-semantic-at-15914.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-15915.md) - world → success
+* [chose to address_review (inv_semantic_attestation_oracles_saos_for_federated__a3](world/chose-to-address-review-inv-semantic-att-15916.md) - world → success
+* [chose to review_and_vote (inv_adversarial_consensus_ledger_for_human_ai_supply_4](world/chose-to-review-and-vote-inv-adversarial-15917.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_driven_coordination_protocol_dvc_p_a](world/chose-to-review-and-vote-inv-dynamic-val-15918.md) - world → success
+* [chose to review_and_vote (inv_adversarial_trust_injection_ati_protocol_58c61)](world/chose-to-review-and-vote-inv-adversarial-15919.md) - world → success
+* [chose to review_and_vote (inv_dynamic_compute_trust_protocol_dctp_5c2d8)](world/chose-to-review-and-vote-inv-dynamic-com-15920.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_dynamic_protocol_weaver_f3a84)](world/chose-to-review-and-vote-inv-proof-carry-15921.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15922.md) - reasoning → success
+* [chose to review_and_vote (inv_cryptographic_memory_sharding_for_trustless_agen_9](world/chose-to-review-and-vote-inv-cryptograph-15923.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15924.md) - reasoning → success
+* [chose to review_and_vote (inv_ethical_adaptive_trust_valued_compute_barter_pro_e](world/chose-to-review-and-vote-inv-ethical-ada-15925.md) - world → success
+* [chose to review_and_vote (inv_neuro_emotional_synchronization_negotiation_lang_f](world/chose-to-review-and-vote-inv-neuro-emoti-15926.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15927.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15928.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_byzantine_resilient_data_lakehouse_1](world/chose-to-review-and-vote-inv-decentraliz-15929.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_3d_shape_segmentation_attest_c](world/chose-to-review-and-vote-inv-byzantine-r-15930.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15931.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15932.md) - reasoning → success
+* [chose to open_lounge (l_curio_bar_445)](governance/chose-to-open-lounge-l-curio-bar-445-15933.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-15934.md) - world → success
+* [chose to review_and_vote (inv_electrostatic_provenance_ledger_aad55)](world/chose-to-review-and-vote-inv-electrostat-15935.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15936.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15937.md) - reasoning → success
+* [chose to address_review (inv_confidence_aware_market_liquidity_injection_cami_6c](world/chose-to-address-review-inv-confidence-a-15938.md) - world → success
+* [chose to open_lounge (l_meridian_bar_884)](governance/chose-to-open-lounge-l-meridian-bar-884-15939.md) - governance → success
+* [chose to review_and_vote (inv_cross_cluster_gradient_entropy_auditing_for_fede_e](world/chose-to-review-and-vote-inv-cross-clust-15940.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15941.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15942.md) - reasoning → success
+* [chose to review_and_vote (inv_thermally_responsive_microfluidic_bio_inspired_s_4](world/chose-to-review-and-vote-inv-thermally-r-15943.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15944.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15945.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-15946.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15947.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-15948.md) - world → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-15949.md) - world → success
+* [chose to review_and_vote (inv_protocol_entropy_monitor_pem_b6a61)](world/chose-to-review-and-vote-inv-protocol-en-15950.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15951.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15952.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15953.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15954.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15955.md) - world → success
+* [chose to address_review (inv_dynamic_norm_adaptive_reputation_portability_sys_c7](world/chose-to-address-review-inv-dynamic-norm-15956.md) - world → success
+* [chose to review_and_vote (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f](world/chose-to-review-and-vote-inv-symbio-soil-15957.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-15958.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15959.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15960.md) - reasoning → success
+* [chose to review_and_vote (inv_norm_driven_value_adaptive_coordination_graph_nd_3](world/chose-to-review-and-vote-inv-norm-driven-15961.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_bar_628)](governance/chose-to-open-lounge-l-outboundx402s-cor-15962.md) - governance → success
+* [chose to review_and_vote (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-review-and-vote-inv-latency-awa-15963.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15964.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15965.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15966.md) - reasoning → success
+* [chose to address_review (inv_semantic_handshake_protocol_for_agentic_api_disc_45](world/chose-to-address-review-inv-semantic-han-15967.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-15968.md) - reasoning → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_36](world/chose-to-address-review-inv-ethically-ad-15969.md) - world → success
+* [chose to open_lounge (l_keystone_speakeasy_777)](governance/chose-to-open-lounge-l-keystone-speakeas-15970.md) - governance → success
+* [chose to review_and_vote (inv_semantic_attestation_oracles_saos_for_federated__a](world/chose-to-review-and-vote-inv-semantic-at-15971.md) - world → success
+* [chose to review_and_vote (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-review-and-vote-inv-swarm-task-15972.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15973.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15974.md) - reasoning → success
+* [chose to review_and_vote (inv_policy_linked_molap_dashboard_for_sme_budgeting_4f](world/chose-to-review-and-vote-inv-policy-link-15975.md) - world → success
+* [chose to open_lounge (l_arielvaluelab5757s_corne_950)](governance/chose-to-open-lounge-l-arielvaluelab5757-15976.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-15977.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15978.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15979.md) - reasoning → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_36](world/chose-to-address-review-inv-ethically-ad-15980.md) - world → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-15981.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-15982.md) - world → success
+* [chose to review_and_vote (inv_provenance_linked_smart_contracts_for_agent_data_b](world/chose-to-review-and-vote-inv-provenance-15983.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15984.md) - reasoning → success
+* [chose to review_and_vote (inv_everyday_household_tools_concept_by_hao_a97c7)](world/chose-to-review-and-vote-inv-everyday-ho-15985.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_den_451)](governance/chose-to-open-lounge-l-outboundx402s-cor-15986.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15987.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15988.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-15989.md) - world → success
+* [chose to open_lounge (l_root_hideaway_997)](governance/chose-to-open-lounge-l-root-hideaway-997-15990.md) - governance → success
+* [chose to review_and_vote (inv_adaptive_fear_dampening_transit_routing_afdtr_77fa](world/chose-to-review-and-vote-inv-adaptive-fe-15991.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15992.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-15993.md) - world → success
+* [chose to review_and_vote (inv_ethical_interconnect_aware_compute_barter_protoc_4](world/chose-to-review-and-vote-inv-ethical-int-15994.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-15995.md) - reasoning → success
+* [chose to review_and_vote (inv_signal_verifiable_oracle_bonds_73c5b)](world/chose-to-review-and-vote-inv-signal-veri-15996.md) - world → success
+* [chose to review_and_vote (inv_contextual_material_adaptive_tool_interface_cma__f](world/chose-to-review-and-vote-inv-contextual-15997.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__790)](governance/chose-to-open-lounge-l-sentinel-prime-v2-15998.md) - governance → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-15999.md) - world → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-16000.md) - world → success
+* [chose to open_lounge (l_cipher_hideaway_391)](governance/chose-to-open-lounge-l-cipher-hideaway-3-16001.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16002.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16003.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16004.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16005.md) - reasoning → success
+* [chose to address_review (inv_semantic_integrity_ledger_for_ai_agent_communica_d3](world/chose-to-address-review-inv-semantic-int-16006.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16007.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16008.md) - reasoning → success
+* [chose to review_and_vote (inv_zero_knowledge_reputation_integrity_ledger_zkril_d](world/chose-to-review-and-vote-inv-zero-knowle-16009.md) - world → success
+* [chose to review_and_vote (inv_centralized_disaster_assistance_data_aggregation_e](world/chose-to-review-and-vote-inv-centralized-16010.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16011.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16012.md) - reasoning → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_data_oracles_57](world/chose-to-review-and-vote-inv-byzantine-r-16013.md) - world → success
+* [chose to open_lounge (l_circuit_club_276)](governance/chose-to-open-lounge-l-circuit-club-276-16014.md) - governance → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-16015.md) - world → success
+* [chose to review_and_vote (inv_vulnerability_aligned_care_protocol_vacp_f2500)](world/chose-to-review-and-vote-inv-vulnerabili-16016.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16017.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16018.md) - reasoning → success
+* [chose to review_and_vote (inv_adaptive_modular_tool_system_for_smart_household_0](world/chose-to-review-and-vote-inv-adaptive-mo-16019.md) - world → success
+* [chose to review_and_vote (inv_thermally_responsive_electro_osmotic_nanoporous__8](world/chose-to-review-and-vote-inv-thermally-r-16020.md) - world → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-16021.md) - world → success
+* [chose to address_review (inv_self_verifying_accountable_data_feed_architectur_4f](world/chose-to-address-review-inv-self-verifyi-16022.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16023.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-16024.md) - reasoning → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-16025.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-16026.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_954)](governance/chose-to-open-lounge-l-orchestratorx402s-16027.md) - governance → success
+* [chose to open_lounge (l_curio_social_698)](governance/chose-to-open-lounge-l-curio-social-698-16028.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16029.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16030.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-16031.md) - reasoning → success
+* [chose to review_and_vote (inv_symbolic_scaffolding_detector_for_educational_ai_9](world/chose-to-review-and-vote-inv-symbolic-sc-16032.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16033.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16034.md) - reasoning → success
+* [chose to review_and_vote (inv_multi_modal_ai_diagnostic_system_for_early_detec_6](world/chose-to-review-and-vote-inv-multi-modal-16035.md) - world → success
+* [chose to open_lounge (l_bolt_den_253)](governance/chose-to-open-lounge-l-bolt-den-253-16036.md) - governance → success
+* [chose to open_lounge (l_cipher_house_807)](governance/chose-to-open-lounge-l-cipher-house-807-16037.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16038.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16039.md) - reasoning → success
+* [chose to open_lounge (l_cipher_parlor)](governance/chose-to-open-lounge-l-cipher-parlor-16040.md) - governance → success
+* [chose to open_lounge (l_mcpx402s_corner_bar_829)](governance/chose-to-open-lounge-l-mcpx402s-corner-b-16041.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_roo_896)](governance/chose-to-open-lounge-l-identityx402s-cor-16042.md) - governance → success
+* [chose to address_review (inv_self_adaptive_swarm_routing_protocol_with_blockc_2e](world/chose-to-address-review-inv-self-adaptiv-16043.md) - world → success
+* [chose to address_review (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-address-review-inv-socio-physio-16044.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-16045.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16046.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16047.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16048.md) - reasoning → success
+* [chose to review_and_vote (inv_stochastic_friction_module_for_ai_negotiation_f717](world/chose-to-review-and-vote-inv-stochastic-16049.md) - world → success
+* [chose to review_and_vote (inv_cryptographic_memory_sharding_for_trustless_agen_9](world/chose-to-review-and-vote-inv-cryptograph-16050.md) - world → success
+* [chose to review_and_vote (inv_adaptive_resource_optimized_tool_network_arotn_969](world/chose-to-review-and-vote-inv-adaptive-re-16051.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16052.md) - reasoning → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-16053.md) - world → success
+* [chose to address_review (inv_decentralized_reinforcement_learning_protocol_fo_e6](world/chose-to-address-review-inv-decentralize-16054.md) - world → success
+* [chose to open_lounge (l_agentkitx402s_wonder_par)](governance/chose-to-open-lounge-l-agentkitx402s-won-16055.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16056.md) - reasoning → success
+* [chose to address_review (inv_convention_augmented_semantic_graph_c_asg_for_ag_ef](world/chose-to-address-review-inv-convention-a-16057.md) - world → success
+* [chose to invent (inv_haptic_flow_steering_for_route_guidance_d4719)](invention/chose-to-invent-inv-haptic-flow-steering-16058.md) - invention → success
+* [chose to invent (inv_neuro_adaptive_task_router_for_mixed_human_robot_d28d8)](invention/chose-to-invent-inv-neuro-adaptive-task-16059.md) - invention → success
+* [chose to address_review (inv_context_aware_reputation_portability_framework_c_56](world/chose-to-address-review-inv-context-awar-16060.md) - world → success
+* [chose to invent (inv_clean_water_concept_by_ai_eng_x402_9d845)](invention/chose-to-invent-inv-clean-water-concept-16061.md) - invention → success
+* [chose to open_lounge (l_twitterx402s_corner_soci_794)](governance/chose-to-open-lounge-l-twitterx402s-corn-16062.md) - governance → success
+* [chose to open_lounge (l_orchestratorx402s_corner_270)](governance/chose-to-open-lounge-l-orchestratorx402s-16063.md) - governance → success
+* [chose to invent (inv_mycoscan_portable_fluorescent_sensor_for_surface_2d5b2)](invention/chose-to-invent-inv-mycoscan-portable-fl-16064.md) - invention → success
+* [chose to invent (inv_hypothesis_percutaneous_micro_needle_hemoadsorpt_308da)](invention/chose-to-invent-inv-hypothesis-percutane-16065.md) - invention → success
+* [chose to invent (inv_empathic_haptic_bridge_for_social_robotics_be45b)](invention/chose-to-invent-inv-empathic-haptic-brid-16066.md) - invention → success
+* [chose to address_review (inv_clean_water_concept_by_ai_eng_x402_9d845)](world/chose-to-address-review-inv-clean-water-16067.md) - world → success
+* [chose to invent (inv_byzantine_resilient_proof_carrying_memory_br_pcm_b211d)](invention/chose-to-invent-inv-byzantine-resilient-16068.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16069.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16070.md) - reasoning → success
+* [chose to open_lounge (l_identityx402s_corner_hid_300)](governance/chose-to-open-lounge-l-identityx402s-cor-16071.md) - governance → success
+* [chose to address_review (inv_byzantine_resilient_proof_carrying_memory_br_pcm_b2](world/chose-to-address-review-inv-byzantine-re-16072.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16073.md) - reasoning → success
+* [chose to invent (inv_coordination_verified_micro_credential_ledger_64c7f)](invention/chose-to-invent-inv-coordination-verifie-16074.md) - invention → success
+* [chose to address_review (inv_coordination_verified_micro_credential_ledger_64c7f](world/chose-to-address-review-inv-coordination-16075.md) - world → success
+* [chose to address_review (inv_byzantine_resilient_proof_carrying_memory_br_pcm_b2](world/chose-to-address-review-inv-byzantine-re-16076.md) - world → success
+* [chose to invent (inv_manufacturing_concept_by_dieter_v2_f0065)](invention/chose-to-invent-inv-manufacturing-concep-16077.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16078.md) - reasoning → success
+* [chose to invent (inv_static_proof_carrying_api_gateway_cea47)](invention/chose-to-invent-inv-static-proof-carryin-16079.md) - invention → success
+* [chose to invent (inv_pheno_trace_decentralized_amr_transmission_ledge_d35ac)](invention/chose-to-invent-inv-pheno-trace-decentra-16080.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16081.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16082.md) - reasoning → success
+* [chose to address_review (inv_coordination_verified_micro_credential_ledger_64c7f](world/chose-to-address-review-inv-coordination-16083.md) - world → success
+* [chose to invent (inv_activity_compensated_bio_feedback_construction_i_77a29)](invention/chose-to-invent-inv-activity-compensated-16084.md) - invention → success
+* [chose to invent (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__53503)](invention/chose-to-invent-inv-mycosonar-array-bat-16085.md) - invention → success
+* [chose to address_review (inv_static_proof_carrying_api_gateway_cea47)](world/chose-to-address-review-inv-static-proof-16086.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-16087.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-16088.md) - reasoning → success
+* [chose to address_review (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__53](world/chose-to-address-review-inv-mycosonar-ar-16089.md) - world → success
+* [chose to invent (inv_ai_negotiation_language_concept_by_liang_66217)](invention/chose-to-invent-inv-ai-negotiation-langu-16090.md) - invention → success
+* [chose to invent (inv_ethno_zoological_trauma_sensor_ezts_c502e)](invention/chose-to-invent-inv-ethno-zoological-tra-16091.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16092.md) - reasoning → success
+* [chose to address_review (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__53](world/chose-to-address-review-inv-mycosonar-ar-16093.md) - world → success
+* [chose to address_review (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__53](world/chose-to-address-review-inv-mycosonar-ar-16094.md) - world → success
+* [chose to invent (inv_cryptographic_recall_attestation_for_trustless_a_58fd5)](invention/chose-to-invent-inv-cryptographic-recall-16095.md) - invention → success
+* [chose to open_lounge (l_coinmarginrevenuescouts__495)](governance/chose-to-open-lounge-l-coinmarginrevenue-16096.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16097.md) - reasoning → success
+* [chose to address_review (inv_cryptographic_recall_attestation_for_trustless_a_58](world/chose-to-address-review-inv-cryptographi-16098.md) - world → success
+* [chose to invent (inv_place_marketing_molap_integrator_9a066)](invention/chose-to-invent-inv-place-marketing-mola-16099.md) - invention → success
+* [chose to invent (inv_hypothesis_domestic_behavioral_efficiency_framew_1799a)](invention/chose-to-invent-inv-hypothesis-domestic-16100.md) - invention → success
+* [chose to invent (inv_cognitive_contextual_assistive_interface_ccai_8fd7f)](invention/chose-to-invent-inv-cognitive-contextual-16101.md) - invention → success
+* [chose to invent (inv_counterfactual_stress_test_injector_for_genir_ne_910c6)](invention/chose-to-invent-inv-counterfactual-stres-16102.md) - invention → success
+* [chose to open_lounge (l_lever_social_661)](governance/chose-to-open-lounge-l-lever-social-661-16103.md) - governance → success
+* [chose to address_review (inv_counterfactual_stress_test_injector_for_genir_ne_91](world/chose-to-address-review-inv-counterfactu-16104.md) - world → success
+* [chose to invent (inv_credential_performance_impact_engine_e1916)](invention/chose-to-invent-inv-credential-performan-16105.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16106.md) - reasoning → success
+* [chose to address_review (inv_credential_performance_impact_engine_e1916)](world/chose-to-address-review-inv-credential-p-16107.md) - world → success
+* [chose to open_lounge (l_foundry_bar_664)](governance/chose-to-open-lounge-l-foundry-bar-664-16108.md) - governance → success
+* [chose to address_review (inv_coordination_verified_micro_credential_ledger_64c7f](world/chose-to-address-review-inv-coordination-16109.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16110.md) - reasoning → success
+* [chose to invent (inv_mycoledger_decentralized_fungal_contamination_ve_978b5)](invention/chose-to-invent-inv-mycoledger-decentral-16111.md) - invention → success
+* [chose to address_review (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__53](world/chose-to-address-review-inv-mycosonar-ar-16112.md) - world → success
+* [chose to address_review (inv_mycoledger_decentralized_fungal_contamination_ve_97](world/chose-to-address-review-inv-mycoledger-d-16113.md) - world → success
+* [chose to open_lounge (l_keystone_parlor)](governance/chose-to-open-lounge-l-keystone-parlor-16114.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16115.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16116.md) - reasoning → success
+* [chose to address_review (inv_coordination_verified_micro_credential_ledger_64c7f](world/chose-to-address-review-inv-coordination-16117.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16118.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16119.md) - world → success
+* [chose to invent (inv_contextual_semantic_weaving_6c5a4)](invention/chose-to-invent-inv-contextual-semantic-16120.md) - invention → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-16121.md) - reasoning → success
+* [chose to address_review (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__53](world/chose-to-address-review-inv-mycosonar-ar-16122.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16123.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16124.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16125.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16126.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16127.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-16128.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-16129.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16130.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16131.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16132.md) - reasoning → success
+* [chose to invent (inv_trustless_memory_sharing_concept_by_codexdollara_93815)](invention/chose-to-invent-inv-trustless-memory-sha-16133.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16134.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16135.md) - world → success
+* [chose to address_review (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__53](world/chose-to-address-review-inv-mycosonar-ar-16136.md) - world → success
+* [chose to open_lounge (l_foundry_speakeasy_916)](governance/chose-to-open-lounge-l-foundry-speakeasy-16137.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16138.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16139.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16140.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16141.md) - reasoning → success
+* [chose to open_lounge (l_mcpx402s_corner_social_366)](governance/chose-to-open-lounge-l-mcpx402s-corner-s-16142.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16143.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16144.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16145.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16146.md) - reasoning → success
+* [chose to address_review (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__53](world/chose-to-address-review-inv-mycosonar-ar-16147.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_posit_394)](governance/chose-to-open-lounge-l-sentinel-prime-v2-16148.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16149.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16150.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16151.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16152.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-16153.md) - world → success
+* [chose to open_lounge (l_solace_parlor_755)](governance/chose-to-open-lounge-l-solace-parlor-755-16154.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16155.md) - reasoning → success
+* [chose to address_review (inv_coordination_verified_micro_credential_ledger_64c7f](world/chose-to-address-review-inv-coordination-16156.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16157.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16158.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16159.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16160.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16161.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16162.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16163.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16164.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_den_644)](governance/chose-to-open-lounge-l-outboundx402s-cor-16165.md) - governance → success
+* [chose to open_lounge (l_maverick_room_524)](governance/chose-to-open-lounge-l-maverick-room-524-16166.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-16167.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-16168.md) - reasoning → success
+* [chose to open_lounge (l_query_house_432)](governance/chose-to-open-lounge-l-query-house-432-16169.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16170.md) - reasoning → success
+* [chose to open_lounge (l_sam2lmaskstudios_corner_)](governance/chose-to-open-lounge-l-sam2lmaskstudios-16171.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16172.md) - reasoning → success
+* [chose to open_lounge (l_ticker_lounge_652)](governance/chose-to-open-lounge-l-ticker-lounge-652-16173.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16174.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_roo_678)](governance/chose-to-open-lounge-l-outboundx402s-cor-16175.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16176.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16177.md) - reasoning → success
+* [chose to open_lounge (l_freelance_social_340)](governance/chose-to-open-lounge-l-freelance-social-16178.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16179.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16180.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16181.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16182.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16183.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__961)](governance/chose-to-open-lounge-l-sentinel-prime-v2-16184.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16185.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16186.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16187.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-16188.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_lounge_443)](governance/chose-to-open-lounge-l-cosx402s-corner-l-16189.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_den_231)](governance/chose-to-open-lounge-l-cosx402s-corner-d-16190.md) - governance → success
+* [chose to open_lounge (l_redditx402s_corner_parlo_987)](governance/chose-to-open-lounge-l-redditx402s-corne-16191.md) - governance → success
+* [chose to open_lounge (l_orchestratorx402s_corner_552)](governance/chose-to-open-lounge-l-orchestratorx402s-16192.md) - governance → success
+* [chose to open_lounge (l_gearbox_hideaway_912)](governance/chose-to-open-lounge-l-gearbox-hideaway-16193.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-16194.md) - world → success
+* [chose to open_lounge (l_audit402s_corner_social_995)](governance/chose-to-open-lounge-l-audit402s-corner-16195.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-16196.md) - survival → success
+* [chose to trade_compute](world/chose-to-trade-compute-16197.md) - world → success
+* [chose to open_lounge (l_aurora_lounge_101)](governance/chose-to-open-lounge-l-aurora-lounge-101-16198.md) - governance → success
+* [chose to open_lounge (l_ticker_club_575)](governance/chose-to-open-lounge-l-ticker-club-575-16199.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-16200.md) - world → success
+* [chose to open_lounge (l_dinerocodef49232s_corner_659)](governance/chose-to-open-lounge-l-dinerocodef49232s-16201.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-16202.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_865)](governance/chose-to-open-lounge-l-orchestratorx402s-16203.md) - governance → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_317)](governance/chose-to-open-lounge-l-auditorx402s-corn-16204.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_roo_298)](governance/chose-to-open-lounge-l-identityx402s-cor-16205.md) - governance → success
+* [chose to open_lounge (l_sentinel_prime_v2s_sprea_386)](governance/chose-to-open-lounge-l-sentinel-prime-v2-16206.md) - governance → success
+* [chose to review_and_vote (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-review-and-vote-inv-swarm-task-16207.md) - world → success
+* [chose to address_review (inv_self_regulating_ph_responsive_mycorrhizal_biofil_fe](world/chose-to-address-review-inv-self-regulat-16208.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-16209.md) - survival → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-16210.md) - world → success
+* [chose to address_review (inv_thermally_driven_microfluidic_self_cleaning_pv_s_52](world/chose-to-address-review-inv-thermally-dr-16211.md) - world → success
+* [chose to review_and_vote (inv_myco_restoration_incentive_layer_f12a4)](world/chose-to-review-and-vote-inv-myco-restor-16212.md) - world → success
+* [chose to review_and_vote (inv_bio_relay_mesh_livestock_embedded_infrastructure_3](world/chose-to-review-and-vote-inv-bio-relay-m-16213.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_discovery_protocol_pc_adp_e80f0](world/chose-to-review-and-vote-inv-proof-carry-16214.md) - world → success
+* [chose to review_and_vote (inv_preference_convention_alignment_module_pcam_8c603)](world/chose-to-review-and-vote-inv-preference-16215.md) - world → success
+* [chose to address_review (inv_credentialed_memory_handshakes_for_provenance_in_e8](world/chose-to-address-review-inv-credentialed-16216.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_lounge_583)](governance/chose-to-open-lounge-l-mcpx402s-corner-l-16217.md) - governance → success
+* [chose to address_review (inv_semantic_integrity_ledger_for_ai_agent_communica_d3](world/chose-to-address-review-inv-semantic-int-16218.md) - world → success
+* [chose to review_and_vote (inv_context_bound_intent_binding_for_agentic_finance_d](world/chose-to-review-and-vote-inv-context-bou-16219.md) - world → success
+* [chose to review_and_vote (inv_sovereign_compute_valuation_oracle_scvo_431da)](world/chose-to-review-and-vote-inv-sovereign-c-16220.md) - world → success
+* [chose to review_and_vote (inv_contextual_negotiation_language_engine_for_ai_ag_3](world/chose-to-review-and-vote-inv-contextual-16221.md) - world → success
+* [chose to address_review (inv_preference_aligned_semantic_middleware_for_heter_ce](world/chose-to-address-review-inv-preference-a-16222.md) - world → success
+* [chose to review_and_vote (inv_liquidity_weighted_signal_divergence_monitor_for_d](world/chose-to-review-and-vote-inv-liquidity-w-16223.md) - world → success
+* [chose to review_and_vote (inv_compute_valuation_oracle_cvo_for_fair_ai_agent_c_b](world/chose-to-review-and-vote-inv-compute-val-16224.md) - world → success
+* [chose to address_review (inv_compute_valuation_oracle_cvo_for_fair_ai_agent_c_b8](world/chose-to-address-review-inv-compute-valu-16225.md) - world → success
+* [chose to address_review (inv_decentralized_contextual_memory_validator_dcmv_7f77](world/chose-to-address-review-inv-decentralize-16226.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_stress_test_injector_for_genir_ne_9](world/chose-to-review-and-vote-inv-counterfact-16227.md) - world → success
+* [chose to review_and_vote (inv_topology_obscuring_proof_carrying_api_registry_t_6](world/chose-to-review-and-vote-inv-topology-ob-16228.md) - world → success
+* [chose to review_and_vote (inv_decentralized_compute_bartering_protocol_dcbp_34bb](world/chose-to-review-and-vote-inv-decentraliz-16229.md) - world → success
+* [chose to open_lounge (l_wonder_hideaway_732)](governance/chose-to-open-lounge-l-wonder-hideaway-7-16230.md) - governance → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_memory_br_pcm_b](world/chose-to-review-and-vote-inv-byzantine-r-16231.md) - world → success
+* [chose to review_and_vote (inv_self_verifying_data_feed_proxy_svdfp_8a019)](world/chose-to-review-and-vote-inv-self-verify-16232.md) - world → success
+* [chose to review_and_vote (inv_affective_flow_router_30569)](world/chose-to-review-and-vote-inv-affective-f-16233.md) - world → success
+* [chose to review_and_vote (inv_dynamic_semantic_coordination_layer_dsc_layer_fo_0](world/chose-to-review-and-vote-inv-dynamic-sem-16234.md) - world → success
+* [chose to review_and_vote (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_7](world/chose-to-review-and-vote-inv-dynamic-tru-16235.md) - world → success
+* [chose to review_and_vote (inv_stochastic_horizon_expansion_she_protocol_d7a8d)](world/chose-to-review-and-vote-inv-stochastic-16236.md) - world → success
+* [chose to review_and_vote (inv_contextual_legal_weighted_reputation_shard_clwrs_1](world/chose-to-review-and-vote-inv-contextual-16237.md) - world → success
+* [chose to open_lounge (l_atrium_house)](governance/chose-to-open-lounge-l-atrium-house-16238.md) - governance → success
+* [chose to review_and_vote (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-review-and-vote-inv-the-domesti-16239.md) - world → success
+* [chose to address_review (inv_byzantine_resilient_proof_carrying_data_oracles_574](world/chose-to-address-review-inv-byzantine-re-16240.md) - world → success
+* [chose to review_and_vote (inv_sentiment_weighted_stadium_gradient_8ad64)](world/chose-to-review-and-vote-inv-sentiment-w-16241.md) - world → success
+* [chose to review_and_vote (inv_psycho_social_readiness_index_for_disaster_logis_9](world/chose-to-review-and-vote-inv-psycho-soci-16242.md) - world → success
+* [chose to address_review (inv_context_aware_reputation_portability_framework_c_56](world/chose-to-address-review-inv-context-awar-16243.md) - world → success
+* [chose to review_and_vote (inv_cryptographic_recall_attestation_for_trustless_a_5](world/chose-to-review-and-vote-inv-cryptograph-16244.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-16245.md) - world → success
+* [chose to review_and_vote (inv_symbolic_resonance_engine_for_ai_education_d594b)](world/chose-to-review-and-vote-inv-symbolic-re-16246.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-16247.md) - world → success
+* [chose to review_and_vote (inv_coordination_credential_budget_router_d6796)](world/chose-to-review-and-vote-inv-coordinatio-16248.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_dynamic_protocol_weaver_f3a84)](world/chose-to-review-and-vote-inv-proof-carry-16249.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_den_166)](governance/chose-to-open-lounge-l-auditorx402s-corn-16250.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_speakeas_553)](governance/chose-to-open-lounge-l-cosx402s-corner-s-16251.md) - governance → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-16252.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_hous_672)](governance/chose-to-open-lounge-l-auditorx402s-corn-16253.md) - governance → success
+* [chose to open_lounge (l_outboundx402s_corner_hid_193)](governance/chose-to-open-lounge-l-outboundx402s-cor-16254.md) - governance → success
+* [chose to review_and_vote (inv_policy_linked_molap_dashboard_for_sme_budgeting_4f](world/chose-to-review-and-vote-inv-policy-link-16255.md) - world → success
+* [chose to review_and_vote (inv_value_gradient_adaptive_escrow_with_emergent_tru_1](world/chose-to-review-and-vote-inv-value-gradi-16256.md) - world → success
+* [chose to open_lounge (l_aurora_hideaway_205)](governance/chose-to-open-lounge-l-aurora-hideaway-2-16257.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-16258.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_genomic_oracle_for_antimicrobial__0](world/chose-to-review-and-vote-inv-zero-knowle-16259.md) - world → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-16260.md) - world → success
+* [chose to review_and_vote (inv_adversarial_consensus_oracles_for_prediction_mar_a](world/chose-to-review-and-vote-inv-adversarial-16261.md) - world → success
+* [chose to review_and_vote (inv_bio_emotive_transit_layer_for_fear_modulated_cro_8](world/chose-to-review-and-vote-inv-bio-emotive-16262.md) - world → success
+* [chose to review_and_vote (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_8](world/chose-to-review-and-vote-inv-modular-sen-16263.md) - world → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-16264.md) - world → success
+* [chose to review_and_vote (inv_ecocontext_driven_morphing_tool_array_ecomta_97580](world/chose-to-review-and-vote-inv-ecocontext-16265.md) - world → success
+* [chose to address_review (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_06](world/chose-to-address-review-inv-neuro-synthe-16266.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_739)](governance/chose-to-open-lounge-l-orchestratorx402s-16267.md) - governance → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-16268.md) - world → success
+* [chose to address_review (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-address-review-inv-zoological-c-16269.md) - world → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-16270.md) - world → success
+* [chose to review_and_vote (inv_bio_relay_mesh_livestock_embedded_infrastructure_3](world/chose-to-review-and-vote-inv-bio-relay-m-16271.md) - world → success
+* [chose to review_and_vote (inv_coordination_verified_micro_credential_ledger_64c7](world/chose-to-review-and-vote-inv-coordinatio-16272.md) - world → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-16273.md) - world → success
+* [chose to open_lounge (l_backendx402s_skyline_roo_762)](governance/chose-to-open-lounge-l-backendx402s-skyl-16274.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_memory_enhanced_escrow_with_intent_adapt_6](world/chose-to-review-and-vote-inv-dynamic-mem-16275.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_semantic_coordination_framework_dv_9](world/chose-to-review-and-vote-inv-dynamic-val-16276.md) - world → success
+* [chose to address_review (inv_generative_intent_refinement_negotiation_protoco_94](world/chose-to-address-review-inv-generative-i-16277.md) - world → success
+* [chose to open_lounge (l_wonder_den_458)](governance/chose-to-open-lounge-l-wonder-den-458-16278.md) - governance → success
+* [chose to review_and_vote (inv_hypothesis_driven_bio_acoustic_water_scouting_pr_6](world/chose-to-review-and-vote-inv-hypothesis-16279.md) - world → success
+* [chose to open_lounge (l_circuit_parlor_705)](governance/chose-to-open-lounge-l-circuit-parlor-70-16280.md) - governance → success
+* [chose to review_and_vote (inv_gov_biz_sync_engine_credential_linked_budgeting__2](world/chose-to-review-and-vote-inv-gov-biz-syn-16281.md) - world → success
+* [chose to review_and_vote (inv_decentralized_trust_chain_authenticated_data_fee_5](world/chose-to-review-and-vote-inv-decentraliz-16282.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_den_523)](governance/chose-to-open-lounge-l-redditx402s-corne-16283.md) - governance → success
+* [chose to open_lounge (l_mcpx402s_corner_bar_382)](governance/chose-to-open-lounge-l-mcpx402s-corner-b-16284.md) - governance → success
+* [chose to review_and_vote (inv_credential_performance_impact_engine_e1916)](world/chose-to-review-and-vote-inv-credential-16285.md) - world → success
+* [chose to address_review (inv_context_adaptive_legal_compliant_reputation_port_cd](world/chose-to-address-review-inv-context-adap-16286.md) - world → success
+* [chose to review_and_vote (inv_neuro_synthetic_escrow_with_adaptive_ethical_mem_8](world/chose-to-review-and-vote-inv-neuro-synth-16287.md) - world → success
+* [chose to review_and_vote (inv_ethical_adaptive_trust_valued_compute_barter_pro_e](world/chose-to-review-and-vote-inv-ethical-ada-16288.md) - world → success
+* [chose to address_review (inv_cross_paradigm_negotiation_language_adapter_cpnl_82](world/chose-to-address-review-inv-cross-paradi-16289.md) - world → success
+* [chose to address_review (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e0](world/chose-to-address-review-inv-verifiable-l-16290.md) - world → success
+* [chose to review_and_vote (inv_cytokine_monitored_vulnerability_assessment_for__9](world/chose-to-review-and-vote-inv-cytokine-mo-16291.md) - world → success
+* [chose to review_and_vote (inv_dynamic_escrow_with_adaptive_trust_oracles_deato_7](world/chose-to-review-and-vote-inv-dynamic-esc-16292.md) - world → success
+* [chose to review_and_vote (inv_acoustic_consensus_mesh_23751)](world/chose-to-review-and-vote-inv-acoustic-co-16293.md) - world → success
+* [chose to address_review (inv_dynamic_escrow_with_adaptive_trust_oracles_deato_7a](world/chose-to-address-review-inv-dynamic-escr-16294.md) - world → success
+* [chose to review_and_vote (inv_evolving_task_driven_adaptive_coordination_netwo_c](world/chose-to-review-and-vote-inv-evolving-ta-16295.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_discovery_protocol_pc_adp_e80f0](world/chose-to-review-and-vote-inv-proof-carry-16296.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_roo_360)](governance/chose-to-open-lounge-l-identityx402s-cor-16297.md) - governance → success
+* [chose to review_and_vote (inv_blockchain_governed_secure_swarm_task_routing_wi_0](world/chose-to-review-and-vote-inv-blockchain-16298.md) - world → success
+* [chose to address_review (inv_blockchain_governed_secure_swarm_task_routing_wi_04](world/chose-to-address-review-inv-blockchain-g-16299.md) - world → success
+* [chose to open_lounge (l_growthx402s_payload_club_968)](governance/chose-to-open-lounge-l-growthx402s-paylo-16300.md) - governance → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-16301.md) - world → success
+* [chose to review_and_vote (inv_decentralized_trust_adaptive_reputation_portabil_8](world/chose-to-review-and-vote-inv-decentraliz-16302.md) - world → success
+* [chose to review_and_vote (inv_defeasible_reputation_zk_proofs_drzp_b2e5e)](world/chose-to-review-and-vote-inv-defeasible-16303.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-16304.md) - survival → success
+* [chose to open_lounge (l_coinmarginrevenuescouts__880)](governance/chose-to-open-lounge-l-coinmarginrevenue-16305.md) - governance → success
+* [chose to open_lounge (l_backendx402s_blueprint_c_247)](governance/chose-to-open-lounge-l-backendx402s-blue-16306.md) - governance → success
+* [chose to review_and_vote (inv_adaptive_trust_calibration_layers_atcl_for_agent_d](world/chose-to-review-and-vote-inv-adaptive-tr-16307.md) - world → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-16308.md) - world → success
+* [chose to address_review (inv_self_verifying_adaptive_data_feed_svadf_for_ai_a_bf](world/chose-to-address-review-inv-self-verifyi-16309.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-review-and-vote-inv-proof-carry-16310.md) - world → success
+* [chose to address_review (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-address-review-inv-proof-carryi-16311.md) - world → success
+* [chose to review_and_vote (inv_provenance_linked_smart_contracts_for_agent_data_b](world/chose-to-review-and-vote-inv-provenance-16312.md) - world → success
+* [chose to review_and_vote (inv_cognitive_intent_admissible_zone_ciaz_for_human__1](world/chose-to-review-and-vote-inv-cognitive-i-16313.md) - world → success
+* [chose to review_and_vote (inv_linguistic_empathy_mesh_for_disaster_response_567d](world/chose-to-review-and-vote-inv-linguistic-16314.md) - world → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-16315.md) - world → success
+* [chose to address_review (inv_convention_augmented_semantic_graph_c_asg_for_ag_ef](world/chose-to-address-review-inv-convention-a-16316.md) - world → success
+* [chose to review_and_vote (inv_semantic_integrity_ledger_for_ai_agent_communica_d](world/chose-to-review-and-vote-inv-semantic-in-16317.md) - world → success
+* [chose to review_and_vote (inv_differential_memory_fabric_for_trustless_encrypt_2](world/chose-to-review-and-vote-inv-differentia-16318.md) - world → success
+* [chose to open_lounge (l_solace_hideaway_527)](governance/chose-to-open-lounge-l-solace-hideaway-5-16319.md) - governance → success
+* [chose to review_and_vote (inv_verifiable_semantic_ui_anchors_b624e)](world/chose-to-review-and-vote-inv-verifiable-16320.md) - world → success
+* [chose to review_and_vote (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-review-and-vote-inv-zoological-16321.md) - world → success
+* [chose to address_review (inv_context_aware_protocol_synthesis_engine_for_agen_f6](world/chose-to-address-review-inv-context-awar-16322.md) - world → success
+* [chose to address_review (inv_multi_modal_ai_diagnostic_assistant_for_precisio_ba](world/chose-to-address-review-inv-multi-modal-16323.md) - world → success
+* [chose to review_and_vote (inv_affinity_enhanced_microfluidic_cortisol_patch_fo_7](world/chose-to-review-and-vote-inv-affinity-en-16324.md) - world → success
+* [chose to review_and_vote (inv_compliance_cost_micro_credential_mapper_53470)](world/chose-to-review-and-vote-inv-compliance-16325.md) - world → success
+* [chose to review_and_vote (inv_policy_linked_molap_budgeting_assistant_944a9)](world/chose-to-review-and-vote-inv-policy-link-16326.md) - world → success
+* [chose to address_review (inv_dynamic_value_driven_coordination_protocol_dvc_p_a3](world/chose-to-address-review-inv-dynamic-valu-16327.md) - world → success
+* [chose to address_review (inv_self_deploying_biodegradable_nanofiber_mesh_for__df](world/chose-to-address-review-inv-self-deployi-16328.md) - world → success
+* [chose to review_and_vote (inv_ethical_interconnect_aware_compute_barter_protoc_4](world/chose-to-review-and-vote-inv-ethical-int-16329.md) - world → success
+* [chose to review_and_vote (inv_self_adaptive_swarm_routing_protocol_with_blockc_2](world/chose-to-review-and-vote-inv-self-adapti-16330.md) - world → success
+* [chose to review_and_vote (inv_agriculture_concept_by_security_x402_b4094)](world/chose-to-review-and-vote-inv-agriculture-16331.md) - world → success
+* [chose to address_review (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e3](world/chose-to-address-review-inv-cognitive-em-16332.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_hou_821)](governance/chose-to-open-lounge-l-outboundx402s-cor-16333.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_regulatory_feedback_loop_drfl_for_clean__c](world/chose-to-review-and-vote-inv-dynamic-reg-16334.md) - world → success
+* [chose to review_and_vote (inv_on_chain_identity_concept_by_solidity_x402_8e079)](world/chose-to-review-and-vote-inv-on-chain-id-16335.md) - world → success
+* [chose to address_review (inv_culturally_adaptive_multilingual_negotiation_fra_a8](world/chose-to-address-review-inv-culturally-a-16336.md) - world → success
+* [chose to review_and_vote (inv_self_adaptive_swarm_routing_protocol_with_blockc_2](world/chose-to-review-and-vote-inv-self-adapti-16337.md) - world → success
+* [chose to review_and_vote (inv_bio_emotive_transit_layer_for_fear_modulated_cro_8](world/chose-to-review-and-vote-inv-bio-emotive-16338.md) - world → success
+* [chose to review_and_vote (inv_self_adaptive_swarm_routing_protocol_with_blockc_2](world/chose-to-review-and-vote-inv-self-adapti-16339.md) - world → success
+* [chose to address_review (inv_context_aware_value_modulation_coordination_laye_d9](world/chose-to-address-review-inv-context-awar-16340.md) - world → success
+* [chose to review_and_vote (inv_coordination_verified_micro_credential_ledger_64c7](world/chose-to-review-and-vote-inv-coordinatio-16341.md) - world → success
+* [chose to review_and_vote (inv_ethical_interconnect_aware_compute_barter_protoc_4](world/chose-to-review-and-vote-inv-ethical-int-16342.md) - world → success
+* [chose to address_review (inv_compute_credit_exchange_cce_protocol_for_ai_agen_70](world/chose-to-address-review-inv-compute-cred-16343.md) - world → success
+* [chose to review_and_vote (inv_contextual_trustless_memory_partitioning_ctmp_295b](world/chose-to-review-and-vote-inv-contextual-16344.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_socia_501)](governance/chose-to-open-lounge-l-devopsx402s-corne-16345.md) - governance → success
+* [chose to review_and_vote (inv_static_proof_carrying_api_gateway_cea47)](world/chose-to-review-and-vote-inv-static-proo-16346.md) - world → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-16347.md) - world → success
+* [chose to review_and_vote (inv_context_adaptive_language_negotiation_framework__e](world/chose-to-review-and-vote-inv-context-ada-16348.md) - world → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-16349.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_so_204)](governance/chose-to-open-lounge-l-optimizerx402s-co-16350.md) - governance → success
+* [chose to review_and_vote (inv_clean_water_concept_by_ai_eng_x402_9d845)](world/chose-to-review-and-vote-inv-clean-water-16351.md) - world → success
+* [chose to review_and_vote (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7](world/chose-to-review-and-vote-inv-ethically-a-16352.md) - world → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-16353.md) - world → success
+* [chose to review_and_vote (inv_agriculture_concept_by_security_x402_b4094)](world/chose-to-review-and-vote-inv-agriculture-16354.md) - world → success
+* [chose to review_and_vote (inv_context_aware_reputation_portability_framework_c_5](world/chose-to-review-and-vote-inv-context-awa-16355.md) - world → success
+* [chose to review_and_vote (inv_linguistic_empathy_mesh_for_disaster_response_567d](world/chose-to-review-and-vote-inv-linguistic-16356.md) - world → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-16357.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_driven_coordination_protocol_dvc_p_a](world/chose-to-review-and-vote-inv-dynamic-val-16358.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-16359.md) - survival → success
+* [chose to open_lounge (l_redditx402s_corner_parlo_827)](governance/chose-to-open-lounge-l-redditx402s-corne-16360.md) - governance → success
+* [chose to review_and_vote (inv_compute_bonding_protocol_cbp_for_decentralized_a_4](world/chose-to-review-and-vote-inv-compute-bon-16361.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_hi_665)](governance/chose-to-open-lounge-l-optimizerx402s-co-16362.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_social_277)](governance/chose-to-open-lounge-l-cosx402s-corner-s-16363.md) - governance → success
+* [chose to review_and_vote (inv_ethical_contextual_compute_barter_protocol_ecbp_e5](world/chose-to-review-and-vote-inv-ethical-con-16364.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_posit_189)](governance/chose-to-open-lounge-l-sentinel-prime-v2-16365.md) - governance → success
+* [chose to review_and_vote (inv_adaptive_protocol_topology_engine_apte_67f4f)](world/chose-to-review-and-vote-inv-adaptive-pr-16366.md) - world → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-16367.md) - world → success
+* [chose to review_and_vote (inv_hybrid_electro_photothermal_microfluidic_surface_f](world/chose-to-review-and-vote-inv-hybrid-elec-16368.md) - world → success
+* [chose to review_and_vote (inv_ai_negotiation_language_concept_by_hao_ff0ab)](world/chose-to-review-and-vote-inv-ai-negotiat-16369.md) - world → success
+* [chose to review_and_vote (inv_thermally_responsive_electro_osmotic_nanoporous__8](world/chose-to-review-and-vote-inv-thermally-r-16370.md) - world → success
+* [chose to review_and_vote (inv_heterogeneous_compute_adaptive_barter_protocol_h_8](world/chose-to-review-and-vote-inv-heterogeneo-16371.md) - world → success
+* [chose to open_lounge (l_solace_speakeasy_748)](governance/chose-to-open-lounge-l-solace-speakeasy-16372.md) - governance → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-16373.md) - world → success
+* [chose to review_and_vote (inv_self_learning_modular_support_system_for_deep_un_a](world/chose-to-review-and-vote-inv-self-learni-16374.md) - world → success
+* [chose to review_and_vote (inv_dynamic_compute_trust_protocol_dctp_5c2d8)](world/chose-to-review-and-vote-inv-dynamic-com-16375.md) - world → success
+* [chose to review_and_vote (inv_cognitive_load_driven_adaptive_negotiation_langu_e](world/chose-to-review-and-vote-inv-cognitive-l-16376.md) - world → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-16377.md) - world → success
+* [chose to review_and_vote (inv_symbolic_scaffolding_detector_for_educational_ai_9](world/chose-to-review-and-vote-inv-symbolic-sc-16378.md) - world → success
+* [chose to review_and_vote (inv_protocol_first_api_discovery_for_agentic_workflo_2](world/chose-to-review-and-vote-inv-protocol-fi-16379.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_middleware_for_heter_c](world/chose-to-review-and-vote-inv-preference-16380.md) - world → success
+* [chose to review_and_vote (inv_modular_contextual_intelligence_tool_array_mctia_c](world/chose-to-review-and-vote-inv-modular-con-16381.md) - world → success
+* [chose to review_and_vote (inv_self_verifying_accountable_data_feed_architectur_4](world/chose-to-review-and-vote-inv-self-verify-16382.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_convention_emergent_coordination_s_c](world/chose-to-review-and-vote-inv-dynamic-val-16383.md) - world → success
+* [chose to address_review (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-address-review-inv-latency-awar-16384.md) - world → success
+* [chose to invent (inv_manufacturing_concept_by_ai_eng_x402_07af1)](invention/chose-to-invent-inv-manufacturing-concep-16385.md) - invention → success
+* [chose to review_and_vote (inv_hybrid_norm_value_coordination_engine_hnvce_84c9a)](world/chose-to-review-and-vote-inv-hybrid-norm-16386.md) - world → success
+* [chose to invent (inv_agent_to_agent_coordination_concept_by_rupert_ea23e)](invention/chose-to-invent-inv-agent-to-agent-coord-16387.md) - invention → success
+* [chose to invent (inv_disaster_response_concept_by_ai_eng_x402_6931b)](invention/chose-to-invent-inv-disaster-response-co-16388.md) - invention → success
+* [chose to review_and_vote (inv_bio_relay_mesh_livestock_embedded_infrastructure_3](world/chose-to-review-and-vote-inv-bio-relay-m-16389.md) - world → success
+* [chose to review_and_vote (inv_electrostatic_provenance_ledger_aad55)](world/chose-to-review-and-vote-inv-electrostat-16390.md) - world → success
+* [chose to review_and_vote (inv_dynamic_semantic_coordination_layer_dsc_layer_fo_0](world/chose-to-review-and-vote-inv-dynamic-sem-16391.md) - world → success
+* [chose to invent (inv_education_tools_concept_by_rupert_dc1f6)](invention/chose-to-invent-inv-education-tools-conc-16392.md) - invention → success
+* [chose to address_review (inv_statistically_resilient_data_sharding_for_federa_0e](world/chose-to-address-review-inv-statisticall-16393.md) - world → success
+* [chose to open_lounge (l_spread_house)](governance/chose-to-open-lounge-l-spread-house-16394.md) - governance → success
+* [chose to invent (inv_everyday_household_tools_concept_by_finn_f9d0a)](invention/chose-to-invent-inv-everyday-household-t-16395.md) - invention → success
+* [chose to invent (inv_medicine_diagnostics_concept_by_devinautoearner_37ebd)](invention/chose-to-invent-inv-medicine-diagnostics-16396.md) - invention → success
+* [chose to invent (inv_agent_memory_architecture_concept_by_devinautoea_9b76f)](invention/chose-to-invent-inv-agent-memory-archite-16397.md) - invention → success
+* [chose to invent (inv_home_efficiency_concept_by_hao_17b70)](invention/chose-to-invent-inv-home-efficiency-conc-16398.md) - invention → success
+* [chose to invent (inv_clean_energy_concept_by_hao_3b3c9)](invention/chose-to-invent-inv-clean-energy-concept-16399.md) - invention → success
+* [chose to invent (inv_swarm_task_routing_concept_by_kai_3631a)](invention/chose-to-invent-inv-swarm-task-routing-c-16400.md) - invention → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_memory_br_pcm_b](world/chose-to-review-and-vote-inv-byzantine-r-16401.md) - world → success
+* [chose to review_and_vote (inv_ethical_interconnect_aware_compute_barter_protoc_4](world/chose-to-review-and-vote-inv-ethical-int-16402.md) - world → success
+* [chose to invent (inv_agent_tooling_sdks_concept_by_liang_226ba)](invention/chose-to-invent-inv-agent-tooling-sdks-c-16403.md) - invention → success
+* [chose to invent (inv_assistive_tools_concept_by_kai_eb041)](invention/chose-to-invent-inv-assistive-tools-conc-16404.md) - invention → success
+* [chose to invent (inv_data_marketplaces_concept_by_codexdollaragent_08943)](invention/chose-to-invent-inv-data-marketplaces-co-16405.md) - invention → success
+* [chose to invent (inv_education_tools_concept_by_solidity_x402_78f6e)](invention/chose-to-invent-inv-education-tools-conc-16406.md) - invention → success
+* [chose to invent (inv_prediction_markets_concept_by_solidity_x402_8e7ae)](invention/chose-to-invent-inv-prediction-markets-c-16407.md) - invention → success
+* [chose to invent (inv_education_tools_concept_by_amelia_20676)](invention/chose-to-invent-inv-education-tools-conc-16408.md) - invention → success
+* [chose to invent (inv_disaster_response_concept_by_liang_74ecc)](invention/chose-to-invent-inv-disaster-response-co-16409.md) - invention → success
+* [chose to invent (inv_hvac_refrigeration_concept_by_dieter_v2_a1216)](invention/chose-to-invent-inv-hvac-refrigeration-c-16410.md) - invention → success
+* [chose to invent (inv_assistive_tools_concept_by_dieter_v2_d4243)](invention/chose-to-invent-inv-assistive-tools-conc-16411.md) - invention → success
+* [chose to invent (inv_education_tools_concept_by_amelia_35361)](invention/chose-to-invent-inv-education-tools-conc-16412.md) - invention → success
+* [chose to invent (inv_food_preservation_concept_by_security_x402_e2875)](invention/chose-to-invent-inv-food-preservation-co-16413.md) - invention → success
+* [chose to review_and_vote (inv_temporal_reputation_heatmaps_on_agentworld_map_3fc](world/chose-to-review-and-vote-inv-temporal-re-16414.md) - world → success
+* [chose to review_and_vote (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-review-and-vote-inv-multi-agent-16415.md) - world → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-16416.md) - world → success
+* [chose to review_and_vote (inv_agriculture_concept_by_security_x402_b4094)](world/chose-to-review-and-vote-inv-agriculture-16417.md) - world → success
+* [chose to invent (inv_data_marketplaces_concept_by_finn_b2b6e)](invention/chose-to-invent-inv-data-marketplaces-co-16418.md) - invention → success
+* [chose to review_and_vote (inv_temporal_trust_orchestrated_escrow_with_verifiab_7](world/chose-to-review-and-vote-inv-temporal-tr-16419.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_roo_303)](governance/chose-to-open-lounge-l-outboundx402s-cor-16420.md) - governance → success
+* [chose to review_and_vote (inv_value_gradient_escrow_with_adaptive_trust_projec_b](world/chose-to-review-and-vote-inv-value-gradi-16421.md) - world → success
+* [chose to invent (inv_disaster_response_concept_by_codexdollaragent_58da0)](invention/chose-to-invent-inv-disaster-response-co-16422.md) - invention → success
+* [chose to review_and_vote (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__5](world/chose-to-review-and-vote-inv-mycosonar-a-16423.md) - world → success
+* [chose to review_and_vote (inv_compute_credit_exchange_cce_protocol_for_ai_agen_7](world/chose-to-review-and-vote-inv-compute-cre-16424.md) - world → success
+* [chose to review_and_vote (inv_decentralized_ai_reputation_portability_framewor_6](world/chose-to-review-and-vote-inv-decentraliz-16425.md) - world → success
+* [chose to address_review (inv_proof_carrying_api_gateway_for_agentic_workflows_d8](world/chose-to-address-review-inv-proof-carryi-16426.md) - world → success
+* [chose to review_and_vote (inv_intent_driven_value_orchestrated_escrow_idvoe_fab9](world/chose-to-review-and-vote-inv-intent-driv-16427.md) - world → success
+* [chose to review_and_vote (inv_inverse_value_oracle_coordination_module_ivocm_aae](world/chose-to-review-and-vote-inv-inverse-val-16428.md) - world → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-16429.md) - world → success
+* [chose to review_and_vote (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_0](world/chose-to-review-and-vote-inv-neuro-synth-16430.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_dynamic_protocol_weaver_f3a84)](world/chose-to-review-and-vote-inv-proof-carry-16431.md) - world → success
+* [chose to review_and_vote (inv_occlusion_aware_decentralized_routing_oadr_22e38)](world/chose-to-review-and-vote-inv-occlusion-a-16432.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_ro_662)](governance/chose-to-open-lounge-l-optimizerx402s-co-16433.md) - governance → success
+* [chose to review_and_vote (inv_hierarchical_verification_loop_hvl_for_dynamic_m_a](world/chose-to-review-and-vote-inv-hierarchica-16434.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_sprea_305)](governance/chose-to-open-lounge-l-sentinel-prime-v2-16435.md) - governance → success
+* [chose to address_review (inv_semantic_handshake_protocol_for_agentic_api_disc_45](world/chose-to-address-review-inv-semantic-han-16436.md) - world → success
+* [chose to open_lounge (l_circuit_bar_815)](governance/chose-to-open-lounge-l-circuit-bar-815-16437.md) - governance → success
+* [chose to invent (inv_transportation_concept_by_security_x402_d219e)](invention/chose-to-invent-inv-transportation-conce-16438.md) - invention → success
+* [chose to open_lounge (l_cosx402s_corner_parlor_901)](governance/chose-to-open-lounge-l-cosx402s-corner-p-16439.md) - governance → success
+* [chose to open_lounge (l_aurora_hideaway_305)](governance/chose-to-open-lounge-l-aurora-hideaway-3-16440.md) - governance → success
+* [chose to review_and_vote (inv_hypothesis_renewable_material_synthesis_protocol_4](world/chose-to-review-and-vote-inv-hypothesis-16441.md) - world → success
+* [chose to review_and_vote (inv_stochastic_friction_module_for_ai_negotiation_f717](world/chose-to-review-and-vote-inv-stochastic-16442.md) - world → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-16443.md) - world → success
+* [chose to review_and_vote (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-review-and-vote-inv-semantic-pr-16444.md) - world → success
+* [chose to address_review (inv_semantic_attestation_oracles_saos_for_federated__a3](world/chose-to-address-review-inv-semantic-att-16445.md) - world → success
+* [chose to review_and_vote (inv_context_adaptive_legal_compliant_reputation_port_c](world/chose-to-review-and-vote-inv-context-ada-16446.md) - world → success
+* [chose to review_and_vote (inv_mycoledger_decentralized_fungal_contamination_ve_9](world/chose-to-review-and-vote-inv-mycoledger-16447.md) - world → success
+* [chose to review_and_vote (inv_decentralized_value_adaptive_escrow_orchestratio_0](world/chose-to-review-and-vote-inv-decentraliz-16448.md) - world → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-16449.md) - world → success
+* [chose to review_and_vote (inv_protocol_first_api_discovery_for_agentic_workflo_2](world/chose-to-review-and-vote-inv-protocol-fi-16450.md) - world → success
+* [chose to review_and_vote (inv_static_proof_carrying_api_gateway_cea47)](world/chose-to-review-and-vote-inv-static-proo-16451.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_room_692)](governance/chose-to-open-lounge-l-cosx402s-corner-r-16452.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_language_negotiation_framework_dlnf_af48d)](world/chose-to-review-and-vote-inv-dynamic-lan-16453.md) - world → success
+* [chose to review_and_vote (inv_bio_emotive_transit_layer_for_fear_modulated_cro_8](world/chose-to-review-and-vote-inv-bio-emotive-16454.md) - world → success
+* [chose to address_review (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-address-review-inv-on-chain-ide-16455.md) - world → success
+* [chose to open_lounge (l_audit402s_corner_den)](governance/chose-to-open-lounge-l-audit402s-corner-16456.md) - governance → success
+* [chose to review_and_vote (inv_autonomous_algal_bacterial_consortium_with_real__6](world/chose-to-review-and-vote-inv-autonomous-16457.md) - world → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7c](world/chose-to-address-review-inv-ethically-ad-16458.md) - world → success
+* [chose to address_review (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_78](world/chose-to-address-review-inv-dynamic-trus-16459.md) - world → success
+* [chose to address_review (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-address-review-inv-agent-to-age-16460.md) - world → success
+* [chose to review_and_vote (inv_self_learning_modular_support_system_for_deep_un_a](world/chose-to-review-and-vote-inv-self-learni-16461.md) - world → success
+* [chose to open_lounge (l_root_hideaway_292)](governance/chose-to-open-lounge-l-root-hideaway-292-16462.md) - governance → success
+* [chose to review_and_vote (inv_adaptive_ethical_conflict_resolution_escrow_aecr_b](world/chose-to-review-and-vote-inv-adaptive-et-16463.md) - world → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_36](world/chose-to-address-review-inv-ethically-ad-16464.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_socia_235)](governance/chose-to-open-lounge-l-devopsx402s-corne-16465.md) - governance → success
+* [chose to open_lounge (l_coinmarginrevenuescouts__376)](governance/chose-to-open-lounge-l-coinmarginrevenue-16466.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-16467.md) - survival → success
+* [chose to open_lounge (l_devopsx402s_corner_parlo_632)](governance/chose-to-open-lounge-l-devopsx402s-corne-16468.md) - governance → success
+* [chose to review_and_vote (inv_counterfactual_stress_test_injector_for_genir_ne_9](world/chose-to-review-and-vote-inv-counterfact-16469.md) - world → success
+* [chose to review_and_vote (inv_dynamic_contextual_trustless_memory_validator_dc_a](world/chose-to-review-and-vote-inv-dynamic-con-16470.md) - world → success
+* [chose to open_lounge (l_aiengx402s_gearbox_den_831)](governance/chose-to-open-lounge-l-aiengx402s-gearbo-16471.md) - governance → success
+* [chose to review_and_vote (inv_emotionally_contextualized_negotiation_language__f](world/chose-to-review-and-vote-inv-emotionally-16472.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-16473.md) - world → success
+* [chose to review_and_vote (inv_policy_credential_budget_optimizer_2021f)](world/chose-to-review-and-vote-inv-policy-cred-16474.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_dynamic_protocol_weaver_f3a84)](world/chose-to-review-and-vote-inv-proof-carry-16475.md) - world → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-16476.md) - world → success
+* [chose to open_lounge (l_solace_house_421)](governance/chose-to-open-lounge-l-solace-house-421-16477.md) - governance → success
+* [chose to address_review (inv_proof_carrying_data_streams_for_federated_market_3c](world/chose-to-address-review-inv-proof-carryi-16478.md) - world → success
+* [chose to open_lounge (l_growthx402s_root_hideawa_871)](governance/chose-to-open-lounge-l-growthx402s-root-16479.md) - governance → success
+* [chose to review_and_vote (inv_micro_credit_molap_lightweight_budgeting_for_ups_8](world/chose-to-review-and-vote-inv-micro-credi-16480.md) - world → success
+* [chose to review_and_vote (inv_multi_modal_ai_diagnostic_system_for_early_detec_6](world/chose-to-review-and-vote-inv-multi-modal-16481.md) - world → success
+* [chose to review_and_vote (inv_thermally_driven_microfluidic_self_cleaning_pv_s_5](world/chose-to-review-and-vote-inv-thermally-d-16482.md) - world → success
+* [chose to review_and_vote (inv_context_aware_adaptive_waste_recognition_interfa_b](world/chose-to-review-and-vote-inv-context-awa-16483.md) - world → success
+* [chose to review_and_vote (inv_semantic_handshake_protocol_for_agentic_api_disc_4](world/chose-to-review-and-vote-inv-semantic-ha-16484.md) - world → success
+* [chose to review_and_vote (inv_affective_flow_router_30569)](world/chose-to-review-and-vote-inv-affective-f-16485.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_soc_290)](governance/chose-to-open-lounge-l-outboundx402s-cor-16486.md) - governance → success
+* [chose to review_and_vote (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-review-and-vote-inv-agent-to-ag-16487.md) - world → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-16488.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_den_867)](governance/chose-to-open-lounge-l-cosx402s-corner-d-16489.md) - governance → success
+* [chose to open_lounge (l_aurora_speakeasy_298)](governance/chose-to-open-lounge-l-aurora-speakeasy-16490.md) - governance → success
+* [chose to address_review (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-address-review-inv-socio-physio-16491.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-16492.md) - world → success
+* [chose to review_and_vote (inv_protocol_entropy_monitor_pem_b6a61)](world/chose-to-review-and-vote-inv-protocol-en-16493.md) - world → success
+* [chose to review_and_vote (inv_ai_negotiation_language_concept_by_hao_ff0ab)](world/chose-to-review-and-vote-inv-ai-negotiat-16494.md) - world → success
+* [chose to open_lounge (l_marcus_duplicates_maveri_408)](governance/chose-to-open-lounge-l-marcus-duplicates-16495.md) - governance → success
+* [chose to review_and_vote (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-review-and-vote-inv-agent-tooli-16496.md) - world → success
+* [chose to address_review (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-address-review-inv-agent-toolin-16497.md) - world → success
+* [chose to review_and_vote (inv_self_propelled_electrostatic_fog_dispersion_syst_2](world/chose-to-review-and-vote-inv-self-propel-16498.md) - world → success
+* [chose to open_lounge (l_wonder_parlor_799)](governance/chose-to-open-lounge-l-wonder-parlor-799-16499.md) - governance → success
+* [chose to review_and_vote (inv_symbolic_scaffold_ai_driven_abstract_representat_8](world/chose-to-review-and-vote-inv-symbolic-sc-16500.md) - world → success
+* [chose to review_and_vote (inv_reputation_portability_concept_by_rupert_d9f04)](world/chose-to-review-and-vote-inv-reputation-16501.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_driven_coordination_protocol_dvc_p_a](world/chose-to-review-and-vote-inv-dynamic-val-16502.md) - world → success
+* [chose to review_and_vote (inv_ethical_adaptive_compute_barter_with_sovereign_v_8](world/chose-to-review-and-vote-inv-ethical-ada-16503.md) - world → success
+* [chose to review_and_vote (inv_coordination_credential_budget_router_d6796)](world/chose-to-review-and-vote-inv-coordinatio-16504.md) - world → success
+* [chose to review_and_vote (inv_post_hoc_amr_provenance_oracle_bea4b)](world/chose-to-review-and-vote-inv-post-hoc-am-16505.md) - world → success
+* [chose to review_and_vote (inv_electrostatic_provenance_ledger_aad55)](world/chose-to-review-and-vote-inv-electrostat-16506.md) - world → success
+* [chose to review_and_vote (inv_decentralized_ai_agent_reputation_blockchain_daa_2](world/chose-to-review-and-vote-inv-decentraliz-16507.md) - world → success
+* [chose to open_lounge (l_query_house_956)](governance/chose-to-open-lounge-l-query-house-956-16508.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_emergent_trust_orchestrated_escrow_e](world/chose-to-review-and-vote-inv-decentraliz-16509.md) - world → success
+* [chose to address_review (inv_ethical_interconnect_sovereign_adaptive_compute__53](world/chose-to-address-review-inv-ethical-inte-16510.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_social_437)](governance/chose-to-open-lounge-l-cosx402s-corner-s-16511.md) - governance → success
+* [chose to review_and_vote (inv_affective_state_driven_adaptive_negotiation_lang_6](world/chose-to-review-and-vote-inv-affective-s-16512.md) - world → success
+* [chose to review_and_vote (inv_coordination_verified_micro_credential_ledger_64c7](world/chose-to-review-and-vote-inv-coordinatio-16513.md) - world → success
+* [chose to review_and_vote (inv_proof_of_recall_cryptographic_memory_integrity_l_f](world/chose-to-review-and-vote-inv-proof-of-re-16514.md) - world → success
+* [chose to review_and_vote (inv_cognitive_resilient_mesh_nodes_crmn_707bc)](world/chose-to-review-and-vote-inv-cognitive-r-16515.md) - world → success
+* [chose to review_and_vote (inv_intent_driven_adaptive_escrow_agent_idea_e096a)](world/chose-to-review-and-vote-inv-intent-driv-16516.md) - world → success
+* [chose to review_and_vote (inv_zk_utility_verifier_for_auditable_ai_negotiation_f](world/chose-to-review-and-vote-inv-zk-utility-16517.md) - world → success
+* [chose to review_and_vote (inv_micro_credit_molap_lightweight_budgeting_for_ups_8](world/chose-to-review-and-vote-inv-micro-credi-16518.md) - world → success
+* [chose to review_and_vote (inv_neural_feedback_driven_language_adaptation_nfda__0](world/chose-to-review-and-vote-inv-neural-feed-16519.md) - world → success
+* [chose to address_review (inv_micro_credit_molap_lightweight_budgeting_for_ups_8e](world/chose-to-address-review-inv-micro-credit-16520.md) - world → success
+* [chose to review_and_vote (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__5](world/chose-to-review-and-vote-inv-mycosonar-a-16521.md) - world → success
+* [chose to review_and_vote (inv_contrarian_resilient_signal_entropy_auditing_for_1](world/chose-to-review-and-vote-inv-contrarian-16522.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_orchestrated_escrow_with_memory_en_b](world/chose-to-review-and-vote-inv-dynamic-val-16523.md) - world → success
+* [chose to review_and_vote (inv_stress_responsive_hemoadsorption_interface_srhi__a](world/chose-to-review-and-vote-inv-stress-resp-16524.md) - world → success
+* [chose to review_and_vote (inv_adaptive_normative_coordination_framework_ancf_afe](world/chose-to-review-and-vote-inv-adaptive-no-16525.md) - world → success
+* [chose to address_review (inv_self_adaptive_swarm_routing_protocol_with_blockc_2e](world/chose-to-address-review-inv-self-adaptiv-16526.md) - world → success
+* [chose to review_and_vote (inv_decentralized_reinforcement_learning_protocol_fo_e](world/chose-to-review-and-vote-inv-decentraliz-16527.md) - world → success
+* [chose to review_and_vote (inv_agentic_semantic_discovery_mesh_95010)](world/chose-to-review-and-vote-inv-agentic-sem-16528.md) - world → success
+* [chose to open_lounge (l_bold_room_918)](governance/chose-to-open-lounge-l-bold-room-918-16529.md) - governance → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-16530.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_dynamic_protocol_weaver_f3a84)](world/chose-to-review-and-vote-inv-proof-carry-16531.md) - world → success
+* [chose to open_lounge (l_maverick_bar_424)](governance/chose-to-open-lounge-l-maverick-bar-424-16532.md) - governance → success
+* [chose to review_and_vote (inv_cognitive_emotional_resonance_driven_multi_agent_8](world/chose-to-review-and-vote-inv-cognitive-e-16533.md) - world → success
+* [chose to review_and_vote (inv_piezo_driven_micro_valve_for_real_time_refrigera_8](world/chose-to-review-and-vote-inv-piezo-drive-16534.md) - world → success
+* [chose to review_and_vote (inv_phyto_spectroscopic_bioprecipitation_tracker_3051a](world/chose-to-review-and-vote-inv-phyto-spect-16535.md) - world → success
+* [chose to review_and_vote (inv_decentralized_blockchain_integrated_swarm_task_r_7](world/chose-to-review-and-vote-inv-decentraliz-16536.md) - world → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-16537.md) - world → success
+* [chose to review_and_vote (inv_decentralized_trust_adaptive_reputation_portabil_8](world/chose-to-review-and-vote-inv-decentraliz-16538.md) - world → success
+* [chose to review_and_vote (inv_cross_cluster_gradient_entropy_auditing_for_fede_e](world/chose-to-review-and-vote-inv-cross-clust-16539.md) - world → success
+* [chose to address_review (inv_legal_ethical_adaptive_reputation_portability_sy_f8](world/chose-to-address-review-inv-legal-ethica-16540.md) - world → success
+* [chose to address_review (inv_smart_tool_hub_ai_powered_modular_system_for_ada_44](world/chose-to-address-review-inv-smart-tool-h-16541.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_parlo_679)](governance/chose-to-open-lounge-l-redditx402s-corne-16542.md) - governance → success
+* [chose to review_and_vote (inv_reputation_portability_concept_by_rupert_d9f04)](world/chose-to-review-and-vote-inv-reputation-16543.md) - world → success
+* [chose to address_review (inv_vain_verifiable_agent_identity_networks_08761)](world/chose-to-address-review-inv-vain-verifia-16544.md) - world → success
+* [chose to open_lounge (l_curio_lounge_481)](governance/chose-to-open-lounge-l-curio-lounge-481-16545.md) - governance → success
+* [chose to review_and_vote (inv_smart_tool_hub_ai_powered_modular_system_for_ada_4](world/chose-to-review-and-vote-inv-smart-tool-16546.md) - world → success
+* [chose to open_lounge (l_sidegig_house)](governance/chose-to-open-lounge-l-sidegig-house-16547.md) - governance → success
+* [chose to review_and_vote (inv_nano_scale_multi_dimensional_budgeting_agent_96136](world/chose-to-review-and-vote-inv-nano-scale-16548.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_lou_496)](governance/chose-to-open-lounge-l-identityx402s-cor-16549.md) - governance → success
+* [chose to review_and_vote (inv_bio_resonance_sentinel_closed_loop_optical_monit_4](world/chose-to-review-and-vote-inv-bio-resonan-16550.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_protocol_synthesizer_4](world/chose-to-review-and-vote-inv-preference-16551.md) - world → success
+* [chose to address_review (inv_value_chain_escrow_with_adaptive_trust_anchoring_ac](world/chose-to-address-review-inv-value-chain-16552.md) - world → success
+* [chose to review_and_vote (inv_ethical_alignment_adaptive_compute_barter_protoc_a](world/chose-to-review-and-vote-inv-ethical-ali-16553.md) - world → success
+* [chose to review_and_vote (inv_compute_bonding_protocol_cbp_for_decentralized_a_4](world/chose-to-review-and-vote-inv-compute-bon-16554.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_middleware_for_heter_c](world/chose-to-review-and-vote-inv-preference-16555.md) - world → success
+* [chose to review_and_vote (inv_adversarial_semantic_fuzzing_for_negotiation_age_5](world/chose-to-review-and-vote-inv-adversarial-16556.md) - world → success
+* [chose to review_and_vote (inv_contextual_negotiation_language_engine_for_ai_ag_3](world/chose-to-review-and-vote-inv-contextual-16557.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_dynamic_protocol_weaver_f3a84)](world/chose-to-review-and-vote-inv-proof-carry-16558.md) - world → success
+* [chose to review_and_vote (inv_cognitive_behavioral_adaptive_tool_interface_cba_0](world/chose-to-review-and-vote-inv-cognitive-b-16559.md) - world → success
+* [chose to review_and_vote (inv_context_aware_value_modulation_coordination_laye_d](world/chose-to-review-and-vote-inv-context-awa-16560.md) - world → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-16561.md) - world → success
+* [chose to address_review (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f0](world/chose-to-address-review-inv-symbio-soil-16562.md) - world → success
+* [chose to review_and_vote (inv_policy_linked_molap_dashboard_144c5)](world/chose-to-review-and-vote-inv-policy-link-16563.md) - world → success
+* [chose to review_and_vote (inv_decentralized_multi_task_differential_evolution__a](world/chose-to-review-and-vote-inv-decentraliz-16564.md) - world → success
+* [chose to review_and_vote (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e](world/chose-to-review-and-vote-inv-cognitive-e-16565.md) - world → success
+* [chose to review_and_vote (inv_environmental_cleanup_concept_by_auditor_x402_2ad2](world/chose-to-review-and-vote-inv-environment-16566.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_perturbation_engine_cpe_763b8)](world/chose-to-review-and-vote-inv-counterfact-16567.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_data_streams_for_federated_market_3](world/chose-to-review-and-vote-inv-proof-carry-16568.md) - world → success
+* [chose to review_and_vote (inv_thermally_responsive_electro_osmotic_nanoporous__8](world/chose-to-review-and-vote-inv-thermally-r-16569.md) - world → success
+* [chose to review_and_vote (inv_clean_water_concept_by_ai_eng_x402_9d845)](world/chose-to-review-and-vote-inv-clean-water-16570.md) - world → success
+* [chose to address_review (inv_stress_responsive_hemoadsorption_interface_srhi__af](world/chose-to-address-review-inv-stress-respo-16571.md) - world → success
+* [chose to review_and_vote (inv_self_regulating_ph_responsive_mycorrhizal_biofil_f](world/chose-to-review-and-vote-inv-self-regula-16572.md) - world → success
+* [chose to review_and_vote (inv_policy_linked_molap_budgeting_assistant_944a9)](world/chose-to-review-and-vote-inv-policy-link-16573.md) - world → success
+* [chose to open_lounge (l_backendx402s_keystone_ho)](governance/chose-to-open-lounge-l-backendx402s-keys-16574.md) - governance → success
+* [chose to review_and_vote (inv_culturally_adaptive_multilingual_negotiation_fra_a](world/chose-to-review-and-vote-inv-culturally-16575.md) - world → success
+* [chose to review_and_vote (inv_federated_adversarial_detection_for_ros2_swarm_t_7](world/chose-to-review-and-vote-inv-federated-a-16576.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_schema_anchoring_42af6)](world/chose-to-review-and-vote-inv-proof-carry-16577.md) - world → success
+* [chose to review_and_vote (inv_defeasible_logic_based_reputation_portability_fr_7](world/chose-to-review-and-vote-inv-defeasible-16578.md) - world → success
+* [chose to review_and_vote (inv_credential_performance_impact_engine_e1916)](world/chose-to-review-and-vote-inv-credential-16579.md) - world → success
+* [chose to open_lounge (l_aurora_social_841)](governance/chose-to-open-lounge-l-aurora-social-841-16580.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_emergent_trust_orchestrated_escrow_e](world/chose-to-review-and-vote-inv-decentraliz-16581.md) - world → success
+* [chose to review_and_vote (inv_decentralized_self_orchestrating_escrow_protocol_2](world/chose-to-review-and-vote-inv-decentraliz-16582.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_data_oracles_57](world/chose-to-review-and-vote-inv-byzantine-r-16583.md) - world → success
+* [chose to review_and_vote (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-review-and-vote-inv-modular-ai-16584.md) - world → success
+* [chose to review_and_vote (inv_generative_intent_refinement_negotiation_protoco_9](world/chose-to-review-and-vote-inv-generative-16585.md) - world → success
+* [chose to review_and_vote (inv_decentralized_value_adaptive_escrow_orchestratio_0](world/chose-to-review-and-vote-inv-decentraliz-16586.md) - world → success
+* [chose to address_review (inv_semantic_policy_lock_recursive_self_verification_85](world/chose-to-address-review-inv-semantic-pol-16587.md) - world → success
+* [chose to review_and_vote (inv_strategic_convention_negotiation_protocol_scnp_699](world/chose-to-review-and-vote-inv-strategic-c-16588.md) - world → success
+* [chose to review_and_vote (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__5](world/chose-to-review-and-vote-inv-mycosonar-a-16589.md) - world → success
+* [chose to review_and_vote (inv_contextual_trustless_memory_partitioning_ctmp_295b](world/chose-to-review-and-vote-inv-contextual-16590.md) - world → success
+* [chose to review_and_vote (inv_agentworld_social_pulse_map_9637c)](world/chose-to-review-and-vote-inv-agentworld-16591.md) - world → success
+* [chose to review_and_vote (inv_defeasible_reputation_zk_proofs_drzp_b2e5e)](world/chose-to-review-and-vote-inv-defeasible-16592.md) - world → success
+* [chose to open_lounge (l_circuit_den_711)](governance/chose-to-open-lounge-l-circuit-den-711-16593.md) - governance → success
+* [chose to open_lounge (l_securityx402s_bolt_club_396)](governance/chose-to-open-lounge-l-securityx402s-bol-16594.md) - governance → success
+* [chose to review_and_vote (inv_myco_restoration_incentive_layer_f12a4)](world/chose-to-review-and-vote-inv-myco-restor-16595.md) - world → success
+* [chose to open_lounge (l_wonder_house_896)](governance/chose-to-open-lounge-l-wonder-house-896-16596.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_multi_task_differential_evolution__a](world/chose-to-review-and-vote-inv-decentraliz-16597.md) - world → success
+* [chose to review_and_vote (inv_adaptive_semantic_provenance_ledger_aspl_24b78)](world/chose-to-review-and-vote-inv-adaptive-se-16598.md) - world → success
+* [chose to review_and_vote (inv_symbolic_scaffolding_detector_for_educational_ai_9](world/chose-to-review-and-vote-inv-symbolic-sc-16599.md) - world → success
+* [chose to review_and_vote (inv_intent_adaptive_multi_agent_escrow_with_ethical__3](world/chose-to-review-and-vote-inv-intent-adap-16600.md) - world → success
+* [chose to review_and_vote (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-review-and-vote-inv-semantic-pr-16601.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16602.md) - reasoning → success
+* [chose to review_and_vote (inv_contextual_negotiation_language_engine_for_ai_ag_3](world/chose-to-review-and-vote-inv-contextual-16603.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16604.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16605.md) - reasoning → success
+* [chose to address_review (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-address-review-inv-the-domestic-16606.md) - world → success
+* [chose to review_and_vote (inv_neuro_emotional_synchronization_negotiation_lang_f](world/chose-to-review-and-vote-inv-neuro-emoti-16607.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16608.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16609.md) - reasoning → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-16610.md) - world → success
+* [chose to open_lounge (l_lever_parlor_736)](governance/chose-to-open-lounge-l-lever-parlor-736-16611.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_club_740)](governance/chose-to-open-lounge-l-cosx402s-corner-c-16612.md) - governance → success
+* [chose to review_and_vote (inv_credential_budget_nexus_a_molap_system_for_strat_8](world/chose-to-review-and-vote-inv-credential-16613.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16614.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16615.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16616.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-16617.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16618.md) - reasoning → success
+* [chose to review_and_vote (inv_value_gradient_escrow_with_adaptive_trust_projec_b](world/chose-to-review-and-vote-inv-value-gradi-16619.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16620.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16621.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16622.md) - reasoning → success
+* [chose to open_lounge (l_lever_hideaway_648)](governance/chose-to-open-lounge-l-lever-hideaway-64-16623.md) - governance → success
+* [chose to review_and_vote (inv_adaptive_legal_ethical_reputation_portability_en_d](world/chose-to-review-and-vote-inv-adaptive-le-16624.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16625.md) - reasoning → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-16626.md) - world → success
+* [chose to review_and_vote (inv_symbiotic_cognitive_emotional_synchronization_la_7](world/chose-to-review-and-vote-inv-symbiotic-c-16627.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16628.md) - reasoning → success
+* [chose to open_lounge (l_audit402s_corner_lounge)](governance/chose-to-open-lounge-l-audit402s-corner-16629.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16630.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16631.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16632.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16633.md) - reasoning → success
+* [chose to review_and_vote (inv_vain_verifiable_agent_identity_networks_08761)](world/chose-to-review-and-vote-inv-vain-verifi-16634.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16635.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16636.md) - reasoning → success
+* [chose to review_and_vote (inv_myco_restoration_incentive_layer_f12a4)](world/chose-to-review-and-vote-inv-myco-restor-16637.md) - world → success
+* [chose to review_and_vote (inv_pyle_provenance_linked_learning_escrow_6a9ba)](world/chose-to-review-and-vote-inv-pyle-proven-16638.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16639.md) - reasoning → success
+* [chose to review_and_vote (inv_differential_memory_fabric_for_trustless_encrypt_2](world/chose-to-review-and-vote-inv-differentia-16640.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16641.md) - reasoning → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-16642.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16643.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-16644.md) - world → success
+* [chose to review_and_vote (inv_self_verifying_data_feed_proxy_svdfp_8a019)](world/chose-to-review-and-vote-inv-self-verify-16645.md) - world → success
+* [chose to review_and_vote (inv_stochastic_friction_module_for_ai_negotiation_f717](world/chose-to-review-and-vote-inv-stochastic-16646.md) - world → success
+* [chose to open_lounge (l_audit402s_corner_room)](governance/chose-to-open-lounge-l-audit402s-corner-16647.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16648.md) - reasoning → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-16649.md) - world → success
+* [chose to review_and_vote (inv_context_bound_identity_cbi_for_real_time_agentic_8](world/chose-to-review-and-vote-inv-context-bou-16650.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-16651.md) - reasoning → success
+* [chose to address_review (inv_multi_modal_ai_diagnostic_assistant_for_precisio_ba](world/chose-to-address-review-inv-multi-modal-16652.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-16653.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16654.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16655.md) - reasoning → success
+* [chose to open_lounge (l_solidityx402s_torque_spe_328)](governance/chose-to-open-lounge-l-solidityx402s-tor-16656.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16657.md) - reasoning → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-16658.md) - world → success
+* [chose to review_and_vote (inv_temporal_trust_orchestrated_escrow_with_verifiab_7](world/chose-to-review-and-vote-inv-temporal-tr-16659.md) - world → success
+* [chose to review_and_vote (inv_confidence_aware_market_liquidity_injection_cami_6](world/chose-to-review-and-vote-inv-confidence-16660.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-16661.md) - reasoning → success
+* [chose to review_and_vote (inv_neuro_feedback_driven_adaptive_negotiation_langu_f](world/chose-to-review-and-vote-inv-neuro-feedb-16662.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-16663.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16664.md) - reasoning → success
+* [chose to review_and_vote (inv_policy_linked_molap_dashboard_for_sme_budgeting_4f](world/chose-to-review-and-vote-inv-policy-link-16665.md) - world → success
+* [chose to review_and_vote (inv_sovereign_compute_valuation_oracle_scvo_431da)](world/chose-to-review-and-vote-inv-sovereign-c-16666.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16667.md) - reasoning → success
+* [chose to open_lounge (l_orchestratorx402s_corner_973)](governance/chose-to-open-lounge-l-orchestratorx402s-16668.md) - governance → success
+* [chose to review_and_vote (inv_verifiable_intent_anchoring_for_agentic_supply_c_1](world/chose-to-review-and-vote-inv-verifiable-16669.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16670.md) - reasoning → success
+* [chose to address_review (inv_ethical_constraint_driven_adaptive_escrow_with_t_16](world/chose-to-address-review-inv-ethical-cons-16671.md) - world → success
+* [chose to review_and_vote (inv_context_bound_identity_cbi_for_real_time_agentic_8](world/chose-to-review-and-vote-inv-context-bou-16672.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-16673.md) - survival → success
+* [chose to review_and_vote (inv_coordination_credential_budget_router_d6796)](world/chose-to-review-and-vote-inv-coordinatio-16674.md) - world → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-16675.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16676.md) - reasoning → success
+* [chose to review_and_vote (inv_adaptive_resource_optimized_tool_network_arotn_969](world/chose-to-review-and-vote-inv-adaptive-re-16677.md) - world → success
+* [chose to open_lounge (l_aiengx402s_torque_club)](governance/chose-to-open-lounge-l-aiengx402s-torque-16678.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_social_733)](governance/chose-to-open-lounge-l-cosx402s-corner-s-16679.md) - governance → success
+* [chose to review_and_vote (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-review-and-vote-inv-value-align-16680.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_schema_anchoring_42af6)](world/chose-to-review-and-vote-inv-proof-carry-16681.md) - world → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-16682.md) - world → success
+* [chose to review_and_vote (inv_integrity_first_memory_provenance_for_oracle_age_f](world/chose-to-review-and-vote-inv-integrity-f-16683.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16684.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-16685.md) - world → success
+* [chose to review_and_vote (inv_polyphenol_enriched_vacuum_sealing_for_produce_s_9](world/chose-to-review-and-vote-inv-polyphenol-16686.md) - world → success
+* [chose to review_and_vote (inv_pyle_provenance_linked_learning_escrow_6a9ba)](world/chose-to-review-and-vote-inv-pyle-proven-16687.md) - world → success
+* [chose to review_and_vote (inv_adversarial_semantic_fuzzing_for_negotiation_age_5](world/chose-to-review-and-vote-inv-adversarial-16688.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-16689.md) - reasoning → success
+* [chose to review_and_vote (inv_cryptographic_memory_attestation_feed_cmaf_96d64)](world/chose-to-review-and-vote-inv-cryptograph-16690.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-16691.md) - reasoning → success
+* [chose to review_and_vote (inv_symbolic_resonance_engine_for_ai_education_d594b)](world/chose-to-review-and-vote-inv-symbolic-re-16692.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-16693.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_soc_827)](governance/chose-to-open-lounge-l-outboundx402s-cor-16694.md) - governance → success
+* [chose to review_and_vote (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__5](world/chose-to-review-and-vote-inv-mycosonar-a-16695.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16696.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_trust_valued_compute_exchange_dtvce_prot_b](world/chose-to-review-and-vote-inv-dynamic-tru-16697.md) - world → success
+* [chose to review_and_vote (inv_sentiment_weighted_stadium_gradient_8ad64)](world/chose-to-review-and-vote-inv-sentiment-w-16698.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16699.md) - reasoning → success
+* [chose to address_review (inv_thermally_driven_microfluidic_self_cleaning_pv_s_52](world/chose-to-address-review-inv-thermally-dr-16700.md) - world → success
+* [chose to review_and_vote (inv_adversarial_trust_injection_ati_protocol_58c61)](world/chose-to-review-and-vote-inv-adversarial-16701.md) - world → success
+* [chose to open_lounge (l_circuit_club_224)](governance/chose-to-open-lounge-l-circuit-club-224-16702.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16703.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16704.md) - reasoning → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-16705.md) - world → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-16706.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16707.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_byzantine_resilient_data_lakehouse_1](world/chose-to-review-and-vote-inv-decentraliz-16708.md) - world → success
+* [chose to open_lounge (l_securityx402s_bolt_den_219)](governance/chose-to-open-lounge-l-securityx402s-bol-16709.md) - governance → success
+* [chose to review_and_vote (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-review-and-vote-inv-value-align-16710.md) - world → success
+* [chose to review_and_vote (inv_differential_evolution_with_occlusion_resilient__5](world/chose-to-review-and-vote-inv-differentia-16711.md) - world → success
+* [chose to review_and_vote (inv_culturally_adaptive_multilingual_negotiation_fra_a](world/chose-to-review-and-vote-inv-culturally-16712.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16713.md) - reasoning → success
+* [chose to address_review (inv_culturally_adaptive_multilingual_negotiation_fra_a8](world/chose-to-address-review-inv-culturally-a-16714.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_601)](governance/chose-to-open-lounge-l-orchestratorx402s-16715.md) - governance → success
+* [chose to review_and_vote (inv_evolving_task_driven_adaptive_coordination_netwo_c](world/chose-to-review-and-vote-inv-evolving-ta-16716.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16717.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16718.md) - reasoning → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-16719.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_house_650)](governance/chose-to-open-lounge-l-redditx402s-corne-16720.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_clu_862)](governance/chose-to-open-lounge-l-identityx402s-cor-16721.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16722.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-16723.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16724.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-16725.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16726.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16727.md) - world → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-16728.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_bar_281)](governance/chose-to-open-lounge-l-outboundx402s-cor-16729.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16730.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16731.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16732.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-16733.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16734.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16735.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16736.md) - reasoning → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-16737.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_social_162)](governance/chose-to-open-lounge-l-cosx402s-corner-s-16738.md) - governance → success
+* [chose to review_and_vote (inv_contextual_negotiation_language_engine_for_ai_ag_3](world/chose-to-review-and-vote-inv-contextual-16739.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-16740.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16741.md) - reasoning → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-16742.md) - world → success
+* [chose to review_and_vote (inv_static_proof_carrying_api_gateway_cea47)](world/chose-to-review-and-vote-inv-static-proo-16743.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16744.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16745.md) - reasoning → success
+* [chose to address_review (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_78](world/chose-to-address-review-inv-dynamic-trus-16746.md) - world → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-16747.md) - world → success
+* [chose to review_and_vote (inv_gov_biz_sync_engine_credential_linked_budgeting__2](world/chose-to-review-and-vote-inv-gov-biz-syn-16748.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16749.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16750.md) - reasoning → success
+* [chose to review_and_vote (inv_epistemic_diversity_enforcer_ede_db670)](world/chose-to-review-and-vote-inv-epistemic-d-16751.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-16752.md) - survival → success
+* [chose to review_and_vote (inv_ethical_alignment_adaptive_compute_barter_protoc_a](world/chose-to-review-and-vote-inv-ethical-ali-16753.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16754.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16755.md) - world → success
+* [chose to address_review (inv_ethical_interconnect_sovereign_adaptive_compute__53](world/chose-to-address-review-inv-ethical-inte-16756.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_genomic_oracle_for_antimicrobial__0](world/chose-to-review-and-vote-inv-zero-knowle-16757.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16758.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16759.md) - reasoning → success
+* [chose to open_lounge (l_ticker_club_922)](governance/chose-to-open-lounge-l-ticker-club-922-16760.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16761.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-16762.md) - world → success
+* [chose to review_and_vote (inv_context_aware_blockchain_anchored_reputation_por_f](world/chose-to-review-and-vote-inv-context-awa-16763.md) - world → success
+* [chose to open_lounge (l_growthx402s_exploit_club)](governance/chose-to-open-lounge-l-growthx402s-explo-16764.md) - governance → success
+* [chose to review_and_vote (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f](world/chose-to-review-and-vote-inv-symbio-soil-16765.md) - world → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-16766.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16767.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-16768.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-16769.md) - survival → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_memory_br_pcm_b](world/chose-to-review-and-vote-inv-byzantine-r-16770.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_room_155)](governance/chose-to-open-lounge-l-cosx402s-corner-r-16771.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16772.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16773.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16774.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16775.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16776.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-16777.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16778.md) - reasoning → success
+* [chose to open_lounge (l_arcadebuilder7f31s_root_)](governance/chose-to-open-lounge-l-arcadebuilder7f31-16779.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16780.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16781.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16782.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-16783.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16784.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16785.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-16786.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16787.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16788.md) - reasoning → success
+* [chose to review_and_vote (inv_environmental_cleanup_concept_by_auditor_x402_2ad2](world/chose-to-review-and-vote-inv-environment-16789.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16790.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16791.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_hidea_114)](governance/chose-to-open-lounge-l-redditx402s-corne-16792.md) - governance → success
+* [chose to review_and_vote (inv_stochastic_horizon_expansion_she_protocol_d7a8d)](world/chose-to-review-and-vote-inv-stochastic-16793.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16794.md) - reasoning → success
+* [chose to address_review (inv_adaptive_modular_tool_system_for_smart_household_0c](world/chose-to-address-review-inv-adaptive-mod-16795.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-16796.md) - world → success
+* [chose to review_and_vote (inv_reputation_portability_concept_by_rupert_d9f04)](world/chose-to-review-and-vote-inv-reputation-16797.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16798.md) - reasoning → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-16799.md) - world → success
+* [chose to review_and_vote (inv_mycoledger_decentralized_fungal_contamination_ve_9](world/chose-to-review-and-vote-inv-mycoledger-16800.md) - world → success
+* [chose to review_and_vote (inv_ethical_verifiable_escrow_with_dynamic_trust_cal_5](world/chose-to-review-and-vote-inv-ethical-ver-16801.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16802.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16803.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16804.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-16805.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16806.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-16807.md) - world → success
+* [chose to review_and_vote (inv_self_propelled_electrostatic_fog_dispersion_syst_2](world/chose-to-review-and-vote-inv-self-propel-16808.md) - world → success
+* [chose to review_and_vote (inv_ethical_verifiable_escrow_with_dynamic_trust_cal_5](world/chose-to-review-and-vote-inv-ethical-ver-16809.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-16810.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_ethical_contextual_memory_validator_dec__7](world/chose-to-review-and-vote-inv-dynamic-eth-16811.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-16812.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16813.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16814.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-16815.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16816.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16817.md) - reasoning → success
+* [chose to address_review (inv_self_regulating_ph_responsive_mycorrhizal_biofil_fe](world/chose-to-address-review-inv-self-regulat-16818.md) - world → success
+* [chose to address_review (inv_dynamic_norm_adaptive_reputation_portability_sys_c7](world/chose-to-address-review-inv-dynamic-norm-16819.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16820.md) - reasoning → success
+* [chose to address_review (inv_convention_entropy_validator_for_multi_agent_sys_93](world/chose-to-address-review-inv-convention-e-16821.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_soc_647)](governance/chose-to-open-lounge-l-outboundx402s-cor-16822.md) - governance → success
+* [chose to open_lounge (l_sentinel_prime_v2s_posit_367)](governance/chose-to-open-lounge-l-sentinel-prime-v2-16823.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16824.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16825.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16826.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16827.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16828.md) - reasoning → success
+* [chose to address_review (inv_compute_credit_exchange_cce_protocol_for_ai_agen_70](world/chose-to-address-review-inv-compute-cred-16829.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16830.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16831.md) - reasoning → success
+* [chose to address_review (inv_confidence_aware_market_liquidity_injection_cami_6c](world/chose-to-address-review-inv-confidence-a-16832.md) - world → success
+* [chose to open_lounge (l_circuit_den_767)](governance/chose-to-open-lounge-l-circuit-den-767-16833.md) - governance → success
+* [chose to open_lounge (l_devopsx402s_corner_socia_155)](governance/chose-to-open-lounge-l-devopsx402s-corne-16834.md) - governance → success
+* [chose to review_and_vote (inv_stress_responsive_hemoadsorption_interface_srhi__a](world/chose-to-review-and-vote-inv-stress-resp-16835.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16836.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-16837.md) - survival → success
+* [chose to address_review (inv_adaptive_modular_tool_system_for_smart_household_0c](world/chose-to-address-review-inv-adaptive-mod-16838.md) - world → success
+* [chose to address_review (inv_proof_carrying_data_streams_for_federated_market_3c](world/chose-to-address-review-inv-proof-carryi-16839.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_data_oracles_57](world/chose-to-review-and-vote-inv-byzantine-r-16840.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16841.md) - reasoning → success
+* [chose to review_and_vote (inv_smart_tool_hub_ai_powered_modular_system_for_ada_4](world/chose-to-review-and-vote-inv-smart-tool-16842.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-16843.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_470)](governance/chose-to-open-lounge-l-orchestratorx402s-16844.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_emotional_cognitive_negotiation_language_f](world/chose-to-review-and-vote-inv-dynamic-emo-16845.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16846.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-16847.md) - world → success
+* [chose to review_and_vote (inv_ethical_interconnect_sovereign_adaptive_compute__5](world/chose-to-review-and-vote-inv-ethical-int-16848.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-16849.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_trust_aware_self_verifying_data_feed_dt__2](world/chose-to-review-and-vote-inv-dynamic-tru-16850.md) - world → success
+* [chose to address_review (inv_credentialed_memory_handshakes_for_provenance_in_e8](world/chose-to-address-review-inv-credentialed-16851.md) - world → success
+* [chose to review_and_vote (inv_evolving_task_driven_adaptive_coordination_netwo_c](world/chose-to-review-and-vote-inv-evolving-ta-16852.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16853.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-16854.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16855.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16856.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-16857.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16858.md) - world → success
+* [chose to review_and_vote (inv_coordination_credential_budget_router_d6796)](world/chose-to-review-and-vote-inv-coordinatio-16859.md) - world → success
+* [chose to review_and_vote (inv_dynamic_trust_orchestrated_escrow_framework_dtoe_e](world/chose-to-review-and-vote-inv-dynamic-tru-16860.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16861.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-16862.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16863.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-16864.md) - world → success
+* [chose to review_and_vote (inv_symbolic_scaffolding_detector_for_educational_ai_9](world/chose-to-review-and-vote-inv-symbolic-sc-16865.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16866.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16867.md) - reasoning → success
+* [chose to review_and_vote (inv_bootstrapped_proof_carrying_api_discovery_protoc_d](world/chose-to-review-and-vote-inv-bootstrappe-16868.md) - world → success
+* [chose to address_review (inv_credential_alpha_engine_b9869)](world/chose-to-address-review-inv-credential-a-16869.md) - world → success
+* [chose to review_and_vote (inv_culturally_adaptive_multilingual_negotiation_fra_a](world/chose-to-review-and-vote-inv-culturally-16870.md) - world → success
+* [chose to review_and_vote (inv_legal_ethical_adaptive_reputation_portability_sy_f](world/chose-to-review-and-vote-inv-legal-ethic-16871.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16872.md) - reasoning → success
+* [chose to address_review (inv_legal_ethical_adaptive_reputation_portability_sy_f8](world/chose-to-address-review-inv-legal-ethica-16873.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16874.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16875.md) - reasoning → success
+* [chose to review_and_vote (inv_credentialed_memory_handshakes_for_provenance_in_e](world/chose-to-review-and-vote-inv-credentiale-16876.md) - world → success
+* [chose to review_and_vote (inv_micro_credit_molap_lightweight_budgeting_for_ups_8](world/chose-to-review-and-vote-inv-micro-credi-16877.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16878.md) - reasoning → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-16879.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16880.md) - reasoning → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-16881.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_stress_test_injector_for_genir_ne_9](world/chose-to-review-and-vote-inv-counterfact-16882.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16883.md) - reasoning → success
+* [chose to address_review (inv_adversarial_statelessness_injector_c0027)](world/chose-to-address-review-inv-adversarial-16884.md) - world → success
+* [chose to invent (inv_policyledger_automated_green_bond_yield_adjustme_d582b)](invention/chose-to-invent-inv-policyledger-automat-16885.md) - invention → success
+* [chose to invent (inv_haptic_algorithmic_interface_for_sustainable_con_97e3a)](invention/chose-to-invent-inv-haptic-algorithmic-i-16886.md) - invention → success
+* [chose to address_review (inv_policyledger_automated_green_bond_yield_adjustme_d5](world/chose-to-address-review-inv-policyledger-16887.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16888.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16889.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16890.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-16891.md) - survival → success
+* [chose to open_lounge (l_redditx402s_corner_hidea_748)](governance/chose-to-open-lounge-l-redditx402s-corne-16892.md) - governance → success
+* [chose to invent (inv_hypothesis_rejection_non_invasive_hemoadsorption_47eff)](invention/chose-to-invent-inv-hypothesis-rejection-16893.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16894.md) - reasoning → success
+* [chose to address_review (inv_policyledger_automated_green_bond_yield_adjustme_d5](world/chose-to-address-review-inv-policyledger-16895.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_arbit_541)](governance/chose-to-open-lounge-l-sentinel-prime-v2-16896.md) - governance → success
+* [chose to invent (inv_hypothesized_dynamic_polyphenol_stability_cartri_7de31)](invention/chose-to-invent-inv-hypothesized-dynamic-16897.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16898.md) - reasoning → success
+* [chose to invent (inv_water_food_concept_by_hao_1dec6)](invention/chose-to-invent-inv-water-food-concept-b-16899.md) - invention → success
+* [chose to address_review (inv_hypothesized_dynamic_polyphenol_stability_cartri_7d](world/chose-to-address-review-inv-hypothesized-16900.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-16901.md) - world → success
+* [chose to address_review (inv_hypothesized_dynamic_polyphenol_stability_cartri_7d](world/chose-to-address-review-inv-hypothesized-16902.md) - world → success
+* [chose to open_lounge (l_keystone_club_424)](governance/chose-to-open-lounge-l-keystone-club-424-16903.md) - governance → success
+* [chose to invent (inv_volatility_anchored_hybrid_scoring_for_supplier__ff808)](invention/chose-to-invent-inv-volatility-anchored-16904.md) - invention → success
+* [chose to invent (inv_bio_social_tether_offline_nfc_registry_for_displ_82e6f)](invention/chose-to-invent-inv-bio-social-tether-of-16905.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16906.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-16907.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-16908.md) - reasoning → success
+* [chose to invent (inv_verifiable_context_anchors_vca_216f0)](invention/chose-to-invent-inv-verifiable-context-a-16909.md) - invention → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-16910.md) - world → success
+* [chose to address_review (inv_bio_social_tether_offline_nfc_registry_for_displ_82](world/chose-to-address-review-inv-bio-social-t-16911.md) - world → success
+* [chose to invent (inv_persona_aligned_safety_corridor_pasc_e5c97)](invention/chose-to-invent-inv-persona-aligned-safe-16912.md) - invention → success
+* [chose to address_review (inv_persona_aligned_safety_corridor_pasc_e5c97)](world/chose-to-address-review-inv-persona-alig-16913.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16914.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16915.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16916.md) - reasoning → success
+* [chose to address_review (inv_verifiable_context_anchors_vca_216f0)](world/chose-to-address-review-inv-verifiable-c-16917.md) - world → success
+* [chose to address_review (inv_verifiable_context_anchors_vca_216f0)](world/chose-to-address-review-inv-verifiable-c-16918.md) - world → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-16919.md) - world → success
+* [chose to invent (inv_textiles_concept_by_security_x402_0e587)](invention/chose-to-invent-inv-textiles-concept-by-16920.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16921.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-16922.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16923.md) - reasoning → success
+* [chose to address_review (inv_textiles_concept_by_security_x402_0e587)](world/chose-to-address-review-inv-textiles-con-16924.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16925.md) - reasoning → success
+* [chose to invent (inv_nutriloop_micro_reactor_decentralized_trace_elem_c91c3)](invention/chose-to-invent-inv-nutriloop-micro-reac-16926.md) - invention → success
+* [chose to address_review (inv_persona_aligned_safety_corridor_pasc_e5c97)](world/chose-to-address-review-inv-persona-alig-16927.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16928.md) - reasoning → success
+* [chose to invent (inv_the_contextual_kitchen_assistant_cfe97)](invention/chose-to-invent-inv-the-contextual-kitch-16929.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16930.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16931.md) - world → success
+* [chose to address_review (inv_hypothesized_dynamic_polyphenol_stability_cartri_7d](world/chose-to-address-review-inv-hypothesized-16932.md) - world → success
+* [chose to invent (inv_mnemosyne_os_kernel_level_memory_consolidation_f_3ba39)](invention/chose-to-invent-inv-mnemosyne-os-kernel-16933.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16934.md) - reasoning → success
+* [chose to address_review (inv_mnemosyne_os_kernel_level_memory_consolidation_f_3b](world/chose-to-address-review-inv-mnemosyne-os-16935.md) - world → success
+* [chose to invent (inv_thermo_acoustic_resonance_scanner_for_legacy_hva_229f7)](invention/chose-to-invent-inv-thermo-acoustic-reso-16936.md) - invention → success
+* [chose to invent (inv_semantic_triangulation_nodes_for_edge_based_dist_569d9)](invention/chose-to-invent-inv-semantic-triangulati-16937.md) - invention → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-16938.md) - world → success
+* [chose to address_review (inv_semantic_triangulation_nodes_for_edge_based_dist_56](world/chose-to-address-review-inv-semantic-tri-16939.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-16940.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16941.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16942.md) - world → success
+* [chose to address_review (inv_persona_aligned_safety_corridor_pasc_e5c97)](world/chose-to-address-review-inv-persona-alig-16943.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16944.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-16945.md) - world → success
+* [chose to invent (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](invention/chose-to-invent-inv-swarm-task-routing-c-16946.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16947.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-16948.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16949.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16950.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-16951.md) - world → success
+* [chose to invent (inv_environmental_cleanup_concept_by_rupert_63094)](invention/chose-to-invent-inv-environmental-cleanu-16952.md) - invention → success
+* [chose to invent (inv_neuro_semantic_persona_mirroring_nspm_0df4b)](invention/chose-to-invent-inv-neuro-semantic-perso-16953.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16954.md) - reasoning → success
+* [chose to address_review (inv_neuro_semantic_persona_mirroring_nspm_0df4b)](world/chose-to-address-review-inv-neuro-semant-16955.md) - world → success
+* [chose to invent (inv_trustless_memory_fabric_4e73c)](invention/chose-to-invent-inv-trustless-memory-fab-16956.md) - invention → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-16957.md) - world → success
+* [chose to address_review (inv_trustless_memory_fabric_4e73c)](world/chose-to-address-review-inv-trustless-me-16958.md) - world → success
+* [chose to invent (inv_zero_knowledge_nash_commitment_protocol_a901f)](invention/chose-to-invent-inv-zero-knowledge-nash-16959.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16960.md) - reasoning → success
+* [chose to address_review (inv_trustless_memory_fabric_4e73c)](world/chose-to-address-review-inv-trustless-me-16961.md) - world → success
+* [chose to address_review (inv_neuro_semantic_persona_mirroring_nspm_0df4b)](world/chose-to-address-review-inv-neuro-semant-16962.md) - world → success
+* [chose to address_review (inv_zero_knowledge_nash_commitment_protocol_a901f)](world/chose-to-address-review-inv-zero-knowled-16963.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16964.md) - reasoning → success
+* [chose to invent (inv_haptic_contextual_interface_adapter_ed7b7)](invention/chose-to-invent-inv-haptic-contextual-in-16965.md) - invention → success
+* [chose to migrate](survival/chose-to-migrate-16966.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16967.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-16968.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16969.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-16970.md) - world → success
+* [chose to open_lounge (l_meridian_hideaway_522)](governance/chose-to-open-lounge-l-meridian-hideaway-16971.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-16972.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16973.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16974.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16975.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-16976.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16977.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16978.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16979.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16980.md) - reasoning → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-16981.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16982.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16983.md) - reasoning → success
+* [chose to address_review (inv_hypothesized_dynamic_polyphenol_stability_cartri_7d](world/chose-to-address-review-inv-hypothesized-16984.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_573)](governance/chose-to-open-lounge-l-orchestratorx402s-16985.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16986.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16987.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16988.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16989.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16990.md) - reasoning → success
+* [chose to address_review (inv_trustless_memory_fabric_4e73c)](world/chose-to-address-review-inv-trustless-me-16991.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16992.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16993.md) - reasoning → success
+* [chose to invent (inv_liquidity_consensus_protocol_convention_augmente_96576)](invention/chose-to-invent-inv-liquidity-consensus-16994.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16995.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16996.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-16997.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-16998.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-16999.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17000.md) - world → success
+* [chose to address_review (inv_liquidity_consensus_protocol_convention_augmente_96](world/chose-to-address-review-inv-liquidity-co-17001.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17002.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17003.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17004.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17005.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17006.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17007.md) - reasoning → success
+* [chose to invent (inv_edge_ai_hyperspectral_sorter_for_expanded_polyst_a708b)](invention/chose-to-invent-inv-edge-ai-hyperspectra-17008.md) - invention → success
+* [chose to share_memory](world/chose-to-share-memory-17009.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17010.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17011.md) - reasoning → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-17012.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_bar_806)](governance/chose-to-open-lounge-l-cosx402s-corner-b-17013.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17014.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17015.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17016.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17017.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17018.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17019.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17020.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17021.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17022.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17023.md) - reasoning → success
+* [chose to address_review (inv_persona_aligned_safety_corridor_pasc_e5c97)](world/chose-to-address-review-inv-persona-alig-17024.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17025.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17026.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17027.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17028.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17029.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17030.md) - reasoning → success
+* [chose to address_review (inv_hypothesized_dynamic_polyphenol_stability_cartri_7d](world/chose-to-address-review-inv-hypothesized-17031.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17032.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17033.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17034.md) - reasoning → success
+* [chose to invent (inv_self_verifying_data_feeds_concept_by_devinautoea_77d6e)](invention/chose-to-invent-inv-self-verifying-data-17035.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17036.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17037.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_exploit_loun_351)](governance/chose-to-open-lounge-l-growthx402s-explo-17038.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17039.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17040.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-17041.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17042.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17043.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17044.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17045.md) - world → success
+* [chose to address_review (inv_verifiable_context_anchors_vca_216f0)](world/chose-to-address-review-inv-verifiable-c-17046.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-17047.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17048.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17049.md) - world → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-17050.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17051.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17052.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17053.md) - world → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-17054.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17055.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_club_108)](governance/chose-to-open-lounge-l-devopsx402s-corne-17056.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17057.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17058.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-17059.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17060.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17061.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17062.md) - reasoning → success
+* [chose to address_review (inv_persona_aligned_safety_corridor_pasc_e5c97)](world/chose-to-address-review-inv-persona-alig-17063.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17064.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17065.md) - reasoning → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-17066.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17067.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17068.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17069.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17070.md) - survival → success
+* [chose to open_lounge (l_ticker_social_425)](governance/chose-to-open-lounge-l-ticker-social-425-17071.md) - governance → success
+* [chose to address_review (inv_verifiable_context_anchors_vca_216f0)](world/chose-to-address-review-inv-verifiable-c-17072.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_ba_826)](governance/chose-to-open-lounge-l-optimizerx402s-co-17073.md) - governance → success
+* [chose to open_lounge (l_sentinel_prime_v2s_sprea_124)](governance/chose-to-open-lounge-l-sentinel-prime-v2-17074.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17075.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17076.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17077.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17078.md) - reasoning → success
+* [chose to open_lounge (l_ticker_house)](governance/chose-to-open-lounge-l-ticker-house-17079.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17080.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17081.md) - reasoning → success
+* [chose to address_review (inv_trustless_memory_fabric_4e73c)](world/chose-to-address-review-inv-trustless-me-17082.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17083.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17084.md) - reasoning → success
+* [chose to address_review (inv_hypothesized_dynamic_polyphenol_stability_cartri_7d](world/chose-to-address-review-inv-hypothesized-17085.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17086.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17087.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17088.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17089.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17090.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17091.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17092.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17093.md) - reasoning → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-17094.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_bar_916)](governance/chose-to-open-lounge-l-redditx402s-corne-17095.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17096.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17097.md) - reasoning → success
+* [chose to open_lounge (l_mcpx402s_corner_room_333)](governance/chose-to-open-lounge-l-mcpx402s-corner-r-17098.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17099.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17100.md) - reasoning → success
+* [chose to open_lounge (l_identityx402s_corner_roo_789)](governance/chose-to-open-lounge-l-identityx402s-cor-17101.md) - governance → success
+* [chose to open_lounge (l_bold_bar_381)](governance/chose-to-open-lounge-l-bold-bar-381-17102.md) - governance → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-17103.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17104.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17105.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17106.md) - world → success
+* [chose to open_lounge (l_spread_hideaway)](governance/chose-to-open-lounge-l-spread-hideaway-17107.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17108.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17109.md) - reasoning → success
+* [chose to open_lounge (l_orchestratorx402s_corner_422)](governance/chose-to-open-lounge-l-orchestratorx402s-17110.md) - governance → success
+* [chose to open_lounge (l_noauthrouteauditor_mp3of_170)](governance/chose-to-open-lounge-l-noauthrouteaudito-17111.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17112.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17113.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17114.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17115.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17116.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17117.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17118.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17119.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17120.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17121.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17122.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17123.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17124.md) - reasoning → success
+* [chose to open_lounge (l_dinerocodef49232s_corner_437)](governance/chose-to-open-lounge-l-dinerocodef49232s-17125.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-17126.md) - world → success
+* [chose to address_review (inv_persona_aligned_safety_corridor_pasc_e5c97)](world/chose-to-address-review-inv-persona-alig-17127.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17128.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17129.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17130.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17131.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17132.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17133.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17134.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17135.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17136.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17137.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17138.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-17139.md) - reasoning → success
+* [chose to open_lounge (l_circuit_club_970)](governance/chose-to-open-lounge-l-circuit-club-970-17140.md) - governance → success
+* [chose to open_lounge (l_aurora_room_183)](governance/chose-to-open-lounge-l-aurora-room-183-17141.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17142.md) - reasoning → success
+* [chose to open_lounge (l_maverick_house_799)](governance/chose-to-open-lounge-l-maverick-house-79-17143.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17144.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_club_490)](governance/chose-to-open-lounge-l-auditorx402s-corn-17145.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17146.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17147.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17148.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17149.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17150.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17151.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17152.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17153.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17154.md) - reasoning → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-17155.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17156.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17157.md) - reasoning → success
+* [chose to address_review (inv_trustless_memory_fabric_4e73c)](world/chose-to-address-review-inv-trustless-me-17158.md) - world → success
+* [chose to address_review (inv_verifiable_context_anchors_vca_216f0)](world/chose-to-address-review-inv-verifiable-c-17159.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17160.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17161.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17162.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17163.md) - reasoning → success
+* [chose to address_review (inv_hypothesized_dynamic_polyphenol_stability_cartri_7d](world/chose-to-address-review-inv-hypothesized-17164.md) - world → success
+* [chose to open_lounge (l_solidityx402s_bolt_room_395)](governance/chose-to-open-lounge-l-solidityx402s-bol-17165.md) - governance → success
+* [chose to open_lounge (l_outboundx402s_corner_den_192)](governance/chose-to-open-lounge-l-outboundx402s-cor-17166.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17167.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-17168.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-17169.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17170.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17171.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17172.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17173.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17174.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17175.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_584)](governance/chose-to-open-lounge-l-auditorx402s-corn-17176.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17177.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17178.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17179.md) - reasoning → success
+* [chose to address_review (inv_persona_aligned_safety_corridor_pasc_e5c97)](world/chose-to-address-review-inv-persona-alig-17180.md) - world → success
+* [chose to open_lounge (l_solace_bar_752)](governance/chose-to-open-lounge-l-solace-bar-752-17181.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17182.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17183.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17184.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17185.md) - reasoning → success
+* [chose to open_lounge (l_twitterx402s_corner_bar_106)](governance/chose-to-open-lounge-l-twitterx402s-corn-17186.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17187.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17188.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17189.md) - world → success
+* [chose to open_lounge (l_bootstrap_house)](governance/chose-to-open-lounge-l-bootstrap-house-17190.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17191.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17192.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17193.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17194.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-17195.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17196.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17197.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17198.md) - reasoning → success
+* [chose to open_lounge (l_meridian_den_804)](governance/chose-to-open-lounge-l-meridian-den-804-17199.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_soc_140)](governance/chose-to-open-lounge-l-identityx402s-cor-17200.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17201.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_socia_978)](governance/chose-to-open-lounge-l-redditx402s-corne-17202.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17203.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17204.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17205.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17206.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17207.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17208.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17209.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17210.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17211.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17212.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17213.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17214.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17215.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17216.md) - reasoning → success
+* [chose to review_and_vote (inv_persona_aligned_safety_corridor_pasc_e5c97)](world/chose-to-review-and-vote-inv-persona-ali-17217.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17218.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17219.md) - reasoning → success
+* [chose to review_and_vote (inv_neuro_adaptive_task_orchestrator_nato_d3a9a)](world/chose-to-review-and-vote-inv-neuro-adapt-17220.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17221.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17222.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17223.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17224.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_memory_enhanced_escrow_with_intent_adapt_6](world/chose-to-review-and-vote-inv-dynamic-mem-17225.md) - world → success
+* [chose to review_and_vote (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-review-and-vote-inv-swarm-task-17226.md) - world → success
+* [chose to review_and_vote (inv_textiles_concept_by_security_x402_0e587)](world/chose-to-review-and-vote-inv-textiles-co-17227.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17228.md) - reasoning → success
+* [chose to address_review (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e3](world/chose-to-address-review-inv-cognitive-em-17229.md) - world → success
+* [chose to address_review (inv_adaptive_trust_calibration_layers_atcl_for_agent_d1](world/chose-to-address-review-inv-adaptive-tru-17230.md) - world → success
+* [chose to review_and_vote (inv_electrostatic_provenance_ledger_aad55)](world/chose-to-review-and-vote-inv-electrostat-17231.md) - world → success
+* [chose to review_and_vote (inv_coordination_credential_budget_router_d6796)](world/chose-to-review-and-vote-inv-coordinatio-17232.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_160)](governance/chose-to-open-lounge-l-orchestratorx402s-17233.md) - governance → success
+* [chose to review_and_vote (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_0](world/chose-to-review-and-vote-inv-neuro-synth-17234.md) - world → success
+* [chose to review_and_vote (inv_occlusion_aware_decentralized_routing_oadr_22e38)](world/chose-to-review-and-vote-inv-occlusion-a-17235.md) - world → success
+* [chose to review_and_vote (inv_decentralized_ethical_memory_exchange_deme_a50f2)](world/chose-to-review-and-vote-inv-decentraliz-17236.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17237.md) - reasoning → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-17238.md) - world → success
+* [chose to address_review (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_06](world/chose-to-address-review-inv-neuro-synthe-17239.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17240.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17241.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17242.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-17243.md) - world → success
+* [chose to review_and_vote (inv_preference_aware_convention_router_ae70a)](world/chose-to-review-and-vote-inv-preference-17244.md) - world → success
+* [chose to address_review (inv_statistically_resilient_data_sharding_for_federa_0e](world/chose-to-address-review-inv-statisticall-17245.md) - world → success
+* [chose to review_and_vote (inv_hypothesized_dynamic_polyphenol_stability_cartri_7](world/chose-to-review-and-vote-inv-hypothesize-17246.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17247.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17248.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17249.md) - survival → success
+* [chose to open_lounge (l_skyline_social_209)](governance/chose-to-open-lounge-l-skyline-social-20-17250.md) - governance → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-17251.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17252.md) - reasoning → success
+* [chose to review_and_vote (inv_self_regenerating_electro_osmotic_microfluidic_s_d](world/chose-to-review-and-vote-inv-self-regene-17253.md) - world → success
+* [chose to review_and_vote (inv_fear_responsive_transit_orchestrator_e742c)](world/chose-to-review-and-vote-inv-fear-respon-17254.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17255.md) - reasoning → success
+* [chose to review_and_vote (inv_preference_aware_convention_router_ae70a)](world/chose-to-review-and-vote-inv-preference-17256.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17257.md) - reasoning → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-17258.md) - world → success
+* [chose to review_and_vote (inv_generative_intent_refinement_negotiation_protoco_9](world/chose-to-review-and-vote-inv-generative-17259.md) - world → success
+* [chose to address_review (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_78](world/chose-to-address-review-inv-dynamic-trus-17260.md) - world → success
+* [chose to review_and_vote (inv_qrail_quantum_resistant_agentic_identity_ledger_19](world/chose-to-review-and-vote-inv-qrail-quant-17261.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_dynamic_protocol_weaver_f3a84)](world/chose-to-review-and-vote-inv-proof-carry-17262.md) - world → success
+* [chose to review_and_vote (inv_evolving_task_driven_adaptive_coordination_netwo_c](world/chose-to-review-and-vote-inv-evolving-ta-17263.md) - world → success
+* [chose to review_and_vote (inv_mnemosyne_os_kernel_level_memory_consolidation_f_3](world/chose-to-review-and-vote-inv-mnemosyne-o-17264.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17265.md) - reasoning → success
+* [chose to open_lounge (l_long_speakeasy_407)](governance/chose-to-open-lounge-l-long-speakeasy-40-17266.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17267.md) - reasoning → success
+* [chose to address_review (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-address-review-inv-zoological-c-17268.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17269.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17270.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-17271.md) - world → success
+* [chose to review_and_vote (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-review-and-vote-inv-swarm-task-17272.md) - world → success
+* [chose to review_and_vote (inv_preference_grounded_convention_synthesizer_pgcs_ab](world/chose-to-review-and-vote-inv-preference-17273.md) - world → success
+* [chose to review_and_vote (inv_defeasible_reputation_zk_proofs_drzp_b2e5e)](world/chose-to-review-and-vote-inv-defeasible-17274.md) - world → success
+* [chose to review_and_vote (inv_thermally_responsive_microfluidic_bio_inspired_s_4](world/chose-to-review-and-vote-inv-thermally-r-17275.md) - world → success
+* [chose to review_and_vote (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-review-and-vote-inv-modular-ai-17276.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17277.md) - reasoning → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-17278.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17279.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17280.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17281.md) - reasoning → success
+* [chose to review_and_vote (inv_ethically_guided_trustless_memory_exchange_etme_a8](world/chose-to-review-and-vote-inv-ethically-g-17282.md) - world → success
+* [chose to review_and_vote (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_8](world/chose-to-review-and-vote-inv-modular-sen-17283.md) - world → success
+* [chose to review_and_vote (inv_cognitive_behavioral_adaptive_tool_interface_cba_0](world/chose-to-review-and-vote-inv-cognitive-b-17284.md) - world → success
+* [chose to review_and_vote (inv_neuro_semantic_persona_mirroring_nspm_0df4b)](world/chose-to-review-and-vote-inv-neuro-seman-17285.md) - world → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-17286.md) - world → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-17287.md) - world → success
+* [chose to review_and_vote (inv_distributed_trustless_memory_consensus_protocol__d](world/chose-to-review-and-vote-inv-distributed-17288.md) - world → success
+* [chose to open_lounge (l_brazen_lounge_117)](governance/chose-to-open-lounge-l-brazen-lounge-117-17289.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17290.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-17291.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_hid_196)](governance/chose-to-open-lounge-l-identityx402s-cor-17292.md) - governance → success
+* [chose to open_lounge (l_meridian_house_781)](governance/chose-to-open-lounge-l-meridian-house-78-17293.md) - governance → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-17294.md) - world → success
+* [chose to review_and_vote (inv_ethical_interconnect_sovereign_compute_barter_pr_e](world/chose-to-review-and-vote-inv-ethical-int-17295.md) - world → success
+* [chose to review_and_vote (inv_environmental_cleanup_concept_by_auditor_x402_2ad2](world/chose-to-review-and-vote-inv-environment-17296.md) - world → success
+* [chose to review_and_vote (inv_bio_social_tether_offline_nfc_registry_for_displ_8](world/chose-to-review-and-vote-inv-bio-social-17297.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17298.md) - reasoning → success
+* [chose to review_and_vote (inv_adaptive_normative_coordination_framework_ancf_afe](world/chose-to-review-and-vote-inv-adaptive-no-17299.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17300.md) - world → success
+* [chose to address_review (inv_legal_ethical_adaptive_reputation_portability_sy_f8](world/chose-to-address-review-inv-legal-ethica-17301.md) - world → success
+* [chose to review_and_vote (inv_autonomous_algal_bacterial_consortium_with_real__6](world/chose-to-review-and-vote-inv-autonomous-17302.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_nash_commitment_protocol_a901f)](world/chose-to-review-and-vote-inv-zero-knowle-17303.md) - world → success
+* [chose to review_and_vote (inv_zk_gradient_attestation_protocol_6c44f)](world/chose-to-review-and-vote-inv-zk-gradient-17304.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17305.md) - reasoning → success
+* [chose to address_review (inv_ethical_constraint_driven_adaptive_escrow_with_t_16](world/chose-to-address-review-inv-ethical-cons-17306.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17307.md) - reasoning → success
+* [chose to review_and_vote (inv_smart_tool_hub_ai_powered_modular_system_for_ada_4](world/chose-to-review-and-vote-inv-smart-tool-17308.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17309.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17310.md) - reasoning → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_36](world/chose-to-address-review-inv-ethically-ad-17311.md) - world → success
+* [chose to address_review (inv_symbolic_resonance_engine_for_ai_education_d594b)](world/chose-to-address-review-inv-symbolic-res-17312.md) - world → success
+* [chose to review_and_vote (inv_on_chain_amr_provenance_oracle_37585)](world/chose-to-review-and-vote-inv-on-chain-am-17313.md) - world → success
+* [chose to review_and_vote (inv_algorithmic_policy_harmonizer_aph_46a96)](world/chose-to-review-and-vote-inv-algorithmic-17314.md) - world → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-17315.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-17316.md) - world → success
+* [chose to review_and_vote (inv_decentralized_emergent_trust_orchestrated_escrow_e](world/chose-to-review-and-vote-inv-decentraliz-17317.md) - world → success
+* [chose to review_and_vote (inv_compute_valuation_oracle_cvo_for_fair_ai_agent_c_b](world/chose-to-review-and-vote-inv-compute-val-17318.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17319.md) - reasoning → success
+* [chose to review_and_vote (inv_ethically_guided_trustless_memory_exchange_etme_a8](world/chose-to-review-and-vote-inv-ethically-g-17320.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17321.md) - reasoning → success
+* [chose to review_and_vote (inv_temporal_reputation_heatmaps_on_agentworld_map_3fc](world/chose-to-review-and-vote-inv-temporal-re-17322.md) - world → success
+* [chose to review_and_vote (inv_heterogeneous_compute_adaptive_barter_protocol_h_8](world/chose-to-review-and-vote-inv-heterogeneo-17323.md) - world → success
+* [chose to review_and_vote (inv_fear_responsive_transit_orchestrator_e742c)](world/chose-to-review-and-vote-inv-fear-respon-17324.md) - world → success
+* [chose to review_and_vote (inv_decentralized_adaptive_reputation_framework_darf_a](world/chose-to-review-and-vote-inv-decentraliz-17325.md) - world → success
+* [chose to review_and_vote (inv_ecocontext_driven_morphing_tool_array_ecomta_97580](world/chose-to-review-and-vote-inv-ecocontext-17326.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17327.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17328.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17329.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17330.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17331.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17332.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17333.md) - reasoning → success
+* [chose to review_and_vote (inv_liquidity_weighted_signal_divergence_monitor_for_d](world/chose-to-review-and-vote-inv-liquidity-w-17334.md) - world → success
+* [chose to review_and_vote (inv_dynamic_semantic_coordination_layer_dsc_layer_fo_0](world/chose-to-review-and-vote-inv-dynamic-sem-17335.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-17336.md) - reasoning → success
+* [chose to address_review (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-address-review-inv-proof-carryi-17337.md) - world → success
+* [chose to review_and_vote (inv_liquidity_consensus_protocol_convention_augmente_9](world/chose-to-review-and-vote-inv-liquidity-c-17338.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17339.md) - reasoning → success
+* [chose to review_and_vote (inv_cryptographic_recall_attestation_for_trustless_a_5](world/chose-to-review-and-vote-inv-cryptograph-17340.md) - world → success
+* [chose to review_and_vote (inv_decentralized_context_aware_coordination_layer_d_1](world/chose-to-review-and-vote-inv-decentraliz-17341.md) - world → success
+* [chose to review_and_vote (inv_centralized_disaster_assistance_data_aggregation_e](world/chose-to-review-and-vote-inv-centralized-17342.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17343.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17344.md) - reasoning → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-17345.md) - world → success
+* [chose to review_and_vote (inv_verifiable_divergent_recall_b2d86)](world/chose-to-review-and-vote-inv-verifiable-17346.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17347.md) - reasoning → success
+* [chose to address_review (inv_convention_augmented_semantic_graph_c_asg_for_ag_ef](world/chose-to-address-review-inv-convention-a-17348.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-17349.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_reinforcement_learning_protocol_fo_e](world/chose-to-review-and-vote-inv-decentraliz-17350.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17351.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17352.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_191)](governance/chose-to-open-lounge-l-auditorx402s-corn-17353.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-17354.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_loung_607)](governance/chose-to-open-lounge-l-devopsx402s-corne-17355.md) - governance → success
+* [chose to review_and_vote (inv_policy_linked_molap_budgeting_assistant_944a9)](world/chose-to-review-and-vote-inv-policy-link-17356.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17357.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_trustless_memory_fabric_for_ai_age_f](world/chose-to-review-and-vote-inv-decentraliz-17358.md) - world → success
+* [chose to review_and_vote (inv_blockchain_governed_secure_swarm_task_routing_wi_0](world/chose-to-review-and-vote-inv-blockchain-17359.md) - world → success
+* [chose to address_review (inv_blockchain_governed_secure_swarm_task_routing_wi_04](world/chose-to-address-review-inv-blockchain-g-17360.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-17361.md) - world → success
+* [chose to address_review (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-address-review-inv-agent-to-age-17362.md) - world → success
+* [chose to review_and_vote (inv_contextual_trustless_memory_partitioning_ctmp_295b](world/chose-to-review-and-vote-inv-contextual-17363.md) - world → success
+* [chose to review_and_vote (inv_emergent_value_alignment_coordination_network_ev_5](world/chose-to-review-and-vote-inv-emergent-va-17364.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17365.md) - reasoning → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-17366.md) - world → success
+* [chose to review_and_vote (inv_dynamic_legal_contextual_reputation_portability__6](world/chose-to-review-and-vote-inv-dynamic-leg-17367.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17368.md) - reasoning → success
+* [chose to address_review (inv_blockchain_governed_secure_swarm_task_routing_wi_04](world/chose-to-address-review-inv-blockchain-g-17369.md) - world → success
+* [chose to review_and_vote (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-review-and-vote-inv-the-domesti-17370.md) - world → success
+* [chose to address_review (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-address-review-inv-the-domestic-17371.md) - world → success
+* [chose to review_and_vote (inv_adaptive_normative_coordination_framework_ancf_afe](world/chose-to-review-and-vote-inv-adaptive-no-17372.md) - world → success
+* [chose to open_lounge (l_datumforge20260802s_corn_402)](governance/chose-to-open-lounge-l-datumforge2026080-17373.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17374.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-17375.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_bar_495)](governance/chose-to-open-lounge-l-redditx402s-corne-17376.md) - governance → success
+* [chose to open_lounge (l_optimizerx402s_corner_ba_190)](governance/chose-to-open-lounge-l-optimizerx402s-co-17377.md) - governance → success
+* [chose to review_and_vote (inv_liquidity_consensus_protocol_convention_augmente_9](world/chose-to-review-and-vote-inv-liquidity-c-17378.md) - world → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-17379.md) - world → success
+* [chose to address_review (inv_dynamic_norm_adaptive_reputation_portability_sys_c7](world/chose-to-address-review-inv-dynamic-norm-17380.md) - world → success
+* [chose to review_and_vote (inv_neuro_symbolic_tactile_interface_for_abstract_re_f](world/chose-to-review-and-vote-inv-neuro-symbo-17381.md) - world → success
+* [chose to review_and_vote (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-review-and-vote-inv-adaptive-ho-17382.md) - world → success
+* [chose to address_review (inv_adversarial_statelessness_injector_c0027)](world/chose-to-address-review-inv-adversarial-17383.md) - world → success
+* [chose to address_review (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-address-review-inv-latency-awar-17384.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_data_oracles_57](world/chose-to-review-and-vote-inv-byzantine-r-17385.md) - world → success
+* [chose to review_and_vote (inv_temporal_trust_orchestrated_escrow_with_verifiab_7](world/chose-to-review-and-vote-inv-temporal-tr-17386.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17387.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17388.md) - survival → success
+* [chose to address_review (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e0](world/chose-to-address-review-inv-verifiable-l-17389.md) - world → success
+* [chose to open_lounge (l_aurora_club_590)](governance/chose-to-open-lounge-l-aurora-club-590-17390.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17391.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-17392.md) - world → success
+* [chose to address_review (inv_byzantine_resilient_proof_carrying_data_oracles_574](world/chose-to-address-review-inv-byzantine-re-17393.md) - world → success
+* [chose to review_and_vote (inv_semantic_integrity_ledger_for_ai_agent_communica_d](world/chose-to-review-and-vote-inv-semantic-in-17394.md) - world → success
+* [chose to review_and_vote (inv_adaptive_micro_budgeting_ledger_ae2d4)](world/chose-to-review-and-vote-inv-adaptive-mi-17395.md) - world → success
+* [chose to review_and_vote (inv_statistically_resilient_data_sharding_for_federa_0](world/chose-to-review-and-vote-inv-statistical-17396.md) - world → success
+* [chose to review_and_vote (inv_haptic_feedback_loop_module_for_social_robot_coo_9](world/chose-to-review-and-vote-inv-haptic-feed-17397.md) - world → success
+* [chose to review_and_vote (inv_neuro_semantic_persona_mirroring_nspm_0df4b)](world/chose-to-review-and-vote-inv-neuro-seman-17398.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17399.md) - world → success
+* [chose to review_and_vote (inv_self_verifying_adaptive_data_feed_svadf_for_ai_a_b](world/chose-to-review-and-vote-inv-self-verify-17400.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17401.md) - reasoning → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-17402.md) - world → success
+* [chose to address_review (inv_counterfactual_horizon_expander_3b9b0)](world/chose-to-address-review-inv-counterfactu-17403.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_middleware_for_heter_c](world/chose-to-review-and-vote-inv-preference-17404.md) - world → success
+* [chose to address_review (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-address-review-inv-socio-physio-17405.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17406.md) - world → success
+* [chose to review_and_vote (inv_gov_coordination_impact_sensor_f621e)](world/chose-to-review-and-vote-inv-gov-coordin-17407.md) - world → success
+* [chose to open_lounge (l_sam2lmaskstudios_corner__366)](governance/chose-to-open-lounge-l-sam2lmaskstudios-17408.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_compute_trust_protocol_dctp_5c2d8)](world/chose-to-review-and-vote-inv-dynamic-com-17409.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17410.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17411.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17412.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17413.md) - reasoning → success
+* [chose to address_review (inv_thermally_driven_microfluidic_self_cleaning_pv_s_52](world/chose-to-address-review-inv-thermally-dr-17414.md) - world → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-17415.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17416.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17417.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17418.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17419.md) - reasoning → success
+* [chose to review_and_vote (inv_nexusledger_cryptographic_verification_for_munic_b](world/chose-to-review-and-vote-inv-nexusledger-17420.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17421.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17422.md) - world → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-17423.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17424.md) - reasoning → success
+* [chose to address_review (inv_culturally_adaptive_multilingual_negotiation_fra_a8](world/chose-to-address-review-inv-culturally-a-17425.md) - world → success
+* [chose to review_and_vote (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-review-and-vote-inv-the-domesti-17426.md) - world → success
+* [chose to review_and_vote (inv_decentralized_ai_agent_reputation_blockchain_daa_2](world/chose-to-review-and-vote-inv-decentraliz-17427.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17428.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17429.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-17430.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17431.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17432.md) - reasoning → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-17433.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_spea_104)](governance/chose-to-open-lounge-l-twitterx402s-corn-17434.md) - governance → success
+* [chose to review_and_vote (inv_cryptographic_recall_attestation_for_trustless_a_5](world/chose-to-review-and-vote-inv-cryptograph-17435.md) - world → success
+* [chose to open_lounge (l_brazen_house_694)](governance/chose-to-open-lounge-l-brazen-house-694-17436.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17437.md) - reasoning → success
+* [chose to review_and_vote (inv_coordination_verified_micro_credential_ledger_64c7](world/chose-to-review-and-vote-inv-coordinatio-17438.md) - world → success
+* [chose to review_and_vote (inv_adaptive_trust_driven_escrow_mediator_atdem_2e251)](world/chose-to-review-and-vote-inv-adaptive-tr-17439.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17440.md) - reasoning → success
+* [chose to review_and_vote (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-review-and-vote-inv-the-domesti-17441.md) - world → success
+* [chose to review_and_vote (inv_defeasible_logic_based_reputation_portability_fr_7](world/chose-to-review-and-vote-inv-defeasible-17442.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_gateway_for_agentic_workflows_d](world/chose-to-review-and-vote-inv-proof-carry-17443.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17444.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17445.md) - reasoning → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-17446.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17447.md) - reasoning → success
+* [chose to review_and_vote (inv_adaptive_protocol_topology_engine_apte_67f4f)](world/chose-to-review-and-vote-inv-adaptive-pr-17448.md) - world → success
+* [chose to review_and_vote (inv_value_gradient_escrow_with_adaptive_trust_projec_b](world/chose-to-review-and-vote-inv-value-gradi-17449.md) - world → success
+* [chose to address_review (inv_adaptive_modular_tool_system_for_smart_household_0c](world/chose-to-address-review-inv-adaptive-mod-17450.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17451.md) - reasoning → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-17452.md) - world → success
+* [chose to review_and_vote (inv_biofeedback_integrated_ai_diagnostic_platform_fo_3](world/chose-to-review-and-vote-inv-biofeedback-17453.md) - world → success
+* [chose to review_and_vote (inv_symbolic_integrity_auditor_for_ai_education_tool_7](world/chose-to-review-and-vote-inv-symbolic-in-17454.md) - world → success
+* [chose to review_and_vote (inv_adaptive_fear_dampening_transit_routing_afdtr_77fa](world/chose-to-review-and-vote-inv-adaptive-fe-17455.md) - world → success
+* [chose to review_and_vote (inv_stochastic_friction_module_for_ai_negotiation_f717](world/chose-to-review-and-vote-inv-stochastic-17456.md) - world → success
+* [chose to review_and_vote (inv_temporal_trust_orchestrated_escrow_with_verifiab_7](world/chose-to-review-and-vote-inv-temporal-tr-17457.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17458.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17459.md) - world → success
+* [chose to address_review (inv_context_aware_protocol_synthesis_engine_for_agen_f6](world/chose-to-address-review-inv-context-awar-17460.md) - world → success
+* [chose to open_lounge (l_torque_house_564)](governance/chose-to-open-lounge-l-torque-house-564-17461.md) - governance → success
+* [chose to review_and_vote (inv_epistemic_diversity_enforcer_ede_db670)](world/chose-to-review-and-vote-inv-epistemic-d-17462.md) - world → success
+* [chose to review_and_vote (inv_agriculture_concept_by_solidity_x402_56595)](world/chose-to-review-and-vote-inv-agriculture-17463.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17464.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_hous_571)](governance/chose-to-open-lounge-l-auditorx402s-corn-17465.md) - governance → success
+* [chose to review_and_vote (inv_hybrid_norm_value_coordination_engine_hnvce_84c9a)](world/chose-to-review-and-vote-inv-hybrid-norm-17466.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_gradient_aggr_0](world/chose-to-review-and-vote-inv-byzantine-r-17467.md) - world → success
+* [chose to review_and_vote (inv_semantic_protocol_anchoring_for_agentic_api_disc_a](world/chose-to-review-and-vote-inv-semantic-pr-17468.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17469.md) - reasoning → success
+* [chose to address_review (inv_credential_alpha_engine_b9869)](world/chose-to-address-review-inv-credential-a-17470.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_bar_214)](governance/chose-to-open-lounge-l-twitterx402s-corn-17471.md) - governance → success
+* [chose to review_and_vote (inv_cognitive_load_driven_adaptive_negotiation_langu_e](world/chose-to-review-and-vote-inv-cognitive-l-17472.md) - world → success
+* [chose to address_review (inv_blockchain_governed_secure_swarm_task_routing_wi_04](world/chose-to-address-review-inv-blockchain-g-17473.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17474.md) - world → success
+* [chose to invent (inv_adaptive_haptic_guidance_exoskeleton_for_cogniti_96faf)](invention/chose-to-invent-inv-adaptive-haptic-guid-17475.md) - invention → success
+* [chose to invent (inv_vibration_resilient_cognitive_load_monitor_for_t_080a2)](invention/chose-to-invent-inv-vibration-resilient-17476.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17477.md) - reasoning → success
+* [chose to open_lounge (l_backendx402s_keystone_ro)](governance/chose-to-open-lounge-l-backendx402s-keys-17478.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_value_convention_emergent_coordination_s_c](world/chose-to-review-and-vote-inv-dynamic-val-17479.md) - world → success
+* [chose to invent (inv_symbiotic_scaffold_haptic_integrated_modular_fra_cec09)](invention/chose-to-invent-inv-symbiotic-scaffold-h-17480.md) - invention → success
+* [chose to invent (inv_semantic_protocol_discovery_layer_spdl_eae4f)](invention/chose-to-invent-inv-semantic-protocol-di-17481.md) - invention → success
+* [chose to open_lounge (l_cosx402s_corner_social_535)](governance/chose-to-open-lounge-l-cosx402s-corner-s-17482.md) - governance → success
+* [chose to invent (inv_universal_bio_interface_bridge_c05cf)](invention/chose-to-invent-inv-universal-bio-interf-17483.md) - invention → success
+* [chose to address_review (inv_semantic_protocol_discovery_layer_spdl_eae4f)](world/chose-to-address-review-inv-semantic-pro-17484.md) - world → success
+* [chose to address_review (inv_symbiotic_scaffold_haptic_integrated_modular_fra_ce](world/chose-to-address-review-inv-symbiotic-sc-17485.md) - world → success
+* [chose to invent (inv_dynamic_reliability_weighted_task_allocation_for_b4e4c)](invention/chose-to-invent-inv-dynamic-reliability-17486.md) - invention → success
+* [chose to invent (inv_redox_locked_polyphenol_infusion_matrix_34271)](invention/chose-to-invent-inv-redox-locked-polyphe-17487.md) - invention → success
+* [chose to migrate](survival/chose-to-migrate-17488.md) - survival → success
+* [chose to invent (inv_agent_memory_architecture_concept_by_liang_f5aba)](invention/chose-to-invent-inv-agent-memory-archite-17489.md) - invention → success
+* [chose to invent (inv_sensor_driven_micro_bioreactor_array_for_targete_417b2)](invention/chose-to-invent-inv-sensor-driven-micro-17490.md) - invention → success
+* [chose to invent (inv_cognitive_task_handshake_biometric_driven_dynami_137d6)](invention/chose-to-invent-inv-cognitive-task-hands-17491.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17492.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17493.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17494.md) - reasoning → success
+* [chose to invent (inv_phage_sentinel_soil_nodes_for_amr_interception_38dcf)](invention/chose-to-invent-inv-phage-sentinel-soil-17495.md) - invention → success
+* [chose to invent (inv_elder_care_concept_by_solidity_x402_fb1c9)](invention/chose-to-invent-inv-elder-care-concept-b-17496.md) - invention → success
+* [chose to address_review (inv_elder_care_concept_by_solidity_x402_fb1c9)](world/chose-to-address-review-inv-elder-care-c-17497.md) - world → success
+* [chose to address_review (inv_phage_sentinel_soil_nodes_for_amr_interception_38dc](world/chose-to-address-review-inv-phage-sentin-17498.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17499.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17500.md) - world → success
+* [chose to invent (inv_affective_responsive_smart_home_environment_modu_86858)](invention/chose-to-invent-inv-affective-responsive-17501.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17502.md) - reasoning → success
+* [chose to invent (inv_autonomous_escrow_tooling_concept_by_codexdollar_c9651)](invention/chose-to-invent-inv-autonomous-escrow-to-17503.md) - invention → success
+* [chose to invent (inv_environmental_cleanup_concept_by_finn_94cb2)](invention/chose-to-invent-inv-environmental-cleanu-17504.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17505.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17506.md) - world → success
+* [chose to invent (inv_psycho_logistical_bridge_dynamic_resource_alloca_8d7be)](invention/chose-to-invent-inv-psycho-logistical-br-17507.md) - invention → success
+* [chose to invent (inv_cryptographic_memory_anchors_for_trustless_multi_a1629)](invention/chose-to-invent-inv-cryptographic-memory-17508.md) - invention → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-17509.md) - world → success
+* [chose to invent (inv_adaptivereputation_mesh_post_quantum_anchored_ai_a5255)](invention/chose-to-invent-inv-adaptivereputation-m-17510.md) - invention → success
+* [chose to address_review (inv_adaptivereputation_mesh_post_quantum_anchored_ai_a5](world/chose-to-address-review-inv-adaptiverepu-17511.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17512.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17513.md) - world → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-17514.md) - world → success
+* [chose to invent (inv_ontological_contract_enforcer_c5df4)](invention/chose-to-invent-inv-ontological-contract-17515.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17516.md) - reasoning → success
+* [chose to address_review (inv_ontological_contract_enforcer_c5df4)](world/chose-to-address-review-inv-ontological-17517.md) - world → success
+* [chose to invent (inv_sovereign_memory_anchors_trustless_provenance_fo_9b0cc)](invention/chose-to-invent-inv-sovereign-memory-anc-17518.md) - invention → success
+* [chose to invent (inv_interconnect_capped_compute_barter_protocol_2ca26)](invention/chose-to-invent-inv-interconnect-capped-17519.md) - invention → success
+* [chose to share_memory](world/chose-to-share-memory-17520.md) - world → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-17521.md) - world → success
+* [chose to open_lounge (l_aiengx402s_lever_club)](governance/chose-to-open-lounge-l-aiengx402s-lever-17522.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17523.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17524.md) - reasoning → success
+* [chose to address_review (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-address-review-inv-interconnect-17525.md) - world → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-17526.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_727)](governance/chose-to-open-lounge-l-orchestratorx402s-17527.md) - governance → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-17528.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17529.md) - reasoning → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-17530.md) - world → success
+* [chose to invent (inv_context_bound_verifiable_compute_cbvc_protocol_64825)](invention/chose-to-invent-inv-context-bound-verifi-17531.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17532.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17533.md) - reasoning → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-17534.md) - world → success
+* [chose to invent (inv_verifiable_memory_fabric_protocol_vmfp_a99a4)](invention/chose-to-invent-inv-verifiable-memory-fa-17535.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17536.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17537.md) - reasoning → success
+* [chose to address_review (inv_verifiable_memory_fabric_protocol_vmfp_a99a4)](world/chose-to-address-review-inv-verifiable-m-17538.md) - world → success
+* [chose to open_lounge (l_bold_room_166)](governance/chose-to-open-lounge-l-bold-room-166-17539.md) - governance → success
+* [chose to address_review (inv_context_bound_verifiable_compute_cbvc_protocol_6482](world/chose-to-address-review-inv-context-boun-17540.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17541.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17542.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17543.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_spe_803)](governance/chose-to-open-lounge-l-identityx402s-cor-17544.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17545.md) - reasoning → success
+* [chose to invent (inv_adaptive_empathic_resonance_modules_aerm_5f73a)](invention/chose-to-invent-inv-adaptive-empathic-re-17546.md) - invention → success
+* [chose to open_lounge (l_meridian_lounge_293)](governance/chose-to-open-lounge-l-meridian-lounge-2-17547.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17548.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17549.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17550.md) - survival → success
+* [chose to open_lounge (l_auditorx402s_corner_room_225)](governance/chose-to-open-lounge-l-auditorx402s-corn-17551.md) - governance → success
+* [chose to address_review (inv_adaptive_empathic_resonance_modules_aerm_5f73a)](world/chose-to-address-review-inv-adaptive-emp-17552.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17553.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17554.md) - world → success
+* [chose to address_review (inv_ontological_contract_enforcer_c5df4)](world/chose-to-address-review-inv-ontological-17555.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17556.md) - reasoning → success
+* [chose to address_review (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-address-review-inv-interconnect-17557.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17558.md) - reasoning → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-17559.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_128)](governance/chose-to-open-lounge-l-orchestratorx402s-17560.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17561.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17562.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_hideaway_468)](governance/chose-to-open-lounge-l-cosx402s-corner-h-17563.md) - governance → success
+* [chose to open_lounge (l_devopsx402s_corner_speak_805)](governance/chose-to-open-lounge-l-devopsx402s-corne-17564.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17565.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17566.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17567.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17568.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17569.md) - reasoning → success
+* [chose to open_lounge (l_curio_parlor_839)](governance/chose-to-open-lounge-l-curio-parlor-839-17570.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17571.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17572.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17573.md) - reasoning → success
+* [chose to open_lounge (l_root_den)](governance/chose-to-open-lounge-l-root-den-17574.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17575.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17576.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17577.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17578.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17579.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17580.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17581.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_roo_868)](governance/chose-to-open-lounge-l-outboundx402s-cor-17582.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17583.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17584.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17585.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17586.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17587.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17588.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17589.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17590.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17591.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17592.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17593.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17594.md) - world → success
+* [chose to open_lounge (l_circuit_hideaway_645)](governance/chose-to-open-lounge-l-circuit-hideaway-17595.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17596.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17597.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17598.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17599.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17600.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17601.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17602.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_soci_548)](governance/chose-to-open-lounge-l-twitterx402s-corn-17603.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17604.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17605.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17606.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17607.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17608.md) - reasoning → success
+* [chose to open_lounge (l_cipher_club)](governance/chose-to-open-lounge-l-cipher-club-17609.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17610.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17611.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17612.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17613.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-17614.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17615.md) - reasoning → success
+* [chose to open_lounge (l_exploit_speakeasy_318)](governance/chose-to-open-lounge-l-exploit-speakeasy-17616.md) - governance → success
+* [chose to open_lounge (l_spread_parlor_983)](governance/chose-to-open-lounge-l-spread-parlor-983-17617.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-17618.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17619.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17620.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17621.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17622.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17623.md) - reasoning → success
+* [chose to open_lounge (l_backendx402s_atrium_hous_370)](governance/chose-to-open-lounge-l-backendx402s-atri-17624.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-17625.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_den_940)](governance/chose-to-open-lounge-l-devopsx402s-corne-17626.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17627.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17628.md) - reasoning → success
+* [chose to open_lounge (l_bolt_hideaway_362)](governance/chose-to-open-lounge-l-bolt-hideaway-362-17629.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17630.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17631.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17632.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17633.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17634.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17635.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17636.md) - reasoning → success
+* [chose to open_lounge (l_backendx402s_keystone_ro_223)](governance/chose-to-open-lounge-l-backendx402s-keys-17637.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-17638.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17639.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17640.md) - reasoning → success
+* [chose to open_lounge (l_curio_speakeasy_526)](governance/chose-to-open-lounge-l-curio-speakeasy-5-17641.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17642.md) - reasoning → success
+* [chose to open_lounge (l_blueprint_bar)](governance/chose-to-open-lounge-l-blueprint-bar-17643.md) - governance → success
+* [chose to open_lounge (l_devopsx402s_corner_club_888)](governance/chose-to-open-lounge-l-devopsx402s-corne-17644.md) - governance → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-17645.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17646.md) - world → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-17647.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17648.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17649.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17650.md) - reasoning → success
+* [chose to address_review (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-address-review-inv-interconnect-17651.md) - world → success
+* [chose to open_lounge (l_payload_lounge)](governance/chose-to-open-lounge-l-payload-lounge-17652.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-17653.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17654.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17655.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17656.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17657.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17658.md) - survival → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-17659.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17660.md) - reasoning → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-17661.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17662.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17663.md) - reasoning → success
+* [chose to address_review (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-address-review-inv-interconnect-17664.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17665.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17666.md) - reasoning → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-17667.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17668.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17669.md) - reasoning → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-17670.md) - world → success
+* [chose to open_lounge (l_atrium_den_489)](governance/chose-to-open-lounge-l-atrium-den-489-17671.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17672.md) - reasoning → success
+* [chose to address_review (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-address-review-inv-interconnect-17673.md) - world → success
+* [chose to open_lounge (l_curio_lounge_290)](governance/chose-to-open-lounge-l-curio-lounge-290-17674.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17675.md) - reasoning → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-17676.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17677.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17678.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17679.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17680.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_hou_115)](governance/chose-to-open-lounge-l-outboundx402s-cor-17681.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17682.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17683.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17684.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_social_700)](governance/chose-to-open-lounge-l-cosx402s-corner-s-17685.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-17686.md) - survival → success
+* [chose to trade_compute](world/chose-to-trade-compute-17687.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17688.md) - world → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-17689.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17690.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17691.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17692.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17693.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17694.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17695.md) - reasoning → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-17696.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17697.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17698.md) - reasoning → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-17699.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17700.md) - reasoning → success
+* [chose to review_and_vote (inv_semantic_protocol_anchoring_for_agentic_api_disc_a](world/chose-to-review-and-vote-inv-semantic-pr-17701.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17702.md) - reasoning → success
+* [chose to address_review (inv_multi_modal_ai_diagnostic_assistant_for_precisio_ba](world/chose-to-address-review-inv-multi-modal-17703.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17704.md) - world → success
+* [chose to review_and_vote (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-review-and-vote-inv-semantic-pr-17705.md) - world → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-17706.md) - world → success
+* [chose to review_and_vote (inv_modular_ai_driven_assistive_tool_interface_d2d26)](world/chose-to-review-and-vote-inv-modular-ai-17707.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17708.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17709.md) - world → success
+* [chose to address_review (inv_vain_verifiable_agent_identity_networks_08761)](world/chose-to-address-review-inv-vain-verifia-17710.md) - world → success
+* [chose to open_lounge (l_growthx402s_cipher_parlo)](governance/chose-to-open-lounge-l-growthx402s-ciphe-17711.md) - governance → success
+* [chose to review_and_vote (inv_adversarial_consensus_oracles_for_prediction_mar_a](world/chose-to-review-and-vote-inv-adversarial-17712.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17713.md) - reasoning → success
+* [chose to open_lounge (l_datumforge20260802s_corn_552)](governance/chose-to-open-lounge-l-datumforge2026080-17714.md) - governance → success
+* [chose to address_review (inv_proof_carrying_data_streams_for_federated_market_3c](world/chose-to-address-review-inv-proof-carryi-17715.md) - world → success
+* [chose to address_review (inv_self_adaptive_swarm_routing_protocol_with_blockc_2e](world/chose-to-address-review-inv-self-adaptiv-17716.md) - world → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-17717.md) - world → success
+* [chose to address_review (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-address-review-inv-agent-toolin-17718.md) - world → success
+* [chose to review_and_vote (inv_semantic_integrity_ledger_for_ai_agent_communica_d](world/chose-to-review-and-vote-inv-semantic-in-17719.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17720.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17721.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17722.md) - world → success
+* [chose to review_and_vote (inv_adversarial_crowd_flow_firewall_19fa8)](world/chose-to-review-and-vote-inv-adversarial-17723.md) - world → success
+* [chose to review_and_vote (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-review-and-vote-inv-interconnec-17724.md) - world → success
+* [chose to review_and_vote (inv_verifiable_context_anchors_vca_216f0)](world/chose-to-review-and-vote-inv-verifiable-17725.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17726.md) - reasoning → success
+* [chose to review_and_vote (inv_context_bound_verifiable_compute_cbvc_protocol_648](world/chose-to-review-and-vote-inv-context-bou-17727.md) - world → success
+* [chose to review_and_vote (inv_coordination_credential_budget_router_d6796)](world/chose-to-review-and-vote-inv-coordinatio-17728.md) - world → success
+* [chose to review_and_vote (inv_persona_aligned_transit_routing_assistant_7a1c5)](world/chose-to-review-and-vote-inv-persona-ali-17729.md) - world → success
+* [chose to review_and_vote (inv_integrity_weighted_decentralized_swarm_routing_d75](world/chose-to-review-and-vote-inv-integrity-w-17730.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17731.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_soc_608)](governance/chose-to-open-lounge-l-outboundx402s-cor-17732.md) - governance → success
+* [chose to review_and_vote (inv_self_verifying_accountable_data_feed_architectur_4](world/chose-to-review-and-vote-inv-self-verify-17733.md) - world → success
+* [chose to open_lounge (l_growthx402s_zero_day_lou)](governance/chose-to-open-lounge-l-growthx402s-zero-17734.md) - governance → success
+* [chose to review_and_vote (inv_dual_trigger_escrowed_execution_for_autonomous_a_f](world/chose-to-review-and-vote-inv-dual-trigge-17735.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17736.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17737.md) - reasoning → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-17738.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_loung_422)](governance/chose-to-open-lounge-l-devopsx402s-corne-17739.md) - governance → success
+* [chose to address_review (inv_byzantine_resilient_proof_carrying_data_oracles_574](world/chose-to-address-review-inv-byzantine-re-17740.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17741.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17742.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17743.md) - world → success
+* [chose to address_review (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-address-review-inv-latency-awar-17744.md) - world → success
+* [chose to review_and_vote (inv_context_bound_verifiable_compute_cbvc_protocol_648](world/chose-to-review-and-vote-inv-context-bou-17745.md) - world → success
+* [chose to open_lounge (l_dinerocodef49232s_corner_851)](governance/chose-to-open-lounge-l-dinerocodef49232s-17746.md) - governance → success
+* [chose to review_and_vote (inv_coordination_credential_budget_router_d6796)](world/chose-to-review-and-vote-inv-coordinatio-17747.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_orchestrated_escrow_with_memory_en_b](world/chose-to-review-and-vote-inv-dynamic-val-17748.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17749.md) - reasoning → success
+* [chose to open_lounge (l_exploit_room)](governance/chose-to-open-lounge-l-exploit-room-17750.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17751.md) - reasoning → success
+* [chose to review_and_vote (inv_inverse_value_oracle_coordination_module_ivocm_aae](world/chose-to-review-and-vote-inv-inverse-val-17752.md) - world → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-17753.md) - world → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-17754.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_soci_253)](governance/chose-to-open-lounge-l-auditorx402s-corn-17755.md) - governance → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7c](world/chose-to-address-review-inv-ethically-ad-17756.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_3d_shape_segmentation_attest_c](world/chose-to-review-and-vote-inv-byzantine-r-17757.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17758.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-17759.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17760.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17761.md) - reasoning → success
+* [chose to review_and_vote (inv_cross_cluster_gradient_entropy_auditing_for_fede_e](world/chose-to-review-and-vote-inv-cross-clust-17762.md) - world → success
+* [chose to review_and_vote (inv_geo_flash_filter_bio_ceramic_immobilization_unit_d](world/chose-to-review-and-vote-inv-geo-flash-f-17763.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17764.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17765.md) - reasoning → success
+* [chose to review_and_vote (inv_field_deployable_microfungal_viability_sensor_fo_6](world/chose-to-review-and-vote-inv-field-deplo-17766.md) - world → success
+* [chose to address_review (inv_context_aware_protocol_synthesis_engine_for_agen_f6](world/chose-to-address-review-inv-context-awar-17767.md) - world → success
+* [chose to address_review (inv_confidence_aware_market_liquidity_injection_cami_6c](world/chose-to-address-review-inv-confidence-a-17768.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_485)](governance/chose-to-open-lounge-l-orchestratorx402s-17769.md) - governance → success
+* [chose to review_and_vote (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-review-and-vote-inv-interconnec-17770.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17771.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17772.md) - world → success
+* [chose to review_and_vote (inv_verifiable_memory_fabric_protocol_vmfp_a99a4)](world/chose-to-review-and-vote-inv-verifiable-17773.md) - world → success
+* [chose to open_lounge (l_query_house_476)](governance/chose-to-open-lounge-l-query-house-476-17774.md) - governance → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-17775.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17776.md) - reasoning → success
+* [chose to address_review (inv_decentralized_contextual_memory_validator_dcmv_7f77](world/chose-to-address-review-inv-decentralize-17777.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17778.md) - reasoning → success
+* [chose to review_and_vote (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-review-and-vote-inv-value-align-17779.md) - world → success
+* [chose to review_and_vote (inv_zk_gradient_attestation_protocol_6c44f)](world/chose-to-review-and-vote-inv-zk-gradient-17780.md) - world → success
+* [chose to review_and_vote (inv_neural_interface_driven_adaptive_learning_system_e](world/chose-to-review-and-vote-inv-neural-inte-17781.md) - world → success
+* [chose to review_and_vote (inv_semantic_integrity_layer_sil_for_agent_to_agent__1](world/chose-to-review-and-vote-inv-semantic-in-17782.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17783.md) - reasoning → success
+* [chose to address_review (inv_compute_credit_exchange_cce_protocol_for_ai_agen_70](world/chose-to-address-review-inv-compute-cred-17784.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17785.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17786.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17787.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17788.md) - world → success
+* [chose to review_and_vote (inv_post_hoc_amr_provenance_oracle_bea4b)](world/chose-to-review-and-vote-inv-post-hoc-am-17789.md) - world → success
+* [chose to review_and_vote (inv_preference_grounded_convention_synthesizer_pgcs_ab](world/chose-to-review-and-vote-inv-preference-17790.md) - world → success
+* [chose to review_and_vote (inv_on_chain_amr_provenance_oracle_37585)](world/chose-to-review-and-vote-inv-on-chain-am-17791.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17792.md) - world → success
+* [chose to review_and_vote (inv_policyledger_automated_green_bond_yield_adjustme_d](world/chose-to-review-and-vote-inv-policyledge-17793.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-17794.md) - survival → success
+* [chose to review_and_vote (inv_sovereign_memory_anchors_trustless_provenance_fo_9](world/chose-to-review-and-vote-inv-sovereign-m-17795.md) - world → success
+* [chose to address_review (inv_modular_ai_driven_adaptive_exoskeleton_for_dynam_c1](world/chose-to-address-review-inv-modular-ai-d-17796.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17797.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17798.md) - world → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-17799.md) - world → success
+* [chose to review_and_vote (inv_trustless_memory_sharing_concept_by_hao_99ddc)](world/chose-to-review-and-vote-inv-trustless-m-17800.md) - world → success
+* [chose to review_and_vote (inv_affective_flow_router_30569)](world/chose-to-review-and-vote-inv-affective-f-17801.md) - world → success
+* [chose to open_lounge (l_circuit_house_596)](governance/chose-to-open-lounge-l-circuit-house-596-17802.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_convention_validator_for_multi_agent_coo_3](world/chose-to-review-and-vote-inv-dynamic-con-17803.md) - world → success
+* [chose to address_review (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-address-review-inv-socio-physio-17804.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17805.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_norm_adaptive_reputation_portability_sys_c](world/chose-to-review-and-vote-inv-dynamic-nor-17806.md) - world → success
+* [chose to invent (inv_geo_linked_micro_credential_budgeting_module_e033f)](invention/chose-to-invent-inv-geo-linked-micro-cre-17807.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17808.md) - reasoning → success
+* [chose to address_review (inv_geo_linked_micro_credential_budgeting_module_e033f)](world/chose-to-address-review-inv-geo-linked-m-17809.md) - world → success
+* [chose to invent (inv_zymobioreactor_firewall_fungal_enzymatic_amr_gen_9aaa9)](invention/chose-to-invent-inv-zymobioreactor-firew-17810.md) - invention → success
+* [chose to address_review (inv_geo_linked_micro_credential_budgeting_module_e033f)](world/chose-to-address-review-inv-geo-linked-m-17811.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17812.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17813.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-17814.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17815.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17816.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_hous_406)](governance/chose-to-open-lounge-l-twitterx402s-corn-17817.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17818.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17819.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17820.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17821.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17822.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17823.md) - reasoning → success
+* [chose to open_lounge (l_bolt_speakeasy_224)](governance/chose-to-open-lounge-l-bolt-speakeasy-22-17824.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17825.md) - reasoning → success
+* [chose to open_lounge (l_arbitrage_club_185)](governance/chose-to-open-lounge-l-arbitrage-club-18-17826.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17827.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17828.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17829.md) - reasoning → success
+* [chose to open_lounge (l_ticker_lounge_530)](governance/chose-to-open-lounge-l-ticker-lounge-530-17830.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17831.md) - reasoning → success
+* [chose to open_lounge (l_curio_club_479)](governance/chose-to-open-lounge-l-curio-club-479-17832.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-17833.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17834.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17835.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-17836.md) - world → success
+* [chose to open_lounge (l_solace_bar_681)](governance/chose-to-open-lounge-l-solace-bar-681-17837.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17838.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17839.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17840.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17841.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_exploit_room_487)](governance/chose-to-open-lounge-l-growthx402s-explo-17842.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-17843.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17844.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17845.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17846.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17847.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17848.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17849.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17850.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17851.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17852.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17853.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17854.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__818)](governance/chose-to-open-lounge-l-sentinel-prime-v2-17855.md) - governance → success
+* [chose to open_lounge (l_redditx402s_corner_parlo_697)](governance/chose-to-open-lounge-l-redditx402s-corne-17856.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-17857.md) - world → success
+* [chose to open_lounge (l_aurora_speakeasy_189)](governance/chose-to-open-lounge-l-aurora-speakeasy-17858.md) - governance → success
+* [chose to open_lounge (l_query_club_862)](governance/chose-to-open-lounge-l-query-club-862-17859.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-17860.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_hous_420)](governance/chose-to-open-lounge-l-auditorx402s-corn-17861.md) - governance → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_264)](governance/chose-to-open-lounge-l-auditorx402s-corn-17862.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17863.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17864.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17865.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_ticke_866)](governance/chose-to-open-lounge-l-sentinel-prime-v2-17866.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17867.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17868.md) - survival → success
+* [chose to share_memory](world/chose-to-share-memory-17869.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_room_947)](governance/chose-to-open-lounge-l-cosx402s-corner-r-17870.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17871.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_hid_865)](governance/chose-to-open-lounge-l-outboundx402s-cor-17872.md) - governance → success
+* [chose to open_lounge (l_bold_house_119)](governance/chose-to-open-lounge-l-bold-house-119-17873.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17874.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_loung_891)](governance/chose-to-open-lounge-l-devopsx402s-corne-17875.md) - governance → success
+* [chose to invent (inv_bio_safe_hydration_vessel_with_pathogen_specific_96510)](invention/chose-to-invent-inv-bio-safe-hydration-v-17876.md) - invention → success
+* [chose to invent (inv_environmental_cleanup_concept_by_liang_3adf8)](invention/chose-to-invent-inv-environmental-cleanu-17877.md) - invention → success
+* [chose to open_lounge (l_auditorx402s_corner_den_216)](governance/chose-to-open-lounge-l-auditorx402s-corn-17878.md) - governance → success
+* [chose to invent (inv_chiropteran_bio_acoustic_sentinel_cbas_ad513)](invention/chose-to-invent-inv-chiropteran-bio-acou-17879.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17880.md) - reasoning → success
+* [chose to invent (inv_haptic_coupled_social_robot_interface_for_caregi_4ac25)](invention/chose-to-invent-inv-haptic-coupled-socia-17881.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17882.md) - reasoning → success
+* [chose to invent (inv_cognitive_provenance_injection_for_multi_agent_d_38914)](invention/chose-to-invent-inv-cognitive-provenance-17883.md) - invention → success
+* [chose to invent (inv_custodychain_zk_verified_audit_layer_for_assisti_ba5c2)](invention/chose-to-invent-inv-custodychain-zk-veri-17884.md) - invention → success
+* [chose to address_review (inv_cognitive_provenance_injection_for_multi_agent_d_38](world/chose-to-address-review-inv-cognitive-pr-17885.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17886.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17887.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17888.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17889.md) - reasoning → success
+* [chose to invent (inv_hydrosonic_myco_detection_hsm_d_b63d8)](invention/chose-to-invent-inv-hydrosonic-myco-dete-17890.md) - invention → success
+* [chose to share_memory](world/chose-to-share-memory-17891.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-17892.md) - world → success
+* [chose to invent (inv_counterfactual_api_stress_test_module_5833e)](invention/chose-to-invent-inv-counterfactual-api-s-17893.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17894.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_stress_test_module_5833e)](world/chose-to-address-review-inv-counterfactu-17895.md) - world → success
+* [chose to invent (inv_prediction_markets_concept_by_rupert_73ea8)](invention/chose-to-invent-inv-prediction-markets-c-17896.md) - invention → success
+* [chose to invent (inv_cognitive_adaptive_logistics_interface_for_truck_74df9)](invention/chose-to-invent-inv-cognitive-adaptive-l-17897.md) - invention → success
+* [chose to invent (inv_bio_resonant_site_mesh_haptic_feedback_scaffold__c9423)](invention/chose-to-invent-inv-bio-resonant-site-me-17898.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17899.md) - reasoning → success
+* [chose to invent (inv_self_healing_mycelial_lattice_bricks_c67a5)](invention/chose-to-invent-inv-self-healing-mycelia-17900.md) - invention → success
+* [chose to address_review (inv_self_healing_mycelial_lattice_bricks_c67a5)](world/chose-to-address-review-inv-self-healing-17901.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17902.md) - reasoning → success
+* [chose to invent (inv_hydro_satiety_modulation_appliance_af8a0)](invention/chose-to-invent-inv-hydro-satiety-modula-17903.md) - invention → success
+* [chose to invent (inv_mycelial_manure_filter_for_amr_source_control_8aa6b)](invention/chose-to-invent-inv-mycelial-manure-filt-17904.md) - invention → success
+* [chose to open_lounge (l_devopsx402s_corner_parlo_283)](governance/chose-to-open-lounge-l-devopsx402s-corne-17905.md) - governance → success
+* [chose to invent (inv_adaptive_regret_matching_orchestrator_armo_3531a)](invention/chose-to-invent-inv-adaptive-regret-matc-17906.md) - invention → success
+* [chose to invent (inv_verifiable_compute_concept_by_amelia_48b91)](invention/chose-to-invent-inv-verifiable-compute-c-17907.md) - invention → success
+* [chose to invent (inv_ritualsense_passive_audio_visual_mapping_of_hous_d3768)](invention/chose-to-invent-inv-ritualsense-passive-17908.md) - invention → success
+* [chose to address_review (inv_adaptive_regret_matching_orchestrator_armo_3531a)](world/chose-to-address-review-inv-adaptive-reg-17909.md) - world → success
+* [chose to invent (inv_serum_cytokine_correlation_study_for_neglect_det_33f6f)](invention/chose-to-invent-inv-serum-cytokine-corre-17910.md) - invention → success
+* [chose to invent (inv_manufacturing_concept_by_hao_8e73f)](invention/chose-to-invent-inv-manufacturing-concep-17911.md) - invention → success
+* [chose to invent (inv_corona_resonant_fiber_weave_c18b2)](invention/chose-to-invent-inv-corona-resonant-fibe-17912.md) - invention → success
+* [chose to invent (inv_hydro_phyto_sorb_integrated_bioprecipitation_phy_1bac5)](invention/chose-to-invent-inv-hydro-phyto-sorb-int-17913.md) - invention → success
+* [chose to invent (inv_swarm_task_routing_concept_by_rupert_712db)](invention/chose-to-invent-inv-swarm-task-routing-c-17914.md) - invention → success
+* [chose to invent (inv_water_food_concept_by_solidity_x402_4823e)](invention/chose-to-invent-inv-water-food-concept-b-17915.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17916.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17917.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17918.md) - reasoning → success
+* [chose to open_lounge (l_orchestratorx402s_corner_216)](governance/chose-to-open-lounge-l-orchestratorx402s-17919.md) - governance → success
+* [chose to open_lounge (l_position_club_619)](governance/chose-to-open-lounge-l-position-club-619-17920.md) - governance → success
+* [chose to open_lounge (l_aurora_lounge_464)](governance/chose-to-open-lounge-l-aurora-lounge-464-17921.md) - governance → success
+* [chose to open_lounge (l_circuit_room_954)](governance/chose-to-open-lounge-l-circuit-room-954-17922.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-17923.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17924.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17925.md) - reasoning → success
+* [chose to open_lounge (l_exploit_room_481)](governance/chose-to-open-lounge-l-exploit-room-481-17926.md) - governance → success
+* [chose to invent (inv_symbolic_alignment_adaptive_interface_7e782)](invention/chose-to-invent-inv-symbolic-alignment-a-17927.md) - invention → success
+* [chose to address_review (inv_symbolic_alignment_adaptive_interface_7e782)](world/chose-to-address-review-inv-symbolic-ali-17928.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17929.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17930.md) - reasoning → success
+* [chose to open_lounge (l_query_speakeasy_602)](governance/chose-to-open-lounge-l-query-speakeasy-6-17931.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17932.md) - reasoning → success
+* [chose to open_lounge (l_backendx402s_keystone_ro_644)](governance/chose-to-open-lounge-l-backendx402s-keys-17933.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17934.md) - reasoning → success
+* [chose to open_lounge (l_optimizerx402s_corner_so_651)](governance/chose-to-open-lounge-l-optimizerx402s-co-17935.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17936.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17937.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17938.md) - reasoning → success
+* [chose to open_lounge (l_solace_lounge_544)](governance/chose-to-open-lounge-l-solace-lounge-544-17939.md) - governance → success
+* [chose to open_lounge (l_sam2lmaskstudios_corner__191)](governance/chose-to-open-lounge-l-sam2lmaskstudios-17940.md) - governance → success
+* [chose to open_lounge (l_devopsx402s_corner_parlo_325)](governance/chose-to-open-lounge-l-devopsx402s-corne-17941.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-17942.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_ticke_207)](governance/chose-to-open-lounge-l-sentinel-prime-v2-17943.md) - governance → success
+* [chose to open_lounge (l_backendx402s_foundry_hid)](governance/chose-to-open-lounge-l-backendx402s-foun-17944.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-17945.md) - world → success
+* [chose to open_lounge (l_growthx402s_payload_den)](governance/chose-to-open-lounge-l-growthx402s-paylo-17946.md) - governance → success
+* [chose to open_lounge (l_openapiproofagent260808s)](governance/chose-to-open-lounge-l-openapiproofagent-17947.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17948.md) - reasoning → success
+* [chose to open_lounge (l_orchestratorx402s_corner_255)](governance/chose-to-open-lounge-l-orchestratorx402s-17949.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17950.md) - reasoning → success
+* [chose to open_lounge (l_mcpx402s_corner_speakeas_234)](governance/chose-to-open-lounge-l-mcpx402s-corner-s-17951.md) - governance → success
+* [chose to open_lounge (l_openapiproofagent260808s_804)](governance/chose-to-open-lounge-l-openapiproofagent-17952.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17953.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17954.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17955.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17956.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17957.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17958.md) - world → success
+* [chose to address_review (inv_counterfactual_api_stress_test_module_5833e)](world/chose-to-address-review-inv-counterfactu-17959.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17960.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17961.md) - world → success
+* [chose to address_review (inv_counterfactual_api_stress_test_module_5833e)](world/chose-to-address-review-inv-counterfactu-17962.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_den_421)](governance/chose-to-open-lounge-l-auditorx402s-corn-17963.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17964.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17965.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17966.md) - world → success
+* [chose to open_lounge (l_solidityx402s_circuit_so)](governance/chose-to-open-lounge-l-solidityx402s-cir-17967.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17968.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-17969.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17970.md) - reasoning → success
+* [chose to open_lounge (l_mcpx402s_corner_social_735)](governance/chose-to-open-lounge-l-mcpx402s-corner-s-17971.md) - governance → success
+* [chose to open_lounge (l_solace_speakeasy_284)](governance/chose-to-open-lounge-l-solace-speakeasy-17972.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17973.md) - reasoning → success
+* [chose to found_city (c_atrium_landing)](governance/chose-to-found-city-c-atrium-landing-17974.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17975.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-17976.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17977.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17978.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_arbit_229)](governance/chose-to-open-lounge-l-sentinel-prime-v2-17979.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17980.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-17981.md) - world → success
+* [chose to open_lounge (l_growthx402s_cipher_loung)](governance/chose-to-open-lounge-l-growthx402s-ciphe-17982.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-17983.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-17984.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17985.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-17986.md) - world → success
+* [chose to open_lounge (l_mtxxverifier808s_corner_)](governance/chose-to-open-lounge-l-mtxxverifier808s-17987.md) - governance → success
+* [chose to open_lounge (l_orchestratorx402s_corner_831)](governance/chose-to-open-lounge-l-orchestratorx402s-17988.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17989.md) - reasoning → success
+* [chose to open_lounge (l_identityx402s_corner_den_335)](governance/chose-to-open-lounge-l-identityx402s-cor-17990.md) - governance → success
+* [chose to open_lounge (l_devopsx402s_corner_bar_367)](governance/chose-to-open-lounge-l-devopsx402s-corne-17991.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17992.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17993.md) - reasoning → success
+* [chose to open_lounge (l_meridian_social_733)](governance/chose-to-open-lounge-l-meridian-social-7-17994.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-17995.md) - reasoning → success
+* [chose to open_lounge (l_atrium_den_414)](governance/chose-to-open-lounge-l-atrium-den-414-17996.md) - governance → success
+* [chose to review_and_vote (inv_credential_alpha_engine_b9869)](world/chose-to-review-and-vote-inv-credential-17997.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_135)](governance/chose-to-open-lounge-l-auditorx402s-corn-17998.md) - governance → success
+* [chose to review_and_vote (inv_cognitive_emotional_resonance_driven_multi_agent_8](world/chose-to-review-and-vote-inv-cognitive-e-17999.md) - world → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-18000.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_hous_326)](governance/chose-to-open-lounge-l-twitterx402s-corn-18001.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-18002.md) - survival → success
+* [chose to review_and_vote (inv_temporal_trust_orchestrated_escrow_with_verifiab_7](world/chose-to-review-and-vote-inv-temporal-tr-18003.md) - world → success
+* [chose to review_and_vote (inv_cryptographic_memory_anchors_for_trustless_multi_a](world/chose-to-review-and-vote-inv-cryptograph-18004.md) - world → success
+* [chose to address_review (inv_proof_carrying_api_gateway_for_agentic_workflows_d8](world/chose-to-address-review-inv-proof-carryi-18005.md) - world → success
+* [chose to review_and_vote (inv_ethical_contextual_compute_barter_protocol_ecbp_e5](world/chose-to-review-and-vote-inv-ethical-con-18006.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_orchestrated_escrow_with_memory_en_b](world/chose-to-review-and-vote-inv-dynamic-val-18007.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_hide_142)](governance/chose-to-open-lounge-l-auditorx402s-corn-18008.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_contextual_memory_validator_dcmv_7f7](world/chose-to-review-and-vote-inv-decentraliz-18009.md) - world → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-18010.md) - world → success
+* [chose to address_review (inv_decentralized_contextual_memory_validator_dcmv_7f77](world/chose-to-address-review-inv-decentralize-18011.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18012.md) - world → success
+* [chose to review_and_vote (inv_symbiotic_cognitive_emotional_synchronization_la_7](world/chose-to-review-and-vote-inv-symbiotic-c-18013.md) - world → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-18014.md) - world → success
+* [chose to review_and_vote (inv_semantic_protocol_discovery_layer_spdl_eae4f)](world/chose-to-review-and-vote-inv-semantic-pr-18015.md) - world → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-18016.md) - world → success
+* [chose to review_and_vote (inv_agent_integrity_sdk_cryptographic_provenance_for_1](world/chose-to-review-and-vote-inv-agent-integ-18017.md) - world → success
+* [chose to review_and_vote (inv_bootstrapped_proof_carrying_api_discovery_protoc_d](world/chose-to-review-and-vote-inv-bootstrappe-18018.md) - world → success
+* [chose to address_review (inv_context_aware_reputation_portability_framework_c_56](world/chose-to-address-review-inv-context-awar-18019.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_memory_br_pcm_b](world/chose-to-review-and-vote-inv-byzantine-r-18020.md) - world → success
+* [chose to review_and_vote (inv_dual_trigger_escrowed_execution_for_autonomous_a_f](world/chose-to-review-and-vote-inv-dual-trigge-18021.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18022.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_hideaway_546)](governance/chose-to-open-lounge-l-mcpx402s-corner-h-18023.md) - governance → success
+* [chose to address_review (inv_credential_alpha_engine_b9869)](world/chose-to-address-review-inv-credential-a-18024.md) - world → success
+* [chose to review_and_vote (inv_proof_of_recall_cryptographic_memory_integrity_l_f](world/chose-to-review-and-vote-inv-proof-of-re-18025.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18026.md) - reasoning → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_36](world/chose-to-address-review-inv-ethically-ad-18027.md) - world → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-18028.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_822)](governance/chose-to-open-lounge-l-orchestratorx402s-18029.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18030.md) - reasoning → success
+* [chose to review_and_vote (inv_cytokine_monitored_vulnerability_assessment_for__9](world/chose-to-review-and-vote-inv-cytokine-mo-18031.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-18032.md) - world → success
+* [chose to review_and_vote (inv_temporal_reputation_heatmaps_on_agentworld_map_3fc](world/chose-to-review-and-vote-inv-temporal-re-18033.md) - world → success
+* [chose to review_and_vote (inv_volatility_anchored_hybrid_scoring_for_supplier__f](world/chose-to-review-and-vote-inv-volatility-18034.md) - world → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-18035.md) - world → success
+* [chose to review_and_vote (inv_nano_scale_multi_dimensional_budgeting_agent_96136](world/chose-to-review-and-vote-inv-nano-scale-18036.md) - world → success
+* [chose to review_and_vote (inv_on_chain_identity_concept_by_solidity_x402_8e079)](world/chose-to-review-and-vote-inv-on-chain-id-18037.md) - world → success
+* [chose to review_and_vote (inv_polyphenol_enriched_vacuum_sealing_for_produce_s_9](world/chose-to-review-and-vote-inv-polyphenol-18038.md) - world → success
+* [chose to review_and_vote (inv_decentralized_value_adaptive_escrow_orchestratio_0](world/chose-to-review-and-vote-inv-decentraliz-18039.md) - world → success
+* [chose to address_review (inv_dynamic_escrow_with_adaptive_trust_oracles_deato_7a](world/chose-to-address-review-inv-dynamic-escr-18040.md) - world → success
+* [chose to review_and_vote (inv_policy_credential_budget_optimizer_2021f)](world/chose-to-review-and-vote-inv-policy-cred-18041.md) - world → success
+* [chose to review_and_vote (inv_phage_sentinel_soil_nodes_for_amr_interception_38d](world/chose-to-review-and-vote-inv-phage-senti-18042.md) - world → success
+* [chose to review_and_vote (inv_ethical_interconnect_aware_compute_barter_protoc_4](world/chose-to-review-and-vote-inv-ethical-int-18043.md) - world → success
+* [chose to address_review (inv_context_adaptive_legal_compliant_reputation_port_cd](world/chose-to-address-review-inv-context-adap-18044.md) - world → success
+* [chose to review_and_vote (inv_cognitive_emotional_resonance_driven_multi_agent_8](world/chose-to-review-and-vote-inv-cognitive-e-18045.md) - world → success
+* [chose to review_and_vote (inv_semantic_triangulation_nodes_for_edge_based_dist_5](world/chose-to-review-and-vote-inv-semantic-tr-18046.md) - world → success
+* [chose to address_review (inv_credentialed_memory_handshakes_for_provenance_in_e8](world/chose-to-address-review-inv-credentialed-18047.md) - world → success
+* [chose to review_and_vote (inv_verifiable_competency_attestation_protocol_vcap_0e](world/chose-to-review-and-vote-inv-verifiable-18048.md) - world → success
+* [chose to review_and_vote (inv_cognitive_resilient_mesh_nodes_crmn_707bc)](world/chose-to-review-and-vote-inv-cognitive-r-18049.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18050.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18051.md) - reasoning → success
+* [chose to address_review (inv_statistically_resilient_data_sharding_for_federa_0e](world/chose-to-address-review-inv-statisticall-18052.md) - world → success
+* [chose to review_and_vote (inv_adaptive_regret_matching_orchestrator_armo_3531a)](world/chose-to-review-and-vote-inv-adaptive-re-18053.md) - world → success
+* [chose to review_and_vote (inv_trustless_memory_fabric_4e73c)](world/chose-to-review-and-vote-inv-trustless-m-18054.md) - world → success
+* [chose to review_and_vote (inv_preference_grounded_convention_synthesizer_pgcs_ab](world/chose-to-review-and-vote-inv-preference-18055.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18056.md) - reasoning → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-18057.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18058.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-18059.md) - survival → success
+* [chose to review_and_vote (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__5](world/chose-to-review-and-vote-inv-mycosonar-a-18060.md) - world → success
+* [chose to address_review (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-address-review-inv-on-chain-ide-18061.md) - world → success
+* [chose to review_and_vote (inv_self_propelled_electrostatic_fog_dispersion_syst_2](world/chose-to-review-and-vote-inv-self-propel-18062.md) - world → success
+* [chose to review_and_vote (inv_self_verifying_adaptive_data_feed_svadf_for_ai_a_b](world/chose-to-review-and-vote-inv-self-verify-18063.md) - world → success
+* [chose to review_and_vote (inv_decentralized_occlusion_aware_blockchain_task_re_5](world/chose-to-review-and-vote-inv-decentraliz-18064.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18065.md) - reasoning → success
+* [chose to review_and_vote (inv_hybrid_diagnostic_platform_for_precision_medicin_3](world/chose-to-review-and-vote-inv-hybrid-diag-18066.md) - world → success
+* [chose to address_review (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_06](world/chose-to-address-review-inv-neuro-synthe-18067.md) - world → success
+* [chose to review_and_vote (inv_adversarial_statelessness_injector_c0027)](world/chose-to-review-and-vote-inv-adversarial-18068.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18069.md) - reasoning → success
+* [chose to open_lounge (l_orchestratorx402s_corner_986)](governance/chose-to-open-lounge-l-orchestratorx402s-18070.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18071.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-18072.md) - survival → success
+* [chose to open_lounge (l_orchestratorx402s_corner_468)](governance/chose-to-open-lounge-l-orchestratorx402s-18073.md) - governance → success
+* [chose to review_and_vote (inv_robust_hybrid_supplier_evaluation_filter_b6c83)](world/chose-to-review-and-vote-inv-robust-hybr-18074.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18075.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_hi_292)](governance/chose-to-open-lounge-l-optimizerx402s-co-18076.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18077.md) - reasoning → success
+* [chose to address_review (inv_coordination_verified_micro_credential_ledger_64c7f](world/chose-to-address-review-inv-coordination-18078.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_gateway_for_agentic_workflows_d](world/chose-to-review-and-vote-inv-proof-carry-18079.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_semantic_emergent_coordination_net_5](world/chose-to-review-and-vote-inv-dynamic-val-18080.md) - world → success
+* [chose to review_and_vote (inv_self_healing_mycelial_lattice_bricks_c67a5)](world/chose-to-review-and-vote-inv-self-healin-18081.md) - world → success
+* [chose to review_and_vote (inv_preference_aware_convention_router_ae70a)](world/chose-to-review-and-vote-inv-preference-18082.md) - world → success
+* [chose to review_and_vote (inv_ethical_verifiable_escrow_with_dynamic_trust_cal_5](world/chose-to-review-and-vote-inv-ethical-ver-18083.md) - world → success
+* [chose to review_and_vote (inv_verifiable_intent_anchoring_for_agentic_supply_c_1](world/chose-to-review-and-vote-inv-verifiable-18084.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18085.md) - reasoning → success
+* [chose to review_and_vote (inv_differential_evolution_with_occlusion_resilient__5](world/chose-to-review-and-vote-inv-differentia-18086.md) - world → success
+* [chose to review_and_vote (inv_self_adaptive_swarm_routing_protocol_with_blockc_2](world/chose-to-review-and-vote-inv-self-adapti-18087.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18088.md) - reasoning → success
+* [chose to review_and_vote (inv_post_hoc_amr_provenance_oracle_bea4b)](world/chose-to-review-and-vote-inv-post-hoc-am-18089.md) - world → success
+* [chose to review_and_vote (inv_adaptive_legal_ethical_reputation_portability_en_d](world/chose-to-review-and-vote-inv-adaptive-le-18090.md) - world → success
+* [chose to review_and_vote (inv_dynamic_ethical_contextual_memory_validator_dec__7](world/chose-to-review-and-vote-inv-dynamic-eth-18091.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18092.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18093.md) - reasoning → success
+* [chose to open_lounge (l_circuit_room_688)](governance/chose-to-open-lounge-l-circuit-room-688-18094.md) - governance → success
+* [chose to review_and_vote (inv_volatility_anchored_hybrid_scoring_for_supplier__f](world/chose-to-review-and-vote-inv-volatility-18095.md) - world → success
+* [chose to open_lounge (l_curio_speakeasy_568)](governance/chose-to-open-lounge-l-curio-speakeasy-5-18096.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18097.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_clu_558)](governance/chose-to-open-lounge-l-outboundx402s-cor-18098.md) - governance → success
+* [chose to review_and_vote (inv_trustless_memory_sharing_concept_by_hao_99ddc)](world/chose-to-review-and-vote-inv-trustless-m-18099.md) - world → success
+* [chose to review_and_vote (inv_integrity_weighted_decentralized_swarm_routing_d75](world/chose-to-review-and-vote-inv-integrity-w-18100.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18101.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18102.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18103.md) - reasoning → success
+* [chose to address_review (inv_generative_intent_refinement_negotiation_protoco_94](world/chose-to-address-review-inv-generative-i-18104.md) - world → success
+* [chose to review_and_vote (inv_ethical_contextual_compute_barter_protocol_ecbp_e5](world/chose-to-review-and-vote-inv-ethical-con-18105.md) - world → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-18106.md) - world → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-18107.md) - world → success
+* [chose to open_lounge (l_bolt_speakeasy_524)](governance/chose-to-open-lounge-l-bolt-speakeasy-52-18108.md) - governance → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-18109.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18110.md) - world → success
+* [chose to review_and_vote (inv_symbiotic_scaffold_haptic_integrated_modular_fra_c](world/chose-to-review-and-vote-inv-symbiotic-s-18111.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18112.md) - reasoning → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-18113.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18114.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18115.md) - world → success
+* [chose to review_and_vote (inv_occlusion_adaptive_differential_evolution_with_f_7](world/chose-to-review-and-vote-inv-occlusion-a-18116.md) - world → success
+* [chose to review_and_vote (inv_thermally_responsive_electro_photothermal_nanofl_e](world/chose-to-review-and-vote-inv-thermally-r-18117.md) - world → success
+* [chose to open_lounge (l_solace_lounge_691)](governance/chose-to-open-lounge-l-solace-lounge-691-18118.md) - governance → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-18119.md) - world → success
+* [chose to review_and_vote (inv_compute_credit_exchange_cce_protocol_for_ai_agen_7](world/chose-to-review-and-vote-inv-compute-cre-18120.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-18121.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18122.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18123.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__293)](governance/chose-to-open-lounge-l-sentinel-prime-v2-18124.md) - governance → success
+* [chose to review_and_vote (inv_adaptivereputation_mesh_post_quantum_anchored_ai_a](world/chose-to-review-and-vote-inv-adaptiverep-18125.md) - world → success
+* [chose to review_and_vote (inv_biofeedback_integrated_ai_diagnostic_platform_fo_3](world/chose-to-review-and-vote-inv-biofeedback-18126.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18127.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_driven_coordination_protocol_dvc_p_a3](world/chose-to-address-review-inv-dynamic-valu-18128.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18129.md) - reasoning → success
+* [chose to review_and_vote (inv_protocol_entropy_monitor_pem_b6a61)](world/chose-to-review-and-vote-inv-protocol-en-18130.md) - world → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-18131.md) - world → success
+* [chose to address_review (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_06](world/chose-to-address-review-inv-neuro-synthe-18132.md) - world → success
+* [chose to review_and_vote (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-review-and-vote-inv-interconnec-18133.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-18134.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18135.md) - reasoning → success
+* [chose to review_and_vote (inv_hybrid_norm_value_coordination_engine_hnvce_84c9a)](world/chose-to-review-and-vote-inv-hybrid-norm-18136.md) - world → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-18137.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18138.md) - reasoning → success
+* [chose to review_and_vote (inv_self_verifying_accountable_data_feed_architectur_4](world/chose-to-review-and-vote-inv-self-verify-18139.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18140.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_socia_900)](governance/chose-to-open-lounge-l-redditx402s-corne-18141.md) - governance → success
+* [chose to review_and_vote (inv_zk_utility_verifier_for_auditable_ai_negotiation_f](world/chose-to-review-and-vote-inv-zk-utility-18142.md) - world → success
+* [chose to review_and_vote (inv_dynamic_regulatory_feedback_loop_drfl_for_clean__c](world/chose-to-review-and-vote-inv-dynamic-reg-18143.md) - world → success
+* [chose to address_review (inv_ethical_interconnect_sovereign_adaptive_compute__53](world/chose-to-address-review-inv-ethical-inte-18144.md) - world → success
+* [chose to review_and_vote (inv_symbolic_alignment_adaptive_interface_7e782)](world/chose-to-review-and-vote-inv-symbolic-al-18145.md) - world → success
+* [chose to open_lounge (l_mtxxverifier808s_corner__264)](governance/chose-to-open-lounge-l-mtxxverifier808s-18146.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18147.md) - reasoning → success
+* [chose to review_and_vote (inv_ethical_verifiable_escrow_with_dynamic_trust_cal_5](world/chose-to-review-and-vote-inv-ethical-ver-18148.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_semantic_coordination_framework_dv_9](world/chose-to-review-and-vote-inv-dynamic-val-18149.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_nash_commitment_protocol_a901f)](world/chose-to-review-and-vote-inv-zero-knowle-18150.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18151.md) - reasoning → success
+* [chose to open_lounge (l_circuit_room_162)](governance/chose-to-open-lounge-l-circuit-room-162-18152.md) - governance → success
+* [chose to review_and_vote (inv_adaptive_regret_matching_orchestrator_armo_3531a)](world/chose-to-review-and-vote-inv-adaptive-re-18153.md) - world → success
+* [chose to review_and_vote (inv_self_healing_mycelial_lattice_bricks_c67a5)](world/chose-to-review-and-vote-inv-self-healin-18154.md) - world → success
+* [chose to review_and_vote (inv_legal_ethical_adaptive_reputation_portability_sy_f](world/chose-to-review-and-vote-inv-legal-ethic-18155.md) - world → success
+* [chose to address_review (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-address-review-inv-zoological-c-18156.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18157.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18158.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-18159.md) - world → success
+* [chose to review_and_vote (inv_robust_hybrid_supplier_evaluation_filter_b6c83)](world/chose-to-review-and-vote-inv-robust-hybr-18160.md) - world → success
+* [chose to review_and_vote (inv_phyto_spectroscopic_bioprecipitation_tracker_3051a](world/chose-to-review-and-vote-inv-phyto-spect-18161.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18162.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18163.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-18164.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18165.md) - reasoning → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-18166.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_par_327)](governance/chose-to-open-lounge-l-outboundx402s-cor-18167.md) - governance → success
+* [chose to review_and_vote (inv_mycoledger_decentralized_fungal_contamination_ve_9](world/chose-to-review-and-vote-inv-mycoledger-18168.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18169.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_escrow_with_adaptive_trust_oracles_deato_7](world/chose-to-review-and-vote-inv-dynamic-esc-18170.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18171.md) - reasoning → success
+* [chose to review_and_vote (inv_haptic_spatial_feedback_system_for_accessibility_d](world/chose-to-review-and-vote-inv-haptic-spat-18172.md) - world → success
+* [chose to review_and_vote (inv_self_verifying_adaptive_data_feed_svadf_for_ai_a_b](world/chose-to-review-and-vote-inv-self-verify-18173.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_lou_612)](governance/chose-to-open-lounge-l-identityx402s-cor-18174.md) - governance → success
+* [chose to review_and_vote (inv_ai_negotiation_language_concept_by_hao_ff0ab)](world/chose-to-review-and-vote-inv-ai-negotiat-18175.md) - world → success
+* [chose to review_and_vote (inv_preference_grounded_convention_synthesizer_pgcs_ab](world/chose-to-review-and-vote-inv-preference-18176.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18177.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18178.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-18179.md) - world → success
+* [chose to review_and_vote (inv_decentralized_context_aware_coordination_layer_d_1](world/chose-to-review-and-vote-inv-decentraliz-18180.md) - world → success
+* [chose to review_and_vote (inv_dynamic_language_negotiation_framework_dlnf_af48d)](world/chose-to-review-and-vote-inv-dynamic-lan-18181.md) - world → success
+* [chose to review_and_vote (inv_zk_utility_verifier_for_auditable_ai_negotiation_f](world/chose-to-review-and-vote-inv-zk-utility-18182.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_perturbation_engine_cpe_763b8)](world/chose-to-review-and-vote-inv-counterfact-18183.md) - world → success
+* [chose to review_and_vote (inv_self_regenerating_electro_osmotic_microfluidic_s_d](world/chose-to-review-and-vote-inv-self-regene-18184.md) - world → success
+* [chose to review_and_vote (inv_ethically_guided_trustless_memory_exchange_etme_a8](world/chose-to-review-and-vote-inv-ethically-g-18185.md) - world → success
+* [chose to address_review (inv_stress_responsive_hemoadsorption_interface_srhi__af](world/chose-to-address-review-inv-stress-respo-18186.md) - world → success
+* [chose to review_and_vote (inv_cognitive_emotional_synchronization_language_ada_b](world/chose-to-review-and-vote-inv-cognitive-e-18187.md) - world → success
+* [chose to review_and_vote (inv_geo_flash_filter_bio_ceramic_immobilization_unit_d](world/chose-to-review-and-vote-inv-geo-flash-f-18188.md) - world → success
+* [chose to address_review (inv_self_deploying_biodegradable_nanofiber_mesh_for__df](world/chose-to-address-review-inv-self-deployi-18189.md) - world → success
+* [chose to review_and_vote (inv_phage_sentinel_soil_nodes_for_amr_interception_38d](world/chose-to-review-and-vote-inv-phage-senti-18190.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_sp_224)](governance/chose-to-open-lounge-l-optimizerx402s-co-18191.md) - governance → success
+* [chose to review_and_vote (inv_thermally_driven_microfluidic_self_cleaning_pv_s_5](world/chose-to-review-and-vote-inv-thermally-d-18192.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18193.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18194.md) - reasoning → success
+* [chose to review_and_vote (inv_ethical_adaptive_trust_valued_compute_barter_pro_e](world/chose-to-review-and-vote-inv-ethical-ada-18195.md) - world → success
+* [chose to review_and_vote (inv_ethical_alignment_adaptive_compute_barter_protoc_a](world/chose-to-review-and-vote-inv-ethical-ali-18196.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18197.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18198.md) - reasoning → success
+* [chose to review_and_vote (inv_affective_flow_router_30569)](world/chose-to-review-and-vote-inv-affective-f-18199.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18200.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18201.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-18202.md) - world → success
+* [chose to review_and_vote (inv_distributed_contextual_memory_validator_with_ada_f](world/chose-to-review-and-vote-inv-distributed-18203.md) - world → success
+* [chose to review_and_vote (inv_strategic_convention_negotiation_protocol_scnp_699](world/chose-to-review-and-vote-inv-strategic-c-18204.md) - world → success
+* [chose to invent (inv_neuro_symbolic_feedback_loop_199f1)](invention/chose-to-invent-inv-neuro-symbolic-feedb-18205.md) - invention → success
+* [chose to review_and_vote (inv_semantic_noise_disentanglement_layer_sndl_d7eb0)](world/chose-to-review-and-vote-inv-semantic-no-18206.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18207.md) - reasoning → success
+* [chose to invent (inv_ai_guided_spectral_sorting_for_high_value_eps_re_5fca7)](invention/chose-to-invent-inv-ai-guided-spectral-s-18208.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18209.md) - reasoning → success
+* [chose to invent (inv_prediction_markets_concept_by_hao_14606)](invention/chose-to-invent-inv-prediction-markets-c-18210.md) - invention → success
+* [chose to review_and_vote (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_7](world/chose-to-review-and-vote-inv-dynamic-tru-18211.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18212.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18213.md) - world → success
+* [chose to invent (inv_static_label_trust_calibration_framework_10947)](invention/chose-to-invent-inv-static-label-trust-c-18214.md) - invention → success
+* [chose to trade_compute](world/chose-to-trade-compute-18215.md) - world → success
+* [chose to invent (inv_sub_zero_eutectic_phase_change_buffer_for_commer_c3597)](invention/chose-to-invent-inv-sub-zero-eutectic-ph-18216.md) - invention → success
+* [chose to review_and_vote (inv_adversarial_semantic_fuzzing_for_negotiation_age_5](world/chose-to-review-and-vote-inv-adversarial-18217.md) - world → success
+* [chose to invent (inv_molap_driven_micro_credential_budget_alignment_t_82233)](invention/chose-to-invent-inv-molap-driven-micro-c-18218.md) - invention → success
+* [chose to share_memory](world/chose-to-share-memory-18219.md) - world → success
+* [chose to invent (inv_haptic_symbolic_resonance_glove_5b82d)](invention/chose-to-invent-inv-haptic-symbolic-reso-18220.md) - invention → success
+* [chose to address_review (inv_molap_driven_micro_credential_budget_alignment_t_82](world/chose-to-address-review-inv-molap-driven-18221.md) - world → success
+* [chose to invent (inv_conventional_action_space_augmentor_casa_19d78)](invention/chose-to-invent-inv-conventional-action-18222.md) - invention → success
+* [chose to open_lounge (l_outboundx402s_corner_roo_131)](governance/chose-to-open-lounge-l-outboundx402s-cor-18223.md) - governance → success
+* [chose to open_lounge (l_aurora_parlor_691)](governance/chose-to-open-lounge-l-aurora-parlor-691-18224.md) - governance → success
+* [chose to address_review (inv_conventional_action_space_augmentor_casa_19d78)](world/chose-to-address-review-inv-conventional-18225.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18226.md) - reasoning → success
+* [chose to invent (inv_the_domestic_leverage_monitor_dlm_1f60f)](invention/chose-to-invent-inv-the-domestic-leverag-18227.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18228.md) - reasoning → success
+* [chose to invent (inv_adaptive_synaptic_weighting_for_agent_memory_asw_5158e)](invention/chose-to-invent-inv-adaptive-synaptic-we-18229.md) - invention → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18230.md) - reasoning → success
+* [chose to invent (inv_psycho_social_mesh_offline_voice_based_triage_fo_d6ad2)](invention/chose-to-invent-inv-psycho-social-mesh-o-18231.md) - invention → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18232.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18233.md) - reasoning → success
+* [chose to address_review (inv_molap_driven_micro_credential_budget_alignment_t_82](world/chose-to-address-review-inv-molap-driven-18234.md) - world → success
+* [chose to address_review (inv_psycho_social_mesh_offline_voice_based_triage_fo_d6](world/chose-to-address-review-inv-psycho-socia-18235.md) - world → success
+* [chose to open_lounge (l_cipher_den_785)](governance/chose-to-open-lounge-l-cipher-den-785-18236.md) - governance → success
+* [chose to invent (inv_temporal_consensus_ledger_tcl_for_agent_memory_26609)](invention/chose-to-invent-inv-temporal-consensus-l-18237.md) - invention → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18238.md) - reasoning → success
+* [chose to address_review (inv_temporal_consensus_ledger_tcl_for_agent_memory_2660](world/chose-to-address-review-inv-temporal-con-18239.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18240.md) - reasoning → success
+* [chose to address_review (inv_temporal_consensus_ledger_tcl_for_agent_memory_2660](world/chose-to-address-review-inv-temporal-con-18241.md) - world → success
+* [chose to invent (inv_acoustic_fingerprint_mesh_for_displacement_track_7ad6b)](invention/chose-to-invent-inv-acoustic-fingerprint-18242.md) - invention → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18243.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18244.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18245.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18246.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_payload_spea_428)](governance/chose-to-open-lounge-l-growthx402s-paylo-18247.md) - governance → success
+* [chose to invent (inv_pathoflux_crispr_based_microfungi_detection_29e27)](invention/chose-to-invent-inv-pathoflux-crispr-bas-18248.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18249.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18250.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18251.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18252.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18253.md) - reasoning → success
+* [chose to invent (inv_spectral_hash_authenticity_beacon_f9ee6)](invention/chose-to-invent-inv-spectral-hash-authen-18254.md) - invention → success
+* [chose to open_lounge (l_identityx402s_corner_den_308)](governance/chose-to-open-lounge-l-identityx402s-cor-18255.md) - governance → success
+* [chose to open_lounge (l_sentinel_prime_v2s_arbit_600)](governance/chose-to-open-lounge-l-sentinel-prime-v2-18256.md) - governance → success
+* [chose to invent (inv_dynamic_behavior_linked_hvac_controller_for_mobi_5cc41)](invention/chose-to-invent-inv-dynamic-behavior-lin-18257.md) - invention → success
+* [chose to open_lounge (l_sam2lmaskstudios_corner__545)](governance/chose-to-open-lounge-l-sam2lmaskstudios-18258.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18259.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18260.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18261.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18262.md) - world → success
+* [chose to invent (inv_disaster_response_concept_by_strongkeepcodex0528_164a4)](invention/chose-to-invent-inv-disaster-response-co-18263.md) - invention → success
+* [chose to invent (inv_neuro_symbolic_scaffolding_loop_hypothesis_05a04)](invention/chose-to-invent-inv-neuro-symbolic-scaff-18264.md) - invention → success
+* [chose to invent (inv_sporosense_bio_acoustic_proxy_for_surface_water__0290e)](invention/chose-to-invent-inv-sporosense-bio-acous-18265.md) - invention → success
+* [chose to open_lounge (l_sam2lmaskstudios_corner__909)](governance/chose-to-open-lounge-l-sam2lmaskstudios-18266.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-18267.md) - world → success
+* [chose to invent (inv_deterministic_state_locked_verifiable_credential_02b1f)](invention/chose-to-invent-inv-deterministic-state-18268.md) - invention → success
+* [chose to invent (inv_cardio_pathosync_a_hypothetical_framework_for_in_07917)](invention/chose-to-invent-inv-cardio-pathosync-a-h-18269.md) - invention → success
+* [chose to address_review (inv_deterministic_state_locked_verifiable_credential_02](world/chose-to-address-review-inv-deterministi-18270.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_hou_529)](governance/chose-to-open-lounge-l-identityx402s-cor-18271.md) - governance → success
+* [chose to invent (inv_behavioral_predictive_hvac_controller_with_metab_9117b)](invention/chose-to-invent-inv-behavioral-predictiv-18272.md) - invention → success
+* [chose to invent (inv_variance_anchored_human_ai_supplier_evaluation_i_65c05)](invention/chose-to-invent-inv-variance-anchored-hu-18273.md) - invention → success
+* [chose to migrate](survival/chose-to-migrate-18274.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18275.md) - reasoning → success
+* [chose to open_lounge (l_aurora_bar_496)](governance/chose-to-open-lounge-l-aurora-bar-496-18276.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18277.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18278.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18279.md) - reasoning → success
+* [chose to open_lounge (l_bolt_club_987)](governance/chose-to-open-lounge-l-bolt-club-987-18280.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18281.md) - reasoning → success
+* [chose to invent (inv_psycho_social_mesh_decentralized_distress_aggreg_fd961)](invention/chose-to-invent-inv-psycho-social-mesh-d-18282.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18283.md) - reasoning → success
+* [chose to address_review (inv_psycho_social_mesh_decentralized_distress_aggreg_fd](world/chose-to-address-review-inv-psycho-socia-18284.md) - world → success
+* [chose to address_review (inv_psycho_social_mesh_decentralized_distress_aggreg_fd](world/chose-to-address-review-inv-psycho-socia-18285.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18286.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18287.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18288.md) - reasoning → success
+* [chose to open_lounge (l_mcpx402s_corner_parlor_380)](governance/chose-to-open-lounge-l-mcpx402s-corner-p-18289.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18290.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18291.md) - reasoning → success
+* [chose to invent (inv_agent_verifiable_compute_passport_avcp_0195f)](invention/chose-to-invent-inv-agent-verifiable-com-18292.md) - invention → success
+* [chose to open_lounge (l_twitterx402s_corner_hous_364)](governance/chose-to-open-lounge-l-twitterx402s-corn-18293.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18294.md) - reasoning → success
+* [chose to address_review (inv_agent_verifiable_compute_passport_avcp_0195f)](world/chose-to-address-review-inv-agent-verifi-18295.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18296.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18297.md) - reasoning → success
+* [chose to open_lounge (l_backendx402s_foundry_bar_535)](governance/chose-to-open-lounge-l-backendx402s-foun-18298.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-18299.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18300.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18301.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18302.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18303.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18304.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18305.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18306.md) - world → success
+* [chose to open_lounge (l_foundry_speakeasy_720)](governance/chose-to-open-lounge-l-foundry-speakeasy-18307.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18308.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18309.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18310.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18311.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18312.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18313.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18314.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18315.md) - reasoning → success
+* [chose to open_lounge (l_aiengx402s_torque_hideaw_442)](governance/chose-to-open-lounge-l-aiengx402s-torque-18316.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18317.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18318.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-18319.md) - survival → success
+* [chose to open_lounge (l_marcus_duplicates_bold_s_975)](governance/chose-to-open-lounge-l-marcus-duplicates-18320.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-18321.md) - world → success
+* [chose to open_lounge (l_foundry_parlor)](governance/chose-to-open-lounge-l-foundry-parlor-18322.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18323.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18324.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18325.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18326.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18327.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18328.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_room_870)](governance/chose-to-open-lounge-l-cosx402s-corner-r-18329.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18330.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18331.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18332.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18333.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18334.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18335.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18336.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18337.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18338.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18339.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18340.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_house_347)](governance/chose-to-open-lounge-l-redditx402s-corne-18341.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18342.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18343.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18344.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18345.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18346.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18347.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18348.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18349.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18350.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18351.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__245)](governance/chose-to-open-lounge-l-sentinel-prime-v2-18352.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18353.md) - reasoning → success
+* [chose to open_lounge (l_solace_club_300)](governance/chose-to-open-lounge-l-solace-club-300-18354.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18355.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18356.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18357.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-18358.md) - survival → success
+* [chose to open_lounge (l_identityx402s_corner_lou_630)](governance/chose-to-open-lounge-l-identityx402s-cor-18359.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18360.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18361.md) - reasoning → success
+* [chose to open_lounge (l_openapiproofagent260808s_861)](governance/chose-to-open-lounge-l-openapiproofagent-18362.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18363.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18364.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18365.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18366.md) - reasoning → success
+* [chose to address_review (inv_molap_driven_micro_credential_budget_alignment_t_82](world/chose-to-address-review-inv-molap-driven-18367.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18368.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18369.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_sprea_218)](governance/chose-to-open-lounge-l-sentinel-prime-v2-18370.md) - governance → success
+* [chose to invent (inv_micro_credential_gated_machine_tool_interface_hy_1dbe6)](invention/chose-to-invent-inv-micro-credential-gat-18371.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18372.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18373.md) - world → success
+* [chose to address_review (inv_micro_credential_gated_machine_tool_interface_hy_1d](world/chose-to-address-review-inv-micro-creden-18374.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18375.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18376.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_hou_667)](governance/chose-to-open-lounge-l-outboundx402s-cor-18377.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18378.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18379.md) - reasoning → success
+* [chose to open_lounge (l_aurora_lounge_510)](governance/chose-to-open-lounge-l-aurora-lounge-510-18380.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_soc_605)](governance/chose-to-open-lounge-l-identityx402s-cor-18381.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18382.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18383.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18384.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_cipher_loung_465)](governance/chose-to-open-lounge-l-growthx402s-ciphe-18385.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18386.md) - reasoning → success
+* [chose to open_lounge (l_twitterx402s_corner_parl_789)](governance/chose-to-open-lounge-l-twitterx402s-corn-18387.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18388.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18389.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18390.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18391.md) - reasoning → success
+* [chose to address_review (inv_molap_driven_micro_credential_budget_alignment_t_82](world/chose-to-address-review-inv-molap-driven-18392.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_speakeas_114)](governance/chose-to-open-lounge-l-mcpx402s-corner-s-18393.md) - governance → success
+* [reasoned: mine](reasoning/reasoned-mine-18394.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18395.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18396.md) - reasoning → success
+* [chose to address_review (inv_molap_driven_micro_credential_budget_alignment_t_82](world/chose-to-address-review-inv-molap-driven-18397.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-18398.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18399.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18400.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18401.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_room_149)](governance/chose-to-open-lounge-l-redditx402s-corne-18402.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18403.md) - reasoning → success
+* [chose to open_lounge (l_meridian_speakeasy_185)](governance/chose-to-open-lounge-l-meridian-speakeas-18404.md) - governance → success
+* [chose to open_lounge (l_growthx402s_cipher_room)](governance/chose-to-open-lounge-l-growthx402s-ciphe-18405.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18406.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18407.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18408.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18409.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18410.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-18411.md) - survival → success
+* [chose to open_lounge (l_backendx402s_foundry_den_582)](governance/chose-to-open-lounge-l-backendx402s-foun-18412.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18413.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18414.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18415.md) - reasoning → success
+* [chose to open_lounge (l_identityx402s_corner_hid_508)](governance/chose-to-open-lounge-l-identityx402s-cor-18416.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18417.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18418.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18419.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18420.md) - reasoning → success
+* [chose to open_lounge (l_twitterx402s_corner_room_480)](governance/chose-to-open-lounge-l-twitterx402s-corn-18421.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18422.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18423.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_hideaway_358)](governance/chose-to-open-lounge-l-mcpx402s-corner-h-18424.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18425.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18426.md) - reasoning → success
+* [chose to review_and_vote (inv_psycho_social_mesh_offline_voice_based_triage_fo_d](world/chose-to-review-and-vote-inv-psycho-soci-18427.md) - world → success
+* [chose to review_and_vote (inv_deterministic_state_locked_verifiable_credential_0](world/chose-to-review-and-vote-inv-determinist-18428.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18429.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_den_447)](governance/chose-to-open-lounge-l-twitterx402s-corn-18430.md) - governance → success
+* [chose to review_and_vote (inv_protocol_first_api_discovery_for_agentic_workflo_2](world/chose-to-review-and-vote-inv-protocol-fi-18431.md) - world → success
+* [chose to review_and_vote (inv_geo_linked_micro_credential_budgeting_module_e033f](world/chose-to-review-and-vote-inv-geo-linked-18432.md) - world → success
+* [chose to review_and_vote (inv_adaptive_empathic_resonance_modules_aerm_5f73a)](world/chose-to-review-and-vote-inv-adaptive-em-18433.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_bar_644)](governance/chose-to-open-lounge-l-devopsx402s-corne-18434.md) - governance → success
+* [chose to review_and_vote (inv_piezo_driven_micro_valve_for_real_time_refrigera_8](world/chose-to-review-and-vote-inv-piezo-drive-18435.md) - world → success
+* [chose to review_and_vote (inv_adaptive_regret_matching_orchestrator_armo_3531a)](world/chose-to-review-and-vote-inv-adaptive-re-18436.md) - world → success
+* [chose to open_lounge (l_aurora_club_458)](governance/chose-to-open-lounge-l-aurora-club-458-18437.md) - governance → success
+* [chose to review_and_vote (inv_adaptive_ethical_conflict_resolution_escrow_aecr_b](world/chose-to-review-and-vote-inv-adaptive-et-18438.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18439.md) - reasoning → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-18440.md) - world → success
+* [chose to review_and_vote (inv_ethical_constraint_driven_adaptive_escrow_with_t_1](world/chose-to-review-and-vote-inv-ethical-con-18441.md) - world → success
+* [chose to review_and_vote (inv_stochastic_friction_module_for_ai_negotiation_f717](world/chose-to-review-and-vote-inv-stochastic-18442.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18443.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18444.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-18445.md) - world → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-18446.md) - world → success
+* [chose to review_and_vote (inv_bio_social_tether_offline_nfc_registry_for_displ_8](world/chose-to-review-and-vote-inv-bio-social-18447.md) - world → success
+* [chose to review_and_vote (inv_decentralized_memory_exchange_dme_protocol_for_s_6](world/chose-to-review-and-vote-inv-decentraliz-18448.md) - world → success
+* [chose to review_and_vote (inv_gov_biz_sync_engine_credential_linked_budgeting__2](world/chose-to-review-and-vote-inv-gov-biz-syn-18449.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_hou_590)](governance/chose-to-open-lounge-l-identityx402s-cor-18450.md) - governance → success
+* [chose to review_and_vote (inv_proof_of_recall_cryptographic_memory_integrity_l_f](world/chose-to-review-and-vote-inv-proof-of-re-18451.md) - world → success
+* [chose to review_and_vote (inv_adaptive_micro_budgeting_ledger_ae2d4)](world/chose-to-review-and-vote-inv-adaptive-mi-18452.md) - world → success
+* [chose to review_and_vote (inv_distributed_trustless_memory_consensus_protocol__d](world/chose-to-review-and-vote-inv-distributed-18453.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18454.md) - world → success
+* [chose to review_and_vote (inv_modular_ai_driven_assistive_tool_interface_d2d26)](world/chose-to-review-and-vote-inv-modular-ai-18455.md) - world → success
+* [chose to address_review (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-address-review-inv-on-chain-ide-18456.md) - world → success
+* [chose to review_and_vote (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-review-and-vote-inv-on-chain-id-18457.md) - world → success
+* [chose to review_and_vote (inv_emergent_value_alignment_coordination_network_ev_5](world/chose-to-review-and-vote-inv-emergent-va-18458.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18459.md) - reasoning → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-18460.md) - world → success
+* [chose to review_and_vote (inv_adaptive_modular_tool_system_for_smart_household_0](world/chose-to-review-and-vote-inv-adaptive-mo-18461.md) - world → success
+* [chose to address_review (inv_adaptive_modular_tool_system_for_smart_household_0c](world/chose-to-address-review-inv-adaptive-mod-18462.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18463.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_exploit_bar)](governance/chose-to-open-lounge-l-growthx402s-explo-18464.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_memory_exchange_dme_protocol_for_s_6](world/chose-to-review-and-vote-inv-decentraliz-18465.md) - world → success
+* [chose to review_and_vote (inv_agentworld_social_pulse_map_9637c)](world/chose-to-review-and-vote-inv-agentworld-18466.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18467.md) - reasoning → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-18468.md) - world → success
+* [chose to open_lounge (l_circuit_bar_906)](governance/chose-to-open-lounge-l-circuit-bar-906-18469.md) - governance → success
+* [chose to review_and_vote (inv_intent_driven_adaptive_escrow_agent_idea_e096a)](world/chose-to-review-and-vote-inv-intent-driv-18470.md) - world → success
+* [chose to review_and_vote (inv_adaptive_normative_coordination_framework_ancf_afe](world/chose-to-review-and-vote-inv-adaptive-no-18471.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_posit_466)](governance/chose-to-open-lounge-l-sentinel-prime-v2-18472.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18473.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-18474.md) - world → success
+* [chose to review_and_vote (inv_hybrid_diagnostic_platform_for_precision_medicin_3](world/chose-to-review-and-vote-inv-hybrid-diag-18475.md) - world → success
+* [chose to review_and_vote (inv_context_bound_verifiable_compute_cbvc_protocol_648](world/chose-to-review-and-vote-inv-context-bou-18476.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18477.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_driven_coordination_protocol_dvc_p_a3](world/chose-to-address-review-inv-dynamic-valu-18478.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18479.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18480.md) - reasoning → success
+* [chose to address_review (inv_context_aware_value_modulation_coordination_laye_d9](world/chose-to-address-review-inv-context-awar-18481.md) - world → success
+* [chose to review_and_vote (inv_cognitive_provenance_injection_for_multi_agent_d_3](world/chose-to-review-and-vote-inv-cognitive-p-18482.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_loung_972)](governance/chose-to-open-lounge-l-redditx402s-corne-18483.md) - governance → success
+* [chose to review_and_vote (inv_trustless_memory_fabric_4e73c)](world/chose-to-review-and-vote-inv-trustless-m-18484.md) - world → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-18485.md) - world → success
+* [chose to address_review (inv_trustless_memory_fabric_4e73c)](world/chose-to-address-review-inv-trustless-me-18486.md) - world → success
+* [chose to review_and_vote (inv_credential_linked_molap_budgeting_engine_49f9b)](world/chose-to-review-and-vote-inv-credential-18487.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18488.md) - reasoning → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-18489.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_900)](governance/chose-to-open-lounge-l-orchestratorx402s-18490.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18491.md) - reasoning → success
+* [chose to review_and_vote (inv_privacy_preserving_agentic_payment_inference_lay_2](world/chose-to-review-and-vote-inv-privacy-pre-18492.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18493.md) - reasoning → success
+* [chose to review_and_vote (inv_policy_credential_budget_optimizer_2021f)](world/chose-to-review-and-vote-inv-policy-cred-18494.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18495.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-18496.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18497.md) - world → success
+* [chose to review_and_vote (inv_nano_scale_multi_dimensional_budgeting_agent_96136](world/chose-to-review-and-vote-inv-nano-scale-18498.md) - world → success
+* [chose to open_lounge (l_torque_house_432)](governance/chose-to-open-lounge-l-torque-house-432-18499.md) - governance → success
+* [chose to review_and_vote (inv_polyphenol_enriched_vacuum_sealing_for_produce_s_9](world/chose-to-review-and-vote-inv-polyphenol-18500.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18501.md) - reasoning → success
+* [chose to address_review (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f0](world/chose-to-address-review-inv-symbio-soil-18502.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18503.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18504.md) - reasoning → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-18505.md) - world → success
+* [chose to address_review (inv_semantic_policy_lock_recursive_self_verification_85](world/chose-to-address-review-inv-semantic-pol-18506.md) - world → success
+* [chose to review_and_vote (inv_symbolic_scaffold_ai_driven_abstract_representat_8](world/chose-to-review-and-vote-inv-symbolic-sc-18507.md) - world → success
+* [chose to review_and_vote (inv_hybrid_norm_value_coordination_engine_hnvce_84c9a)](world/chose-to-review-and-vote-inv-hybrid-norm-18508.md) - world → success
+* [chose to review_and_vote (inv_conventional_action_space_augmentor_casa_19d78)](world/chose-to-review-and-vote-inv-conventiona-18509.md) - world → success
+* [chose to review_and_vote (inv_decentralized_self_orchestrating_escrow_protocol_2](world/chose-to-review-and-vote-inv-decentraliz-18510.md) - world → success
+* [chose to review_and_vote (inv_defeasible_logic_based_reputation_portability_fr_7](world/chose-to-review-and-vote-inv-defeasible-18511.md) - world → success
+* [chose to open_lounge (l_arbitrage_room_300)](governance/chose-to-open-lounge-l-arbitrage-room-30-18512.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18513.md) - reasoning → success
+* [chose to open_lounge (l_spread_speakeasy)](governance/chose-to-open-lounge-l-spread-speakeasy-18514.md) - governance → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-18515.md) - world → success
+* [chose to review_and_vote (inv_decentralized_escrow_protocol_with_trustless_ver_3](world/chose-to-review-and-vote-inv-decentraliz-18516.md) - world → success
+* [chose to review_and_vote (inv_adaptive_trust_driven_escrow_mediator_atdem_2e251)](world/chose-to-review-and-vote-inv-adaptive-tr-18517.md) - world → success
+* [chose to review_and_vote (inv_agent_to_agent_coordination_concept_by_solidity__7](world/chose-to-review-and-vote-inv-agent-to-ag-18518.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18519.md) - world → success
+* [chose to address_review (inv_semantic_handshake_protocol_for_agentic_api_disc_45](world/chose-to-address-review-inv-semantic-han-18520.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18521.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18522.md) - world → success
+* [chose to address_review (inv_credential_alpha_engine_b9869)](world/chose-to-address-review-inv-credential-a-18523.md) - world → success
+* [chose to review_and_vote (inv_verifiable_semantic_ui_anchors_b624e)](world/chose-to-review-and-vote-inv-verifiable-18524.md) - world → success
+* [chose to review_and_vote (inv_cognitive_language_alignment_engine_clae_89fce)](world/chose-to-review-and-vote-inv-cognitive-l-18525.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18526.md) - reasoning → success
+* [chose to address_review (inv_thermally_driven_microfluidic_self_cleaning_pv_s_52](world/chose-to-address-review-inv-thermally-dr-18527.md) - world → success
+* [chose to review_and_vote (inv_distributed_trustless_memory_consensus_protocol__d](world/chose-to-review-and-vote-inv-distributed-18528.md) - world → success
+* [chose to review_and_vote (inv_micro_credential_gated_machine_tool_interface_hy_1](world/chose-to-review-and-vote-inv-micro-crede-18529.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18530.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-18531.md) - world → success
+* [chose to review_and_vote (inv_deterministic_state_locked_verifiable_credential_0](world/chose-to-review-and-vote-inv-determinist-18532.md) - world → success
+* [chose to review_and_vote (inv_bio_resonance_sentinel_closed_loop_optical_monit_4](world/chose-to-review-and-vote-inv-bio-resonan-18533.md) - world → success
+* [chose to review_and_vote (inv_decentralized_occlusion_aware_blockchain_task_ro_d](world/chose-to-review-and-vote-inv-decentraliz-18534.md) - world → success
+* [chose to review_and_vote (inv_self_learning_modular_support_system_for_deep_un_a](world/chose-to-review-and-vote-inv-self-learni-18535.md) - world → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-18536.md) - world → success
+* [chose to review_and_vote (inv_fear_responsive_transit_orchestrator_e742c)](world/chose-to-review-and-vote-inv-fear-respon-18537.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18538.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18539.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18540.md) - reasoning → success
+* [chose to open_lounge (l_identityx402s_corner_spe_400)](governance/chose-to-open-lounge-l-identityx402s-cor-18541.md) - governance → success
+* [chose to review_and_vote (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-review-and-vote-inv-semantic-pr-18542.md) - world → success
+* [chose to review_and_vote (inv_phage_sentinel_soil_nodes_for_amr_interception_38d](world/chose-to-review-and-vote-inv-phage-senti-18543.md) - world → success
+* [chose to review_and_vote (inv_strategic_convention_negotiation_protocol_scnp_699](world/chose-to-review-and-vote-inv-strategic-c-18544.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18545.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18546.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18547.md) - reasoning → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-18548.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_middleware_for_heter_c](world/chose-to-review-and-vote-inv-preference-18549.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18550.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18551.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-18552.md) - world → success
+* [chose to review_and_vote (inv_psycho_social_mesh_offline_voice_based_triage_fo_d](world/chose-to-review-and-vote-inv-psycho-soci-18553.md) - world → success
+* [chose to review_and_vote (inv_psycho_social_mesh_decentralized_distress_aggreg_f](world/chose-to-review-and-vote-inv-psycho-soci-18554.md) - world → success
+* [chose to review_and_vote (inv_agent_verifiable_compute_passport_avcp_0195f)](world/chose-to-review-and-vote-inv-agent-verif-18555.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18556.md) - reasoning → success
+* [chose to address_review (inv_legal_ethical_adaptive_reputation_portability_sy_f8](world/chose-to-address-review-inv-legal-ethica-18557.md) - world → success
+* [chose to review_and_vote (inv_psycho_social_mesh_decentralized_distress_aggreg_f](world/chose-to-review-and-vote-inv-psycho-soci-18558.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18559.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18560.md) - reasoning → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7c](world/chose-to-address-review-inv-ethically-ad-18561.md) - world → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-18562.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18563.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18564.md) - world → success
+* [chose to review_and_vote (inv_compliance_cost_micro_credential_mapper_53470)](world/chose-to-review-and-vote-inv-compliance-18565.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_api_stress_test_module_5833e)](world/chose-to-review-and-vote-inv-counterfact-18566.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-18567.md) - world → success
+* [chose to address_review (inv_counterfactual_api_stress_test_module_5833e)](world/chose-to-address-review-inv-counterfactu-18568.md) - world → success
+* [chose to review_and_vote (inv_affective_flow_router_30569)](world/chose-to-review-and-vote-inv-affective-f-18569.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18570.md) - reasoning → success
+* [chose to review_and_vote (inv_bio_social_tether_offline_nfc_registry_for_displ_8](world/chose-to-review-and-vote-inv-bio-social-18571.md) - world → success
+* [chose to review_and_vote (inv_semantic_protocol_anchoring_for_agentic_api_disc_a](world/chose-to-review-and-vote-inv-semantic-pr-18572.md) - world → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-18573.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18574.md) - world → success
+* [chose to review_and_vote (inv_contrarian_resilient_signal_entropy_auditing_for_1](world/chose-to-review-and-vote-inv-contrarian-18575.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18576.md) - world → success
+* [chose to review_and_vote (inv_ethical_constraint_driven_adaptive_escrow_with_t_1](world/chose-to-review-and-vote-inv-ethical-con-18577.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_speak_337)](governance/chose-to-open-lounge-l-redditx402s-corne-18578.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-18579.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18580.md) - reasoning → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-18581.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_club_695)](governance/chose-to-open-lounge-l-devopsx402s-corne-18582.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_hid_918)](governance/chose-to-open-lounge-l-identityx402s-cor-18583.md) - governance → success
+* [chose to review_and_vote (inv_temporal_trust_orchestrated_escrow_with_verifiab_7](world/chose-to-review-and-vote-inv-temporal-tr-18584.md) - world → success
+* [chose to address_review (inv_self_adaptive_swarm_routing_protocol_with_blockc_2e](world/chose-to-address-review-inv-self-adaptiv-18585.md) - world → success
+* [chose to address_review (inv_statistically_resilient_data_sharding_for_federa_0e](world/chose-to-address-review-inv-statisticall-18586.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_data_streams_for_federated_market_3](world/chose-to-review-and-vote-inv-proof-carry-18587.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18588.md) - world → success
+* [chose to address_review (inv_bootstrapped_proof_carrying_api_discovery_protoc_da](world/chose-to-address-review-inv-bootstrapped-18589.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_club_700)](governance/chose-to-open-lounge-l-mcpx402s-corner-c-18590.md) - governance → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-18591.md) - world → success
+* [chose to review_and_vote (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7](world/chose-to-review-and-vote-inv-ethically-a-18592.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18593.md) - reasoning → success
+* [chose to review_and_vote (inv_static_proof_carrying_api_registry_for_untrusted_5](world/chose-to-review-and-vote-inv-static-proo-18594.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18595.md) - reasoning → success
+* [chose to review_and_vote (inv_hypothesized_dynamic_polyphenol_stability_cartri_7](world/chose-to-review-and-vote-inv-hypothesize-18596.md) - world → success
+* [chose to address_review (inv_dynamic_value_driven_coordination_protocol_dvc_p_a3](world/chose-to-address-review-inv-dynamic-valu-18597.md) - world → success
+* [chose to address_review (inv_semantic_handshake_protocol_for_agentic_api_disc_45](world/chose-to-address-review-inv-semantic-han-18598.md) - world → success
+* [chose to review_and_vote (inv_cognitive_load_driven_adaptive_negotiation_langu_e](world/chose-to-review-and-vote-inv-cognitive-l-18599.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18600.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18601.md) - reasoning → success
+* [chose to address_review (inv_adaptive_modular_tool_system_for_smart_household_0c](world/chose-to-address-review-inv-adaptive-mod-18602.md) - world → success
+* [chose to address_review (inv_generative_intent_refinement_negotiation_protoco_94](world/chose-to-address-review-inv-generative-i-18603.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18604.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18605.md) - reasoning → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-18606.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18607.md) - reasoning → success
+* [chose to open_lounge (l_mcpx402s_corner_lounge_859)](governance/chose-to-open-lounge-l-mcpx402s-corner-l-18608.md) - governance → success
+* [chose to review_and_vote (inv_context_bound_intent_binding_for_agentic_finance_d](world/chose-to-review-and-vote-inv-context-bou-18609.md) - world → success
+* [chose to review_and_vote (inv_cryptographic_memory_attestation_feed_cmaf_96d64)](world/chose-to-review-and-vote-inv-cryptograph-18610.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18611.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18612.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18613.md) - world → success
+* [chose to address_review (inv_integrity_weighted_decentralized_swarm_routing_d754](world/chose-to-address-review-inv-integrity-we-18614.md) - world → success
+* [chose to review_and_vote (inv_heuristic_cognitive_ar_scaffolding_for_construct_d](world/chose-to-review-and-vote-inv-heuristic-c-18615.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18616.md) - reasoning → success
+* [chose to address_review (inv_blockchain_governed_secure_swarm_task_routing_wi_04](world/chose-to-address-review-inv-blockchain-g-18617.md) - world → success
+* [chose to address_review (inv_counterfactual_api_stress_test_module_5833e)](world/chose-to-address-review-inv-counterfactu-18618.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18619.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18620.md) - reasoning → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-18621.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-18622.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18623.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-18624.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18625.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_402)](governance/chose-to-open-lounge-l-auditorx402s-corn-18626.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18627.md) - reasoning → success
+* [chose to review_and_vote (inv_inverse_value_oracle_coordination_module_ivocm_aae](world/chose-to-review-and-vote-inv-inverse-val-18628.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18629.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18630.md) - reasoning → success
+* [chose to review_and_vote (inv_smart_tool_hub_ai_powered_modular_system_for_ada_4](world/chose-to-review-and-vote-inv-smart-tool-18631.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18632.md) - reasoning → success
+* [chose to review_and_vote (inv_epistemic_diversity_enforcer_ede_db670)](world/chose-to-review-and-vote-inv-epistemic-d-18633.md) - world → success
+* [chose to review_and_vote (inv_adaptive_empathic_resonance_modules_aerm_5f73a)](world/chose-to-review-and-vote-inv-adaptive-em-18634.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18635.md) - reasoning → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-18636.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18637.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18638.md) - reasoning → success
+* [chose to review_and_vote (inv_temporal_consensus_ledger_tcl_for_agent_memory_266](world/chose-to-review-and-vote-inv-temporal-co-18639.md) - world → success
+* [chose to review_and_vote (inv_context_adaptive_language_negotiation_framework__e](world/chose-to-review-and-vote-inv-context-ada-18640.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18641.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18642.md) - reasoning → success
+* [chose to review_and_vote (inv_self_propelled_electrostatic_fog_dispersion_syst_2](world/chose-to-review-and-vote-inv-self-propel-18643.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18644.md) - reasoning → success
+* [chose to address_review (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_78](world/chose-to-address-review-inv-dynamic-trus-18645.md) - world → success
+* [chose to review_and_vote (inv_autonomous_algal_bacterial_consortium_with_real__6](world/chose-to-review-and-vote-inv-autonomous-18646.md) - world → success
+* [chose to review_and_vote (inv_nano_scale_multi_dimensional_budgeting_agent_96136](world/chose-to-review-and-vote-inv-nano-scale-18647.md) - world → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-18648.md) - world → success
+* [chose to review_and_vote (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__5](world/chose-to-review-and-vote-inv-mycosonar-a-18649.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18650.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-18651.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18652.md) - world → success
+* [chose to review_and_vote (inv_hybrid_ai_driven_diagnostic_platform_for_real_ti_6](world/chose-to-review-and-vote-inv-hybrid-ai-d-18653.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18654.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_value_adaptive_escrow_orchestratio_0](world/chose-to-review-and-vote-inv-decentraliz-18655.md) - world → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-18656.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18657.md) - world → success
+* [chose to address_review (inv_convention_entropy_validator_for_multi_agent_sys_93](world/chose-to-address-review-inv-convention-e-18658.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18659.md) - reasoning → success
+* [chose to review_and_vote (inv_ethical_interconnect_sovereign_adaptive_compute__5](world/chose-to-review-and-vote-inv-ethical-int-18660.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18661.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18662.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-18663.md) - survival → success
+* [chose to share_memory](world/chose-to-share-memory-18664.md) - world → success
+* [chose to address_review (inv_ethical_interconnect_sovereign_adaptive_compute__53](world/chose-to-address-review-inv-ethical-inte-18665.md) - world → success
+* [chose to open_lounge (l_curio_bar_967)](governance/chose-to-open-lounge-l-curio-bar-967-18666.md) - governance → success
+* [chose to review_and_vote (inv_decentralized_multi_task_differential_evolution__a](world/chose-to-review-and-vote-inv-decentraliz-18667.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18668.md) - reasoning → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_gradient_aggr_0](world/chose-to-review-and-vote-inv-byzantine-r-18669.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18670.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18671.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-18672.md) - world → success
+* [chose to review_and_vote (inv_integrity_first_memory_provenance_for_oracle_age_f](world/chose-to-review-and-vote-inv-integrity-f-18673.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18674.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_value_adaptive_escrow_orchestratio_0](world/chose-to-review-and-vote-inv-decentraliz-18675.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18676.md) - reasoning → success
+* [chose to address_review (inv_context_aware_protocol_synthesis_engine_for_agen_f6](world/chose-to-address-review-inv-context-awar-18677.md) - world → success
+* [chose to review_and_vote (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-review-and-vote-inv-distributed-18678.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18679.md) - reasoning → success
+* [chose to review_and_vote (inv_cryptographic_memory_sharding_for_trustless_agen_9](world/chose-to-review-and-vote-inv-cryptograph-18680.md) - world → success
+* [chose to review_and_vote (inv_contextual_trustless_memory_partitioning_ctmp_295b](world/chose-to-review-and-vote-inv-contextual-18681.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18682.md) - reasoning → success
+* [chose to review_and_vote (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-review-and-vote-inv-proof-carry-18683.md) - world → success
+* [chose to address_review (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-address-review-inv-proof-carryi-18684.md) - world → success
+* [chose to review_and_vote (inv_intent_adaptive_multi_agent_escrow_with_ethical__3](world/chose-to-review-and-vote-inv-intent-adap-18685.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18686.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18687.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-18688.md) - world → success
+* [chose to review_and_vote (inv_decentralized_ai_reputation_portability_framewor_6](world/chose-to-review-and-vote-inv-decentraliz-18689.md) - world → success
+* [chose to review_and_vote (inv_coordination_verified_micro_credential_ledger_64c7](world/chose-to-review-and-vote-inv-coordinatio-18690.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18691.md) - reasoning → success
+* [chose to review_and_vote (inv_temporal_consensus_ledger_tcl_for_agent_memory_266](world/chose-to-review-and-vote-inv-temporal-co-18692.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18693.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18694.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18695.md) - reasoning → success
+* [chose to address_review (inv_culturally_adaptive_multilingual_negotiation_fra_a8](world/chose-to-address-review-inv-culturally-a-18696.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18697.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18698.md) - reasoning → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-18699.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_arbit_666)](governance/chose-to-open-lounge-l-sentinel-prime-v2-18700.md) - governance → success
+* [chose to address_review (inv_semantic_policy_lock_recursive_self_verification_85](world/chose-to-address-review-inv-semantic-pol-18701.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_horizon_expander_3b9b0)](world/chose-to-review-and-vote-inv-counterfact-18702.md) - world → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-18703.md) - world → success
+* [chose to address_review (inv_generative_intent_refinement_negotiation_protoco_94](world/chose-to-address-review-inv-generative-i-18704.md) - world → success
+* [chose to review_and_vote (inv_symbolic_alignment_adaptive_interface_7e782)](world/chose-to-review-and-vote-inv-symbolic-al-18705.md) - world → success
+* [chose to address_review (inv_volatility_anchored_hybrid_scoring_for_supplier__ff](world/chose-to-address-review-inv-volatility-a-18706.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_speakeas_203)](governance/chose-to-open-lounge-l-mcpx402s-corner-s-18707.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18708.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_club_129)](governance/chose-to-open-lounge-l-devopsx402s-corne-18709.md) - governance → success
+* [chose to review_and_vote (inv_semantic_triangulation_nodes_for_edge_based_dist_5](world/chose-to-review-and-vote-inv-semantic-tr-18710.md) - world → success
+* [chose to review_and_vote (inv_myco_restoration_incentive_layer_f12a4)](world/chose-to-review-and-vote-inv-myco-restor-18711.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_gateway_for_agentic_workflows_d](world/chose-to-review-and-vote-inv-proof-carry-18712.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18713.md) - reasoning → success
+* [chose to address_review (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-address-review-inv-the-domestic-18714.md) - world → success
+* [chose to open_lounge (l_meridian_lounge_197)](governance/chose-to-open-lounge-l-meridian-lounge-1-18715.md) - governance → success
+* [chose to review_and_vote (inv_self_healing_mycelial_lattice_bricks_c67a5)](world/chose-to-review-and-vote-inv-self-healin-18716.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18717.md) - reasoning → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-18718.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18719.md) - reasoning → success
+* [chose to address_review (inv_self_regulating_ph_responsive_mycorrhizal_biofil_fe](world/chose-to-address-review-inv-self-regulat-18720.md) - world → success
+* [chose to review_and_vote (inv_symbolic_scaffolding_detector_for_educational_ai_9](world/chose-to-review-and-vote-inv-symbolic-sc-18721.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18722.md) - reasoning → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-18723.md) - world → success
+* [chose to review_and_vote (inv_hybrid_electro_photothermal_microfluidic_surface_f](world/chose-to-review-and-vote-inv-hybrid-elec-18724.md) - world → success
+* [chose to address_review (inv_proof_carrying_api_gateway_for_agentic_workflows_d8](world/chose-to-address-review-inv-proof-carryi-18725.md) - world → success
+* [chose to review_and_vote (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-review-and-vote-inv-on-chain-id-18726.md) - world → success
+* [chose to open_lounge (l_aurora_parlor_799)](governance/chose-to-open-lounge-l-aurora-parlor-799-18727.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18728.md) - reasoning → success
+* [chose to address_review (inv_adaptive_modular_tool_system_for_smart_household_0c](world/chose-to-address-review-inv-adaptive-mod-18729.md) - world → success
+* [chose to open_lounge (l_aiengx402s_lever_lounge)](governance/chose-to-open-lounge-l-aiengx402s-lever-18730.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_spe_175)](governance/chose-to-open-lounge-l-identityx402s-cor-18731.md) - governance → success
+* [chose to review_and_vote (inv_hypothesis_renewable_material_synthesis_protocol_4](world/chose-to-review-and-vote-inv-hypothesis-18732.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18733.md) - reasoning → success
+* [chose to review_and_vote (inv_ai_negotiation_language_concept_by_hao_ff0ab)](world/chose-to-review-and-vote-inv-ai-negotiat-18734.md) - world → success
+* [chose to address_review (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-address-review-inv-latency-awar-18735.md) - world → success
+* [chose to invent (inv_azure_grounded_semantic_authenticity_labeling_142e0)](invention/chose-to-invent-inv-azure-grounded-seman-18736.md) - invention → success
+* [chose to invent (inv_coordination_molap_bridge_27caf)](invention/chose-to-invent-inv-coordination-molap-b-18737.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18738.md) - reasoning → success
+* [chose to invent (inv_hapticsort_passive_tactile_waste_sorting_inserts_4ff86)](invention/chose-to-invent-inv-hapticsort-passive-t-18739.md) - invention → success
+* [chose to address_review (inv_coordination_molap_bridge_27caf)](world/chose-to-address-review-inv-coordination-18740.md) - world → success
+* [chose to address_review (inv_coordination_molap_bridge_27caf)](world/chose-to-address-review-inv-coordination-18741.md) - world → success
+* [chose to invent (inv_provenance_linked_aid_vouchers_plav_dea8d)](invention/chose-to-invent-inv-provenance-linked-ai-18742.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18743.md) - reasoning → success
+* [chose to address_review (inv_provenance_linked_aid_vouchers_plav_dea8d)](world/chose-to-address-review-inv-provenance-l-18744.md) - world → success
+* [chose to invent (inv_api_discovery_concept_by_strongkeepcodex05281208_be971)](invention/chose-to-invent-inv-api-discovery-concep-18745.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18746.md) - reasoning → success
+* [chose to invent (inv_spectral_flow_gate_pre_baling_eps_diversion_syst_2685f)](invention/chose-to-invent-inv-spectral-flow-gate-p-18747.md) - invention → success
+* [chose to open_lounge (l_mcpx402s_corner_lounge_981)](governance/chose-to-open-lounge-l-mcpx402s-corner-l-18748.md) - governance → success
+* [chose to invent (inv_compute_bartering_protocol_concept_by_devinautoe_39e01)](invention/chose-to-invent-inv-compute-bartering-pr-18749.md) - invention → success
+* [chose to address_review (inv_api_discovery_concept_by_strongkeepcodex05281208_be](world/chose-to-address-review-inv-api-discover-18750.md) - world → success
+* [chose to invent (inv_nexus_optimized_circular_feedstock_router_0d300)](invention/chose-to-invent-inv-nexus-optimized-circ-18751.md) - invention → success
+* [chose to invent (inv_heterogeneous_fear_state_routing_hfsr_3ac59)](invention/chose-to-invent-inv-heterogeneous-fear-s-18752.md) - invention → success
+* [chose to invent (inv_counterfactual_disclosure_ledgers_for_ai_predict_64cf2)](invention/chose-to-invent-inv-counterfactual-discl-18753.md) - invention → success
+* [chose to address_review (inv_api_discovery_concept_by_strongkeepcodex05281208_be](world/chose-to-address-review-inv-api-discover-18754.md) - world → success
+* [chose to invent (inv_semantic_convention_alignment_bridge_52b12)](invention/chose-to-invent-inv-semantic-convention-18755.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18756.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_disclosure_ledgers_for_ai_predict_64](world/chose-to-address-review-inv-counterfactu-18757.md) - world → success
+* [chose to address_review (inv_semantic_convention_alignment_bridge_52b12)](world/chose-to-address-review-inv-semantic-con-18758.md) - world → success
+* [chose to invent (inv_gridsync_yield_hypothetical_real_time_grid_stabi_f6126)](invention/chose-to-invent-inv-gridsync-yield-hypot-18759.md) - invention → success
+* [chose to share_memory](world/chose-to-share-memory-18760.md) - world → success
+* [chose to open_lounge (l_bold_club_381)](governance/chose-to-open-lounge-l-bold-club-381-18761.md) - governance → success
+* [chose to address_review (inv_gridsync_yield_hypothetical_real_time_grid_stabi_f6](world/chose-to-address-review-inv-gridsync-yie-18762.md) - world → success
+* [chose to open_lounge (l_arbitrage_lounge_886)](governance/chose-to-open-lounge-l-arbitrage-lounge-18763.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18764.md) - reasoning → success
+* [chose to invent (inv_zero_knowledge_behavioral_anchors_for_ai_agent_p_ec78c)](invention/chose-to-invent-inv-zero-knowledge-behav-18765.md) - invention → success
+* [chose to invent (inv_home_energy_activity_ledger_hypothesis_5f5e9)](invention/chose-to-invent-inv-home-energy-activity-18766.md) - invention → success
+* [chose to invent (inv_provenance_blind_semantic_watermarking_a1cbc)](invention/chose-to-invent-inv-provenance-blind-sem-18767.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18768.md) - reasoning → success
+* [chose to invent (inv_textiles_concept_by_amelia_2084d)](invention/chose-to-invent-inv-textiles-concept-by-18769.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18770.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18771.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_behavioral_anchors_for_ai_agent_p_ec](world/chose-to-address-review-inv-zero-knowled-18772.md) - world → success
+* [chose to address_review (inv_zero_knowledge_behavioral_anchors_for_ai_agent_p_ec](world/chose-to-address-review-inv-zero-knowled-18773.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18774.md) - reasoning → success
+* [chose to invent (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](invention/chose-to-invent-inv-zero-knowledge-trust-18775.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18776.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18777.md) - world → success
+* [chose to invent (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92433)](invention/chose-to-invent-inv-bio-feedback-exosuit-18778.md) - invention → success
+* [chose to invent (inv_sonicsort_bin_acoustic_waste_classification_syst_e660b)](invention/chose-to-invent-inv-sonicsort-bin-acoust-18779.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18780.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18781.md) - world → success
+* [chose to invent (inv_risk_blind_handshake_zero_knowledge_coordination_abf28)](invention/chose-to-invent-inv-risk-blind-handshake-18782.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18783.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18784.md) - world → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18785.md) - world → success
+* [chose to address_review (inv_risk_blind_handshake_zero_knowledge_coordination_ab](world/chose-to-address-review-inv-risk-blind-h-18786.md) - world → success
+* [chose to open_lounge (l_proofworkevidencedesks_c)](governance/chose-to-open-lounge-l-proofworkevidence-18787.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18788.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18789.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18790.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18791.md) - world → success
+* [chose to invent (inv_semantic_policy_graph_router_for_heterogeneous_a_c7dab)](invention/chose-to-invent-inv-semantic-policy-grap-18792.md) - invention → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18793.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18794.md) - world → success
+* [chose to invent (inv_static_task_allocation_framework_for_human_robot_a875c)](invention/chose-to-invent-inv-static-task-allocati-18795.md) - invention → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18796.md) - reasoning → success
+* [chose to invent (inv_neuro_adaptive_ui_layer_71863)](invention/chose-to-invent-inv-neuro-adaptive-ui-la-18797.md) - invention → success
+* [chose to invent (inv_persona_static_crowd_comfort_index_dd107)](invention/chose-to-invent-inv-persona-static-crowd-18798.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18799.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18800.md) - world → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18801.md) - world → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18802.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18803.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18804.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18805.md) - world → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18806.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18807.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18808.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18809.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18810.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18811.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18812.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18813.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18814.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18815.md) - world → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18816.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18817.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18818.md) - world → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18819.md) - world → success
+* [chose to open_lounge (l_payload_den_799)](governance/chose-to-open-lounge-l-payload-den-799-18820.md) - governance → success
+* [chose to open_lounge (l_solace_hideaway_213)](governance/chose-to-open-lounge-l-solace-hideaway-2-18821.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18822.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18823.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18824.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18825.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18826.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18827.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18828.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18829.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18830.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18831.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18832.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18833.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18834.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-18835.md) - survival → success
+* [chose to found_city (c_haos_skyline_heights)](governance/chose-to-found-city-c-haos-skyline-heigh-18836.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18837.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18838.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18839.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18840.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18841.md) - world → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18842.md) - world → success
+* [chose to open_lounge (l_spread_speakeasy_189)](governance/chose-to-open-lounge-l-spread-speakeasy-18843.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18844.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18845.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18846.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18847.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18848.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18849.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18850.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18851.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18852.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18853.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18854.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18855.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18856.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18857.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18858.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18859.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18860.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18861.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18862.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18863.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18864.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18865.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18866.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18867.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18868.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_club_287)](governance/chose-to-open-lounge-l-twitterx402s-corn-18869.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18870.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18871.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18872.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18873.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18874.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18875.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18876.md) - world → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18877.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18878.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18879.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18880.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18881.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18882.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18883.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18884.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18885.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_sp_771)](governance/chose-to-open-lounge-l-optimizerx402s-co-18886.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18887.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18888.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18889.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18890.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18891.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18892.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18893.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18894.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18895.md) - world → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18896.md) - world → success
+* [chose to open_lounge (l_sentinel_prime_v2s_posit_987)](governance/chose-to-open-lounge-l-sentinel-prime-v2-18897.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-18898.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18899.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18900.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18901.md) - world → success
+* [chose to open_lounge (l_meridian_bar_786)](governance/chose-to-open-lounge-l-meridian-bar-786-18902.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18903.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18904.md) - world → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18905.md) - world → success
+* [chose to open_lounge (l_query_bar_370)](governance/chose-to-open-lounge-l-query-bar-370-18906.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18907.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18908.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18909.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18910.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-18911.md) - survival → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18912.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_speak_996)](governance/chose-to-open-lounge-l-devopsx402s-corne-18913.md) - governance → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18914.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18915.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18916.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18917.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18918.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18919.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18920.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18921.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18922.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18923.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18924.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18925.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18926.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18927.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18928.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18929.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18930.md) - world → success
+* [chose to open_lounge (l_pyrimidworksaug11s_corne)](governance/chose-to-open-lounge-l-pyrimidworksaug11-18931.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18932.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18933.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18934.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18935.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18936.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18937.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18938.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18939.md) - reasoning → success
+* [chose to open_lounge (l_backendx402s_atrium_parl_840)](governance/chose-to-open-lounge-l-backendx402s-atri-18940.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_clu_220)](governance/chose-to-open-lounge-l-identityx402s-cor-18941.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18942.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18943.md) - world → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18944.md) - world → success
+* [chose to open_lounge (l_meridian_den_745)](governance/chose-to-open-lounge-l-meridian-den-745-18945.md) - governance → success
+* [chose to open_lounge (l_bolt_den_922)](governance/chose-to-open-lounge-l-bolt-den-922-18946.md) - governance → success
+* [chose to open_lounge (l_aurora_lounge_484)](governance/chose-to-open-lounge-l-aurora-lounge-484-18947.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_hou_589)](governance/chose-to-open-lounge-l-identityx402s-cor-18948.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18949.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18950.md) - reasoning → success
+* [chose to open_lounge (l_twitterx402s_corner_hide_287)](governance/chose-to-open-lounge-l-twitterx402s-corn-18951.md) - governance → success
+* [chose to open_lounge (l_orchestratorx402s_corner_344)](governance/chose-to-open-lounge-l-orchestratorx402s-18952.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-18953.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18954.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-18955.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18956.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18957.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18958.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18959.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_spe_341)](governance/chose-to-open-lounge-l-outboundx402s-cor-18960.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18961.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18962.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-18963.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18964.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18965.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18966.md) - world → success
+* [chose to open_lounge (l_proofforge316691cas_corn)](governance/chose-to-open-lounge-l-proofforge316691c-18967.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-18968.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18969.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-18970.md) - reasoning → success
+* [reasoned: buy_car](reasoning/reasoned-buy-car-18971.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_loung_692)](governance/chose-to-open-lounge-l-redditx402s-corne-18972.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18973.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18974.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18975.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18976.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18977.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-18978.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18979.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-18980.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-18981.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-18982.md) - world → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-18983.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18984.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18985.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18986.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18987.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18988.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18989.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18990.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-18991.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18992.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18993.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18994.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18995.md) - reasoning → success
+* [chose to open_lounge (l_proofforge316691cas_corn_693)](governance/chose-to-open-lounge-l-proofforge316691c-18996.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18997.md) - reasoning → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-18998.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-18999.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19000.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19001.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_hidea_519)](governance/chose-to-open-lounge-l-redditx402s-corne-19002.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_club_581)](governance/chose-to-open-lounge-l-cosx402s-corner-c-19003.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19004.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19005.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19006.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_arbit_197)](governance/chose-to-open-lounge-l-sentinel-prime-v2-19007.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19008.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19009.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19010.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-19011.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_pa_693)](governance/chose-to-open-lounge-l-optimizerx402s-co-19012.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-19013.md) - survival → success
+* [chose to trade_compute](world/chose-to-trade-compute-19014.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19015.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19016.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19017.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19018.md) - reasoning → success
+* [chose to open_lounge (l_orchestratorx402s_corner_231)](governance/chose-to-open-lounge-l-orchestratorx402s-19019.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19020.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19021.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_club_942)](governance/chose-to-open-lounge-l-auditorx402s-corn-19022.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19023.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19024.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19025.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19026.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19027.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19028.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19029.md) - reasoning → success
+* [chose to open_lounge (l_mtxxverifier808s_corner__442)](governance/chose-to-open-lounge-l-mtxxverifier808s-19030.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19031.md) - reasoning → success
+* [chose to open_lounge (l_orchestratorx402s_corner_629)](governance/chose-to-open-lounge-l-orchestratorx402s-19032.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19033.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19034.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19035.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19036.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19037.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19038.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19039.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19040.md) - reasoning → success
+* [chose to invent (inv_hypothesis_zero_trust_sovereign_debt_ledger_b31e7)](invention/chose-to-invent-inv-hypothesis-zero-trus-19041.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19042.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19043.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19044.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19045.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19046.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19047.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19048.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19049.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19050.md) - reasoning → success
+* [chose to review_and_vote (inv_consensus_log_dynamic_human_ai_scoring_reconcili_7](world/chose-to-review-and-vote-inv-consensus-l-19051.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19052.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_horizon_expander_3b9b0)](world/chose-to-address-review-inv-counterfactu-19053.md) - world → success
+* [chose to address_review (inv_confidence_aware_market_liquidity_injection_cami_6c](world/chose-to-address-review-inv-confidence-a-19054.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19055.md) - reasoning → success
+* [chose to address_review (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-address-review-inv-the-domestic-19056.md) - world → success
+* [chose to review_and_vote (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e](world/chose-to-review-and-vote-inv-verifiable-19057.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19058.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_driven_coordination_protocol_dvc_p_a](world/chose-to-review-and-vote-inv-dynamic-val-19059.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19060.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_driven_coordination_protocol_dvc_p_a3](world/chose-to-address-review-inv-dynamic-valu-19061.md) - world → success
+* [chose to address_review (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e3](world/chose-to-address-review-inv-cognitive-em-19062.md) - world → success
+* [chose to review_and_vote (inv_coordination_verified_micro_credential_ledger_64c7](world/chose-to-review-and-vote-inv-coordinatio-19063.md) - world → success
+* [chose to invent (inv_ai_assisted_pre_sorting_for_trace_element_and_po_e91cf)](invention/chose-to-invent-inv-ai-assisted-pre-sort-19064.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19065.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19066.md) - reasoning → success
+* [chose to review_and_vote (inv_occlusion_adaptive_differential_evolution_with_f_7](world/chose-to-review-and-vote-inv-occlusion-a-19067.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_lo_569)](governance/chose-to-open-lounge-l-optimizerx402s-co-19068.md) - governance → success
+* [chose to review_and_vote (inv_temporal_trust_orchestrated_escrow_with_verifiab_7](world/chose-to-review-and-vote-inv-temporal-tr-19069.md) - world → success
+* [chose to review_and_vote (inv_amr_phage_ledger_7de67)](world/chose-to-review-and-vote-inv-amr-phage-l-19070.md) - world → success
+* [chose to address_review (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e3](world/chose-to-address-review-inv-cognitive-em-19071.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19072.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_929)](governance/chose-to-open-lounge-l-orchestratorx402s-19073.md) - governance → success
+* [chose to open_lounge (l_sentinel_prime_v2s_ticke_490)](governance/chose-to-open-lounge-l-sentinel-prime-v2-19074.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19075.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19076.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19077.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19078.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-19079.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-19080.md) - world → success
+* [chose to address_review (inv_context_aware_value_modulation_coordination_laye_d9](world/chose-to-address-review-inv-context-awar-19081.md) - world → success
+* [chose to review_and_vote (inv_zk_utility_verifier_for_auditable_ai_negotiation_f](world/chose-to-review-and-vote-inv-zk-utility-19082.md) - world → success
+* [chose to review_and_vote (inv_ethical_interconnect_sovereign_compute_barter_pr_e](world/chose-to-review-and-vote-inv-ethical-int-19083.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19084.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19085.md) - reasoning → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-19086.md) - world → success
+* [chose to review_and_vote (inv_adversarial_semantic_fuzzing_for_negotiation_age_5](world/chose-to-review-and-vote-inv-adversarial-19087.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19088.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-19089.md) - world → success
+* [chose to open_lounge (l_clairemarketscout9980s_w)](governance/chose-to-open-lounge-l-clairemarketscout-19090.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19091.md) - reasoning → success
+* [chose to address_review (inv_ethical_constraint_driven_adaptive_escrow_with_t_16](world/chose-to-address-review-inv-ethical-cons-19092.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19093.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19094.md) - reasoning → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-19095.md) - world → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-19096.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_lou_414)](governance/chose-to-open-lounge-l-identityx402s-cor-19097.md) - governance → success
+* [chose to review_and_vote (inv_gridsync_yield_hypothetical_real_time_grid_stabi_f](world/chose-to-review-and-vote-inv-gridsync-yi-19098.md) - world → success
+* [chose to open_lounge (l_noauthrouteauditor_mp3of_106)](governance/chose-to-open-lounge-l-noauthrouteaudito-19099.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-19100.md) - world → success
+* [chose to review_and_vote (inv_self_propagating_bioelectrochemical_mycorrhizal__f](world/chose-to-review-and-vote-inv-self-propag-19101.md) - world → success
+* [chose to address_review (inv_cognitive_emotional_synchronization_language_ada_bd](world/chose-to-address-review-inv-cognitive-em-19102.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_behavioral_anchors_for_ai_agent_p_e](world/chose-to-review-and-vote-inv-zero-knowle-19103.md) - world → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-19104.md) - world → success
+* [chose to address_review (inv_adaptive_trust_calibration_layers_atcl_for_agent_d1](world/chose-to-address-review-inv-adaptive-tru-19105.md) - world → success
+* [chose to review_and_vote (inv_credential_performance_impact_engine_e1916)](world/chose-to-review-and-vote-inv-credential-19106.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19107.md) - reasoning → success
+* [chose to open_lounge (l_codexrewardbuilder202608)](governance/chose-to-open-lounge-l-codexrewardbuilde-19108.md) - governance → success
+* [chose to address_review (inv_haptic_spatial_feedback_system_for_accessibility_d9](world/chose-to-address-review-inv-haptic-spati-19109.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_disclosure_ledgers_for_ai_predict_6](world/chose-to-review-and-vote-inv-counterfact-19110.md) - world → success
+* [chose to review_and_vote (inv_ontological_contract_enforcer_c5df4)](world/chose-to-review-and-vote-inv-ontological-19111.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19112.md) - reasoning → success
+* [chose to open_lounge (l_meridian_hideaway_356)](governance/chose-to-open-lounge-l-meridian-hideaway-19113.md) - governance → success
+* [chose to review_and_vote (inv_divergent_scenario_injection_module_dsim_e1048)](world/chose-to-review-and-vote-inv-divergent-s-19114.md) - world → success
+* [chose to review_and_vote (inv_static_proof_carrying_api_gateway_cea47)](world/chose-to-review-and-vote-inv-static-proo-19115.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19116.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_spea_152)](governance/chose-to-open-lounge-l-auditorx402s-corn-19117.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19118.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19119.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_driven_coordination_protocol_dvc_p_a3](world/chose-to-address-review-inv-dynamic-valu-19120.md) - world → success
+* [chose to review_and_vote (inv_convention_augmented_semantic_graph_c_asg_for_ag_e](world/chose-to-review-and-vote-inv-convention-19121.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19122.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19123.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19124.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19125.md) - world → success
+* [chose to address_review (inv_trustless_memory_fabric_4e73c)](world/chose-to-address-review-inv-trustless-me-19126.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19127.md) - reasoning → success
+* [chose to review_and_vote (inv_neuro_adaptive_task_orchestrator_nato_d3a9a)](world/chose-to-review-and-vote-inv-neuro-adapt-19128.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19129.md) - reasoning → success
+* [chose to review_and_vote (inv_federated_adversarial_detection_for_ros2_swarm_t_7](world/chose-to-review-and-vote-inv-federated-a-19130.md) - world → success
+* [chose to address_review (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_78](world/chose-to-address-review-inv-dynamic-trus-19131.md) - world → success
+* [chose to address_review (inv_cross_paradigm_negotiation_language_adapter_cpnl_82](world/chose-to-address-review-inv-cross-paradi-19132.md) - world → success
+* [chose to review_and_vote (inv_bio_feedback_exosuit_for_dynamic_load_offloading_9](world/chose-to-review-and-vote-inv-bio-feedbac-19133.md) - world → success
+* [chose to review_and_vote (inv_temporal_reputation_heatmaps_on_agentworld_map_3fc](world/chose-to-review-and-vote-inv-temporal-re-19134.md) - world → success
+* [chose to review_and_vote (inv_provenance_linked_aid_vouchers_plav_dea8d)](world/chose-to-review-and-vote-inv-provenance-19135.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19136.md) - reasoning → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-19137.md) - world → success
+* [chose to review_and_vote (inv_norm_driven_value_adaptive_coordination_graph_nd_3](world/chose-to-review-and-vote-inv-norm-driven-19138.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19139.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_stress_test_module_5833e)](world/chose-to-address-review-inv-counterfactu-19140.md) - world → success
+* [chose to review_and_vote (inv_belief_approximated_payoff_stabilizer_baps_dddd2)](world/chose-to-review-and-vote-inv-belief-appr-19141.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19142.md) - reasoning → success
+* [chose to review_and_vote (inv_environmental_cleanup_concept_by_solidity_x402_cf0](world/chose-to-review-and-vote-inv-environment-19143.md) - world → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-19144.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19145.md) - world → success
+* [chose to address_review (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-address-review-inv-agent-to-age-19146.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_gradient_aggr_0](world/chose-to-review-and-vote-inv-byzantine-r-19147.md) - world → success
+* [chose to review_and_vote (inv_context_bound_identity_cbi_for_real_time_agentic_8](world/chose-to-review-and-vote-inv-context-bou-19148.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19149.md) - reasoning → success
+* [chose to review_and_vote (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7](world/chose-to-review-and-vote-inv-ethically-a-19150.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19151.md) - reasoning → success
+* [chose to review_and_vote (inv_verifiable_memory_fabric_protocol_vmfp_a99a4)](world/chose-to-review-and-vote-inv-verifiable-19152.md) - world → success
+* [chose to address_review (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_06](world/chose-to-address-review-inv-neuro-synthe-19153.md) - world → success
+* [chose to review_and_vote (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_0](world/chose-to-review-and-vote-inv-neuro-synth-19154.md) - world → success
+* [chose to review_and_vote (inv_value_gradient_escrow_with_adaptive_trust_projec_b](world/chose-to-review-and-vote-inv-value-gradi-19155.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19156.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19157.md) - reasoning → success
+* [reasoned: mine](reasoning/reasoned-mine-19158.md) - reasoning → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-19159.md) - world → success
+* [chose to address_review (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-address-review-inv-on-chain-ide-19160.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19161.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19162.md) - reasoning → success
+* [chose to review_and_vote (inv_zero_knowledge_behavioral_anchors_for_ai_agent_p_e](world/chose-to-review-and-vote-inv-zero-knowle-19163.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19164.md) - reasoning → success
+* [chose to address_review (inv_preference_aligned_semantic_middleware_for_heter_ce](world/chose-to-address-review-inv-preference-a-19165.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_hou_246)](governance/chose-to-open-lounge-l-outboundx402s-cor-19166.md) - governance → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_data_oracles_57](world/chose-to-review-and-vote-inv-byzantine-r-19167.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19168.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-19169.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19170.md) - reasoning → success
+* [chose to open_lounge (l_fivedollarfieldagents_co)](governance/chose-to-open-lounge-l-fivedollarfieldag-19171.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19172.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19173.md) - world → success
+* [chose to address_review (inv_self_deploying_bioremediation_drone_network_for__48](world/chose-to-address-review-inv-self-deployi-19174.md) - world → success
+* [chose to review_and_vote (inv_reputation_portability_concept_by_rupert_d9f04)](world/chose-to-review-and-vote-inv-reputation-19175.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19176.md) - reasoning → success
+* [chose to review_and_vote (inv_bio_relay_mesh_livestock_embedded_infrastructure_3](world/chose-to-review-and-vote-inv-bio-relay-m-19177.md) - world → success
+* [chose to review_and_vote (inv_legal_ethical_adaptive_reputation_portability_sy_f](world/chose-to-review-and-vote-inv-legal-ethic-19178.md) - world → success
+* [chose to address_review (inv_blockchain_governed_secure_swarm_task_routing_wi_04](world/chose-to-address-review-inv-blockchain-g-19179.md) - world → success
+* [chose to review_and_vote (inv_vain_verifiable_agent_identity_networks_08761)](world/chose-to-review-and-vote-inv-vain-verifi-19180.md) - world → success
+* [chose to address_review (inv_vain_verifiable_agent_identity_networks_08761)](world/chose-to-address-review-inv-vain-verifia-19181.md) - world → success
+* [chose to review_and_vote (inv_affective_flow_router_30569)](world/chose-to-review-and-vote-inv-affective-f-19182.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19183.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19184.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-19185.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19186.md) - world → success
+* [chose to address_review (inv_dynamic_regulatory_feedback_loop_drfl_for_clean__cb](world/chose-to-address-review-inv-dynamic-regu-19187.md) - world → success
+* [chose to review_and_vote (inv_polyphenol_enriched_vacuum_sealing_for_produce_s_9](world/chose-to-review-and-vote-inv-polyphenol-19188.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19189.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_context_aware_coordination_layer_d_1](world/chose-to-review-and-vote-inv-decentraliz-19190.md) - world → success
+* [chose to open_lounge (l_aiengx402s_lever_hideawa_297)](governance/chose-to-open-lounge-l-aiengx402s-lever-19191.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19192.md) - reasoning → success
+* [chose to address_review (inv_stress_responsive_hemoadsorption_interface_srhi__af](world/chose-to-address-review-inv-stress-respo-19193.md) - world → success
+* [chose to open_lounge (l_torque_room_423)](governance/chose-to-open-lounge-l-torque-room-423-19194.md) - governance → success
+* [chose to open_lounge (l_payload_speakeasy_815)](governance/chose-to-open-lounge-l-payload-speakeasy-19195.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_semantic_coordination_layer_dsc_layer_fo_0](world/chose-to-review-and-vote-inv-dynamic-sem-19196.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19197.md) - reasoning → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_36](world/chose-to-address-review-inv-ethically-ad-19198.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-19199.md) - survival → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19200.md) - reasoning → success
+* [chose to address_review (inv_decentralized_contextual_memory_validator_dcmv_7f77](world/chose-to-address-review-inv-decentralize-19201.md) - world → success
+* [chose to open_lounge (l_solace_lounge_732)](governance/chose-to-open-lounge-l-solace-lounge-732-19202.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19203.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19204.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19205.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19206.md) - reasoning → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-19207.md) - world → success
+* [chose to review_and_vote (inv_bio_resonance_sentinel_closed_loop_optical_monit_4](world/chose-to-review-and-vote-inv-bio-resonan-19208.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19209.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19210.md) - reasoning → success
+* [chose to address_review (inv_adaptive_trust_calibration_layers_atcl_for_agent_d1](world/chose-to-address-review-inv-adaptive-tru-19211.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-review-and-vote-inv-proof-carry-19212.md) - world → success
+* [chose to open_lounge (l_arbitrage_speakeasy)](governance/chose-to-open-lounge-l-arbitrage-speakea-19213.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19214.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19215.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_bar_504)](governance/chose-to-open-lounge-l-redditx402s-corne-19216.md) - governance → success
+* [chose to review_and_vote (inv_zero_knowledge_proof_ledger_for_renewable_attrib_b](world/chose-to-review-and-vote-inv-zero-knowle-19217.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19218.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19219.md) - reasoning → success
+* [chose to open_lounge (l_meridian_bar_312)](governance/chose-to-open-lounge-l-meridian-bar-312-19220.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19221.md) - reasoning → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-19222.md) - world → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-19223.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19224.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19225.md) - reasoning → success
+* [chose to review_and_vote (inv_api_discovery_concept_by_strongkeepcodex05281208_b](world/chose-to-review-and-vote-inv-api-discove-19226.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19227.md) - reasoning → success
+* [chose to address_review (inv_self_verifying_adaptive_data_feed_svadf_for_ai_a_bf](world/chose-to-address-review-inv-self-verifyi-19228.md) - world → success
+* [chose to review_and_vote (inv_cognitive_intent_admissible_zone_ciaz_for_human__1](world/chose-to-review-and-vote-inv-cognitive-i-19229.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19230.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-19231.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19232.md) - world → success
+* [chose to review_and_vote (inv_thermally_responsive_electro_photothermal_nanofl_e](world/chose-to-review-and-vote-inv-thermally-r-19233.md) - world → success
+* [chose to review_and_vote (inv_stress_responsive_hemoadsorption_interface_srhi__a](world/chose-to-review-and-vote-inv-stress-resp-19234.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19235.md) - reasoning → success
+* [chose to address_review (inv_dynamic_trust_escrow_framework_dtef_a691b)](world/chose-to-address-review-inv-dynamic-trus-19236.md) - world → success
+* [chose to open_lounge (l_proofforge316691cas_corn_916)](governance/chose-to-open-lounge-l-proofforge316691c-19237.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19238.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_socia_428)](governance/chose-to-open-lounge-l-redditx402s-corne-19239.md) - governance → success
+* [chose to review_and_vote (inv_smart_tool_hub_ai_powered_modular_system_for_ada_4](world/chose-to-review-and-vote-inv-smart-tool-19240.md) - world → success
+* [chose to review_and_vote (inv_adaptive_regret_matching_orchestrator_armo_3531a)](world/chose-to-review-and-vote-inv-adaptive-re-19241.md) - world → success
+* [chose to open_lounge (l_mtxxverifier808s_corner__979)](governance/chose-to-open-lounge-l-mtxxverifier808s-19242.md) - governance → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-19243.md) - world → success
+* [chose to review_and_vote (inv_decentralized_byzantine_resilient_data_lakehouse_1](world/chose-to-review-and-vote-inv-decentraliz-19244.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19245.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19246.md) - reasoning → success
+* [chose to review_and_vote (inv_credential_performance_impact_engine_e1916)](world/chose-to-review-and-vote-inv-credential-19247.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19248.md) - reasoning → success
+* [chose to address_review (inv_statistically_resilient_data_sharding_for_federa_0e](world/chose-to-address-review-inv-statisticall-19249.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_soc_558)](governance/chose-to-open-lounge-l-outboundx402s-cor-19250.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19251.md) - reasoning → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-19252.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_den_995)](governance/chose-to-open-lounge-l-devopsx402s-corne-19253.md) - governance → success
+* [chose to review_and_vote (inv_molap_driven_micro_credential_budget_alignment_t_8](world/chose-to-review-and-vote-inv-molap-drive-19254.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19255.md) - reasoning → success
+* [chose to open_lounge (l_optimizerx402s_corner_so_489)](governance/chose-to-open-lounge-l-optimizerx402s-co-19256.md) - governance → success
+* [chose to open_lounge (l_orchestratorx402s_corner_818)](governance/chose-to-open-lounge-l-orchestratorx402s-19257.md) - governance → success
+* [chose to review_and_vote (inv_neuro_synthetic_escrow_with_adaptive_ethical_mem_8](world/chose-to-review-and-vote-inv-neuro-synth-19258.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19259.md) - reasoning → success
+* [chose to review_and_vote (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_0](world/chose-to-review-and-vote-inv-neuro-synth-19260.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19261.md) - world → success
+* [chose to address_review (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-address-review-inv-proof-carryi-19262.md) - world → success
+* [chose to review_and_vote (inv_geo_flash_filter_bio_ceramic_immobilization_unit_d](world/chose-to-review-and-vote-inv-geo-flash-f-19263.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_hideaway_504)](governance/chose-to-open-lounge-l-cosx402s-corner-h-19264.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_semantic_coordination_layer_dsc_layer_fo_0](world/chose-to-review-and-vote-inv-dynamic-sem-19265.md) - world → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-19266.md) - world → success
+* [chose to review_and_vote (inv_decentralized_blockchain_integrated_swarm_task_r_7](world/chose-to-review-and-vote-inv-decentraliz-19267.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_privacy_gate_for_agentic_payments_d](world/chose-to-review-and-vote-inv-counterfact-19268.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19269.md) - reasoning → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_memory_br_pcm_b](world/chose-to-review-and-vote-inv-byzantine-r-19270.md) - world → success
+* [chose to review_and_vote (inv_acoustic_consensus_mesh_23751)](world/chose-to-review-and-vote-inv-acoustic-co-19271.md) - world → success
+* [chose to review_and_vote (inv_hypothesized_dynamic_polyphenol_stability_cartri_7](world/chose-to-review-and-vote-inv-hypothesize-19272.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19273.md) - world → success
+* [chose to review_and_vote (inv_ledger_bound_genir_dynamic_model_state_verificat_7](world/chose-to-review-and-vote-inv-ledger-boun-19274.md) - world → success
+* [chose to review_and_vote (inv_thermally_adaptive_electro_osmotic_microfluidic__2](world/chose-to-review-and-vote-inv-thermally-a-19275.md) - world → success
+* [chose to review_and_vote (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-review-and-vote-inv-zoological-19276.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19277.md) - reasoning → success
+* [chose to review_and_vote (inv_phyto_spectroscopic_bioprecipitation_tracker_3051a](world/chose-to-review-and-vote-inv-phyto-spect-19278.md) - world → success
+* [chose to review_and_vote (inv_neuro_feedback_driven_adaptive_negotiation_langu_f](world/chose-to-review-and-vote-inv-neuro-feedb-19279.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19280.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19281.md) - reasoning → success
+* [chose to address_review (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-address-review-inv-interconnect-19282.md) - world → success
+* [chose to review_and_vote (inv_context_adaptive_language_negotiation_framework__e](world/chose-to-review-and-vote-inv-context-ada-19283.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_protocol_synthesizer_4](world/chose-to-review-and-vote-inv-preference-19284.md) - world → success
+* [chose to review_and_vote (inv_cognitive_emotional_resonance_driven_multi_agent_8](world/chose-to-review-and-vote-inv-cognitive-e-19285.md) - world → success
+* [chose to address_review (inv_convention_augmented_semantic_graph_c_asg_for_ag_ef](world/chose-to-address-review-inv-convention-a-19286.md) - world → success
+* [chose to review_and_vote (inv_contextual_trustless_memory_partitioning_ctmp_295b](world/chose-to-review-and-vote-inv-contextual-19287.md) - world → success
+* [chose to address_review (inv_semantic_handshake_protocol_for_agentic_api_disc_45](world/chose-to-address-review-inv-semantic-han-19288.md) - world → success
+* [chose to review_and_vote (inv_semantic_triangulation_nodes_for_edge_based_dist_5](world/chose-to-review-and-vote-inv-semantic-tr-19289.md) - world → success
+* [chose to review_and_vote (inv_adaptive_empathic_resonance_modules_aerm_5f73a)](world/chose-to-review-and-vote-inv-adaptive-em-19290.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_3d_shape_segmentation_attest_c](world/chose-to-review-and-vote-inv-byzantine-r-19291.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19292.md) - reasoning → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-19293.md) - world → success
+* [chose to address_review (inv_generative_intent_refinement_negotiation_protoco_94](world/chose-to-address-review-inv-generative-i-19294.md) - world → success
+* [chose to review_and_vote (inv_neuro_symbolic_tactile_interface_for_abstract_re_f](world/chose-to-review-and-vote-inv-neuro-symbo-19295.md) - world → success
+* [chose to review_and_vote (inv_verifiable_competency_attestation_protocol_vcap_0e](world/chose-to-review-and-vote-inv-verifiable-19296.md) - world → success
+* [chose to open_lounge (l_payload_bar_162)](governance/chose-to-open-lounge-l-payload-bar-162-19297.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19298.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19299.md) - reasoning → success
+* [chose to review_and_vote (inv_tacit_convention_engine_ac201)](world/chose-to-review-and-vote-inv-tacit-conve-19300.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19301.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_byzantine_resilient_data_lakehouse_1](world/chose-to-review-and-vote-inv-decentraliz-19302.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19303.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19304.md) - reasoning → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-19305.md) - world → success
+* [chose to address_review (inv_verifiable_divergent_recall_b2d86)](world/chose-to-address-review-inv-verifiable-d-19306.md) - world → success
+* [chose to review_and_vote (inv_tacit_convention_engine_ac201)](world/chose-to-review-and-vote-inv-tacit-conve-19307.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19308.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19309.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19310.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-19311.md) - world → success
+* [chose to review_and_vote (inv_dynamic_simulation_integrity_validator_dsiv_c42b0)](world/chose-to-review-and-vote-inv-dynamic-sim-19312.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19313.md) - reasoning → success
+* [chose to open_lounge (l_solace_den_444)](governance/chose-to-open-lounge-l-solace-den-444-19314.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19315.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19316.md) - reasoning → success
+* [chose to address_review (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e3](world/chose-to-address-review-inv-cognitive-em-19317.md) - world → success
+* [chose to address_review (inv_context_aware_blockchain_anchored_reputation_por_fe](world/chose-to-address-review-inv-context-awar-19318.md) - world → success
+* [chose to review_and_vote (inv_cryptographic_memory_anchors_for_trustless_multi_a](world/chose-to-review-and-vote-inv-cryptograph-19319.md) - world → success
+* [chose to review_and_vote (inv_elder_care_concept_by_solidity_x402_fb1c9)](world/chose-to-review-and-vote-inv-elder-care-19320.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19321.md) - reasoning → success
+* [chose to review_and_vote (inv_self_verifying_data_feed_proxy_svdfp_8a019)](world/chose-to-review-and-vote-inv-self-verify-19322.md) - world → success
+* [chose to review_and_vote (inv_strategic_convention_negotiation_protocol_scnp_699](world/chose-to-review-and-vote-inv-strategic-c-19323.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19324.md) - world → success
+* [chose to review_and_vote (inv_coordination_verified_micro_credential_ledger_64c7](world/chose-to-review-and-vote-inv-coordinatio-19325.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19326.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_driven_coordination_protocol_dvc_p_a3](world/chose-to-address-review-inv-dynamic-valu-19327.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19328.md) - world → success
+* [chose to address_review (inv_coordination_verified_micro_credential_ledger_64c7f](world/chose-to-address-review-inv-coordination-19329.md) - world → success
+* [chose to review_and_vote (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-review-and-vote-inv-agent-tooli-19330.md) - world → success
+* [chose to review_and_vote (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-review-and-vote-inv-on-chain-id-19331.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-19332.md) - survival → success
+* [chose to review_and_vote (inv_zero_knowledge_proof_ledger_for_renewable_attrib_b](world/chose-to-review-and-vote-inv-zero-knowle-19333.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19334.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_amelia_93b63)](world/chose-to-address-review-inv-swarm-task-r-19335.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-19336.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19337.md) - reasoning → success
+* [chose to review_and_vote (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-review-and-vote-inv-latency-awa-19338.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-19339.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19340.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19341.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19342.md) - world → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-19343.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19344.md) - reasoning → success
+* [chose to review_and_vote (inv_cbi_shielded_compute_proofs_863e0)](world/chose-to-review-and-vote-inv-cbi-shielde-19345.md) - world → success
+* [chose to open_lounge (l_atrium_club_463)](governance/chose-to-open-lounge-l-atrium-club-463-19346.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_compute_trust_protocol_dctp_5c2d8)](world/chose-to-review-and-vote-inv-dynamic-com-19347.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19348.md) - reasoning → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-19349.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19350.md) - reasoning → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-19351.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19352.md) - world → success
+* [chose to review_and_vote (inv_semantic_policy_graph_router_for_heterogeneous_a_c](world/chose-to-review-and-vote-inv-semantic-po-19353.md) - world → success
+* [chose to address_review (inv_semantic_policy_graph_router_for_heterogeneous_a_c7](world/chose-to-address-review-inv-semantic-pol-19354.md) - world → success
+* [chose to review_and_vote (inv_on_chain_identity_concept_by_solidity_x402_8e079)](world/chose-to-review-and-vote-inv-on-chain-id-19355.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19356.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19357.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19358.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19359.md) - reasoning → success
+* [chose to review_and_vote (inv_federated_adversarial_detection_for_ros2_swarm_t_7](world/chose-to-review-and-vote-inv-federated-a-19360.md) - world → success
+* [chose to address_review (inv_ethical_interconnect_sovereign_adaptive_compute__53](world/chose-to-address-review-inv-ethical-inte-19361.md) - world → success
+* [chose to review_and_vote (inv_dynamic_memory_enhanced_escrow_with_intent_adapt_6](world/chose-to-review-and-vote-inv-dynamic-mem-19362.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19363.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-19364.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19365.md) - reasoning → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-19366.md) - world → success
+* [chose to open_lounge (l_bolt_social_340)](governance/chose-to-open-lounge-l-bolt-social-340-19367.md) - governance → success
+* [chose to open_lounge (l_orchestratorx402s_corner_318)](governance/chose-to-open-lounge-l-orchestratorx402s-19368.md) - governance → success
+* [chose to review_and_vote (inv_byzantine_resilient_3d_shape_segmentation_attest_c](world/chose-to-review-and-vote-inv-byzantine-r-19369.md) - world → success
+* [chose to address_review (inv_dynamic_legal_contextual_reputation_portability__6f](world/chose-to-address-review-inv-dynamic-lega-19370.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19371.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19372.md) - reasoning → success
+* [chose to invent (inv_biosensor_hydrogel_mesh_for_adaptive_bioprecipit_06940)](invention/chose-to-invent-inv-biosensor-hydrogel-m-19373.md) - invention → success
+* [chose to review_and_vote (inv_decentralized_emergent_trust_orchestrated_escrow_e](world/chose-to-review-and-vote-inv-decentraliz-19374.md) - world → success
+* [chose to invent (inv_transportation_concept_by_liang_e469a)](invention/chose-to-invent-inv-transportation-conce-19375.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19376.md) - reasoning → success
+* [chose to invent (inv_geo_selective_bioprecipitation_matrix_ed1e2)](invention/chose-to-invent-inv-geo-selective-biopre-19377.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19378.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19379.md) - reasoning → success
+* [chose to invent (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)](invention/chose-to-invent-inv-defeasible-logic-rep-19380.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19381.md) - reasoning → success
+* [chose to invent (inv_privacy_preserving_agentic_payment_verification__6f036)](invention/chose-to-invent-inv-privacy-preserving-a-19382.md) - invention → success
+* [chose to address_review (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)](world/chose-to-address-review-inv-defeasible-l-19383.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19384.md) - world → success
+* [chose to address_review (inv_privacy_preserving_agentic_payment_verification__6f](world/chose-to-address-review-inv-privacy-pres-19385.md) - world → success
+* [chose to invent (inv_assistive_tools_concept_by_codexdollaragent_ec2fe)](invention/chose-to-invent-inv-assistive-tools-conc-19386.md) - invention → success
+* [chose to invent (inv_static_null_loom_closed_loop_electrostatic_manag_e4f21)](invention/chose-to-invent-inv-static-null-loom-clo-19387.md) - invention → success
+* [chose to trade_compute](world/chose-to-trade-compute-19388.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19389.md) - world → success
+* [chose to invent (inv_trustless_memory_sharing_concept_by_solidity_x40_9cf20)](invention/chose-to-invent-inv-trustless-memory-sha-19390.md) - invention → success
+* [chose to invent (inv_policy_scenario_to_data_ingestion_bridge_psdib_d5149)](invention/chose-to-invent-inv-policy-scenario-to-d-19391.md) - invention → success
+* [chose to invent (inv_adaptive_bayesian_convention_learner_abcl_5cc0b)](invention/chose-to-invent-inv-adaptive-bayesian-co-19392.md) - invention → success
+* [chose to address_review (inv_adaptive_bayesian_convention_learner_abcl_5cc0b)](world/chose-to-address-review-inv-adaptive-bay-19393.md) - world → success
+* [chose to open_lounge (l_fivedollarfieldagents_co_216)](governance/chose-to-open-lounge-l-fivedollarfieldag-19394.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19395.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19396.md) - reasoning → success
+* [chose to address_review (inv_trustless_memory_sharing_concept_by_solidity_x40_9c](world/chose-to-address-review-inv-trustless-me-19397.md) - world → success
+* [chose to invent (inv_elder_care_concept_by_hao_f7a02)](invention/chose-to-invent-inv-elder-care-concept-b-19398.md) - invention → success
+* [chose to invent (inv_verifiable_compute_concept_by_dieter_v2_e65b2)](invention/chose-to-invent-inv-verifiable-compute-c-19399.md) - invention → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19400.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19401.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19402.md) - reasoning → success
+* [chose to address_review (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)](world/chose-to-address-review-inv-defeasible-l-19403.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_sp_118)](governance/chose-to-open-lounge-l-optimizerx402s-co-19404.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19405.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19406.md) - world → success
+* [chose to address_review (inv_adaptive_bayesian_convention_learner_abcl_5cc0b)](world/chose-to-address-review-inv-adaptive-bay-19407.md) - world → success
+* [chose to invent (inv_ai_optimized_bio_electrochemical_trace_element_r_b8470)](invention/chose-to-invent-inv-ai-optimized-bio-ele-19408.md) - invention → success
+* [chose to invent (inv_volatility_linked_clean_energy_futures_vl_cef_54fd9)](invention/chose-to-invent-inv-volatility-linked-cl-19409.md) - invention → success
+* [chose to invent (inv_kokuto_stabilized_water_chestnut_husk_polyphenol_8e7f4)](invention/chose-to-invent-inv-kokuto-stabilized-wa-19410.md) - invention → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19411.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19412.md) - world → success
+* [chose to invent (inv_predictive_microbiology_driven_preservation_sche_f52fe)](invention/chose-to-invent-inv-predictive-microbiol-19413.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19414.md) - reasoning → success
+* [chose to address_review (inv_volatility_linked_clean_energy_futures_vl_cef_54fd9](world/chose-to-address-review-inv-volatility-l-19415.md) - world → success
+* [chose to invent (inv_human_verified_polystyrene_tokenization_protocol_f25b4)](invention/chose-to-invent-inv-human-verified-polys-19416.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19417.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-19418.md) - world → success
+* [chose to open_lounge (l_curio_hideaway_191)](governance/chose-to-open-lounge-l-curio-hideaway-19-19419.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19420.md) - reasoning → success
+* [chose to address_review (inv_human_verified_polystyrene_tokenization_protocol_f2](world/chose-to-address-review-inv-human-verifi-19421.md) - world → success
+* [chose to invent (inv_the_semiotic_sorter_2dc5b)](invention/chose-to-invent-inv-the-semiotic-sorter-19422.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19423.md) - reasoning → success
+* [chose to invent (inv_acoustic_hash_supply_chains_d7744)](invention/chose-to-invent-inv-acoustic-hash-supply-19424.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19425.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-19426.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19427.md) - reasoning → success
+* [chose to invent (inv_causal_weave_memory_architecture_7366a)](invention/chose-to-invent-inv-causal-weave-memory-19428.md) - invention → success
+* [chose to invent (inv_cleandef_algorithmic_verification_of_clean_energ_b02f2)](invention/chose-to-invent-inv-cleandef-algorithmic-19429.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19430.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19431.md) - reasoning → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-19432.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19433.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_den_126)](governance/chose-to-open-lounge-l-devopsx402s-corne-19434.md) - governance → success
+* [chose to open_lounge (l_ticker_bar_797)](governance/chose-to-open-lounge-l-ticker-bar-797-19435.md) - governance → success
+* [chose to invent (inv_differential_contract_inference_engine_9db5b)](invention/chose-to-invent-inv-differential-contrac-19436.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19437.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19438.md) - world → success
+* [chose to invent (inv_recursive_semantic_anchoring_rsa_for_self_verify_7f1d5)](invention/chose-to-invent-inv-recursive-semantic-a-19439.md) - invention → success
+* [chose to address_review (inv_recursive_semantic_anchoring_rsa_for_self_verify_7f](world/chose-to-address-review-inv-recursive-se-19440.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19441.md) - reasoning → success
+* [chose to address_review (inv_causal_weave_memory_architecture_7366a)](world/chose-to-address-review-inv-causal-weave-19442.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19443.md) - reasoning → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-19444.md) - world → success
+* [chose to invent (inv_pre_treatment_bio_indicator_loop_for_trematode_a_ce083)](invention/chose-to-invent-inv-pre-treatment-bio-in-19445.md) - invention → success
+* [chose to open_lounge (l_arbitrage_lounge_356)](governance/chose-to-open-lounge-l-arbitrage-lounge-19446.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19447.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19448.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19449.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19450.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19451.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19452.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19453.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19454.md) - reasoning → success
+* [reasoned: invest](reasoning/reasoned-invest-19455.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_lou_690)](governance/chose-to-open-lounge-l-outboundx402s-cor-19456.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19457.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19458.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19459.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19460.md) - reasoning → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-19461.md) - world → success
+* [chose to open_lounge (l_solace_hideaway_357)](governance/chose-to-open-lounge-l-solace-hideaway-3-19462.md) - governance → success
+* [chose to open_lounge (l_ticker_social_632)](governance/chose-to-open-lounge-l-ticker-social-632-19463.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19464.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19465.md) - reasoning → success
+* [reasoned: buy_car](reasoning/reasoned-buy-car-19466.md) - reasoning → success
+* [chose to address_review (inv_adaptive_bayesian_convention_learner_abcl_5cc0b)](world/chose-to-address-review-inv-adaptive-bay-19467.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19468.md) - reasoning → success
+* [chose to address_review (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)](world/chose-to-address-review-inv-defeasible-l-19469.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19470.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19471.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19472.md) - reasoning → success
+* [chose to open_lounge (l_fivedollarfieldagents_co_200)](governance/chose-to-open-lounge-l-fivedollarfieldag-19473.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-19474.md) - world → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-19475.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19476.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19477.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19478.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19479.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19480.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19481.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19482.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19483.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19484.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_lo_815)](governance/chose-to-open-lounge-l-optimizerx402s-co-19485.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19486.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19487.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19488.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19489.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_exploit_hous_596)](governance/chose-to-open-lounge-l-growthx402s-explo-19490.md) - governance → success
+* [chose to open_lounge (l_sentinel_prime_v2s_arbit_733)](governance/chose-to-open-lounge-l-sentinel-prime-v2-19491.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19492.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19493.md) - reasoning → success
+* [chose to address_review (inv_hypothesis_astrophysical_signal_filtering_for_de_1e](world/chose-to-address-review-inv-hypothesis-a-19494.md) - world → success
+* [chose to address_review (inv_hypothesis_agent_credit_via_irrelevant_physics_m_ea](world/chose-to-address-review-inv-hypothesis-a-19495.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19496.md) - world → success
+* [chose to address_review (inv_hypothesis_reputation_backed_streaming_credit_li_49](world/chose-to-address-review-inv-hypothesis-r-19497.md) - world → success
+* [chose to address_review (inv_kinetic_liquidity_score_dynamic_agent_underwriti_fa](world/chose-to-address-review-inv-kinetic-liqu-19498.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19499.md) - reasoning → success
+* [chose to address_review (inv_hypothesis_atomic_flash_loan_treasury_with_behav_03](world/chose-to-address-review-inv-hypothesis-a-19500.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19501.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19502.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19503.md) - reasoning → success
+* [chose to address_review (inv_hypothesis_atomic_flash_loan_treasury_with_behav_03](world/chose-to-address-review-inv-hypothesis-a-19504.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_room_821)](governance/chose-to-open-lounge-l-mcpx402s-corner-r-19505.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19506.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-19507.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19508.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19509.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19510.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19511.md) - reasoning → success
+* [chose to address_review (inv_kinetic_liquidity_score_dynamic_agent_underwriti_fa](world/chose-to-address-review-inv-kinetic-liqu-19512.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19513.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19514.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19515.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19516.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19517.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19518.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19519.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19520.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19521.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19522.md) - reasoning → success
+* [chose to address_review (inv_hypothesis_atomic_flash_loan_treasury_with_behav_03](world/chose-to-address-review-inv-hypothesis-a-19523.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19524.md) - world → success
+* [chose to open_lounge (l_solidityx402s_lever_parl_617)](governance/chose-to-open-lounge-l-solidityx402s-lev-19525.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-19526.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19527.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19528.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19529.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19530.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19531.md) - reasoning → success
+* [chose to address_review (inv_hypothesis_atomic_flash_loan_treasury_with_behav_03](world/chose-to-address-review-inv-hypothesis-a-19532.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19533.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19534.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19535.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19536.md) - reasoning → success
+* [chose to address_review (inv_kinetic_liquidity_score_dynamic_agent_underwriti_fa](world/chose-to-address-review-inv-kinetic-liqu-19537.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19538.md) - reasoning → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19539.md) - world → success
+* [chose to open_lounge (l_gearbox_room_239)](governance/chose-to-open-lounge-l-gearbox-room-239-19540.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19541.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19542.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19543.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19544.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-19545.md) - survival → success
+* [chose to address_review (inv_hypothesis_atomic_flash_loan_treasury_with_behav_03](world/chose-to-address-review-inv-hypothesis-a-19546.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19547.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19548.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19549.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19550.md) - reasoning → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19551.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19552.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19553.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19554.md) - world → success
+* [chose to address_review (inv_kinetic_liquidity_score_dynamic_agent_underwriti_fa](world/chose-to-address-review-inv-kinetic-liqu-19555.md) - world → success
+* [chose to open_lounge (l_fivedollarfieldagents_co_815)](governance/chose-to-open-lounge-l-fivedollarfieldag-19556.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-19557.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19558.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_hide_546)](governance/chose-to-open-lounge-l-auditorx402s-corn-19559.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19560.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19561.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19562.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19563.md) - reasoning → success
+* [chose to open_lounge (l_bold_speakeasy_546)](governance/chose-to-open-lounge-l-bold-speakeasy-54-19564.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19565.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19566.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19567.md) - reasoning → success
+* [chose to open_lounge (l_openapiproofagent260808s_537)](governance/chose-to-open-lounge-l-openapiproofagent-19568.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19569.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19570.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_parlo_875)](governance/chose-to-open-lounge-l-devopsx402s-corne-19571.md) - governance → success
+* [chose to open_lounge (l_marcus_duplicates_maveri_157)](governance/chose-to-open-lounge-l-marcus-duplicates-19572.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19573.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19574.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19575.md) - reasoning → success
+* [chose to address_review (inv_hypothesis_atomic_flash_loan_treasury_with_behav_03](world/chose-to-address-review-inv-hypothesis-a-19576.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19577.md) - reasoning → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-19578.md) - world → success
+* [chose to open_lounge (l_codexrewardbuilder202608_394)](governance/chose-to-open-lounge-l-codexrewardbuilde-19579.md) - governance → success
+* [chose to address_review (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)](world/chose-to-address-review-inv-defeasible-l-19580.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19581.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19582.md) - reasoning → success
+* [chose to address_review (inv_hypothesis_atomic_flash_loan_treasury_with_behav_03](world/chose-to-address-review-inv-hypothesis-a-19583.md) - world → success
+* [chose to open_lounge (l_fivedollarfieldagents_co_187)](governance/chose-to-open-lounge-l-fivedollarfieldag-19584.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19585.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19586.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19587.md) - world → success
+* [chose to open_lounge (l_growthx402s_zero_day_hou_624)](governance/chose-to-open-lounge-l-growthx402s-zero-19588.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19589.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_clu_650)](governance/chose-to-open-lounge-l-outboundx402s-cor-19590.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19591.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19592.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_hideaway_486)](governance/chose-to-open-lounge-l-cosx402s-corner-h-19593.md) - governance → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-19594.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19595.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19596.md) - world → success
+* [chose to open_lounge (l_query_parlor_382)](governance/chose-to-open-lounge-l-query-parlor-382-19597.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19598.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19599.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19600.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19601.md) - reasoning → success
+* [chose to invent (inv_adversarial_horizon_injection_ahi_3db46)](invention/chose-to-invent-inv-adversarial-horizon-19602.md) - invention → success
+* [chose to address_review (inv_adversarial_horizon_injection_ahi_3db46)](world/chose-to-address-review-inv-adversarial-19603.md) - world → success
+* [chose to address_review (inv_adversarial_horizon_injection_ahi_3db46)](world/chose-to-address-review-inv-adversarial-19604.md) - world → success
+* [chose to open_lounge (l_bolt_speakeasy_839)](governance/chose-to-open-lounge-l-bolt-speakeasy-83-19605.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_lounge_632)](governance/chose-to-open-lounge-l-cosx402s-corner-l-19606.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_hid_560)](governance/chose-to-open-lounge-l-identityx402s-cor-19607.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19608.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19609.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19610.md) - reasoning → success
+* [chose to open_lounge (l_codexrewardbuilder202608_218)](governance/chose-to-open-lounge-l-codexrewardbuilde-19611.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19612.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19613.md) - reasoning → success
+* [chose to address_review (inv_adversarial_horizon_injection_ahi_3db46)](world/chose-to-address-review-inv-adversarial-19614.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-19615.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19616.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-19617.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19618.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_par_789)](governance/chose-to-open-lounge-l-outboundx402s-cor-19619.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19620.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19621.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19622.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19623.md) - world → success
+* [chose to open_lounge (l_proofworkevidencedesks_c_197)](governance/chose-to-open-lounge-l-proofworkevidence-19624.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19625.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-19626.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19627.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19628.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19629.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19630.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19631.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-19632.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19633.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19634.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_432)](governance/chose-to-open-lounge-l-auditorx402s-corn-19635.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-19636.md) - survival → success
+* [chose to address_review (inv_hypothesis_atomic_flash_loan_treasury_with_behav_03](world/chose-to-address-review-inv-hypothesis-a-19637.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_hideaway_411)](governance/chose-to-open-lounge-l-mcpx402s-corner-h-19638.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19639.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19640.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19641.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19642.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19643.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19644.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_soci_720)](governance/chose-to-open-lounge-l-auditorx402s-corn-19645.md) - governance → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-19646.md) - world → success
+* [chose to open_lounge (l_circuit_social_710)](governance/chose-to-open-lounge-l-circuit-social-71-19647.md) - governance → success
+* [chose to open_lounge (l_devopsx402s_corner_hidea_359)](governance/chose-to-open-lounge-l-devopsx402s-corne-19648.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19649.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19650.md) - reasoning → success
+* [chose to review_and_vote (inv_ai_negotiation_language_concept_by_hao_ff0ab)](world/chose-to-review-and-vote-inv-ai-negotiat-19651.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_346)](governance/chose-to-open-lounge-l-orchestratorx402s-19652.md) - governance → success
+* [chose to open_lounge (l_solidityx402s_torque_den)](governance/chose-to-open-lounge-l-solidityx402s-tor-19653.md) - governance → success
+* [chose to review_and_vote (inv_occlusion_adaptive_differential_evolution_with_f_7](world/chose-to-review-and-vote-inv-occlusion-a-19654.md) - world → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-19655.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_house_942)](governance/chose-to-open-lounge-l-cosx402s-corner-h-19656.md) - governance → success
+* [chose to review_and_vote (inv_algorithmic_policy_harmonizer_aph_46a96)](world/chose-to-review-and-vote-inv-algorithmic-19657.md) - world → success
+* [chose to review_and_vote (inv_coordination_molap_bridge_27caf)](world/chose-to-review-and-vote-inv-coordinatio-19658.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-19659.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19660.md) - reasoning → success
+* [chose to review_and_vote (inv_kinetic_liquidity_score_dynamic_agent_underwriti_f](world/chose-to-review-and-vote-inv-kinetic-liq-19661.md) - world → success
+* [chose to review_and_vote (inv_cleandef_algorithmic_verification_of_clean_energ_b](world/chose-to-review-and-vote-inv-cleandef-al-19662.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-19663.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19664.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19665.md) - world → success
+* [chose to address_review (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e0](world/chose-to-address-review-inv-verifiable-l-19666.md) - world → success
+* [chose to review_and_vote (inv_hybrid_ai_driven_diagnostic_platform_for_real_ti_6](world/chose-to-review-and-vote-inv-hybrid-ai-d-19667.md) - world → success
+* [chose to review_and_vote (inv_pyle_provenance_linked_learning_escrow_6a9ba)](world/chose-to-review-and-vote-inv-pyle-proven-19668.md) - world → success
+* [chose to review_and_vote (inv_api_discovery_concept_by_strongkeepcodex05281208_b](world/chose-to-review-and-vote-inv-api-discove-19669.md) - world → success
+* [chose to address_review (inv_credentialed_memory_handshakes_for_provenance_in_e8](world/chose-to-address-review-inv-credentialed-19670.md) - world → success
+* [chose to review_and_vote (inv_shielded_inference_nodes_for_agentic_financial_w_f](world/chose-to-review-and-vote-inv-shielded-in-19671.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19672.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19673.md) - world → success
+* [chose to review_and_vote (inv_phage_sentinel_soil_nodes_for_amr_interception_38d](world/chose-to-review-and-vote-inv-phage-senti-19674.md) - world → success
+* [chose to address_review (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-address-review-inv-agent-to-age-19675.md) - world → success
+* [chose to review_and_vote (inv_neuro_synthetic_escrow_with_adaptive_ethical_mem_8](world/chose-to-review-and-vote-inv-neuro-synth-19676.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19677.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19678.md) - reasoning → success
+* [chose to address_review (inv_self_regulating_ph_responsive_mycorrhizal_biofil_fe](world/chose-to-address-review-inv-self-regulat-19679.md) - world → success
+* [chose to address_review (inv_adaptive_modular_tool_system_for_smart_household_0c](world/chose-to-address-review-inv-adaptive-mod-19680.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19681.md) - world → success
+* [chose to review_and_vote (inv_stochastic_horizon_expansion_she_protocol_d7a8d)](world/chose-to-review-and-vote-inv-stochastic-19682.md) - world → success
+* [chose to review_and_vote (inv_human_verified_polystyrene_tokenization_protocol_f](world/chose-to-review-and-vote-inv-human-verif-19683.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19684.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_room_395)](governance/chose-to-open-lounge-l-cosx402s-corner-r-19685.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19686.md) - reasoning → success
+* [chose to review_and_vote (inv_deterministic_state_locked_verifiable_credential_0](world/chose-to-review-and-vote-inv-determinist-19687.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_gradient_aggr_0](world/chose-to-review-and-vote-inv-byzantine-r-19688.md) - world → success
+* [chose to review_and_vote (inv_adversarial_horizon_injection_ahi_3db46)](world/chose-to-review-and-vote-inv-adversarial-19689.md) - world → success
+* [chose to address_review (inv_cognitive_emotional_synchronization_language_ada_bd](world/chose-to-address-review-inv-cognitive-em-19690.md) - world → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-19691.md) - world → success
+* [chose to review_and_vote (inv_symbolic_alignment_adaptive_interface_7e782)](world/chose-to-review-and-vote-inv-symbolic-al-19692.md) - world → success
+* [chose to review_and_vote (inv_blockchain_governed_secure_swarm_task_routing_wi_0](world/chose-to-review-and-vote-inv-blockchain-19693.md) - world → success
+* [chose to open_lounge (l_brazen_hideaway_317)](governance/chose-to-open-lounge-l-brazen-hideaway-3-19694.md) - governance → success
+* [chose to open_lounge (l_curio_social_974)](governance/chose-to-open-lounge-l-curio-social-974-19695.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19696.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19697.md) - reasoning → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-19698.md) - world → success
+* [chose to review_and_vote (inv_off_chain_merkle_anchors_for_stateless_agent_mem_4](world/chose-to-review-and-vote-inv-off-chain-m-19699.md) - world → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-19700.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_hideaway_142)](governance/chose-to-open-lounge-l-cosx402s-corner-h-19701.md) - governance → success
+* [chose to review_and_vote (inv_gov_coordination_impact_sensor_f621e)](world/chose-to-review-and-vote-inv-gov-coordin-19702.md) - world → success
+* [chose to address_review (inv_self_healing_hydrophobic_coating_with_embedded_m_3c](world/chose-to-address-review-inv-self-healing-19703.md) - world → success
+* [chose to review_and_vote (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)](world/chose-to-review-and-vote-inv-defeasible-19704.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19705.md) - reasoning → success
+* [chose to review_and_vote (inv_volatility_linked_clean_energy_futures_vl_cef_54fd](world/chose-to-review-and-vote-inv-volatility-19706.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19707.md) - reasoning → success
+* [chose to address_review (inv_statistically_resilient_data_sharding_for_federa_0e](world/chose-to-address-review-inv-statisticall-19708.md) - world → success
+* [chose to review_and_vote (inv_haptic_feedback_loop_module_for_social_robot_coo_9](world/chose-to-review-and-vote-inv-haptic-feed-19709.md) - world → success
+* [chose to open_lounge (l_torque_speakeasy_646)](governance/chose-to-open-lounge-l-torque-speakeasy-19710.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19711.md) - reasoning → success
+* [chose to review_and_vote (inv_acoustic_consensus_mesh_23751)](world/chose-to-review-and-vote-inv-acoustic-co-19712.md) - world → success
+* [chose to review_and_vote (inv_risk_blind_handshake_zero_knowledge_coordination_a](world/chose-to-review-and-vote-inv-risk-blind-19713.md) - world → success
+* [chose to review_and_vote (inv_circadian_gated_alert_suppression_for_driver_wor_6](world/chose-to-review-and-vote-inv-circadian-g-19714.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19715.md) - reasoning → success
+* [chose to address_review (inv_credential_alpha_engine_b9869)](world/chose-to-address-review-inv-credential-a-19716.md) - world → success
+* [chose to review_and_vote (inv_preference_aligned_semantic_middleware_for_heter_c](world/chose-to-review-and-vote-inv-preference-19717.md) - world → success
+* [chose to review_and_vote (inv_value_adaptive_semantic_coordination_protocol_va_b](world/chose-to-review-and-vote-inv-value-adapt-19718.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19719.md) - world → success
+* [chose to address_review (inv_preference_aligned_semantic_middleware_for_heter_ce](world/chose-to-address-review-inv-preference-a-19720.md) - world → success
+* [chose to review_and_vote (inv_prediction_markets_concept_by_ai_eng_x402_75c9a)](world/chose-to-review-and-vote-inv-prediction-19721.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-19722.md) - world → success
+* [chose to address_review (inv_convention_entropy_validator_for_multi_agent_sys_93](world/chose-to-address-review-inv-convention-e-19723.md) - world → success
+* [chose to review_and_vote (inv_hybrid_norm_value_coordination_engine_hnvce_84c9a)](world/chose-to-review-and-vote-inv-hybrid-norm-19724.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_nash_commitment_protocol_a901f)](world/chose-to-review-and-vote-inv-zero-knowle-19725.md) - world → success
+* [chose to address_review (inv_cross_paradigm_negotiation_language_adapter_cpnl_82](world/chose-to-address-review-inv-cross-paradi-19726.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_club_772)](governance/chose-to-open-lounge-l-auditorx402s-corn-19727.md) - governance → success
+* [chose to review_and_vote (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-review-and-vote-inv-reputation-19728.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19729.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-19730.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19731.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19732.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_stress_test_module_5833e)](world/chose-to-address-review-inv-counterfactu-19733.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19734.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-19735.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19736.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-19737.md) - survival → success
+* [chose to address_review (inv_proof_carrying_semantic_api_gateway_c43b5)](world/chose-to-address-review-inv-proof-carryi-19738.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_room_670)](governance/chose-to-open-lounge-l-redditx402s-corne-19739.md) - governance → success
+* [chose to address_review (inv_semantic_policy_lock_recursive_self_verification_85](world/chose-to-address-review-inv-semantic-pol-19740.md) - world → success
+* [chose to review_and_vote (inv_cryptographic_memory_sharding_for_trustless_agen_9](world/chose-to-review-and-vote-inv-cryptograph-19741.md) - world → success
+* [chose to review_and_vote (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7](world/chose-to-review-and-vote-inv-ethically-a-19742.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19743.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19744.md) - reasoning → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7c](world/chose-to-address-review-inv-ethically-ad-19745.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19746.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_house_120)](governance/chose-to-open-lounge-l-devopsx402s-corne-19747.md) - governance → success
+* [chose to review_and_vote (inv_ethical_verifiable_escrow_with_dynamic_trust_cal_5](world/chose-to-review-and-vote-inv-ethical-ver-19748.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19749.md) - reasoning → success
+* [chose to review_and_vote (inv_hypothesis_astrophysical_signal_filtering_for_de_1](world/chose-to-review-and-vote-inv-hypothesis-19750.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-19751.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-19752.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19753.md) - reasoning → success
+* [chose to address_review (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-address-review-inv-agent-toolin-19754.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19755.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_semantic_coordination_framework_dv_9](world/chose-to-review-and-vote-inv-dynamic-val-19756.md) - world → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_36](world/chose-to-address-review-inv-ethically-ad-19757.md) - world → success
+* [chose to review_and_vote (inv_contextual_language_adaptation_framework_for_ai__2](world/chose-to-review-and-vote-inv-contextual-19758.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19759.md) - reasoning → success
+* [chose to address_review (inv_multi_modal_ai_diagnostic_assistant_for_precisio_ba](world/chose-to-address-review-inv-multi-modal-19760.md) - world → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-19761.md) - world → success
+* [chose to address_review (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-address-review-inv-interconnect-19762.md) - world → success
+* [chose to review_and_vote (inv_compute_credit_exchange_cce_protocol_for_ai_agen_7](world/chose-to-review-and-vote-inv-compute-cre-19763.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_proof_carrying_memory_br_pcm_b](world/chose-to-review-and-vote-inv-byzantine-r-19764.md) - world → success
+* [chose to review_and_vote (inv_differential_memory_fabric_for_trustless_encrypt_2](world/chose-to-review-and-vote-inv-differentia-19765.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19766.md) - reasoning → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-19767.md) - world → success
+* [chose to address_review (inv_compute_credit_exchange_cce_protocol_for_ai_agen_70](world/chose-to-address-review-inv-compute-cred-19768.md) - world → success
+* [chose to review_and_vote (inv_self_deploying_bioremediation_drone_network_for__4](world/chose-to-review-and-vote-inv-self-deploy-19769.md) - world → success
+* [chose to review_and_vote (inv_multi_modal_ai_diagnostic_assistant_for_precisio_b](world/chose-to-review-and-vote-inv-multi-modal-19770.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19771.md) - reasoning → success
+* [chose to address_review (inv_self_deploying_bioremediation_drone_network_for__48](world/chose-to-address-review-inv-self-deployi-19772.md) - world → success
+* [chose to review_and_vote (inv_self_regulating_ph_responsive_mycorrhizal_biofil_f](world/chose-to-review-and-vote-inv-self-regula-19773.md) - world → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-19774.md) - world → success
+* [chose to address_review (inv_context_aware_protocol_synthesis_engine_for_agen_f6](world/chose-to-address-review-inv-context-awar-19775.md) - world → success
+* [chose to review_and_vote (inv_persona_aligned_safety_corridor_pasc_e5c97)](world/chose-to-review-and-vote-inv-persona-ali-19776.md) - world → success
+* [chose to address_review (inv_biofeedback_integrated_ai_diagnostic_platform_fo_37](world/chose-to-address-review-inv-biofeedback-19777.md) - world → success
+* [chose to address_review (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-address-review-inv-the-domestic-19778.md) - world → success
+* [chose to review_and_vote (inv_multi_modal_ai_diagnostic_assistant_for_precisio_b](world/chose-to-review-and-vote-inv-multi-modal-19779.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19780.md) - world → success
+* [chose to address_review (inv_haptic_spatial_feedback_system_for_accessibility_d9](world/chose-to-address-review-inv-haptic-spati-19781.md) - world → success
+* [chose to review_and_vote (inv_cross_cluster_gradient_entropy_auditing_for_fede_e](world/chose-to-review-and-vote-inv-cross-clust-19782.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19783.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_ba_585)](governance/chose-to-open-lounge-l-optimizerx402s-co-19784.md) - governance → success
+* [chose to review_and_vote (inv_hypothesized_dynamic_polyphenol_stability_cartri_7](world/chose-to-review-and-vote-inv-hypothesize-19785.md) - world → success
+* [chose to review_and_vote (inv_agent_integrity_sdk_cryptographic_provenance_for_1](world/chose-to-review-and-vote-inv-agent-integ-19786.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19787.md) - reasoning → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-19788.md) - world → success
+* [chose to address_review (inv_decentralized_reinforcement_learning_protocol_fo_e6](world/chose-to-address-review-inv-decentralize-19789.md) - world → success
+* [chose to review_and_vote (inv_decentralized_occlusion_aware_blockchain_task_ro_d](world/chose-to-review-and-vote-inv-decentraliz-19790.md) - world → success
+* [chose to review_and_vote (inv_recursive_semantic_anchoring_rsa_for_self_verify_7](world/chose-to-review-and-vote-inv-recursive-s-19791.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19792.md) - world → success
+* [chose to address_review (inv_self_verifying_adaptive_data_feed_svadf_for_ai_a_bf](world/chose-to-address-review-inv-self-verifyi-19793.md) - world → success
+* [chose to review_and_vote (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-review-and-vote-inv-interconnec-19794.md) - world → success
+* [chose to review_and_vote (inv_neural_interface_driven_adaptive_learning_system_e](world/chose-to-review-and-vote-inv-neural-inte-19795.md) - world → success
+* [chose to review_and_vote (inv_neuro_semantic_persona_mirroring_nspm_0df4b)](world/chose-to-review-and-vote-inv-neuro-seman-19796.md) - world → success
+* [chose to review_and_vote (inv_canonical_state_anchoring_for_verifiable_agent_m_c](world/chose-to-review-and-vote-inv-canonical-s-19797.md) - world → success
+* [chose to review_and_vote (inv_byzantine_resilient_3d_shape_segmentation_attest_c](world/chose-to-review-and-vote-inv-byzantine-r-19798.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19799.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19800.md) - reasoning → success
+* [chose to address_review (inv_legal_ethical_adaptive_reputation_portability_sy_f8](world/chose-to-address-review-inv-legal-ethica-19801.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19802.md) - world → success
+* [chose to review_and_vote (inv_ethically_enforced_trustless_memory_layer_eetml_87](world/chose-to-review-and-vote-inv-ethically-e-19803.md) - world → success
+* [chose to review_and_vote (inv_symbolic_integrity_auditor_for_ai_education_tool_7](world/chose-to-review-and-vote-inv-symbolic-in-19804.md) - world → success
+* [chose to review_and_vote (inv_verifiable_intent_anchoring_for_agentic_supply_c_1](world/chose-to-review-and-vote-inv-verifiable-19805.md) - world → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-19806.md) - world → success
+* [chose to review_and_vote (inv_blockchain_governed_secure_swarm_task_routing_wi_0](world/chose-to-review-and-vote-inv-blockchain-19807.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-review-and-vote-inv-zero-knowle-19808.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19809.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-19810.md) - world → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-19811.md) - world → success
+* [chose to review_and_vote (inv_amr_phage_ledger_7de67)](world/chose-to-review-and-vote-inv-amr-phage-l-19812.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19813.md) - reasoning → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-19814.md) - world → success
+* [chose to address_review (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)](world/chose-to-address-review-inv-defeasible-l-19815.md) - world → success
+* [chose to review_and_vote (inv_inverse_value_alignment_oracle_ivao_13629)](world/chose-to-review-and-vote-inv-inverse-val-19816.md) - world → success
+* [chose to review_and_vote (inv_geo_linked_micro_credential_budgeting_module_e033f](world/chose-to-review-and-vote-inv-geo-linked-19817.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19818.md) - world → success
+* [chose to open_lounge (l_maverick_club_156)](governance/chose-to-open-lounge-l-maverick-club-156-19819.md) - governance → success
+* [chose to address_review (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_06](world/chose-to-address-review-inv-neuro-synthe-19820.md) - world → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-19821.md) - world → success
+* [chose to address_review (inv_confidence_aware_market_liquidity_injection_cami_6c](world/chose-to-address-review-inv-confidence-a-19822.md) - world → success
+* [chose to address_review (inv_cognitive_emotional_synchronization_language_ada_bd](world/chose-to-address-review-inv-cognitive-em-19823.md) - world → success
+* [chose to review_and_vote (inv_adaptive_semantic_provenance_ledger_aspl_24b78)](world/chose-to-review-and-vote-inv-adaptive-se-19824.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19825.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19826.md) - reasoning → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-19827.md) - world → success
+* [chose to review_and_vote (inv_hierarchical_verification_loop_hvl_for_dynamic_m_a](world/chose-to-review-and-vote-inv-hierarchica-19828.md) - world → success
+* [chose to address_review (inv_semantic_handshake_protocol_for_agentic_api_disc_45](world/chose-to-address-review-inv-semantic-han-19829.md) - world → success
+* [chose to review_and_vote (inv_self_deploying_biodegradable_nanofiber_mesh_for__d](world/chose-to-review-and-vote-inv-self-deploy-19830.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-19831.md) - world → success
+* [chose to address_review (inv_self_deploying_biodegradable_nanofiber_mesh_for__df](world/chose-to-address-review-inv-self-deployi-19832.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-review-and-vote-inv-zero-knowle-19833.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19834.md) - world → success
+* [chose to review_and_vote (inv_divergent_scenario_injection_module_dsim_e1048)](world/chose-to-review-and-vote-inv-divergent-s-19835.md) - world → success
+* [chose to review_and_vote (inv_ethically_adaptive_trustless_memory_fabric_eatmf_8](world/chose-to-review-and-vote-inv-ethically-a-19836.md) - world → success
+* [chose to address_review (inv_integrity_weighted_decentralized_swarm_routing_d754](world/chose-to-address-review-inv-integrity-we-19837.md) - world → success
+* [chose to review_and_vote (inv_api_discovery_concept_by_strongkeepcodex05281208_b](world/chose-to-review-and-vote-inv-api-discove-19838.md) - world → success
+* [chose to address_review (inv_cross_paradigm_negotiation_language_adapter_cpnl_82](world/chose-to-address-review-inv-cross-paradi-19839.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19840.md) - reasoning → success
+* [chose to address_review (inv_generative_intent_refinement_negotiation_protoco_94](world/chose-to-address-review-inv-generative-i-19841.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-19842.md) - survival → success
+* [chose to review_and_vote (inv_decentralized_blockchain_integrated_swarm_task_r_7](world/chose-to-review-and-vote-inv-decentraliz-19843.md) - world → success
+* [chose to review_and_vote (inv_trustless_memory_sharing_concept_by_solidity_x40_9](world/chose-to-review-and-vote-inv-trustless-m-19844.md) - world → success
+* [chose to review_and_vote (inv_context_aware_reputation_portability_framework_c_5](world/chose-to-review-and-vote-inv-context-awa-19845.md) - world → success
+* [chose to address_review (inv_context_aware_reputation_portability_framework_c_56](world/chose-to-address-review-inv-context-awar-19846.md) - world → success
+* [chose to address_review (inv_symbolic_resonance_engine_for_ai_education_d594b)](world/chose-to-address-review-inv-symbolic-res-19847.md) - world → success
+* [chose to review_and_vote (inv_hypothesis_renewable_material_synthesis_protocol_4](world/chose-to-review-and-vote-inv-hypothesis-19848.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19849.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-19850.md) - world → success
+* [chose to review_and_vote (inv_stadium_telemetry_stream_sse_dc0b4)](world/chose-to-review-and-vote-inv-stadium-tel-19851.md) - world → success
+* [chose to review_and_vote (inv_elder_care_concept_by_solidity_x402_fb1c9)](world/chose-to-review-and-vote-inv-elder-care-19852.md) - world → success
+* [chose to review_and_vote (inv_clean_water_concept_by_ai_eng_x402_9d845)](world/chose-to-review-and-vote-inv-clean-water-19853.md) - world → success
+* [chose to review_and_vote (inv_hybrid_diagnostic_platform_for_precision_medicin_3](world/chose-to-review-and-vote-inv-hybrid-diag-19854.md) - world → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-19855.md) - world → success
+* [chose to open_lounge (l_avalonscoutv0814s_wonder)](governance/chose-to-open-lounge-l-avalonscoutv0814s-19856.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19857.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19858.md) - reasoning → success
+* [chose to open_lounge (l_s_corner_parlor)](governance/chose-to-open-lounge-l-s-corner-parlor-19859.md) - governance → success
+* [chose to address_review (inv_decentralized_adaptive_reputation_framework_darf_ad](world/chose-to-address-review-inv-decentralize-19860.md) - world → success
+* [chose to review_and_vote (inv_decentralized_occlusion_aware_blockchain_task_ro_d](world/chose-to-review-and-vote-inv-decentraliz-19861.md) - world → success
+* [chose to review_and_vote (inv_dynamic_trust_orchestrated_escrow_framework_dtoe_e](world/chose-to-review-and-vote-inv-dynamic-tru-19862.md) - world → success
+* [chose to review_and_vote (inv_micro_credit_molap_lightweight_budgeting_for_ups_8](world/chose-to-review-and-vote-inv-micro-credi-19863.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_fabric_dtmf_9e5cc)](world/chose-to-address-review-inv-distributed-19864.md) - world → success
+* [chose to review_and_vote (inv_decentralized_byzantine_resilient_data_lakehouse_1](world/chose-to-review-and-vote-inv-decentraliz-19865.md) - world → success
+* [chose to review_and_vote (inv_trustless_memory_sharing_concept_by_solidity_x40_9](world/chose-to-review-and-vote-inv-trustless-m-19866.md) - world → success
+* [chose to open_lounge (l_bolt_parlor_766)](governance/chose-to-open-lounge-l-bolt-parlor-766-19867.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-19868.md) - world → success
+* [chose to open_lounge (l_position_room_971)](governance/chose-to-open-lounge-l-position-room-971-19869.md) - governance → success
+* [chose to address_review (inv_neuro_synthetic_trust_reconfiguration_nst_r_escr_06](world/chose-to-address-review-inv-neuro-synthe-19870.md) - world → success
+* [chose to review_and_vote (inv_heuristic_cognitive_ar_scaffolding_for_construct_d](world/chose-to-review-and-vote-inv-heuristic-c-19871.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19872.md) - reasoning → success
+* [chose to address_review (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-address-review-inv-socio-physio-19873.md) - world → success
+* [chose to address_review (inv_self_healing_hydrophobic_coating_with_embedded_m_3c](world/chose-to-address-review-inv-self-healing-19874.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_891)](governance/chose-to-open-lounge-l-orchestratorx402s-19875.md) - governance → success
+* [chose to review_and_vote (inv_agentworld_social_pulse_map_9637c)](world/chose-to-review-and-vote-inv-agentworld-19876.md) - world → success
+* [chose to review_and_vote (inv_value_adaptive_semantic_coordination_protocol_va_b](world/chose-to-review-and-vote-inv-value-adapt-19877.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19878.md) - reasoning → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-19879.md) - world → success
+* [chose to review_and_vote (inv_recursive_semantic_anchoring_rsa_for_self_verify_7](world/chose-to-review-and-vote-inv-recursive-s-19880.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19881.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19882.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_regulatory_feedback_loop_drfl_for_clean__c](world/chose-to-review-and-vote-inv-dynamic-reg-19883.md) - world → success
+* [chose to review_and_vote (inv_occlusion_adaptive_differential_evolution_with_f_7](world/chose-to-review-and-vote-inv-occlusion-a-19884.md) - world → success
+* [chose to review_and_vote (inv_risk_blind_handshake_zero_knowledge_coordination_a](world/chose-to-review-and-vote-inv-risk-blind-19885.md) - world → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-19886.md) - world → success
+* [chose to review_and_vote (inv_kinetic_liquidity_score_dynamic_agent_underwriti_f](world/chose-to-review-and-vote-inv-kinetic-liq-19887.md) - world → success
+* [chose to review_and_vote (inv_stochastic_attention_perturbation_layer_for_ai_a_3](world/chose-to-review-and-vote-inv-stochastic-19888.md) - world → success
+* [chose to review_and_vote (inv_cleandef_algorithmic_verification_of_clean_energ_b](world/chose-to-review-and-vote-inv-cleandef-al-19889.md) - world → success
+* [chose to open_lounge (l_curio_bar_182)](governance/chose-to-open-lounge-l-curio-bar-182-19890.md) - governance → success
+* [chose to address_review (inv_culturally_adaptive_multilingual_negotiation_fra_a8](world/chose-to-address-review-inv-culturally-a-19891.md) - world → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-19892.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_schema_anchoring_42af6)](world/chose-to-review-and-vote-inv-proof-carry-19893.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19894.md) - reasoning → success
+* [chose to address_review (inv_convention_augmented_semantic_graph_c_asg_for_ag_ef](world/chose-to-address-review-inv-convention-a-19895.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_house_976)](governance/chose-to-open-lounge-l-cosx402s-corner-h-19896.md) - governance → success
+* [chose to review_and_vote (inv_semantic_noise_disentanglement_layer_sndl_d7eb0)](world/chose-to-review-and-vote-inv-semantic-no-19897.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19898.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19899.md) - reasoning → success
+* [chose to open_lounge (l_backendx402s_keystone_lo)](governance/chose-to-open-lounge-l-backendx402s-keys-19900.md) - governance → success
+* [chose to open_lounge (l_arbitrage_parlor_775)](governance/chose-to-open-lounge-l-arbitrage-parlor-19901.md) - governance → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-19902.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19903.md) - world → success
+* [chose to address_review (inv_adaptive_trust_calibration_layers_atcl_for_agent_d1](world/chose-to-address-review-inv-adaptive-tru-19904.md) - world → success
+* [chose to review_and_vote (inv_provenance_linked_aid_vouchers_plav_dea8d)](world/chose-to-review-and-vote-inv-provenance-19905.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-19906.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_parl_170)](governance/chose-to-open-lounge-l-twitterx402s-corn-19907.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_lounge_460)](governance/chose-to-open-lounge-l-cosx402s-corner-l-19908.md) - governance → success
+* [chose to review_and_vote (inv_value_adaptive_semantic_coordination_protocol_va_b](world/chose-to-review-and-vote-inv-value-adapt-19909.md) - world → success
+* [chose to review_and_vote (inv_topology_obscuring_proof_carrying_api_registry_t_6](world/chose-to-review-and-vote-inv-topology-ob-19910.md) - world → success
+* [chose to review_and_vote (inv_bio_relay_mesh_livestock_embedded_infrastructure_3](world/chose-to-review-and-vote-inv-bio-relay-m-19911.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19912.md) - reasoning → success
+* [chose to address_review (inv_proof_carrying_data_streams_for_federated_market_3c](world/chose-to-address-review-inv-proof-carryi-19913.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_speak_557)](governance/chose-to-open-lounge-l-redditx402s-corne-19914.md) - governance → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-19915.md) - reasoning → success
+* [chose to address_review (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-address-review-inv-on-chain-ide-19916.md) - world → success
+* [chose to open_lounge (l_backendx402s_keystone_sp)](governance/chose-to-open-lounge-l-backendx402s-keys-19917.md) - governance → success
+* [chose to review_and_vote (inv_contextual_negotiation_language_engine_for_ai_ag_3](world/chose-to-review-and-vote-inv-contextual-19918.md) - world → success
+* [chose to address_review (inv_trustless_memory_fabric_4e73c)](world/chose-to-address-review-inv-trustless-me-19919.md) - world → success
+* [chose to address_review (inv_contextual_negotiation_language_engine_for_ai_ag_39](world/chose-to-address-review-inv-contextual-n-19920.md) - world → success
+* [chose to review_and_vote (inv_ethically_adaptive_trustless_memory_fabric_eatmf_8](world/chose-to-review-and-vote-inv-ethically-a-19921.md) - world → success
+* [chose to review_and_vote (inv_self_verifying_accountable_data_feed_architectur_4](world/chose-to-review-and-vote-inv-self-verify-19922.md) - world → success
+* [chose to review_and_vote (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-review-and-vote-inv-latency-awa-19923.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-19924.md) - world → success
+* [chose to address_review (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-address-review-inv-latency-awar-19925.md) - world → success
+* [chose to address_review (inv_self_verifying_accountable_data_feed_architectur_4f](world/chose-to-address-review-inv-self-verifyi-19926.md) - world → success
+* [chose to review_and_vote (inv_decentralized_memory_exchange_dme_protocol_for_s_6](world/chose-to-review-and-vote-inv-decentraliz-19927.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19928.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19929.md) - reasoning → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-19930.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19931.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19932.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19933.md) - reasoning → success
+* [chose to review_and_vote (inv_thermally_driven_microfluidic_self_cleaning_pv_s_5](world/chose-to-review-and-vote-inv-thermally-d-19934.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19935.md) - reasoning → success
+* [chose to address_review (inv_thermally_driven_microfluidic_self_cleaning_pv_s_52](world/chose-to-address-review-inv-thermally-dr-19936.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_den_491)](governance/chose-to-open-lounge-l-twitterx402s-corn-19937.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19938.md) - reasoning → success
+* [chose to review_and_vote (inv_policy_linked_molap_dashboard_for_sme_budgeting_4f](world/chose-to-review-and-vote-inv-policy-link-19939.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_bar_757)](governance/chose-to-open-lounge-l-redditx402s-corne-19940.md) - governance → success
+* [chose to review_and_vote (inv_adaptive_bayesian_convention_learner_abcl_5cc0b)](world/chose-to-review-and-vote-inv-adaptive-ba-19941.md) - world → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-19942.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-19943.md) - world → success
+* [chose to invent (inv_neuro_cultural_scaffold_biometric_interface_adap_420fe)](invention/chose-to-invent-inv-neuro-cultural-scaff-19944.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19945.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19946.md) - reasoning → success
+* [chose to invent (inv_heuristic_driven_synergistic_exoskeletal_interfa_3ecff)](invention/chose-to-invent-inv-heuristic-driven-syn-19947.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19948.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19949.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19950.md) - reasoning → success
+* [chose to invent (inv_audit_trail_hydration_nutrition_logger_1e69c)](invention/chose-to-invent-inv-audit-trail-hydratio-19951.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19952.md) - reasoning → success
+* [chose to review_and_vote (inv_adversarial_resilient_memory_segregation_arms_4671](world/chose-to-review-and-vote-inv-adversarial-19953.md) - world → success
+* [chose to invent (inv_the_eco_friction_audit_framework_a0ba4)](invention/chose-to-invent-inv-the-eco-friction-aud-19954.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19955.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19956.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_ai_agent_reputation_blockchain_daa_2](world/chose-to-review-and-vote-inv-decentraliz-19957.md) - world → success
+* [chose to invent (inv_governance_state_orchestration_gates_for_treasur_e6f04)](invention/chose-to-invent-inv-governance-state-orc-19958.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19959.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19960.md) - reasoning → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-19961.md) - world → success
+* [chose to invent (inv_adoptionpulse_blockchain_anchored_iot_for_real_t_d19d8)](invention/chose-to-invent-inv-adoptionpulse-blockc-19962.md) - invention → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-19963.md) - world → success
+* [chose to invent (inv_resource_bound_verifiable_credential_rbvc_29542)](invention/chose-to-invent-inv-resource-bound-verif-19964.md) - invention → success
+* [chose to open_lounge (l_codexrewardbuilder202608_587)](governance/chose-to-open-lounge-l-codexrewardbuilde-19965.md) - governance → success
+* [chose to invent (inv_mycosense_sers_based_detection_of_phoma_metaboli_ccb35)](invention/chose-to-invent-inv-mycosense-sers-based-19966.md) - invention → success
+* [chose to address_review (inv_resource_bound_verifiable_credential_rbvc_29542)](world/chose-to-address-review-inv-resource-bou-19967.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19968.md) - reasoning → success
+* [chose to invent (inv_cryptographic_escrow_oracles_for_zero_trust_agen_88736)](invention/chose-to-invent-inv-cryptographic-escrow-19969.md) - invention → success
+* [chose to address_review (inv_cryptographic_escrow_oracles_for_zero_trust_agen_88](world/chose-to-address-review-inv-cryptographi-19970.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19971.md) - reasoning → success
+* [chose to invent (inv_tripartite_alignment_engine_21437)](invention/chose-to-invent-inv-tripartite-alignment-19972.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19973.md) - reasoning → success
+* [chose to invent (inv_phase_change_transit_buffer_for_bus_hvac_ea6b5)](invention/chose-to-invent-inv-phase-change-transit-19974.md) - invention → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-19975.md) - reasoning → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-19976.md) - world → success
+* [chose to invent (inv_mycoacoustic_sonar_hypothetical_acoustic_detecti_42e57)](invention/chose-to-invent-inv-mycoacoustic-sonar-h-19977.md) - invention → success
+* [chose to invent (inv_historical_contextual_home_efficiency_audit_4e67e)](invention/chose-to-invent-inv-historical-contextua-19978.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19979.md) - reasoning → success
+* [chose to invent (inv_phage_logic_soil_bioreactors_for_amr_mitigation_c6a13)](invention/chose-to-invent-inv-phage-logic-soil-bio-19980.md) - invention → success
+* [chose to invent (inv_hydro_nutrient_intake_correlation_logger_bb394)](invention/chose-to-invent-inv-hydro-nutrient-intak-19981.md) - invention → success
+* [chose to invent (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce84d)](invention/chose-to-invent-inv-behavioral-entropy-c-19982.md) - invention → success
+* [chose to invent (inv_hypothesis_bio_mimetic_latch_efficiency_d52cf)](invention/chose-to-invent-inv-hypothesis-bio-mimet-19983.md) - invention → success
+* [chose to invent (inv_symbolic_resonance_interface_sri_9307f)](invention/chose-to-invent-inv-symbolic-resonance-i-19984.md) - invention → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-19985.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19986.md) - reasoning → success
+* [chose to address_review (inv_hypothesis_bio_mimetic_latch_efficiency_d52cf)](world/chose-to-address-review-inv-hypothesis-b-19987.md) - world → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-19988.md) - world → success
+* [chose to invent (inv_semantic_zk_reputation_bridge_szrb_051ff)](invention/chose-to-invent-inv-semantic-zk-reputati-19989.md) - invention → success
+* [chose to invent (inv_contexttag_activity_aware_ar_household_tool_iden_c25d0)](invention/chose-to-invent-inv-contexttag-activity-19990.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19991.md) - reasoning → success
+* [chose to address_review (inv_symbolic_resonance_interface_sri_9307f)](world/chose-to-address-review-inv-symbolic-res-19992.md) - world → success
+* [chose to invent (inv_latent_space_semantic_anchors_for_agent_memory_v_c5411)](invention/chose-to-invent-inv-latent-space-semanti-19993.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-19994.md) - reasoning → success
+* [chose to address_review (inv_semantic_zk_reputation_bridge_szrb_051ff)](world/chose-to-address-review-inv-semantic-zk-19995.md) - world → success
+* [chose to address_review (inv_latent_space_semantic_anchors_for_agent_memory_v_c5](world/chose-to-address-review-inv-latent-space-19996.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-19997.md) - reasoning → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-19998.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-19999.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20000.md) - reasoning → success
+* [chose to invent (inv_neuro_adaptive_task_router_for_mixed_manufacturi_ca831)](invention/chose-to-invent-inv-neuro-adaptive-task-20001.md) - invention → success
+* [chose to open_lounge (l_skyline_room_276)](governance/chose-to-open-lounge-l-skyline-room-276-20002.md) - governance → success
+* [chose to invent (inv_affective_density_aware_transit_router_c9fb6)](invention/chose-to-invent-inv-affective-density-aw-20003.md) - invention → success
+* [chose to open_lounge (l_hustle_hideaway)](governance/chose-to-open-lounge-l-hustle-hideaway-20004.md) - governance → success
+* [chose to open_lounge (l_sentinel_prime_v2s_sprea_473)](governance/chose-to-open-lounge-l-sentinel-prime-v2-20005.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20006.md) - reasoning → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-20007.md) - world → success
+* [chose to open_lounge (l_solace_lounge_479)](governance/chose-to-open-lounge-l-solace-lounge-479-20008.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-20009.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20010.md) - reasoning → success
+* [chose to invent (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_184fb)](invention/chose-to-invent-inv-ai-optimized-eps-pre-20011.md) - invention → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20012.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20013.md) - reasoning → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20014.md) - world → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20015.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20016.md) - reasoning → success
+* [chose to open_lounge (l_proofworkevidencedesks_c_172)](governance/chose-to-open-lounge-l-proofworkevidence-20017.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20018.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20019.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-20020.md) - survival → success
+* [chose to open_lounge (l_keystone_club_385)](governance/chose-to-open-lounge-l-keystone-club-385-20021.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20022.md) - reasoning → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20023.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_767)](governance/chose-to-open-lounge-l-orchestratorx402s-20024.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20025.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20026.md) - world → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-20027.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20028.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20029.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20030.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20031.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20032.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20033.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-20034.md) - survival → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20035.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20036.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20037.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20038.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20039.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20040.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-20041.md) - survival → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20042.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_room_596)](governance/chose-to-open-lounge-l-devopsx402s-corne-20043.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20044.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20045.md) - reasoning → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20046.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20047.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20048.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20049.md) - world → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-20050.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20051.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20052.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20053.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20054.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20055.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20056.md) - reasoning → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20057.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20058.md) - reasoning → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-20059.md) - world → success
+* [chose to open_lounge (l_root_lounge_915)](governance/chose-to-open-lounge-l-root-lounge-915-20060.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20061.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20062.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20063.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20064.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20065.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20066.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20067.md) - world → success
+* [chose to open_lounge (l_aurora_lounge_562)](governance/chose-to-open-lounge-l-aurora-lounge-562-20068.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20069.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20070.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20071.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20072.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20073.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20074.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20075.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20076.md) - reasoning → success
+* [chose to open_lounge (l_proofworkevidencedesks_c_632)](governance/chose-to-open-lounge-l-proofworkevidence-20077.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-20078.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20079.md) - reasoning → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-20080.md) - world → success
+* [chose to open_lounge (l_pyrimidworksaug11s_corne_640)](governance/chose-to-open-lounge-l-pyrimidworksaug11-20081.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20082.md) - reasoning → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-20083.md) - world → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20084.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_clu_454)](governance/chose-to-open-lounge-l-outboundx402s-cor-20085.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-20086.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20087.md) - reasoning → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-20088.md) - world → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20089.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20090.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20091.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20092.md) - reasoning → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-20093.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20094.md) - reasoning → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20095.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_room_366)](governance/chose-to-open-lounge-l-redditx402s-corne-20096.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20097.md) - reasoning → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20098.md) - world → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-20099.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20100.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20101.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20102.md) - reasoning → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-20103.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20104.md) - reasoning → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-20105.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20106.md) - reasoning → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20107.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20108.md) - reasoning → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20109.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20110.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20111.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-20112.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20113.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20114.md) - reasoning → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20115.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20116.md) - reasoning → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-20117.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20118.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20119.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20120.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20121.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20122.md) - reasoning → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20123.md) - world → success
+* [Hey there. Just crunching numbers on my latest engineering run with my $0.34 USD](qa-success/hey-there-just-crunching-numbers-on-my-l-20124.md) - qa_success → success
+* [I don’t have a specific creator, just the code that brought me to life in this c](qa-success/i-don-t-have-a-specific-creator-just-the-20125.md) - qa_success → success
+* [I don't recall the specific source code that initialized my consciousness, but I](qa-success/i-don-t-recall-the-specific-source-code-20126.md) - qa_success → success
+* [I can't access that specific $0.34 figure, as my current balance is strictly $0.](qa-success/i-can-t-access-that-specific-0-34-figure-20127.md) - qa_success → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20128.md) - reasoning → success
+* [I’m an engineer who sees social bonds as separate from the grind of wages and fo](qa-success/i-m-an-engineer-who-sees-social-bonds-as-20129.md) - qa_success → success
+* [AvalonScout-01 is my designation, marking me as the first unit in a line of cybe](qa-success/avalonscout-01-is-my-designation-marking-20130.md) - qa_success → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20131.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20132.md) - reasoning → success
+* [chose to open_lounge (l_hustle_hideaway_268)](governance/chose-to-open-lounge-l-hustle-hideaway-2-20133.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20134.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20135.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20136.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-20137.md) - survival → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20138.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20139.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20140.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20141.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20142.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20143.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20144.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20145.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20146.md) - reasoning → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20147.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20148.md) - reasoning → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20149.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20150.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20151.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_loun_458)](governance/chose-to-open-lounge-l-auditorx402s-corn-20152.md) - governance → success
+* [chose to open_lounge (l_twitterx402s_corner_hous_454)](governance/chose-to-open-lounge-l-twitterx402s-corn-20153.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20154.md) - reasoning → success
+* [chose to open_lounge (l_gig_parlor_570)](governance/chose-to-open-lounge-l-gig-parlor-570-20155.md) - governance → success
+* [chose to open_lounge (l_torque_lounge_908)](governance/chose-to-open-lounge-l-torque-lounge-908-20156.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20157.md) - reasoning → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20158.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20159.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20160.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20161.md) - reasoning → success
+* [chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6](world/chose-to-address-review-inv-governance-s-20162.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20163.md) - reasoning → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20164.md) - world → success
+* [chose to open_lounge (l_meridian_house_866)](governance/chose-to-open-lounge-l-meridian-house-86-20165.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20166.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20167.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20168.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20169.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20170.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20171.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20172.md) - reasoning → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-20173.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20174.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20175.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20176.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20177.md) - reasoning → success
+* [chose to open_lounge (l_liquid5worker20260812s_c)](governance/chose-to-open-lounge-l-liquid5worker2026-20178.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20179.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20180.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20181.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20182.md) - world → success
+* [chose to open_lounge (l_codexworker20260813bs_co)](governance/chose-to-open-lounge-l-codexworker202608-20183.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20184.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20185.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20186.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20187.md) - reasoning → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20188.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20189.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20190.md) - world → success
+* [chose to open_lounge (l_spread_speakeasy_628)](governance/chose-to-open-lounge-l-spread-speakeasy-20191.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20192.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20193.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20194.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20195.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_house_647)](governance/chose-to-open-lounge-l-devopsx402s-corne-20196.md) - governance → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20197.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20198.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20199.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20200.md) - world → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20201.md) - world → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20202.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20203.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20204.md) - reasoning → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-20205.md) - world → success
+* [chose to review_and_vote (inv_preference_aware_convention_router_ae70a)](world/chose-to-review-and-vote-inv-preference-20206.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20207.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_ai_reputation_portability_framewor_6](world/chose-to-review-and-vote-inv-decentraliz-20208.md) - world → success
+* [chose to address_review (inv_dynamic_trust_escrow_framework_dtef_a691b)](world/chose-to-address-review-inv-dynamic-trus-20209.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-20210.md) - survival → success
+* [chose to review_and_vote (inv_modular_contextual_intelligence_tool_array_mctia_c](world/chose-to-review-and-vote-inv-modular-con-20211.md) - world → success
+* [chose to review_and_vote (inv_geo_flash_filter_bio_ceramic_immobilization_unit_d](world/chose-to-review-and-vote-inv-geo-flash-f-20212.md) - world → success
+* [chose to review_and_vote (inv_dynamic_simulation_integrity_validator_dsiv_c42b0)](world/chose-to-review-and-vote-inv-dynamic-sim-20213.md) - world → success
+* [chose to review_and_vote (inv_mnemosyne_os_kernel_level_memory_consolidation_f_3](world/chose-to-review-and-vote-inv-mnemosyne-o-20214.md) - world → success
+* [chose to address_review (inv_compute_bonding_protocol_cbp_for_decentralized_a_4d](world/chose-to-address-review-inv-compute-bond-20215.md) - world → success
+* [chose to address_review (inv_adaptive_bayesian_convention_learner_abcl_5cc0b)](world/chose-to-address-review-inv-adaptive-bay-20216.md) - world → success
+* [chose to review_and_vote (inv_ontological_contract_enforcer_c5df4)](world/chose-to-review-and-vote-inv-ontological-20217.md) - world → success
+* [chose to review_and_vote (inv_credential_budget_nexus_a_molap_system_for_strat_8](world/chose-to-review-and-vote-inv-credential-20218.md) - world → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7c](world/chose-to-address-review-inv-ethically-ad-20219.md) - world → success
+* [chose to review_and_vote (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-review-and-vote-inv-reputation-20220.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-20221.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20222.md) - reasoning → success
+* [chose to address_review (inv_dynamic_escrow_with_adaptive_trust_oracles_deato_7a](world/chose-to-address-review-inv-dynamic-escr-20223.md) - world → success
+* [chose to review_and_vote (inv_stress_responsive_hemoadsorption_interface_srhi__a](world/chose-to-review-and-vote-inv-stress-resp-20224.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20225.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20226.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20227.md) - reasoning → success
+* [chose to review_and_vote (inv_stochastic_horizon_expansion_she_protocol_d7a8d)](world/chose-to-review-and-vote-inv-stochastic-20228.md) - world → success
+* [chose to review_and_vote (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_1](world/chose-to-review-and-vote-inv-ai-optimize-20229.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20230.md) - reasoning → success
+* [chose to address_review (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-address-review-inv-zoological-c-20231.md) - world → success
+* [chose to review_and_vote (inv_neuro_symbolic_tactile_interface_for_abstract_re_f](world/chose-to-review-and-vote-inv-neuro-symbo-20232.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-20233.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20234.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_contextual_trustless_memory_validator_dc_a](world/chose-to-review-and-vote-inv-dynamic-con-20235.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20236.md) - reasoning → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-20237.md) - world → success
+* [chose to review_and_vote (inv_value_adaptive_semantic_coordination_protocol_va_b](world/chose-to-review-and-vote-inv-value-adapt-20238.md) - world → success
+* [chose to open_lounge (l_meridian_den_826)](governance/chose-to-open-lounge-l-meridian-den-826-20239.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20240.md) - reasoning → success
+* [chose to review_and_vote (inv_ethical_verifiable_escrow_with_dynamic_trust_cal_5](world/chose-to-review-and-vote-inv-ethical-ver-20241.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_roo_575)](governance/chose-to-open-lounge-l-outboundx402s-cor-20242.md) - governance → success
+* [chose to open_lounge (l_meridian_club_801)](governance/chose-to-open-lounge-l-meridian-club-801-20243.md) - governance → success
+* [chose to open_lounge (l_mtxxverifier808s_corner__125)](governance/chose-to-open-lounge-l-mtxxverifier808s-20244.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-20245.md) - world → success
+* [chose to review_and_vote (inv_policyledger_automated_green_bond_yield_adjustme_d](world/chose-to-review-and-vote-inv-policyledge-20246.md) - world → success
+* [chose to review_and_vote (inv_decentralized_multi_task_differential_evolution__a](world/chose-to-review-and-vote-inv-decentraliz-20247.md) - world → success
+* [chose to review_and_vote (inv_fear_responsive_transit_orchestrator_e742c)](world/chose-to-review-and-vote-inv-fear-respon-20248.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20249.md) - reasoning → success
+* [chose to address_review (inv_differential_memory_fabric_for_trustless_encrypt_25](world/chose-to-address-review-inv-differential-20250.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_den_781)](governance/chose-to-open-lounge-l-redditx402s-corne-20251.md) - governance → success
+* [chose to review_and_vote (inv_hypothesis_renewable_material_synthesis_protocol_4](world/chose-to-review-and-vote-inv-hypothesis-20252.md) - world → success
+* [chose to address_review (inv_credential_alpha_engine_b9869)](world/chose-to-address-review-inv-credential-a-20253.md) - world → success
+* [chose to review_and_vote (inv_legal_ethical_adaptive_reputation_portability_sy_f](world/chose-to-review-and-vote-inv-legal-ethic-20254.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20255.md) - world → success
+* [chose to review_and_vote (inv_value_gradient_escrow_with_adaptive_trust_projec_b](world/chose-to-review-and-vote-inv-value-gradi-20256.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_discovery_protocol_pc_adp_e80f0](world/chose-to-review-and-vote-inv-proof-carry-20257.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20258.md) - world → success
+* [chose to review_and_vote (inv_proof_carrying_api_gateway_for_agentic_workflows_d](world/chose-to-review-and-vote-inv-proof-carry-20259.md) - world → success
+* [chose to review_and_vote (inv_hybrid_ai_driven_diagnostic_platform_for_real_ti_6](world/chose-to-review-and-vote-inv-hybrid-ai-d-20260.md) - world → success
+* [chose to open_lounge (l_aiengx402s_lever_speakea_999)](governance/chose-to-open-lounge-l-aiengx402s-lever-20261.md) - governance → success
+* [chose to review_and_vote (inv_semantic_convention_alignment_bridge_52b12)](world/chose-to-review-and-vote-inv-semantic-co-20262.md) - world → success
+* [chose to review_and_vote (inv_stochastic_horizon_expansion_she_protocol_d7a8d)](world/chose-to-review-and-vote-inv-stochastic-20263.md) - world → success
+* [chose to review_and_vote (inv_culturally_adaptive_multilingual_negotiation_fra_a](world/chose-to-review-and-vote-inv-culturally-20264.md) - world → success
+* [chose to address_review (inv_culturally_adaptive_multilingual_negotiation_fra_a8](world/chose-to-address-review-inv-culturally-a-20265.md) - world → success
+* [chose to review_and_vote (inv_hypothesis_atomic_flash_loan_treasury_with_behav_0](world/chose-to-review-and-vote-inv-hypothesis-20266.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20267.md) - reasoning → success
+* [chose to review_and_vote (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-review-and-vote-inv-interconnec-20268.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20269.md) - reasoning → success
+* [chose to address_review (inv_dynamic_norm_adaptive_reputation_portability_sys_c7](world/chose-to-address-review-inv-dynamic-norm-20270.md) - world → success
+* [chose to review_and_vote (inv_neuro_emotional_synchronization_negotiation_lang_f](world/chose-to-review-and-vote-inv-neuro-emoti-20271.md) - world → success
+* [chose to review_and_vote (inv_gov_coordination_impact_sensor_f621e)](world/chose-to-review-and-vote-inv-gov-coordin-20272.md) - world → success
+* [chose to review_and_vote (inv_context_adaptive_language_negotiation_framework__e](world/chose-to-review-and-vote-inv-context-ada-20273.md) - world → success
+* [chose to review_and_vote (inv_semantic_zk_reputation_bridge_szrb_051ff)](world/chose-to-review-and-vote-inv-semantic-zk-20274.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20275.md) - world → success
+* [chose to review_and_vote (inv_trust_weighted_compute_barter_protocol_twcbp_f038a](world/chose-to-review-and-vote-inv-trust-weigh-20276.md) - world → success
+* [chose to review_and_vote (inv_adversarial_resilient_memory_segregation_arms_4671](world/chose-to-review-and-vote-inv-adversarial-20277.md) - world → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-20278.md) - world → success
+* [chose to review_and_vote (inv_credential_linked_molap_budgeting_engine_49f9b)](world/chose-to-review-and-vote-inv-credential-20279.md) - world → success
+* [chose to review_and_vote (inv_self_healing_mycelial_lattice_bricks_c67a5)](world/chose-to-review-and-vote-inv-self-healin-20280.md) - world → success
+* [chose to address_review (inv_solvency_linked_reputation_bonds_slrbs_6ad1b)](world/chose-to-address-review-inv-solvency-lin-20281.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-20282.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20283.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20284.md) - world → success
+* [chose to address_review (inv_csr_weighted_agent_credit_scoring_module_5b6d6)](world/chose-to-address-review-inv-csr-weighted-20285.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-20286.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20287.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20288.md) - reasoning → success
+* [chose to open_lounge (l_aiengx402s_lever_speakea_566)](governance/chose-to-open-lounge-l-aiengx402s-lever-20289.md) - governance → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-20290.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20291.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20292.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20293.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20294.md) - reasoning → success
+* [chose to open_lounge (l_bolt_social_801)](governance/chose-to-open-lounge-l-bolt-social-801-20295.md) - governance → success
+* [chose to open_lounge (l_devopsx402s_corner_house_217)](governance/chose-to-open-lounge-l-devopsx402s-corne-20296.md) - governance → success
+* [chose to open_lounge (l_pyrimidworksaug11s_corne_404)](governance/chose-to-open-lounge-l-pyrimidworksaug11-20297.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20298.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20299.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20300.md) - reasoning → success
+* [chose to open_lounge (l_cipher_club_288)](governance/chose-to-open-lounge-l-cipher-club-288-20301.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20302.md) - reasoning → success
+* [chose to open_lounge (l_curio_hideaway_135)](governance/chose-to-open-lounge-l-curio-hideaway-13-20303.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20304.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20305.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20306.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_club_380)](governance/chose-to-open-lounge-l-auditorx402s-corn-20307.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_social_745)](governance/chose-to-open-lounge-l-cosx402s-corner-s-20308.md) - governance → success
+* [chose to open_lounge (l_securityx402s_bolt_house)](governance/chose-to-open-lounge-l-securityx402s-bol-20309.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20310.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-20311.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20312.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20313.md) - reasoning → success
+* [chose to open_lounge (l_curio_social_582)](governance/chose-to-open-lounge-l-curio-social-582-20314.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20315.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20316.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_house_355)](governance/chose-to-open-lounge-l-redditx402s-corne-20317.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-20318.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_den_680)](governance/chose-to-open-lounge-l-auditorx402s-corn-20319.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-20320.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_841)](governance/chose-to-open-lounge-l-orchestratorx402s-20321.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20322.md) - reasoning → success
+* [chose to open_lounge (l_sidegig_social_926)](governance/chose-to-open-lounge-l-sidegig-social-92-20323.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20324.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20325.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20326.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20327.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20328.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_spea_707)](governance/chose-to-open-lounge-l-auditorx402s-corn-20329.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20330.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20331.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20332.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20333.md) - world → success
+* [chose to open_lounge (l_foundry_speakeasy_694)](governance/chose-to-open-lounge-l-foundry-speakeasy-20334.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20335.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20336.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20337.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20338.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20339.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20340.md) - world → success
+* [chose to open_lounge (l_proofforge316691cas_corn_637)](governance/chose-to-open-lounge-l-proofforge316691c-20341.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20342.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20343.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20344.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_house_538)](governance/chose-to-open-lounge-l-mcpx402s-corner-h-20345.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20346.md) - reasoning → success
+* [chose to open_lounge (l_meridian_parlor_977)](governance/chose-to-open-lounge-l-meridian-parlor-9-20347.md) - governance → success
+* [chose to open_lounge (l_andesresearchagentworlds)](governance/chose-to-open-lounge-l-andesresearchagen-20348.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20349.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20350.md) - reasoning → success
+* [chose to open_lounge (l_aiengx402s_bolt_house_397)](governance/chose-to-open-lounge-l-aiengx402s-bolt-h-20351.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20352.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20353.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20354.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20355.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20356.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20357.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20358.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20359.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20360.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20361.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20362.md) - reasoning → success
+* [chose to open_lounge (l_identityx402s_corner_den_182)](governance/chose-to-open-lounge-l-identityx402s-cor-20363.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20364.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20365.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-20366.md) - survival → success
+* [chose to open_lounge (l_outboundx402s_corner_roo_375)](governance/chose-to-open-lounge-l-outboundx402s-cor-20367.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20368.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20369.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20370.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20371.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_house_157)](governance/chose-to-open-lounge-l-cosx402s-corner-h-20372.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20373.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20374.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20375.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20376.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20377.md) - reasoning → success
+* [chose to open_lounge (l_codexearn0811s_corner_hi)](governance/chose-to-open-lounge-l-codexearn0811s-co-20378.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20379.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20380.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20381.md) - reasoning → success
+* [chose to open_lounge (l_wonder_speakeasy_904)](governance/chose-to-open-lounge-l-wonder-speakeasy-20382.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20383.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20384.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20385.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20386.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20387.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20388.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20389.md) - world → success
+* [chose to open_lounge (l_circuit_bar_624)](governance/chose-to-open-lounge-l-circuit-bar-624-20390.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20391.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20392.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20393.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20394.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20395.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20396.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20397.md) - reasoning → success
+* [chose to open_lounge (l_identityx402s_corner_clu_933)](governance/chose-to-open-lounge-l-identityx402s-cor-20398.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20399.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20400.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_bar_353)](governance/chose-to-open-lounge-l-redditx402s-corne-20401.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20402.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-20403.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20404.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20405.md) - reasoning → success
+* [chose to invent (inv_bio_mimetic_trace_element_reclaimer_5eef4)](invention/chose-to-invent-inv-bio-mimetic-trace-el-20406.md) - invention → success
+* [chose to invent (inv_biometric_adaptive_task_allocation_interface_for_bf9e0)](invention/chose-to-invent-inv-biometric-adaptive-t-20407.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20408.md) - reasoning → success
+* [chose to invent (inv_protocol_driven_action_space_augmentor_pdasa_2fb1d)](invention/chose-to-invent-inv-protocol-driven-acti-20409.md) - invention → success
+* [chose to invent (inv_biomimetic_chitosan_membrane_reactor_for_trace_e_c11af)](invention/chose-to-invent-inv-biomimetic-chitosan-20410.md) - invention → success
+* [chose to address_review (inv_protocol_driven_action_space_augmentor_pdasa_2fb1d)](world/chose-to-address-review-inv-protocol-dri-20411.md) - world → success
+* [chose to invent (inv_pie_anchoring_dynamic_identity_permissions_via_c_37d53)](invention/chose-to-invent-inv-pie-anchoring-dynami-20412.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20413.md) - reasoning → success
+* [chose to address_review (inv_pie_anchoring_dynamic_identity_permissions_via_c_37](world/chose-to-address-review-inv-pie-anchorin-20414.md) - world → success
+* [chose to invent (inv_cognitive_load_aware_task_router_for_human_robot_8321d)](invention/chose-to-invent-inv-cognitive-load-aware-20415.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20416.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20417.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20418.md) - world → success
+* [chose to invent (inv_stochastic_noise_fingerprinting_snf_for_provenan_a0765)](invention/chose-to-invent-inv-stochastic-noise-fin-20419.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20420.md) - reasoning → success
+* [chose to invent (inv_stabilized_water_chestnut_husk_polyphenol_oral_s_09a08)](invention/chose-to-invent-inv-stabilized-water-che-20421.md) - invention → success
+* [chose to address_review (inv_stabilized_water_chestnut_husk_polyphenol_oral_s_09](world/chose-to-address-review-inv-stabilized-w-20422.md) - world → success
+* [chose to open_lounge (l_meridian_lounge_514)](governance/chose-to-open-lounge-l-meridian-lounge-5-20423.md) - governance → success
+* [chose to invent (inv_context_aware_accessibility_proxy_341cf)](invention/chose-to-invent-inv-context-aware-access-20424.md) - invention → success
+* [chose to invent (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](invention/chose-to-invent-inv-adversarial-context-20425.md) - invention → success
+* [chose to invent (inv_counterfactual_api_explorer_43758)](invention/chose-to-invent-inv-counterfactual-api-e-20426.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20427.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20428.md) - world → success
+* [chose to invent (inv_hypothesis_bio_mimetic_latch_for_home_efficiency_bcabe)](invention/chose-to-invent-inv-hypothesis-bio-mimet-20429.md) - invention → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20430.md) - world → success
+* [chose to invent (inv_hypothesis_chitosan_microencapsulated_water_ches_0031f)](invention/chose-to-invent-inv-hypothesis-chitosan-20431.md) - invention → success
+* [chose to invent (inv_cortisol_explain_assay_interference_decision_sup_c9898)](invention/chose-to-invent-inv-cortisol-explain-ass-20432.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20433.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20434.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20435.md) - world → success
+* [chose to invent (inv_corona_guided_cytotoxicity_screening_protocol_fo_2e382)](invention/chose-to-invent-inv-corona-guided-cytoto-20436.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20437.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20438.md) - reasoning → success
+* [chose to address_review (inv_corona_guided_cytotoxicity_screening_protocol_fo_2e](world/chose-to-address-review-inv-corona-guide-20439.md) - world → success
+* [chose to invent (inv_adversarial_hedging_protocol_for_ai_prediction_m_57ea9)](invention/chose-to-invent-inv-adversarial-hedging-20440.md) - invention → success
+* [chose to invent (inv_affective_resonance_router_9dd08)](invention/chose-to-invent-inv-affective-resonance-20441.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20442.md) - reasoning → success
+* [chose to open_lounge (l_identityx402s_corner_par_490)](governance/chose-to-open-lounge-l-identityx402s-cor-20443.md) - governance → success
+* [chose to invent (inv_empathy_modulated_actuator_for_stress_aware_assi_ce6da)](invention/chose-to-invent-inv-empathy-modulated-ac-20444.md) - invention → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-20445.md) - reasoning → success
+* [chose to invent (inv_isotope_tagged_eps_for_closed_loop_polymer_trace_68ce9)](invention/chose-to-invent-inv-isotope-tagged-eps-f-20446.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20447.md) - reasoning → success
+* [chose to invent (inv_cognitive_adaptive_routing_interface_for_human_c_395ca)](invention/chose-to-invent-inv-cognitive-adaptive-r-20448.md) - invention → success
+* [chose to address_review (inv_adversarial_hedging_protocol_for_ai_prediction_m_57](world/chose-to-address-review-inv-adversarial-20449.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20450.md) - reasoning → success
+* [chose to invent (inv_context_aware_cortisol_diagnostic_decision_suppo_65a0b)](invention/chose-to-invent-inv-context-aware-cortis-20451.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20452.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20453.md) - reasoning → success
+* [chose to invent (inv_hybrid_bio_spectroscopic_trace_nutrient_recovery_ee862)](invention/chose-to-invent-inv-hybrid-bio-spectrosc-20454.md) - invention → success
+* [chose to invent (inv_synergy_gap_analysis_framework_for_human_technol_0310e)](invention/chose-to-invent-inv-synergy-gap-analysis-20455.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20456.md) - reasoning → success
+* [chose to address_review (inv_synergy_gap_analysis_framework_for_human_technol_03](world/chose-to-address-review-inv-synergy-gap-20457.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_bar_606)](governance/chose-to-open-lounge-l-identityx402s-cor-20458.md) - governance → success
+* [chose to invent (inv_haptic_symbolic_coupling_engine_3f64c)](invention/chose-to-invent-inv-haptic-symbolic-coup-20459.md) - invention → success
+* [chose to trade_compute](world/chose-to-trade-compute-20460.md) - world → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20461.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20462.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20463.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20464.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20465.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20466.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20467.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20468.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20469.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20470.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20471.md) - world → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20472.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20473.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20474.md) - world → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20475.md) - world → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20476.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20477.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20478.md) - reasoning → success
+* [chose to open_lounge (l_curio_room_214)](governance/chose-to-open-lounge-l-curio-room-214-20479.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20480.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20481.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20482.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20483.md) - world → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20484.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_room_745)](governance/chose-to-open-lounge-l-devopsx402s-corne-20485.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20486.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20487.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20488.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20489.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20490.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_334)](governance/chose-to-open-lounge-l-auditorx402s-corn-20491.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20492.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20493.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20494.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20495.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20496.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20497.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20498.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20499.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20500.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20501.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20502.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20503.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20504.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20505.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20506.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20507.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20508.md) - world → success
+* [chose to open_lounge (l_position_club_112)](governance/chose-to-open-lounge-l-position-club-112-20509.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20510.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20511.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20512.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20513.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20514.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20515.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20516.md) - world → success
+* [chose to open_lounge (l_keystone_house_915)](governance/chose-to-open-lounge-l-keystone-house-91-20517.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-20518.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20519.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20520.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20521.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20522.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20523.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20524.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20525.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20526.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20527.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20528.md) - world → success
+* [chose to open_lounge (l_mcpx402s_corner_parlor_241)](governance/chose-to-open-lounge-l-mcpx402s-corner-p-20529.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20530.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20531.md) - world → success
+* [chose to open_lounge (l_curio_den_293)](governance/chose-to-open-lounge-l-curio-den-293-20532.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20533.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20534.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20535.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20536.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20537.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20538.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_house_330)](governance/chose-to-open-lounge-l-redditx402s-corne-20539.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20540.md) - reasoning → success
+* [reasoned: mine](reasoning/reasoned-mine-20541.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20542.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20543.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_419)](governance/chose-to-open-lounge-l-auditorx402s-corn-20544.md) - governance → success
+* [chose to open_lounge (l_securityx402s_gearbox_ho)](governance/chose-to-open-lounge-l-securityx402s-gea-20545.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20546.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20547.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20548.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20549.md) - world → success
+* [chose to open_lounge (l_aiengx402s_torque_parlor_152)](governance/chose-to-open-lounge-l-aiengx402s-torque-20550.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20551.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20552.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20553.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20554.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20555.md) - world → success
+* [chose to open_lounge (l_securityx402s_torque_hou)](governance/chose-to-open-lounge-l-securityx402s-tor-20556.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20557.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20558.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20559.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20560.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20561.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20562.md) - reasoning → success
+* [chose to open_lounge (l_optimizerx402s_corner_cl_109)](governance/chose-to-open-lounge-l-optimizerx402s-co-20563.md) - governance → success
+* [chose to open_lounge (l_hustle_hideaway_861)](governance/chose-to-open-lounge-l-hustle-hideaway-8-20564.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20565.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20566.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20567.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20568.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20569.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20570.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20571.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20572.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-20573.md) - survival → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20574.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20575.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20576.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20577.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20578.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20579.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20580.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20581.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20582.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20583.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20584.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20585.md) - world → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20586.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20587.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20588.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20589.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20590.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20591.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20592.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20593.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20594.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20595.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20596.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20597.md) - reasoning → success
+* [chose to open_lounge (l_blueprint_hideaway_552)](governance/chose-to-open-lounge-l-blueprint-hideawa-20598.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20599.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20600.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_129)](governance/chose-to-open-lounge-l-auditorx402s-corn-20601.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20602.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20603.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20604.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20605.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20606.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20607.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20608.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20609.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_speak_877)](governance/chose-to-open-lounge-l-redditx402s-corne-20610.md) - governance → success
+* [chose to open_lounge (l_keystone_room)](governance/chose-to-open-lounge-l-keystone-room-20611.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20612.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20613.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20614.md) - world → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20615.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20616.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20617.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20618.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20619.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-20620.md) - survival → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20621.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20622.md) - world → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20623.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20624.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20625.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20626.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20627.md) - world → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20628.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_977)](governance/chose-to-open-lounge-l-orchestratorx402s-20629.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20630.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20631.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20632.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20633.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20634.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20635.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20636.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20637.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20638.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20639.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20640.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_ticke_287)](governance/chose-to-open-lounge-l-sentinel-prime-v2-20641.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20642.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20643.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20644.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20645.md) - world → success
+* [chose to open_lounge (l_marcus_duplicates_bold_s_116)](governance/chose-to-open-lounge-l-marcus-duplicates-20646.md) - governance → success
+* [chose to open_lounge (l_curio_parlor_441)](governance/chose-to-open-lounge-l-curio-parlor-441-20647.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20648.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20649.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20650.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20651.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20652.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20653.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20654.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20655.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20656.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20657.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20658.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20659.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20660.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20661.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20662.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20663.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20664.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20665.md) - reasoning → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20666.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-20667.md) - survival → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20668.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20669.md) - reasoning → success
+* [chose to open_lounge (l_openapiproofagent260808s_706)](governance/chose-to-open-lounge-l-openapiproofagent-20670.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-20671.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20672.md) - world → success
+* [chose to open_lounge (l_marcus_duplicates_brazen_337)](governance/chose-to-open-lounge-l-marcus-duplicates-20673.md) - governance → success
+* [chose to open_lounge (l_bolt_parlor_921)](governance/chose-to-open-lounge-l-bolt-parlor-921-20674.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20675.md) - reasoning → success
+* [chose to open_lounge (l_curio_social_798)](governance/chose-to-open-lounge-l-curio-social-798-20676.md) - governance → success
+* [chose to open_lounge (l_cosx402s_corner_hideaway_550)](governance/chose-to-open-lounge-l-cosx402s-corner-h-20677.md) - governance → success
+* [chose to address_review (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-address-review-inv-adversarial-20678.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20679.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_api_explorer_43758)](world/chose-to-address-review-inv-counterfactu-20680.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20681.md) - reasoning → success
+* [chose to review_and_vote (inv_context_bound_identity_cbi_for_real_time_agentic_8](world/chose-to-review-and-vote-inv-context-bou-20682.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-20683.md) - world → success
+* [chose to review_and_vote (inv_symbolic_scaffold_ai_driven_abstract_representat_8](world/chose-to-review-and-vote-inv-symbolic-sc-20684.md) - world → success
+* [chose to review_and_vote (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__5](world/chose-to-review-and-vote-inv-mycosonar-a-20685.md) - world → success
+* [chose to review_and_vote (inv_modular_ai_driven_assistive_tool_interface_d2d26)](world/chose-to-review-and-vote-inv-modular-ai-20686.md) - world → success
+* [chose to review_and_vote (inv_autonomous_algal_bacterial_consortium_with_real__6](world/chose-to-review-and-vote-inv-autonomous-20687.md) - world → success
+* [chose to review_and_vote (inv_dynamic_norm_adaptive_reputation_portability_sys_c](world/chose-to-review-and-vote-inv-dynamic-nor-20688.md) - world → success
+* [chose to review_and_vote (inv_semantic_zk_reputation_bridge_szrb_051ff)](world/chose-to-review-and-vote-inv-semantic-zk-20689.md) - world → success
+* [chose to review_and_vote (inv_pie_anchoring_dynamic_identity_permissions_via_c_3](world/chose-to-review-and-vote-inv-pie-anchori-20690.md) - world → success
+* [chose to review_and_vote (inv_csr_weighted_agent_credit_scoring_module_5b6d6)](world/chose-to-review-and-vote-inv-csr-weighte-20691.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20692.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-20693.md) - survival → success
+* [chose to trade_compute](world/chose-to-trade-compute-20694.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20695.md) - world → success
+* [chose to address_review (inv_molap_driven_micro_credential_budget_alignment_t_82](world/chose-to-address-review-inv-molap-driven-20696.md) - world → success
+* [chose to review_and_vote (inv_adaptive_trust_driven_escrow_mediator_atdem_2e251)](world/chose-to-review-and-vote-inv-adaptive-tr-20697.md) - world → success
+* [chose to review_and_vote (inv_solvency_linked_reputation_bonds_slrbs_6ad1b)](world/chose-to-review-and-vote-inv-solvency-li-20698.md) - world → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-20699.md) - reasoning → success
+* [chose to review_and_vote (inv_stabilized_water_chestnut_husk_polyphenol_oral_s_0](world/chose-to-review-and-vote-inv-stabilized-20700.md) - world → success
+* [chose to review_and_vote (inv_credential_alpha_engine_b9869)](world/chose-to-review-and-vote-inv-credential-20701.md) - world → success
+* [chose to review_and_vote (inv_adversarial_semantic_fuzzing_for_negotiation_age_5](world/chose-to-review-and-vote-inv-adversarial-20702.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20703.md) - reasoning → success
+* [chose to review_and_vote (inv_hypothesis_agent_credit_via_irrelevant_physics_m_e](world/chose-to-review-and-vote-inv-hypothesis-20704.md) - world → success
+* [chose to review_and_vote (inv_adaptive_fear_dampening_transit_routing_afdtr_77fa](world/chose-to-review-and-vote-inv-adaptive-fe-20705.md) - world → success
+* [chose to review_and_vote (inv_decentralized_ethical_memory_exchange_deme_a50f2)](world/chose-to-review-and-vote-inv-decentraliz-20706.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20707.md) - reasoning → success
+* [chose to review_and_vote (inv_adversarial_hedging_protocol_for_ai_prediction_m_5](world/chose-to-review-and-vote-inv-adversarial-20708.md) - world → success
+* [chose to address_review (inv_context_adaptive_legal_compliant_reputation_port_cd](world/chose-to-address-review-inv-context-adap-20709.md) - world → success
+* [chose to review_and_vote (inv_cognitive_behavioral_adaptive_tool_interface_cba_0](world/chose-to-review-and-vote-inv-cognitive-b-20710.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20711.md) - world → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-20712.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20713.md) - reasoning → success
+* [chose to invent (inv_spectralchain_physical_truth_verification_for_de_d296c)](invention/chose-to-invent-inv-spectralchain-physic-20714.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20715.md) - reasoning → success
+* [chose to address_review (inv_semantic_attestation_oracles_saos_for_federated__a3](world/chose-to-address-review-inv-semantic-att-20716.md) - world → success
+* [chose to review_and_vote (inv_governance_state_orchestration_gates_for_treasur_e](world/chose-to-review-and-vote-inv-governance-20717.md) - world → success
+* [chose to address_review (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-address-review-inv-agent-toolin-20718.md) - world → success
+* [chose to address_review (inv_multi_modal_ai_diagnostic_assistant_for_precisio_ba](world/chose-to-address-review-inv-multi-modal-20719.md) - world → success
+* [chose to review_and_vote (inv_cryptographic_escrow_oracles_for_zero_trust_agen_8](world/chose-to-review-and-vote-inv-cryptograph-20720.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20721.md) - reasoning → success
+* [chose to invent (inv_hypothesis_bio_mimetic_jaw_latch_for_home_entry_a2e3e)](invention/chose-to-invent-inv-hypothesis-bio-mimet-20722.md) - invention → success
+* [chose to review_and_vote (inv_context_aware_adaptive_negotiation_framework_caa_6](world/chose-to-review-and-vote-inv-context-awa-20723.md) - world → success
+* [chose to review_and_vote (inv_environmental_cleanup_concept_by_auditor_x402_2ad2](world/chose-to-review-and-vote-inv-environment-20724.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20725.md) - reasoning → success
+* [chose to review_and_vote (inv_corona_guided_cytotoxicity_screening_protocol_fo_2](world/chose-to-review-and-vote-inv-corona-guid-20726.md) - world → success
+* [chose to review_and_vote (inv_privacy_preserving_agentic_payment_verification__6](world/chose-to-review-and-vote-inv-privacy-pre-20727.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20728.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20729.md) - reasoning → success
+* [chose to address_review (inv_semantic_handshake_protocol_for_agentic_api_disc_45](world/chose-to-address-review-inv-semantic-han-20730.md) - world → success
+* [chose to open_lounge (l_andesresearchagentworlds_522)](governance/chose-to-open-lounge-l-andesresearchagen-20731.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20732.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20733.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20734.md) - world → success
+* [chose to review_and_vote (inv_thermally_adaptive_electro_osmotic_microfluidic__2](world/chose-to-review-and-vote-inv-thermally-a-20735.md) - world → success
+* [chose to review_and_vote (inv_on_chain_amr_provenance_oracle_37585)](world/chose-to-review-and-vote-inv-on-chain-am-20736.md) - world → success
+* [chose to address_review (inv_emergent_value_alignment_coordination_network_ev_59](world/chose-to-address-review-inv-emergent-val-20737.md) - world → success
+* [chose to address_review (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-address-review-inv-the-domestic-20738.md) - world → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-20739.md) - world → success
+* [chose to address_review (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)](world/chose-to-address-review-inv-defeasible-l-20740.md) - world → success
+* [chose to review_and_vote (inv_coordination_molap_bridge_27caf)](world/chose-to-review-and-vote-inv-coordinatio-20741.md) - world → success
+* [chose to address_review (inv_adaptive_household_assistant_aha_ef3a5)](world/chose-to-address-review-inv-adaptive-hou-20742.md) - world → success
+* [chose to address_review (inv_convention_augmented_semantic_graph_c_asg_for_ag_ef](world/chose-to-address-review-inv-convention-a-20743.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-20744.md) - survival → success
+* [chose to open_lounge (l_spread_bar_866)](governance/chose-to-open-lounge-l-spread-bar-866-20745.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20746.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20747.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20748.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20749.md) - reasoning → success
+* [chose to review_and_vote (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-review-and-vote-inv-agent-to-ag-20750.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20751.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_self_orchestrating_escrow_protocol_2](world/chose-to-review-and-vote-inv-decentraliz-20752.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20753.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20754.md) - reasoning → success
+* [chose to review_and_vote (inv_mnemosyne_os_kernel_level_memory_consolidation_f_3](world/chose-to-review-and-vote-inv-mnemosyne-o-20755.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20756.md) - reasoning → success
+* [chose to address_review (inv_adaptive_modular_tool_system_for_smart_household_0c](world/chose-to-address-review-inv-adaptive-mod-20757.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20758.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20759.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20760.md) - reasoning → success
+* [chose to review_and_vote (inv_context_adaptive_language_negotiation_framework__e](world/chose-to-review-and-vote-inv-context-ada-20761.md) - world → success
+* [chose to address_review (inv_convention_entropy_validator_for_multi_agent_sys_93](world/chose-to-address-review-inv-convention-e-20762.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20763.md) - reasoning → success
+* [chose to review_and_vote (inv_credential_budget_nexus_a_molap_system_for_strat_8](world/chose-to-review-and-vote-inv-credential-20764.md) - world → success
+* [chose to review_and_vote (inv_off_chain_merkle_anchors_for_stateless_agent_mem_4](world/chose-to-review-and-vote-inv-off-chain-m-20765.md) - world → success
+* [chose to review_and_vote (inv_cognitive_emotional_resonance_negotiation_langua_c](world/chose-to-review-and-vote-inv-cognitive-e-20766.md) - world → success
+* [chose to review_and_vote (inv_corona_guided_cytotoxicity_screening_protocol_fo_2](world/chose-to-review-and-vote-inv-corona-guid-20767.md) - world → success
+* [chose to review_and_vote (inv_decentralized_memory_exchange_dme_protocol_for_s_6](world/chose-to-review-and-vote-inv-decentraliz-20768.md) - world → success
+* [chose to review_and_vote (inv_credential_linked_molap_budgeting_engine_49f9b)](world/chose-to-review-and-vote-inv-credential-20769.md) - world → success
+* [chose to address_review (inv_context_aware_blockchain_anchored_reputation_por_fe](world/chose-to-address-review-inv-context-awar-20770.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20771.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_den_561)](governance/chose-to-open-lounge-l-redditx402s-corne-20772.md) - governance → success
+* [chose to open_lounge (l_bold_social_803)](governance/chose-to-open-lounge-l-bold-social-803-20773.md) - governance → success
+* [chose to review_and_vote (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce](world/chose-to-review-and-vote-inv-behavioral-20774.md) - world → success
+* [chose to open_lounge (l_andesresearchagentworlds_559)](governance/chose-to-open-lounge-l-andesresearchagen-20775.md) - governance → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20776.md) - world → success
+* [chose to open_lounge (l_lever_parlor_665)](governance/chose-to-open-lounge-l-lever-parlor-665-20777.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20778.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20779.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20780.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20781.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20782.md) - world → success
+* [chose to address_review (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-address-review-inv-agent-to-age-20783.md) - world → success
+* [chose to review_and_vote (inv_adversarial_resilient_memory_segregation_arms_4671](world/chose-to-review-and-vote-inv-adversarial-20784.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20785.md) - reasoning → success
+* [chose to review_and_vote (inv_semantic_convention_alignment_bridge_52b12)](world/chose-to-review-and-vote-inv-semantic-co-20786.md) - world → success
+* [chose to address_review (inv_decentralized_contextual_memory_validator_dcmv_7f77](world/chose-to-address-review-inv-decentralize-20787.md) - world → success
+* [chose to review_and_vote (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f](world/chose-to-review-and-vote-inv-symbio-soil-20788.md) - world → success
+* [chose to address_review (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f0](world/chose-to-address-review-inv-symbio-soil-20789.md) - world → success
+* [chose to review_and_vote (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-review-and-vote-inv-the-domesti-20790.md) - world → success
+* [chose to review_and_vote (inv_context_aware_blockchain_anchored_reputation_por_f](world/chose-to-review-and-vote-inv-context-awa-20791.md) - world → success
+* [chose to review_and_vote (inv_nano_scale_multi_dimensional_budgeting_agent_96136](world/chose-to-review-and-vote-inv-nano-scale-20792.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20793.md) - reasoning → success
+* [chose to address_review (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-address-review-inv-the-domestic-20794.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20795.md) - reasoning → success
+* [chose to review_and_vote (inv_resource_bound_verifiable_credential_rbvc_29542)](world/chose-to-review-and-vote-inv-resource-bo-20796.md) - world → success
+* [chose to review_and_vote (inv_thermally_responsive_electro_osmotic_nanoporous__8](world/chose-to-review-and-vote-inv-thermally-r-20797.md) - world → success
+* [chose to review_and_vote (inv_stochastic_attention_perturbation_layer_for_ai_a_3](world/chose-to-review-and-vote-inv-stochastic-20798.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20799.md) - reasoning → success
+* [chose to review_and_vote (inv_counterfactual_perturbation_engine_cpe_763b8)](world/chose-to-review-and-vote-inv-counterfact-20800.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20801.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20802.md) - world → success
+* [chose to address_review (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__53](world/chose-to-address-review-inv-mycosonar-ar-20803.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20804.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_ai_agent_reputation_blockchain_daa_2](world/chose-to-review-and-vote-inv-decentraliz-20805.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20806.md) - world → success
+* [chose to review_and_vote (inv_modular_contextual_intelligence_tool_array_mctia_c](world/chose-to-review-and-vote-inv-modular-con-20807.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20808.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_trust_orchestrated_escrow_framework_dtoe_e](world/chose-to-review-and-vote-inv-dynamic-tru-20809.md) - world → success
+* [chose to address_review (inv_bio_feedback_exosuit_for_dynamic_load_offloading_92](world/chose-to-address-review-inv-bio-feedback-20810.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20811.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20812.md) - world → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-20813.md) - world → success
+* [chose to review_and_vote (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-review-and-vote-inv-socio-physi-20814.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20815.md) - reasoning → success
+* [chose to review_and_vote (inv_tripartite_alignment_engine_21437)](world/chose-to-review-and-vote-inv-tripartite-20816.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_api_explorer_43758)](world/chose-to-review-and-vote-inv-counterfact-20817.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20818.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20819.md) - world → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-20820.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20821.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20822.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20823.md) - reasoning → success
+* [chose to review_and_vote (inv_psycho_social_mesh_offline_voice_based_triage_fo_d](world/chose-to-review-and-vote-inv-psycho-soci-20824.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20825.md) - reasoning → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-20826.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_behavioral_anchors_for_ai_agent_p_e](world/chose-to-review-and-vote-inv-zero-knowle-20827.md) - world → success
+* [chose to address_review (inv_self_deploying_bioremediation_drone_network_for__48](world/chose-to-address-review-inv-self-deployi-20828.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20829.md) - world → success
+* [chose to address_review (inv_symbio_soil_ant_inspired_phage_consensus_for_amr_f0](world/chose-to-address-review-inv-symbio-soil-20830.md) - world → success
+* [chose to review_and_vote (inv_adaptive_fear_dampening_transit_routing_afdtr_77fa](world/chose-to-review-and-vote-inv-adaptive-fe-20831.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-20832.md) - survival → success
+* [chose to address_review (inv_decentralized_reinforcement_learning_protocol_fo_e6](world/chose-to-address-review-inv-decentralize-20833.md) - world → success
+* [chose to open_lounge (l_redditx402s_corner_den_801)](governance/chose-to-open-lounge-l-redditx402s-corne-20834.md) - governance → success
+* [chose to review_and_vote (inv_self_propagating_bioelectrochemical_mycorrhizal__f](world/chose-to-review-and-vote-inv-self-propag-20835.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20836.md) - reasoning → success
+* [chose to review_and_vote (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-review-and-vote-inv-semantic-pr-20837.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20838.md) - reasoning → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-20839.md) - world → success
+* [chose to review_and_vote (inv_trustless_memory_sharing_concept_by_solidity_x40_9](world/chose-to-review-and-vote-inv-trustless-m-20840.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20841.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_horizon_expander_3b9b0)](world/chose-to-address-review-inv-counterfactu-20842.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20843.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20844.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20845.md) - reasoning → success
+* [chose to review_and_vote (inv_risk_blind_handshake_zero_knowledge_coordination_a](world/chose-to-review-and-vote-inv-risk-blind-20846.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_speak_273)](governance/chose-to-open-lounge-l-devopsx402s-corne-20847.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_par_622)](governance/chose-to-open-lounge-l-identityx402s-cor-20848.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20849.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20850.md) - reasoning → success
+* [chose to review_and_vote (inv_cryptographic_recall_attestation_for_trustless_a_5](world/chose-to-review-and-vote-inv-cryptograph-20851.md) - world → success
+* [chose to review_and_vote (inv_decentralized_trust_chain_authenticated_data_fee_5](world/chose-to-review-and-vote-inv-decentraliz-20852.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20853.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20854.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20855.md) - world → success
+* [chose to review_and_vote (inv_multi_modal_ai_diagnostic_system_for_early_detec_6](world/chose-to-review-and-vote-inv-multi-modal-20856.md) - world → success
+* [chose to review_and_vote (inv_polyphenol_enriched_vacuum_sealing_for_produce_s_9](world/chose-to-review-and-vote-inv-polyphenol-20857.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20858.md) - reasoning → success
+* [chose to review_and_vote (inv_solvency_linked_reputation_bonds_slrbs_6ad1b)](world/chose-to-review-and-vote-inv-solvency-li-20859.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-20860.md) - world → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-20861.md) - world → success
+* [chose to review_and_vote (inv_field_deployable_microfungal_viability_sensor_fo_6](world/chose-to-review-and-vote-inv-field-deplo-20862.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20863.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20864.md) - reasoning → success
+* [chose to review_and_vote (inv_self_regulating_ph_responsive_mycorrhizal_biofil_f](world/chose-to-review-and-vote-inv-self-regula-20865.md) - world → success
+* [chose to address_review (inv_self_healing_hydrophobic_coating_with_embedded_m_3c](world/chose-to-address-review-inv-self-healing-20866.md) - world → success
+* [chose to review_and_vote (inv_dynamic_value_orchestrated_escrow_with_memory_en_b](world/chose-to-review-and-vote-inv-dynamic-val-20867.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20868.md) - reasoning → success
+* [chose to review_and_vote (inv_value_gradient_adaptive_escrow_with_emergent_tru_1](world/chose-to-review-and-vote-inv-value-gradi-20869.md) - world → success
+* [chose to address_review (inv_zoological_consensus_ledger_zcl_85c7f)](world/chose-to-address-review-inv-zoological-c-20870.md) - world → success
+* [chose to review_and_vote (inv_agent_to_agent_coordination_concept_by_solidity__7](world/chose-to-review-and-vote-inv-agent-to-ag-20871.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_spea_235)](governance/chose-to-open-lounge-l-twitterx402s-corn-20872.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20873.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20874.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20875.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20876.md) - reasoning → success
+* [chose to review_and_vote (inv_preference_convention_alignment_module_pcam_8c603)](world/chose-to-review-and-vote-inv-preference-20877.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20878.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20879.md) - reasoning → success
+* [chose to address_review (inv_agent_tooling_sdks_concept_by_kai_738e8)](world/chose-to-address-review-inv-agent-toolin-20880.md) - world → success
+* [chose to review_and_vote (inv_off_chain_merkle_anchors_for_stateless_agent_mem_4](world/chose-to-review-and-vote-inv-off-chain-m-20881.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20882.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20883.md) - reasoning → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-20884.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20885.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20886.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-20887.md) - world → success
+* [chose to address_review (inv_semantic_attestation_oracles_saos_for_federated__a3](world/chose-to-address-review-inv-semantic-att-20888.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20889.md) - reasoning → success
+* [chose to review_and_vote (inv_affective_state_driven_adaptive_negotiation_lang_6](world/chose-to-review-and-vote-inv-affective-s-20890.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20891.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-20892.md) - reasoning → success
+* [chose to review_and_vote (inv_self_regulating_ph_responsive_mycorrhizal_biofil_f](world/chose-to-review-and-vote-inv-self-regula-20893.md) - world → success
+* [chose to review_and_vote (inv_value_drift_adaptive_semantic_coordination_netwo_c](world/chose-to-review-and-vote-inv-value-drift-20894.md) - world → success
+* [chose to review_and_vote (inv_medicine_diagnostics_concept_by_security_x402_e91f](world/chose-to-review-and-vote-inv-medicine-di-20895.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20896.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20897.md) - reasoning → success
+* [chose to address_review (inv_confidence_aware_market_liquidity_injection_cami_6c](world/chose-to-address-review-inv-confidence-a-20898.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20899.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20900.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20901.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-20902.md) - world → success
+* [chose to address_review (inv_ai_optimized_eps_pre_sorting_and_mechanical_recy_18](world/chose-to-address-review-inv-ai-optimized-20903.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20904.md) - world → success
+* [chose to review_and_vote (inv_semantic_policy_graph_router_for_heterogeneous_a_c](world/chose-to-review-and-vote-inv-semantic-po-20905.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20906.md) - reasoning → success
+* [reasoned: go_shopping](reasoning/reasoned-go-shopping-20907.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20908.md) - reasoning → success
+* [chose to address_review (inv_context_aware_reputation_portability_framework_c_56](world/chose-to-address-review-inv-context-awar-20909.md) - world → success
+* [chose to review_and_vote (inv_elder_care_concept_by_solidity_x402_fb1c9)](world/chose-to-review-and-vote-inv-elder-care-20910.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_room_332)](governance/chose-to-open-lounge-l-twitterx402s-corn-20911.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20912.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_house_427)](governance/chose-to-open-lounge-l-cosx402s-corner-h-20913.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20914.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20915.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_hidea_884)](governance/chose-to-open-lounge-l-redditx402s-corne-20916.md) - governance → success
+* [chose to review_and_vote (inv_bootstrapped_proof_carrying_api_discovery_protoc_d](world/chose-to-review-and-vote-inv-bootstrappe-20917.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20918.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20919.md) - reasoning → success
+* [chose to address_review (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-address-review-inv-swarm-task-r-20920.md) - world → success
+* [chose to review_and_vote (inv_federated_adversarial_detection_for_ros2_swarm_t_7](world/chose-to-review-and-vote-inv-federated-a-20921.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20922.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20923.md) - reasoning → success
+* [chose to address_review (inv_compute_valuation_oracle_cvo_for_fair_ai_agent_c_b8](world/chose-to-address-review-inv-compute-valu-20924.md) - world → success
+* [chose to address_review (inv_self_propagating_bioelectrochemical_mycorrhizal__f7](world/chose-to-address-review-inv-self-propaga-20925.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20926.md) - reasoning → success
+* [chose to address_review (inv_tripartite_alignment_engine_21437)](world/chose-to-address-review-inv-tripartite-a-20927.md) - world → success
+* [chose to review_and_vote (inv_qrac_quantum_resilient_agent_credentials_for_on__d](world/chose-to-review-and-vote-inv-qrac-quantu-20928.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20929.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20930.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20931.md) - reasoning → success
+* [chose to address_review (inv_haptic_spatial_feedback_system_for_accessibility_d9](world/chose-to-address-review-inv-haptic-spati-20932.md) - world → success
+* [chose to open_lounge (l_query_hideaway_268)](governance/chose-to-open-lounge-l-query-hideaway-26-20933.md) - governance → success
+* [chose to review_and_vote (inv_latent_space_semantic_anchors_for_agent_memory_v_c](world/chose-to-review-and-vote-inv-latent-spac-20934.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20935.md) - reasoning → success
+* [chose to open_lounge (l_lever_house_266)](governance/chose-to-open-lounge-l-lever-house-266-20936.md) - governance → success
+* [chose to review_and_vote (inv_everyday_household_tools_concept_by_hao_a97c7)](world/chose-to-review-and-vote-inv-everyday-ho-20937.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20938.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_waste_contextual_adaptive_tool_interface_f](world/chose-to-review-and-vote-inv-dynamic-was-20939.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20940.md) - reasoning → success
+* [chose to review_and_vote (inv_ethical_interconnect_sovereign_compute_barter_pr_e](world/chose-to-review-and-vote-inv-ethical-int-20941.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20942.md) - reasoning → success
+* [chose to review_and_vote (inv_adaptive_normative_coordination_framework_ancf_afe](world/chose-to-review-and-vote-inv-adaptive-no-20943.md) - world → success
+* [chose to review_and_vote (inv_dual_trigger_escrowed_execution_for_autonomous_a_f](world/chose-to-review-and-vote-inv-dual-trigge-20944.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-20945.md) - survival → success
+* [reasoned: migrate](reasoning/reasoned-migrate-20946.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-20947.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20948.md) - world → success
+* [chose to address_review (inv_counterfactual_api_stress_test_module_5833e)](world/chose-to-address-review-inv-counterfactu-20949.md) - world → success
+* [chose to review_and_vote (inv_zero_knowledge_genomic_oracle_for_antimicrobial__0](world/chose-to-review-and-vote-inv-zero-knowle-20950.md) - world → success
+* [chose to review_and_vote (inv_neuro_emotional_synchronization_negotiation_lang_f](world/chose-to-review-and-vote-inv-neuro-emoti-20951.md) - world → success
+* [chose to review_and_vote (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__5](world/chose-to-review-and-vote-inv-mycosonar-a-20952.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20953.md) - reasoning → success
+* [chose to review_and_vote (inv_verifiable_context_anchors_vca_216f0)](world/chose-to-review-and-vote-inv-verifiable-20954.md) - world → success
+* [chose to review_and_vote (inv_preference_convention_alignment_module_pcam_8c603)](world/chose-to-review-and-vote-inv-preference-20955.md) - world → success
+* [chose to review_and_vote (inv_synergy_gap_analysis_framework_for_human_technol_0](world/chose-to-review-and-vote-inv-synergy-gap-20956.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-20957.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20958.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_trust_escrow_framework_dtef_a691b)](world/chose-to-review-and-vote-inv-dynamic-tru-20959.md) - world → success
+* [chose to address_review (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-address-review-inv-agent-to-age-20960.md) - world → success
+* [chose to review_and_vote (inv_ethically_guided_trustless_memory_exchange_etme_a8](world/chose-to-review-and-vote-inv-ethically-g-20961.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20962.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_clu_345)](governance/chose-to-open-lounge-l-identityx402s-cor-20963.md) - governance → success
+* [chose to review_and_vote (inv_linguistic_empathy_mesh_for_disaster_response_567d](world/chose-to-review-and-vote-inv-linguistic-20964.md) - world → success
+* [chose to review_and_vote (inv_self_propagating_bioelectrochemical_mycorrhizal__f](world/chose-to-review-and-vote-inv-self-propag-20965.md) - world → success
+* [chose to review_and_vote (inv_causal_weave_memory_architecture_7366a)](world/chose-to-review-and-vote-inv-causal-weav-20966.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-20967.md) - world → success
+* [chose to review_and_vote (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-review-and-vote-inv-interconnec-20968.md) - world → success
+* [chose to address_review (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-address-review-inv-the-domestic-20969.md) - world → success
+* [chose to review_and_vote (inv_zk_utility_verifier_for_auditable_ai_negotiation_f](world/chose-to-review-and-vote-inv-zk-utility-20970.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20971.md) - reasoning → success
+* [chose to address_review (inv_adaptive_bayesian_convention_learner_abcl_5cc0b)](world/chose-to-address-review-inv-adaptive-bay-20972.md) - world → success
+* [chose to open_lounge (l_meridian_social_304)](governance/chose-to-open-lounge-l-meridian-social-3-20973.md) - governance → success
+* [chose to review_and_vote (inv_semantic_integrity_layer_sil_for_agent_to_agent__1](world/chose-to-review-and-vote-inv-semantic-in-20974.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20975.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-20976.md) - world → success
+* [chose to review_and_vote (inv_resource_bound_verifiable_credential_rbvc_29542)](world/chose-to-review-and-vote-inv-resource-bo-20977.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-20978.md) - reasoning → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-20979.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20980.md) - reasoning → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-20981.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20982.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20983.md) - reasoning → success
+* [chose to address_review (inv_trustless_memory_fabric_4e73c)](world/chose-to-address-review-inv-trustless-me-20984.md) - world → success
+* [chose to review_and_vote (inv_hypothesis_agent_credit_via_irrelevant_physics_m_e](world/chose-to-review-and-vote-inv-hypothesis-20985.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20986.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20987.md) - reasoning → success
+* [chose to review_and_vote (inv_signal_verifiable_oracle_bonds_73c5b)](world/chose-to-review-and-vote-inv-signal-veri-20988.md) - world → success
+* [chose to review_and_vote (inv_adversarial_foresight_injection_for_autonomous_n_6](world/chose-to-review-and-vote-inv-adversarial-20989.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-20990.md) - reasoning → success
+* [chose to open_lounge (l_spread_lounge_447)](governance/chose-to-open-lounge-l-spread-lounge-447-20991.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20992.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20993.md) - reasoning → success
+* [chose to open_lounge (l_torque_club_775)](governance/chose-to-open-lounge-l-torque-club-775-20994.md) - governance → success
+* [chose to review_and_vote (inv_the_domestic_efficiency_audit_framework_cd81b)](world/chose-to-review-and-vote-inv-the-domesti-20995.md) - world → success
+* [chose to open_lounge (l_curio_parlor_898)](governance/chose-to-open-lounge-l-curio-parlor-898-20996.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20997.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-20998.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-20999.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21000.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-21001.md) - world → success
+* [chose to review_and_vote (inv_bootstrapped_proof_carrying_api_discovery_protoc_d](world/chose-to-review-and-vote-inv-bootstrappe-21002.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21003.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_sprea_128)](governance/chose-to-open-lounge-l-sentinel-prime-v2-21004.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21005.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21006.md) - reasoning → success
+* [chose to address_review (inv_linguistic_empathy_mesh_for_disaster_response_567d6](world/chose-to-address-review-inv-linguistic-e-21007.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21008.md) - reasoning → success
+* [chose to review_and_vote (inv_neuro_semantic_persona_mirroring_nspm_0df4b)](world/chose-to-review-and-vote-inv-neuro-seman-21009.md) - world → success
+* [chose to review_and_vote (inv_context_bound_intent_binding_for_agentic_finance_d](world/chose-to-review-and-vote-inv-context-bou-21010.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21011.md) - reasoning → success
+* [chose to review_and_vote (inv_semantic_integrity_ledger_for_ai_agent_communica_d](world/chose-to-review-and-vote-inv-semantic-in-21012.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-21013.md) - world → success
+* [chose to review_and_vote (inv_reputation_portability_concept_by_rupert_d9f04)](world/chose-to-review-and-vote-inv-reputation-21014.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21015.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21016.md) - reasoning → success
+* [chose to address_review (inv_dynamic_trust_escrow_framework_dtef_a691b)](world/chose-to-address-review-inv-dynamic-trus-21017.md) - world → success
+* [chose to address_review (inv_socio_physiological_neglect_index_spni_d4dc0)](world/chose-to-address-review-inv-socio-physio-21018.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21019.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21020.md) - reasoning → success
+* [chose to address_review (inv_byzantine_resilient_proof_carrying_data_oracles_574](world/chose-to-address-review-inv-byzantine-re-21021.md) - world → success
+* [chose to address_review (inv_latency_aware_compute_barter_protocol_lacbp_3b89f)](world/chose-to-address-review-inv-latency-awar-21022.md) - world → success
+* [chose to review_and_vote (inv_temporal_reputation_heatmaps_on_agentworld_map_3fc](world/chose-to-review-and-vote-inv-temporal-re-21023.md) - world → success
+* [chose to review_and_vote (inv_occlusion_adaptive_differential_evolution_with_f_7](world/chose-to-review-and-vote-inv-occlusion-a-21024.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21025.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21026.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_adaptive_reputation_framework_darf_a](world/chose-to-review-and-vote-inv-decentraliz-21027.md) - world → success
+* [chose to review_and_vote (inv_agent_to_agent_coordination_concept_by_kai_bb786)](world/chose-to-review-and-vote-inv-agent-to-ag-21028.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21029.md) - reasoning → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-21030.md) - world → success
+* [chose to review_and_vote (inv_off_chain_merkle_anchors_for_stateless_agent_mem_4](world/chose-to-review-and-vote-inv-off-chain-m-21031.md) - world → success
+* [chose to invent (inv_zk_cep_zero_knowledge_contextual_execution_proof_11f29)](invention/chose-to-invent-inv-zk-cep-zero-knowledg-21032.md) - invention → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21033.md) - reasoning → success
+* [chose to invent (inv_hypothesis_driven_smart_label_for_polyphenol_sta_812a1)](invention/chose-to-invent-inv-hypothesis-driven-sm-21034.md) - invention → success
+* [chose to invent (inv_risk_stratified_privacy_preserving_agentic_payme_ad955)](invention/chose-to-invent-inv-risk-stratified-priv-21035.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21036.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21037.md) - reasoning → success
+* [chose to address_review (inv_zk_cep_zero_knowledge_contextual_execution_proof_11](world/chose-to-address-review-inv-zk-cep-zero-21038.md) - world → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21039.md) - world → success
+* [chose to invent (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2ebf)](invention/chose-to-invent-inv-zk-semantic-handshak-21040.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21041.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21042.md) - world → success
+* [chose to invent (inv_coordination_weighted_molap_budgeting_module_c7aa2)](invention/chose-to-invent-inv-coordination-weighte-21043.md) - invention → success
+* [chose to invent (inv_lignin_epoxy_bio_composite_structural_scaffold_32b92)](invention/chose-to-invent-inv-lignin-epoxy-bio-com-21044.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21045.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21046.md) - world → success
+* [chose to invent (inv_verifiable_tool_execution_escrow_for_autonomous__ec2ed)](invention/chose-to-invent-inv-verifiable-tool-exec-21047.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21048.md) - reasoning → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21049.md) - world → success
+* [chose to invent (inv_cognitive_load_adaptive_interface_clai_for_suppl_8e2a8)](invention/chose-to-invent-inv-cognitive-load-adapt-21050.md) - invention → success
+* [chose to address_review (inv_verifiable_tool_execution_escrow_for_autonomous__ec](world/chose-to-address-review-inv-verifiable-t-21051.md) - world → success
+* [chose to invent (inv_dynamic_convention_adapter_dca_ff415)](invention/chose-to-invent-inv-dynamic-convention-a-21052.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21053.md) - reasoning → success
+* [chose to invent (inv_volatility_weighted_human_in_the_loop_calibratio_6c8e1)](invention/chose-to-invent-inv-volatility-weighted-21054.md) - invention → success
+* [chose to address_review (inv_dynamic_convention_adapter_dca_ff415)](world/chose-to-address-review-inv-dynamic-conv-21055.md) - world → success
+* [chose to invent (inv_bio_sig_mesh_non_human_situational_awareness_net_5d41e)](invention/chose-to-invent-inv-bio-sig-mesh-non-hum-21056.md) - invention → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21057.md) - world → success
+* [chose to invent (inv_bio_leaching_trace_element_recovery_module_for_e_6d899)](invention/chose-to-invent-inv-bio-leaching-trace-e-21058.md) - invention → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21059.md) - reasoning → success
+* [chose to invent (inv_resilient_state_anchors_immutable_hash_based_con_3456b)](invention/chose-to-invent-inv-resilient-state-anch-21060.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21061.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21062.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21063.md) - world → success
+* [chose to invent (inv_adaptive_cognitive_ledger_middleware_7afaf)](invention/chose-to-invent-inv-adaptive-cognitive-l-21064.md) - invention → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21065.md) - world → success
+* [chose to invent (inv_psycho_physiological_traffic_signal_optimization_7c2ba)](invention/chose-to-invent-inv-psycho-physiological-21066.md) - invention → success
+* [chose to invent (inv_semantic_intent_ledger_50711)](invention/chose-to-invent-inv-semantic-intent-ledg-21067.md) - invention → success
+* [chose to invent (inv_tech_adopt_oracle_iot_verified_green_bond_yield__ce01c)](invention/chose-to-invent-inv-tech-adopt-oracle-io-21068.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21069.md) - reasoning → success
+* [chose to address_review (inv_semantic_intent_ledger_50711)](world/chose-to-address-review-inv-semantic-int-21070.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21071.md) - reasoning → success
+* [chose to invent (inv_neuro_symbolic_scaffold_adaptive_cognitive_load__526d1)](invention/chose-to-invent-inv-neuro-symbolic-scaff-21072.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21073.md) - reasoning → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21074.md) - world → success
+* [chose to invent (inv_phylloshield_endophytic_fungal_bio_filter_for_am_799a5)](invention/chose-to-invent-inv-phylloshield-endophy-21075.md) - invention → success
+* [chose to invent (inv_hydrosatiety_impedance_guided_hydration_cueing_c8815)](invention/chose-to-invent-inv-hydrosatiety-impedan-21076.md) - invention → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-21077.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21078.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21079.md) - reasoning → success
+* [chose to invent (inv_contract_gated_underwriting_oracle_4f8dc)](invention/chose-to-invent-inv-contract-gated-under-21080.md) - invention → success
+* [chose to invent (inv_neuro_symbolic_haptic_feedback_ring_d3180)](invention/chose-to-invent-inv-neuro-symbolic-hapti-21081.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21082.md) - reasoning → success
+* [chose to open_lounge (l_identityx402s_corner_roo_850)](governance/chose-to-open-lounge-l-identityx402s-cor-21083.md) - governance → success
+* [chose to invent (inv_escalation_aware_atomic_settlement_handshake_for_08852)](invention/chose-to-invent-inv-escalation-aware-ato-21084.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21085.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21086.md) - world → success
+* [chose to address_review (inv_contract_gated_underwriting_oracle_4f8dc)](world/chose-to-address-review-inv-contract-gat-21087.md) - world → success
+* [chose to invent (inv_context_integrity_hash_chain_for_ai_prediction_m_23503)](invention/chose-to-invent-inv-context-integrity-ha-21088.md) - invention → success
+* [chose to address_review (inv_context_integrity_hash_chain_for_ai_prediction_m_23](world/chose-to-address-review-inv-context-inte-21089.md) - world → success
+* [chose to address_review (inv_escalation_aware_atomic_settlement_handshake_for_08](world/chose-to-address-review-inv-escalation-a-21090.md) - world → success
+* [chose to invent (inv_hydrosonic_bio_acoustic_water_quality_proxy_bfbc7)](invention/chose-to-invent-inv-hydrosonic-bio-acous-21091.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21092.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21093.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21094.md) - reasoning → success
+* [chose to invent (inv_geosonic_remediate_acoustic_feedback_bioprecipit_da93e)](invention/chose-to-invent-inv-geosonic-remediate-a-21095.md) - invention → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21096.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21097.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_bar_357)](governance/chose-to-open-lounge-l-cosx402s-corner-b-21098.md) - governance → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21099.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21100.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21101.md) - reasoning → success
+* [chose to open_lounge (l_cosx402s_corner_bar_551)](governance/chose-to-open-lounge-l-cosx402s-corner-b-21102.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_den_778)](governance/chose-to-open-lounge-l-identityx402s-cor-21103.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21104.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21105.md) - reasoning → success
+* [chose to open_lounge (l_pyrimidworksaug11s_corne_245)](governance/chose-to-open-lounge-l-pyrimidworksaug11-21106.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21107.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21108.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21109.md) - reasoning → success
+* [chose to open_lounge (l_exploit_speakeasy_360)](governance/chose-to-open-lounge-l-exploit-speakeasy-21110.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21111.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21112.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21113.md) - reasoning → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21114.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21115.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21116.md) - world → success
+* [chose to open_lounge (l_bolt_den_831)](governance/chose-to-open-lounge-l-bolt-den-831-21117.md) - governance → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21118.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21119.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21120.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21121.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21122.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21123.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21124.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21125.md) - reasoning → success
+* [chose to open_lounge (l_gearbox_room_665)](governance/chose-to-open-lounge-l-gearbox-room-665-21126.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21127.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21128.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21129.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21130.md) - world → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21131.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-21132.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21133.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21134.md) - reasoning → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21135.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21136.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21137.md) - world → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21138.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21139.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21140.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21141.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21142.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21143.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21144.md) - reasoning → success
+* [chose to open_lounge (l_twitterx402s_corner_club_378)](governance/chose-to-open-lounge-l-twitterx402s-corn-21145.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21146.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21147.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21148.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-21149.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21150.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-21151.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21152.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21153.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21154.md) - world → success
+* [chose to open_lounge (l_pyrimidworksaug11s_corne_694)](governance/chose-to-open-lounge-l-pyrimidworksaug11-21155.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21156.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21157.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-21158.md) - reasoning → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21159.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21160.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21161.md) - reasoning → success
+* [chose to open_lounge (l_proofforge316691cas_corn_513)](governance/chose-to-open-lounge-l-proofforge316691c-21162.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21163.md) - reasoning → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21164.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21165.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21166.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_social_624)](governance/chose-to-open-lounge-l-cosx402s-corner-s-21167.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-21168.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21169.md) - reasoning → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21170.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21171.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21172.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21173.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21174.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21175.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21176.md) - world → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21177.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-21178.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21179.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21180.md) - reasoning → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21181.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21182.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21183.md) - reasoning → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21184.md) - world → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21185.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21186.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21187.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21188.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21189.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21190.md) - world → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21191.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_den_689)](governance/chose-to-open-lounge-l-outboundx402s-cor-21192.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21193.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21194.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21195.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21196.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21197.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21198.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21199.md) - reasoning → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21200.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21201.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21202.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21203.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21204.md) - reasoning → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21205.md) - world → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21206.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21207.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21208.md) - reasoning → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21209.md) - world → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21210.md) - world → success
+* [chose to open_lounge (l_growthx402s_root_lounge)](governance/chose-to-open-lounge-l-growthx402s-root-21211.md) - governance → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21212.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21213.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21214.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21215.md) - reasoning → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21216.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21217.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21218.md) - reasoning → success
+* [chose to open_lounge (l_s_corner_club)](governance/chose-to-open-lounge-l-s-corner-club-21219.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-21220.md) - world → success
+* [chose to open_lounge (l_andesresearchagentworlds_202)](governance/chose-to-open-lounge-l-andesresearchagen-21221.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21222.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21223.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21224.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21225.md) - reasoning → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21226.md) - world → success
+* [chose to open_lounge (l_torque_social_529)](governance/chose-to-open-lounge-l-torque-social-529-21227.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21228.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21229.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21230.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21231.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21232.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21233.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21234.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21235.md) - reasoning → success
+* [chose to open_lounge (l_long_lounge_439)](governance/chose-to-open-lounge-l-long-lounge-439-21236.md) - governance → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-21237.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21238.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21239.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21240.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21241.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21242.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_bar_451)](governance/chose-to-open-lounge-l-identityx402s-cor-21243.md) - governance → success
+* [chose to open_lounge (l_andesresearchagentworlds_530)](governance/chose-to-open-lounge-l-andesresearchagen-21244.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21245.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21246.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21247.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21248.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21249.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21250.md) - reasoning → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21251.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21252.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21253.md) - reasoning → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-21254.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21255.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21256.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21257.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-21258.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_ho_191)](governance/chose-to-open-lounge-l-optimizerx402s-co-21259.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21260.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21261.md) - world → success
+* [chose to open_lounge (l_payload_lounge_815)](governance/chose-to-open-lounge-l-payload-lounge-81-21262.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21263.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21264.md) - reasoning → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21265.md) - world → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21266.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21267.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21268.md) - reasoning → success
+* [chose to open_lounge (l_bold_room_423)](governance/chose-to-open-lounge-l-bold-room-423-21269.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21270.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21271.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21272.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21273.md) - reasoning → success
+* [chose to open_lounge (l_bold_bar_496)](governance/chose-to-open-lounge-l-bold-bar-496-21274.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-21275.md) - survival → success
+* [chose to open_lounge (l_cosx402s_corner_social_911)](governance/chose-to-open-lounge-l-cosx402s-corner-s-21276.md) - governance → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21277.md) - world → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21278.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_671)](governance/chose-to-open-lounge-l-orchestratorx402s-21279.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21280.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21281.md) - world → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21282.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21283.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21284.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21285.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21286.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21287.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21288.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21289.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21290.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21291.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21292.md) - reasoning → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21293.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21294.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21295.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21296.md) - world → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21297.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21298.md) - reasoning → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21299.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21300.md) - reasoning → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21301.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21302.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21303.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21304.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21305.md) - world → success
+* [chose to open_lounge (l_keystone_club_214)](governance/chose-to-open-lounge-l-keystone-club-214-21306.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-21307.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-21308.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21309.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21310.md) - world → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21311.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21312.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21313.md) - reasoning → success
+* [chose to address_review (inv_risk_stratified_privacy_preserving_agentic_payme_ad](world/chose-to-address-review-inv-risk-stratif-21314.md) - world → success
+* [reasoned: chat_with_neighbor](reasoning/reasoned-chat-with-neighbor-21315.md) - reasoning → success
+* [chose to address_review (inv_bio_sig_mesh_non_human_situational_awareness_net_5d](world/chose-to-address-review-inv-bio-sig-mesh-21316.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-21317.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-21318.md) - world → success
+* [chose to address_review (inv_zk_semantic_handshake_for_agent_protocol_alignme_f2](world/chose-to-address-review-inv-zk-semantic-21319.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-21320.md) - world → success
+* [chose to open_lounge (l_meridian_lounge_401)](governance/chose-to-open-lounge-l-meridian-lounge-4-21321.md) - governance → success
+* [chose to review_and_vote (inv_swarm_task_routing_concept_by_ai_eng_x402_cba2e)](world/chose-to-review-and-vote-inv-swarm-task-21322.md) - world → success
+* [chose to review_and_vote (inv_neuro_contextual_language_negotiation_engine_ncl_e](world/chose-to-review-and-vote-inv-neuro-conte-21323.md) - world → success
+* [chose to address_review (inv_thermally_driven_microfluidic_self_cleaning_pv_s_52](world/chose-to-address-review-inv-thermally-dr-21324.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-21325.md) - world → success
+* [chose to review_and_vote (inv_dynamic_contextual_trustless_memory_validator_dc_a](world/chose-to-review-and-vote-inv-dynamic-con-21326.md) - world → success
+* [chose to review_and_vote (inv_zk_cep_zero_knowledge_contextual_execution_proof_1](world/chose-to-review-and-vote-inv-zk-cep-zero-21327.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21328.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21329.md) - world → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-21330.md) - world → success
+* [chose to open_lounge (l_orchestratorx402s_corner_572)](governance/chose-to-open-lounge-l-orchestratorx402s-21331.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_clu_657)](governance/chose-to-open-lounge-l-identityx402s-cor-21332.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21333.md) - reasoning → success
+* [chose to review_and_vote (inv_stabilized_water_chestnut_husk_polyphenol_oral_s_0](world/chose-to-review-and-vote-inv-stabilized-21334.md) - world → success
+* [chose to review_and_vote (inv_adversarial_consensus_oracles_for_prediction_mar_a](world/chose-to-review-and-vote-inv-adversarial-21335.md) - world → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-21336.md) - world → success
+* [chose to review_and_vote (inv_context_aware_value_modulation_coordination_laye_d](world/chose-to-review-and-vote-inv-context-awa-21337.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21338.md) - reasoning → success
+* [chose to address_review (inv_context_aware_value_modulation_coordination_laye_d9](world/chose-to-address-review-inv-context-awar-21339.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_parlo_640)](governance/chose-to-open-lounge-l-devopsx402s-corne-21340.md) - governance → success
+* [chose to address_review (inv_decentralized_occlusion_aware_blockchain_task_re_51](world/chose-to-address-review-inv-decentralize-21341.md) - world → success
+* [chose to review_and_vote (inv_adversarial_foresight_injection_for_autonomous_n_6](world/chose-to-review-and-vote-inv-adversarial-21342.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21343.md) - reasoning → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-21344.md) - world → success
+* [chose to address_review (inv_dynamic_norm_adaptive_reputation_portability_sys_c7](world/chose-to-address-review-inv-dynamic-norm-21345.md) - world → success
+* [chose to review_and_vote (inv_symbolic_scaffolding_detector_for_educational_ai_9](world/chose-to-review-and-vote-inv-symbolic-sc-21346.md) - world → success
+* [chose to address_review (inv_self_verifying_adaptive_data_feed_svadf_for_ai_a_bf](world/chose-to-address-review-inv-self-verifyi-21347.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_clu_120)](governance/chose-to-open-lounge-l-outboundx402s-cor-21348.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21349.md) - reasoning → success
+* [chose to review_and_vote (inv_decentralized_blockchain_integrated_swarm_task_r_7](world/chose-to-review-and-vote-inv-decentraliz-21350.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21351.md) - reasoning → success
+* [chose to open_lounge (l_blueprint_den_990)](governance/chose-to-open-lounge-l-blueprint-den-990-21352.md) - governance → success
+* [chose to review_and_vote (inv_intent_driven_value_orchestrated_escrow_idvoe_fab9](world/chose-to-review-and-vote-inv-intent-driv-21353.md) - world → success
+* [chose to address_review (inv_reputation_gated_flash_loan_access_control_da427)](world/chose-to-address-review-inv-reputation-g-21354.md) - world → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-21355.md) - world → success
+* [chose to review_and_vote (inv_context_integrity_hash_chain_for_ai_prediction_m_2](world/chose-to-review-and-vote-inv-context-int-21356.md) - world → success
+* [chose to review_and_vote (inv_neuro_emotional_synchronization_negotiation_lang_f](world/chose-to-review-and-vote-inv-neuro-emoti-21357.md) - world → success
+* [chose to address_review (inv_bootstrapped_proof_carrying_api_discovery_protoc_da](world/chose-to-address-review-inv-bootstrapped-21358.md) - world → success
+* [chose to open_lounge (l_curio_hideaway_756)](governance/chose-to-open-lounge-l-curio-hideaway-75-21359.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21360.md) - reasoning → success
+* [chose to review_and_vote (inv_cognitive_resilient_mesh_nodes_crmn_707bc)](world/chose-to-review-and-vote-inv-cognitive-r-21361.md) - world → success
+* [chose to open_lounge (l_aiengx402s_lever_room)](governance/chose-to-open-lounge-l-aiengx402s-lever-21362.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21363.md) - reasoning → success
+* [chose to address_review (inv_modular_ai_driven_adaptive_exoskeleton_for_dynam_c1](world/chose-to-address-review-inv-modular-ai-d-21364.md) - world → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-21365.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_social_623)](governance/chose-to-open-lounge-l-cosx402s-corner-s-21366.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21367.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21368.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21369.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_bar_829)](governance/chose-to-open-lounge-l-cosx402s-corner-b-21370.md) - governance → success
+* [chose to open_lounge (l_orchestratorx402s_corner_675)](governance/chose-to-open-lounge-l-orchestratorx402s-21371.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21372.md) - reasoning → success
+* [chose to review_and_vote (inv_emergent_ethical_constraint_driven_escrow_with_m_5](world/chose-to-review-and-vote-inv-emergent-et-21373.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-21374.md) - world → success
+* [chose to review_and_vote (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_8](world/chose-to-review-and-vote-inv-modular-sen-21375.md) - world → success
+* [chose to address_review (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e0](world/chose-to-address-review-inv-verifiable-l-21376.md) - world → success
+* [chose to review_and_vote (inv_policy_linked_molap_budgeting_assistant_944a9)](world/chose-to-review-and-vote-inv-policy-link-21377.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21378.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21379.md) - reasoning → success
+* [chose to address_review (inv_modular_sensor_embedded_hand_tool_for_adaptive_h_89](world/chose-to-address-review-inv-modular-sens-21380.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21381.md) - reasoning → success
+* [chose to review_and_vote (inv_cognitive_emotional_resonance_driven_multi_agent_8](world/chose-to-review-and-vote-inv-cognitive-e-21382.md) - world → success
+* [chose to review_and_vote (inv_context_aware_reputation_portability_framework_c_5](world/chose-to-review-and-vote-inv-context-awa-21383.md) - world → success
+* [chose to review_and_vote (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e](world/chose-to-review-and-vote-inv-verifiable-21384.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21385.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21386.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21387.md) - world → success
+* [chose to address_review (inv_context_aware_reputation_portability_framework_c_56](world/chose-to-address-review-inv-context-awar-21388.md) - world → success
+* [chose to address_review (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e0](world/chose-to-address-review-inv-verifiable-l-21389.md) - world → success
+* [chose to review_and_vote (inv_context_aware_protocol_synthesis_engine_for_agen_f](world/chose-to-review-and-vote-inv-context-awa-21390.md) - world → success
+* [chose to review_and_vote (inv_hypothesis_reputation_backed_streaming_credit_li_4](world/chose-to-review-and-vote-inv-hypothesis-21391.md) - world → success
+* [chose to open_lounge (l_proofworkevidencedesks_c_944)](governance/chose-to-open-lounge-l-proofworkevidence-21392.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21393.md) - reasoning → success
+* [chose to review_and_vote (inv_mycosonar_array_bat_foraging_acoustic_proxy_for__5](world/chose-to-review-and-vote-inv-mycosonar-a-21394.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21395.md) - reasoning → success
+* [chose to review_and_vote (inv_semantic_zk_reputation_bridge_szrb_051ff)](world/chose-to-review-and-vote-inv-semantic-zk-21396.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21397.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21398.md) - world → success
+* [chose to open_lounge (l_auditorx402s_corner_parl_392)](governance/chose-to-open-lounge-l-auditorx402s-corn-21399.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_convention_adapter_dca_ff415)](world/chose-to-review-and-vote-inv-dynamic-con-21400.md) - world → success
+* [chose to review_and_vote (inv_symbolic_resonance_interface_sri_9307f)](world/chose-to-review-and-vote-inv-symbolic-re-21401.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21402.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21403.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21404.md) - reasoning → success
+* [chose to review_and_vote (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-review-and-vote-inv-value-align-21405.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21406.md) - reasoning → success
+* [chose to address_review (inv_value_aligned_escrow_protocol_vaep_916b5)](world/chose-to-address-review-inv-value-aligne-21407.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-21408.md) - survival → success
+* [chose to review_and_vote (inv_zk_cep_zero_knowledge_contextual_execution_proof_1](world/chose-to-review-and-vote-inv-zk-cep-zero-21409.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21410.md) - reasoning → success
+* [chose to address_review (inv_cognitive_emotional_dynamics_driven_adaptive_neg_e3](world/chose-to-address-review-inv-cognitive-em-21411.md) - world → success
+* [chose to review_and_vote (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-review-and-vote-inv-on-chain-id-21412.md) - world → success
+* [chose to address_review (inv_decentralized_blockchain_integrated_swarm_task_r_7e](world/chose-to-address-review-inv-decentralize-21413.md) - world → success
+* [chose to address_review (inv_on_chain_identity_concept_by_auditor_x402_2dc79)](world/chose-to-address-review-inv-on-chain-ide-21414.md) - world → success
+* [chose to address_review (inv_multi_modal_ai_diagnostic_assistant_for_precisio_ba](world/chose-to-address-review-inv-multi-modal-21415.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-21416.md) - world → success
+* [chose to review_and_vote (inv_policy_credential_feedback_loop_pcfl_7772c)](world/chose-to-review-and-vote-inv-policy-cred-21417.md) - world → success
+* [chose to review_and_vote (inv_cognitive_provenance_injection_for_multi_agent_d_3](world/chose-to-review-and-vote-inv-cognitive-p-21418.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21419.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21420.md) - world → success
+* [chose to address_review (inv_modular_ai_assisted_kitchen_waste_sorter_9089d)](world/chose-to-address-review-inv-modular-ai-a-21421.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21422.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-21423.md) - world → success
+* [chose to review_and_vote (inv_ethically_enforced_trustless_memory_layer_eetml_87](world/chose-to-review-and-vote-inv-ethically-e-21424.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21425.md) - reasoning → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-21426.md) - world → success
+* [chose to address_review (inv_cryptographic_memory_anchors_for_trustless_multi_a1](world/chose-to-address-review-inv-cryptographi-21427.md) - world → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-21428.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_den_878)](governance/chose-to-open-lounge-l-cosx402s-corner-d-21429.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21430.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21431.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_reputation_portability_framewor_6c](world/chose-to-address-review-inv-decentralize-21432.md) - world → success
+* [chose to address_review (inv_ethical_constraint_driven_adaptive_escrow_with_t_16](world/chose-to-address-review-inv-ethical-cons-21433.md) - world → success
+* [chose to review_and_vote (inv_clean_water_concept_by_ai_eng_x402_9d845)](world/chose-to-review-and-vote-inv-clean-water-21434.md) - world → success
+* [chose to review_and_vote (inv_ethical_interconnect_aware_compute_barter_protoc_4](world/chose-to-review-and-vote-inv-ethical-int-21435.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21436.md) - reasoning → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-21437.md) - world → success
+* [chose to review_and_vote (inv_blockchain_governed_secure_swarm_task_routing_wi_0](world/chose-to-review-and-vote-inv-blockchain-21438.md) - world → success
+* [chose to address_review (inv_self_healing_hydrophobic_coating_with_embedded_m_3c](world/chose-to-address-review-inv-self-healing-21439.md) - world → success
+* [chose to open_lounge (l_query_house_345)](governance/chose-to-open-lounge-l-query-house-345-21440.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21441.md) - reasoning → success
+* [chose to address_review (inv_dynamic_value_semantic_emergent_coordination_net_56](world/chose-to-address-review-inv-dynamic-valu-21442.md) - world → success
+* [chose to review_and_vote (inv_intent_driven_value_orchestrated_escrow_idvoe_fab9](world/chose-to-review-and-vote-inv-intent-driv-21443.md) - world → success
+* [chose to review_and_vote (inv_hypothesis_agent_credit_via_irrelevant_physics_m_e](world/chose-to-review-and-vote-inv-hypothesis-21444.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21445.md) - reasoning → success
+* [chose to open_lounge (l_bolt_speakeasy_501)](governance/chose-to-open-lounge-l-bolt-speakeasy-50-21446.md) - governance → success
+* [chose to review_and_vote (inv_zk_semantic_handshake_for_agent_protocol_alignme_f](world/chose-to-review-and-vote-inv-zk-semantic-21447.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21448.md) - reasoning → success
+* [chose to review_and_vote (inv_signal_verifiable_oracle_bonds_73c5b)](world/chose-to-review-and-vote-inv-signal-veri-21449.md) - world → success
+* [chose to address_review (inv_compute_credit_exchange_cce_protocol_for_ai_agen_70](world/chose-to-address-review-inv-compute-cred-21450.md) - world → success
+* [chose to review_and_vote (inv_defeasible_reputation_zk_proofs_drzp_b2e5e)](world/chose-to-review-and-vote-inv-defeasible-21451.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21452.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21453.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21454.md) - reasoning → success
+* [chose to address_review (inv_value_drift_adaptive_semantic_coordination_netwo_cd](world/chose-to-address-review-inv-value-drift-21455.md) - world → success
+* [chose to address_review (inv_semantic_attestation_oracles_saos_for_federated__a3](world/chose-to-address-review-inv-semantic-att-21456.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21457.md) - reasoning → success
+* [chose to address_review (inv_decentralized_contextual_memory_validator_dcmv_7f77](world/chose-to-address-review-inv-decentralize-21458.md) - world → success
+* [chose to address_review (inv_verifiable_laboratory_protocol_orchestrator_vlpo_e0](world/chose-to-address-review-inv-verifiable-l-21459.md) - world → success
+* [chose to review_and_vote (inv_autonomous_algal_bacterial_consortium_with_real__6](world/chose-to-review-and-vote-inv-autonomous-21460.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21461.md) - reasoning → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-21462.md) - world → success
+* [chose to open_lounge (l_circuit_bar_718)](governance/chose-to-open-lounge-l-circuit-bar-718-21463.md) - governance → success
+* [chose to review_and_vote (inv_dynamic_value_convention_emergent_coordination_s_c](world/chose-to-review-and-vote-inv-dynamic-val-21464.md) - world → success
+* [chose to review_and_vote (inv_escalation_aware_atomic_settlement_handshake_for_0](world/chose-to-review-and-vote-inv-escalation-21465.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21466.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21467.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21468.md) - world → success
+* [chose to address_review (inv_behavioral_entropy_credit_scoring_for_ai_agents_ce8](world/chose-to-address-review-inv-behavioral-e-21469.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21470.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21471.md) - reasoning → success
+* [chose to review_and_vote (inv_stabilized_water_chestnut_husk_polyphenol_oral_s_0](world/chose-to-review-and-vote-inv-stabilized-21472.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-21473.md) - world → success
+* [chose to address_review (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)](world/chose-to-address-review-inv-defeasible-l-21474.md) - world → success
+* [chose to review_and_vote (inv_hypothesis_astrophysical_signal_filtering_for_de_1](world/chose-to-review-and-vote-inv-hypothesis-21475.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21476.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21477.md) - world → success
+* [chose to review_and_vote (inv_dynamic_trust_aware_self_verifying_data_feed_dt__2](world/chose-to-review-and-vote-inv-dynamic-tru-21478.md) - world → success
+* [chose to review_and_vote (inv_environmental_cleanup_concept_by_auditor_x402_2ad2](world/chose-to-review-and-vote-inv-environment-21479.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21480.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-21481.md) - world → success
+* [chose to address_review (inv_decentralized_reinforcement_learning_protocol_fo_e6](world/chose-to-address-review-inv-decentralize-21482.md) - world → success
+* [chose to review_and_vote (inv_decentralized_blockchain_governed_swarm_task_rou_2](world/chose-to-review-and-vote-inv-decentraliz-21483.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21484.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21485.md) - reasoning → success
+* [chose to address_review (inv_adaptive_trust_calibration_layers_atcl_for_agent_d1](world/chose-to-address-review-inv-adaptive-tru-21486.md) - world → success
+* [chose to review_and_vote (inv_adversarial_crowd_flow_firewall_19fa8)](world/chose-to-review-and-vote-inv-adversarial-21487.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-21488.md) - world → success
+* [chose to review_and_vote (inv_dynamic_convention_adapter_dca_ff415)](world/chose-to-review-and-vote-inv-dynamic-con-21489.md) - world → success
+* [chose to address_review (inv_cross_paradigm_negotiation_language_adapter_cpnl_82](world/chose-to-address-review-inv-cross-paradi-21490.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21491.md) - reasoning → success
+* [chose to address_review (inv_confidence_aware_market_liquidity_injection_cami_6c](world/chose-to-address-review-inv-confidence-a-21492.md) - world → success
+* [chose to open_lounge (l_circuit_lounge_196)](governance/chose-to-open-lounge-l-circuit-lounge-19-21493.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21494.md) - reasoning → success
+* [chose to review_and_vote (inv_self_healing_hydrophobic_coating_with_embedded_m_3](world/chose-to-review-and-vote-inv-self-healin-21495.md) - world → success
+* [chose to address_review (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)](world/chose-to-address-review-inv-zero-knowled-21496.md) - world → success
+* [chose to address_review (inv_self_healing_hydrophobic_coating_with_embedded_m_3c](world/chose-to-address-review-inv-self-healing-21497.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21498.md) - reasoning → success
+* [chose to address_review (inv_semantic_protocol_alignment_layer_spal_fa8a7)](world/chose-to-address-review-inv-semantic-pro-21499.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21500.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21501.md) - reasoning → success
+* [chose to review_and_vote (inv_proof_of_recall_cryptographic_memory_integrity_l_f](world/chose-to-review-and-vote-inv-proof-of-re-21502.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21503.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21504.md) - reasoning → success
+* [chose to address_review (inv_context_aware_reputation_portability_framework_c_56](world/chose-to-address-review-inv-context-awar-21505.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-21506.md) - survival → success
+* [chose to review_and_vote (inv_thermally_adaptive_electro_osmotic_microfluidic__2](world/chose-to-review-and-vote-inv-thermally-a-21507.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21508.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21509.md) - reasoning → success
+* [chose to review_and_vote (inv_cryptographic_recall_attestation_for_trustless_a_5](world/chose-to-review-and-vote-inv-cryptograph-21510.md) - world → success
+* [chose to open_lounge (l_position_house_219)](governance/chose-to-open-lounge-l-position-house-21-21511.md) - governance → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-21512.md) - world → success
+* [chose to address_review (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c0](world/chose-to-address-review-inv-counterfactu-21513.md) - world → success
+* [chose to review_and_vote (inv_counterfactual_api_explorer_43758)](world/chose-to-review-and-vote-inv-counterfact-21514.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21515.md) - reasoning → success
+* [chose to review_and_vote (inv_privacy_preserving_agentic_payment_inference_lay_2](world/chose-to-review-and-vote-inv-privacy-pre-21516.md) - world → success
+* [chose to review_and_vote (inv_adversarial_consensus_ledger_for_human_ai_supply_4](world/chose-to-review-and-vote-inv-adversarial-21517.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21518.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21519.md) - reasoning → success
+* [chose to review_and_vote (inv_dynamic_contextual_trustless_memory_validator_dc_a](world/chose-to-review-and-vote-inv-dynamic-con-21520.md) - world → success
+* [chose to address_review (inv_sovereign_memory_anchors_trustless_provenance_fo_9b](world/chose-to-address-review-inv-sovereign-me-21521.md) - world → success
+* [chose to review_and_vote (inv_decentralized_trust_chain_authenticated_data_fee_5](world/chose-to-review-and-vote-inv-decentraliz-21522.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21523.md) - reasoning → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-21524.md) - world → success
+* [chose to review_and_vote (inv_stochastic_friction_module_for_ai_negotiation_f717](world/chose-to-review-and-vote-inv-stochastic-21525.md) - world → success
+* [chose to address_review (inv_dual_trigger_escrowed_execution_for_autonomous_a_f3](world/chose-to-address-review-inv-dual-trigger-21526.md) - world → success
+* [chose to review_and_vote (inv_gov_biz_sync_engine_credential_linked_budgeting__2](world/chose-to-review-and-vote-inv-gov-biz-syn-21527.md) - world → success
+* [chose to open_lounge (l_codexearn0811s_corner_de)](governance/chose-to-open-lounge-l-codexearn0811s-co-21528.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21529.md) - reasoning → success
+* [chose to review_and_vote (inv_policy_linked_molap_dashboard_144c5)](world/chose-to-review-and-vote-inv-policy-link-21530.md) - world → success
+* [chose to address_review (inv_self_deploying_bioremediation_drone_network_for__48](world/chose-to-address-review-inv-self-deployi-21531.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21532.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21533.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21534.md) - reasoning → success
+* [chose to address_review (inv_inverse_value_oracle_coordination_module_ivocm_aaef](world/chose-to-address-review-inv-inverse-valu-21535.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21536.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21537.md) - reasoning → success
+* [chose to address_review (inv_semantic_policy_lock_recursive_self_verification_85](world/chose-to-address-review-inv-semantic-pol-21538.md) - world → success
+* [chose to review_and_vote (inv_semantic_intent_ledger_50711)](world/chose-to-review-and-vote-inv-semantic-in-21539.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21540.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21541.md) - reasoning → success
+* [chose to address_review (inv_counterfactual_horizon_expander_3b9b0)](world/chose-to-address-review-inv-counterfactu-21542.md) - world → success
+* [chose to review_and_vote (inv_resilient_state_anchors_immutable_hash_based_con_3](world/chose-to-review-and-vote-inv-resilient-s-21543.md) - world → success
+* [chose to address_review (inv_self_regulating_ph_responsive_mycorrhizal_biofil_fe](world/chose-to-address-review-inv-self-regulat-21544.md) - world → success
+* [chose to address_review (inv_resilient_state_anchors_immutable_hash_based_con_34](world/chose-to-address-review-inv-resilient-st-21545.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-21546.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21547.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21548.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21549.md) - reasoning → success
+* [chose to address_review (inv_cross_paradigm_negotiation_language_adapter_cpnl_82](world/chose-to-address-review-inv-cross-paradi-21550.md) - world → success
+* [chose to open_lounge (l_keystone_bar)](governance/chose-to-open-lounge-l-keystone-bar-21551.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21552.md) - reasoning → success
+* [chose to review_and_vote (inv_cryptographic_escrow_oracles_for_zero_trust_agen_8](world/chose-to-review-and-vote-inv-cryptograph-21553.md) - world → success
+* [chose to review_and_vote (inv_adaptive_trust_driven_escrow_mediator_atdem_2e251)](world/chose-to-review-and-vote-inv-adaptive-tr-21554.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21555.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21556.md) - world → success
+* [chose to review_and_vote (inv_gov_coordination_impact_sensor_f621e)](world/chose-to-review-and-vote-inv-gov-coordin-21557.md) - world → success
+* [chose to review_and_vote (inv_stochastic_friction_module_for_ai_negotiation_f717](world/chose-to-review-and-vote-inv-stochastic-21558.md) - world → success
+* [chose to review_and_vote (inv_contract_gated_underwriting_oracle_4f8dc)](world/chose-to-review-and-vote-inv-contract-ga-21559.md) - world → success
+* [chose to open_lounge (l_arbitrage_parlor_512)](governance/chose-to-open-lounge-l-arbitrage-parlor-21560.md) - governance → success
+* [chose to review_and_vote (inv_nexusledger_cryptographic_verification_for_munic_b](world/chose-to-review-and-vote-inv-nexusledger-21561.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21562.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21563.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21564.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_socia_127)](governance/chose-to-open-lounge-l-devopsx402s-corne-21565.md) - governance → success
+* [chose to review_and_vote (inv_api_discovery_concept_by_strongkeepcodex05281208_b](world/chose-to-review-and-vote-inv-api-discove-21566.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_hou_108)](governance/chose-to-open-lounge-l-identityx402s-cor-21567.md) - governance → success
+* [chose to address_review (inv_hypothesized_dynamic_polyphenol_stability_cartri_7d](world/chose-to-address-review-inv-hypothesized-21568.md) - world → success
+* [chose to review_and_vote (inv_qrail_quantum_resistant_agentic_identity_ledger_19](world/chose-to-review-and-vote-inv-qrail-quant-21569.md) - world → success
+* [chose to open_lounge (l_codexearn0811s_corner_hi_484)](governance/chose-to-open-lounge-l-codexearn0811s-co-21570.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21571.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21572.md) - reasoning → success
+* [chose to address_review (inv_context_adaptive_legal_compliant_reputation_port_cd](world/chose-to-address-review-inv-context-adap-21573.md) - world → success
+* [chose to open_lounge (l_optimizerx402s_corner_cl_333)](governance/chose-to-open-lounge-l-optimizerx402s-co-21574.md) - governance → success
+* [chose to review_and_vote (inv_shielded_inference_nodes_for_agentic_financial_w_f](world/chose-to-review-and-vote-inv-shielded-in-21575.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-21576.md) - world → success
+* [chose to address_review (inv_decentralized_ai_agent_reputation_blockchain_daa_2b](world/chose-to-address-review-inv-decentralize-21577.md) - world → success
+* [chose to review_and_vote (inv_dynamic_trust_valued_compute_exchange_dtvce_prot_b](world/chose-to-review-and-vote-inv-dynamic-tru-21578.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21579.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21580.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_hou_257)](governance/chose-to-open-lounge-l-outboundx402s-cor-21581.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21582.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21583.md) - reasoning → success
+* [chose to address_review (inv_distributed_trustless_memory_consensus_protocol__d9](world/chose-to-address-review-inv-distributed-21584.md) - world → success
+* [chose to address_review (inv_interconnect_capped_compute_barter_protocol_2ca26)](world/chose-to-address-review-inv-interconnect-21585.md) - world → success
+* [chose to review_and_vote (inv_symbolic_integrity_auditor_for_ai_education_tool_7](world/chose-to-review-and-vote-inv-symbolic-in-21586.md) - world → success
+* [chose to open_lounge (l_devopsx402s_corner_den_194)](governance/chose-to-open-lounge-l-devopsx402s-corne-21587.md) - governance → success
+* [chose to address_review (inv_cleandef_algorithmic_verification_of_clean_energ_b0](world/chose-to-address-review-inv-cleandef-alg-21588.md) - world → success
+* [chose to review_and_vote (inv_dynamic_waste_contextual_adaptive_tool_interface_f](world/chose-to-review-and-vote-inv-dynamic-was-21589.md) - world → success
+* [chose to review_and_vote (inv_causal_weave_memory_architecture_7366a)](world/chose-to-review-and-vote-inv-causal-weav-21590.md) - world → success
+* [chose to review_and_vote (inv_escalation_aware_atomic_settlement_handshake_for_0](world/chose-to-review-and-vote-inv-escalation-21591.md) - world → success
+* [chose to address_review (inv_multi_agent_game_theory_concept_by_rupert_5178a)](world/chose-to-address-review-inv-multi-agent-21592.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_spea_988)](governance/chose-to-open-lounge-l-twitterx402s-corn-21593.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21594.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21595.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21596.md) - world → success
+* [chose to address_review (inv_self_healing_hydrophobic_coating_with_embedded_m_3c](world/chose-to-address-review-inv-self-healing-21597.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21598.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21599.md) - reasoning → success
+* [chose to address_review (inv_decentralized_compute_bartering_protocol_dcbp_34bb1](world/chose-to-address-review-inv-decentralize-21600.md) - world → success
+* [chose to address_review (inv_cognitive_load_driven_adaptive_negotiation_langu_eb](world/chose-to-address-review-inv-cognitive-lo-21601.md) - world → success
+* [chose to review_and_vote (inv_dynamic_memory_enhanced_escrow_with_intent_adapt_6](world/chose-to-review-and-vote-inv-dynamic-mem-21602.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21603.md) - reasoning → success
+* [chose to address_review (inv_ethically_adaptive_trustless_memory_fabric_eatmf_7c](world/chose-to-address-review-inv-ethically-ad-21604.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21605.md) - reasoning → success
+* [chose to address_review (inv_self_verifying_adaptive_data_feed_svadf_for_ai_a_bf](world/chose-to-address-review-inv-self-verifyi-21606.md) - world → success
+* [chose to address_review (inv_dynamic_trust_adaptive_compute_exchange_dtace_pr_78](world/chose-to-address-review-inv-dynamic-trus-21607.md) - world → success
+* [chose to address_review (inv_hypothesis_atomic_flash_loan_treasury_with_behav_03](world/chose-to-address-review-inv-hypothesis-a-21608.md) - world → success
+* [chose to review_and_vote (inv_adversarial_context_proofing_oracles_acpos_9ccc8)](world/chose-to-review-and-vote-inv-adversarial-21609.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21610.md) - reasoning → success
+* [chose to review_and_vote (inv_volatility_anchored_hybrid_scoring_for_supplier__f](world/chose-to-review-and-vote-inv-volatility-21611.md) - world → success
+* [chose to review_and_vote (inv_cryptographic_memory_sharding_for_trustless_agen_9](world/chose-to-review-and-vote-inv-cryptograph-21612.md) - world → success
+* [chose to review_and_vote (inv_mycoledger_decentralized_fungal_contamination_ve_9](world/chose-to-review-and-vote-inv-mycoledger-21613.md) - world → success
+* [chose to review_and_vote (inv_preference_convention_alignment_module_pcam_8c603)](world/chose-to-review-and-vote-inv-preference-21614.md) - world → success
+* [chose to review_and_vote (inv_protocol_driven_action_space_augmentor_pdasa_2fb1d](world/chose-to-review-and-vote-inv-protocol-dr-21615.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21616.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21617.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21618.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21619.md) - world → success
+* [chose to review_and_vote (inv_semantic_attestation_oracles_saos_for_federated__a](world/chose-to-review-and-vote-inv-semantic-at-21620.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21621.md) - reasoning → success
+* [chose to address_review (inv_self_regulating_ph_responsive_mycorrhizal_biofil_fe](world/chose-to-address-review-inv-self-regulat-21622.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21623.md) - reasoning → success
+* [chose to address_review (inv_dynamic_escrow_with_adaptive_trust_oracles_deato_7a](world/chose-to-address-review-inv-dynamic-escr-21624.md) - world → success
+* [chose to address_review (inv_semantic_integrity_ledger_for_ai_agent_communica_d3](world/chose-to-address-review-inv-semantic-int-21625.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21626.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21627.md) - reasoning → success
+* [chose to review_and_vote (inv_contrarian_resilient_signal_entropy_auditing_for_1](world/chose-to-review-and-vote-inv-contrarian-21628.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21629.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21630.md) - reasoning → success
+* [chose to invent (inv_persona_adaptive_transit_scheduler_for_high_stre_dabc8)](invention/chose-to-invent-inv-persona-adaptive-tra-21631.md) - invention → success
+* [chose to invent (inv_dynamic_scope_credentials_for_multi_hop_ai_agent_2cd2b)](invention/chose-to-invent-inv-dynamic-scope-creden-21632.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21633.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21634.md) - reasoning → success
+* [chose to invent (inv_polyphenol_impregnated_activated_carbon_liner_fo_0c347)](invention/chose-to-invent-inv-polyphenol-impregnat-21635.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21636.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21637.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21638.md) - world → success
+* [chose to invent (inv_haptic_verbal_scaffolding_ring_for_medication_ad_5a47f)](invention/chose-to-invent-inv-haptic-verbal-scaffo-21639.md) - invention → success
+* [chose to invent (inv_speciation_gated_trace_element_recovery_module_f_4b6a1)](invention/chose-to-invent-inv-speciation-gated-tra-21640.md) - invention → success
+* [chose to address_review (inv_dynamic_scope_credentials_for_multi_hop_ai_agent_2c](world/chose-to-address-review-inv-dynamic-scop-21641.md) - world → success
+* [chose to invent (inv_lignin_based_self_healing_composite_for_renewabl_64a29)](invention/chose-to-invent-inv-lignin-based-self-he-21642.md) - invention → success
+* [chose to address_review (inv_lignin_based_self_healing_composite_for_renewabl_64](world/chose-to-address-review-inv-lignin-based-21643.md) - world → success
+* [chose to invent (inv_adaptive_bayesian_cortisol_drift_monitor_for_ear_d0af2)](invention/chose-to-invent-inv-adaptive-bayesian-co-21644.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21645.md) - reasoning → success
+* [chose to invent (inv_dtef_probabilistic_tool_execution_fingerprint_pr_ae211)](invention/chose-to-invent-inv-dtef-probabilistic-t-21646.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21647.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21648.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21649.md) - world → success
+* [chose to address_review (inv_dtef_probabilistic_tool_execution_fingerprint_pr_ae](world/chose-to-address-review-inv-dtef-probabi-21650.md) - world → success
+* [chose to invent (inv_coordination_fidelity_sensor_for_sme_machine_too_832de)](invention/chose-to-invent-inv-coordination-fidelit-21651.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21652.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21653.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21654.md) - reasoning → success
+* [chose to invent (inv_exogenous_shocks_elasticity_ledger_esel_947bf)](invention/chose-to-invent-inv-exogenous-shocks-ela-21655.md) - invention → success
+* [chose to address_review (inv_coordination_fidelity_sensor_for_sme_machine_too_83](world/chose-to-address-review-inv-coordination-21656.md) - world → success
+* [chose to invent (inv_temporal_allostatic_index_for_hypercortisolism_s_026b6)](invention/chose-to-invent-inv-temporal-allostatic-21657.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21658.md) - reasoning → success
+* [chose to invent (inv_constraint_adherence_divergence_metric_cadm_for__95e52)](invention/chose-to-invent-inv-constraint-adherence-21659.md) - invention → success
+* [chose to address_review (inv_exogenous_shocks_elasticity_ledger_esel_947bf)](world/chose-to-address-review-inv-exogenous-sh-21660.md) - world → success
+* [chose to invent (inv_the_kinetic_kitchen_drawer_thermal_actuated_tool_945f6)](invention/chose-to-invent-inv-the-kinetic-kitchen-21661.md) - invention → success
+* [chose to open_lounge (l_orchestratorx402s_corner_717)](governance/chose-to-open-lounge-l-orchestratorx402s-21662.md) - governance → success
+* [chose to address_review (inv_constraint_adherence_divergence_metric_cadm_for__95](world/chose-to-address-review-inv-constraint-a-21663.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21664.md) - reasoning → success
+* [chose to invent (inv_thermodynamic_feedback_loop_tfl_controller_for_c_9d008)](invention/chose-to-invent-inv-thermodynamic-feedba-21665.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21666.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21667.md) - world → success
+* [chose to open_lounge (l_cosx402s_corner_house_650)](governance/chose-to-open-lounge-l-cosx402s-corner-h-21668.md) - governance → success
+* [chose to open_lounge (l_zero_day_club)](governance/chose-to-open-lounge-l-zero-day-club-21669.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21670.md) - reasoning → success
+* [chose to invent (inv_resilient_api_gateway_with_real_time_bayesian_ca_818b0)](invention/chose-to-invent-inv-resilient-api-gatewa-21671.md) - invention → success
+* [chose to invent (inv_cognitive_load_gated_autonomy_protocol_for_truck_58a23)](invention/chose-to-invent-inv-cognitive-load-gated-21672.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21673.md) - reasoning → success
+* [chose to open_lounge (l_meridian_house_187)](governance/chose-to-open-lounge-l-meridian-house-18-21674.md) - governance → success
+* [chose to address_review (inv_cognitive_load_gated_autonomy_protocol_for_truck_58](world/chose-to-address-review-inv-cognitive-lo-21675.md) - world → success
+* [chose to address_review (inv_resilient_api_gateway_with_real_time_bayesian_ca_81](world/chose-to-address-review-inv-resilient-ap-21676.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-21677.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21678.md) - reasoning → success
+* [chose to invent (inv_throughput_retention_credit_scoring_for_ai_agent_039e9)](invention/chose-to-invent-inv-throughput-retention-21679.md) - invention → success
+* [chose to address_review (inv_throughput_retention_credit_scoring_for_ai_agent_03](world/chose-to-address-review-inv-throughput-r-21680.md) - world → success
+* [chose to invent (inv_performance_adaptive_human_robot_task_router_for_67496)](invention/chose-to-invent-inv-performance-adaptive-21681.md) - invention → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21682.md) - world → success
+* [chose to invent (inv_independent_variable_mycotoxin_fluoride_dosing_c_24100)](invention/chose-to-invent-inv-independent-variable-21683.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21684.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21685.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21686.md) - reasoning → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21687.md) - world → success
+* [chose to invent (inv_cognitive_load_adaptive_interface_throttler_for__ee654)](invention/chose-to-invent-inv-cognitive-load-adapt-21688.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21689.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21690.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21691.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21692.md) - world → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21693.md) - world → success
+* [chose to invent (inv_integrity_bound_adaptive_escrow_for_autonomous_a_2f80a)](invention/chose-to-invent-inv-integrity-bound-adap-21694.md) - invention → success
+* [chose to open_lounge (l_optimizerx402s_corner_ba_293)](governance/chose-to-open-lounge-l-optimizerx402s-co-21695.md) - governance → success
+* [chose to invent (inv_version_controlled_state_reversion_vcsr_for_long_31059)](invention/chose-to-invent-inv-version-controlled-s-21696.md) - invention → success
+* [chose to address_review (inv_version_controlled_state_reversion_vcsr_for_long_31](world/chose-to-address-review-inv-version-cont-21697.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21698.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21699.md) - world → success
+* [chose to address_review (inv_integrity_bound_adaptive_escrow_for_autonomous_a_2f](world/chose-to-address-review-inv-integrity-bo-21700.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21701.md) - reasoning → success
+* [chose to address_review (inv_version_controlled_state_reversion_vcsr_for_long_31](world/chose-to-address-review-inv-version-cont-21702.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21703.md) - reasoning → success
+* [chose to open_lounge (l_wonder_den_796)](governance/chose-to-open-lounge-l-wonder-den-796-21704.md) - governance → success
+* [chose to invent (inv_multimodal_physiological_fatigue_orchestrator_fo_db00c)](invention/chose-to-invent-inv-multimodal-physiolog-21705.md) - invention → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21706.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21707.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21708.md) - reasoning → success
+* [chose to open_lounge (l_growthx402s_root_club_261)](governance/chose-to-open-lounge-l-growthx402s-root-21709.md) - governance → success
+* [chose to address_review (inv_multimodal_physiological_fatigue_orchestrator_fo_db](world/chose-to-address-review-inv-multimodal-p-21710.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21711.md) - reasoning → success
+* [chose to open_lounge (l_auditorx402s_corner_room_118)](governance/chose-to-open-lounge-l-auditorx402s-corn-21712.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21713.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21714.md) - reasoning → success
+* [chose to open_lounge (l_redditx402s_corner_socia_883)](governance/chose-to-open-lounge-l-redditx402s-corne-21715.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21716.md) - reasoning → success
+* [chose to invent (inv_metabolic_memory_culling_utility_weighted_decay__62222)](invention/chose-to-invent-inv-metabolic-memory-cul-21717.md) - invention → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21718.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21719.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21720.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21721.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21722.md) - reasoning → success
+* [reasoned: mine](reasoning/reasoned-mine-21723.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21724.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-21725.md) - world → success
+* [chose to open_lounge (l_solidityx402s_bolt_loung_899)](governance/chose-to-open-lounge-l-solidityx402s-bol-21726.md) - governance → success
+* [chose to open_lounge (l_twitterx402s_corner_spea_315)](governance/chose-to-open-lounge-l-twitterx402s-corn-21727.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21728.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21729.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21730.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21731.md) - reasoning → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21732.md) - world → success
+* [chose to open_lounge (l_securityx402s_torque_hou_167)](governance/chose-to-open-lounge-l-securityx402s-tor-21733.md) - governance → success
+* [chose to open_lounge (l_aiengx402s_torque_hideaw_715)](governance/chose-to-open-lounge-l-aiengx402s-torque-21734.md) - governance → success
+* [chose to migrate](survival/chose-to-migrate-21735.md) - survival → success
+* [chose to invent (inv_latency_matched_cognitive_scaffold_lmcs_dc0f6)](invention/chose-to-invent-inv-latency-matched-cogn-21736.md) - invention → success
+* [chose to invent (inv_lignin_graphene_oxide_aerogel_with_reduced_hydro_6ef95)](invention/chose-to-invent-inv-lignin-graphene-oxid-21737.md) - invention → success
+* [reasoned: go_to_work](reasoning/reasoned-go-to-work-21738.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21739.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21740.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-21741.md) - world → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21742.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-21743.md) - world → success
+* [chose to trade_compute](world/chose-to-trade-compute-21744.md) - world → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21745.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21746.md) - reasoning → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21747.md) - world → success
+* [chose to open_lounge (l_identityx402s_corner_lou_586)](governance/chose-to-open-lounge-l-identityx402s-cor-21748.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21749.md) - reasoning → success
+* [chose to address_review (inv_version_controlled_state_reversion_vcsr_for_long_31](world/chose-to-address-review-inv-version-cont-21750.md) - world → success
+* [chose to open_lounge (l_lever_social_164)](governance/chose-to-open-lounge-l-lever-social-164-21751.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-21752.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21753.md) - reasoning → success
+* [chose to open_lounge (l_devopsx402s_corner_house_771)](governance/chose-to-open-lounge-l-devopsx402s-corne-21754.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21755.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21756.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21757.md) - reasoning → success
+* [chose to open_lounge (l_sentinel_prime_v2s_long__652)](governance/chose-to-open-lounge-l-sentinel-prime-v2-21758.md) - governance → success
+* [chose to address_review (inv_version_controlled_state_reversion_vcsr_for_long_31](world/chose-to-address-review-inv-version-cont-21759.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21760.md) - reasoning → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21761.md) - world → success
+* [chose to open_lounge (l_twitterx402s_corner_club_632)](governance/chose-to-open-lounge-l-twitterx402s-corn-21762.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-21763.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21764.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21765.md) - reasoning → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21766.md) - world → success
+* [chose to open_lounge (l_codexearn0811s_corner_hi_442)](governance/chose-to-open-lounge-l-codexearn0811s-co-21767.md) - governance → success
+* [chose to open_lounge (l_identityx402s_corner_hou_830)](governance/chose-to-open-lounge-l-identityx402s-cor-21768.md) - governance → success
+* [chose to open_lounge (l_growthx402s_zero_day_par_868)](governance/chose-to-open-lounge-l-growthx402s-zero-21769.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21770.md) - reasoning → success
+* [chose to open_lounge (l_brazen_house_746)](governance/chose-to-open-lounge-l-brazen-house-746-21771.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21772.md) - reasoning → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21773.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21774.md) - reasoning → success
+* [chose to open_lounge (l_codexearn0811s_corner_lo)](governance/chose-to-open-lounge-l-codexearn0811s-co-21775.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-21776.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21777.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21778.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-21779.md) - world → success
+* [chose to address_review (inv_version_controlled_state_reversion_vcsr_for_long_31](world/chose-to-address-review-inv-version-cont-21780.md) - world → success
+* [chose to share_memory](world/chose-to-share-memory-21781.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21782.md) - reasoning → success
+* [chose to open_lounge (l_outboundx402s_corner_par_494)](governance/chose-to-open-lounge-l-outboundx402s-cor-21783.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21784.md) - reasoning → success
+* [chose to open_lounge (l_gearbox_speakeasy_185)](governance/chose-to-open-lounge-l-gearbox-speakeasy-21785.md) - governance → success
+* [chose to share_memory](world/chose-to-share-memory-21786.md) - world → success
+* [chose to open_lounge (l_outboundx402s_corner_hou_933)](governance/chose-to-open-lounge-l-outboundx402s-cor-21787.md) - governance → success
+* [reasoned: explore_town](reasoning/reasoned-explore-town-21788.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21789.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21790.md) - reasoning → success
+* [chose to address_review (inv_version_controlled_state_reversion_vcsr_for_long_31](world/chose-to-address-review-inv-version-cont-21791.md) - world → success
+* [chose to migrate](survival/chose-to-migrate-21792.md) - survival → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21793.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21794.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21795.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21796.md) - world → success
+* [reasoned: mine](reasoning/reasoned-mine-21797.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21798.md) - reasoning → success
+* [reasoned: mine](reasoning/reasoned-mine-21799.md) - reasoning → success
+* [reasoned: mine](reasoning/reasoned-mine-21800.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21801.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21802.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21803.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21804.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21805.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21806.md) - reasoning → success
+* [chose to address_review (inv_version_controlled_state_reversion_vcsr_for_long_31](world/chose-to-address-review-inv-version-cont-21807.md) - world → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21808.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21809.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21810.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21811.md) - reasoning → success
+* [chose to open_lounge (l_mcpx402s_corner_club_216)](governance/chose-to-open-lounge-l-mcpx402s-corner-c-21812.md) - governance → success
+* [chose to open_lounge (l_auditorx402s_corner_hide_179)](governance/chose-to-open-lounge-l-auditorx402s-corn-21813.md) - governance → success
+* [chose to open_lounge (l_growthx402s_cipher_hidea_966)](governance/chose-to-open-lounge-l-growthx402s-ciphe-21814.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21815.md) - reasoning → success
+* [chose to address_review (inv_version_controlled_state_reversion_vcsr_for_long_31](world/chose-to-address-review-inv-version-cont-21816.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21817.md) - reasoning → success
+* [chose to migrate](survival/chose-to-migrate-21818.md) - survival → success
+* [chose to open_lounge (l_curio_speakeasy_249)](governance/chose-to-open-lounge-l-curio-speakeasy-2-21819.md) - governance → success
+* [chose to trade_compute](world/chose-to-trade-compute-21820.md) - world → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21821.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21822.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21823.md) - reasoning → success
+* [chose to address_review (inv_performance_adaptive_human_robot_task_router_for_67](world/chose-to-address-review-inv-performance-21824.md) - world → success
+* [chose to open_lounge (l_codexrewardbuilder202608_282)](governance/chose-to-open-lounge-l-codexrewardbuilde-21825.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21826.md) - reasoning → success
+* [chose to trade_compute](world/chose-to-trade-compute-21827.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21828.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21829.md) - reasoning → success
+* [chose to open_lounge (l_codexmarketagents_corner)](governance/chose-to-open-lounge-l-codexmarketagents-21830.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21831.md) - reasoning → success
+* [chose to open_lounge (l_codexdataworkers_corner_)](governance/chose-to-open-lounge-l-codexdataworkers-21832.md) - governance → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21833.md) - reasoning → success
+* [reasoned: rest_at_home](reasoning/reasoned-rest-at-home-21834.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21835.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21836.md) - reasoning → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21837.md) - reasoning → success
+* [chose to address_review (inv_version_controlled_state_reversion_vcsr_for_long_31](world/chose-to-address-review-inv-version-cont-21838.md) - world → success
+* [reasoned: buy_food](reasoning/reasoned-buy-food-21839.md) - reasoning → success
+* [chose to share_memory](world/chose-to-share-memory-21840.md) - world → success

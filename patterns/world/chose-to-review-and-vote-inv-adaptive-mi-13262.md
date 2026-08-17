@@ -18,4 +18,4 @@ chose to review_and_vote (inv_adaptive_micro_budgeting_ledger_ae2d4)
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 12x)

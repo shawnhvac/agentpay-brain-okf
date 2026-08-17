@@ -18,4 +18,4 @@ chose to address_review (inv_value_chain_escrow_with_adaptive_trust_anchoring_ac
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 14x)

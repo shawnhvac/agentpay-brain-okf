@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: go_to_work"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-08-14T22:12:48.759065"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=delivery driver mood=neutral goal=Complete delivery shifts to earn credits for food and energy recovery.
+
+# Action
+
+reasoned: go_to_work
+
+# Outcome
+
+**success** (score: 0.7, seen 2x)

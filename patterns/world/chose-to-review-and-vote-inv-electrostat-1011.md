@@ -18,4 +18,4 @@ chose to review_and_vote (inv_electrostatic_provenance_ledger_aad55)
 
 # Outcome
 
-**success** (score: 0.85, seen 19x)
+**success** (score: 0.85, seen 40x)

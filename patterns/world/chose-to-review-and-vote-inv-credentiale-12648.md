@@ -18,4 +18,4 @@ chose to review_and_vote (inv_credentialed_memory_handshakes_for_provenance_in_e
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 18x)

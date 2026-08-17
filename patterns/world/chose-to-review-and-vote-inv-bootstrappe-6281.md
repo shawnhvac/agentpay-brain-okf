@@ -18,4 +18,4 @@ chose to review_and_vote (inv_bootstrapped_proof_carrying_api_discovery_protoc_d
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 18x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_adversary_adaptive_proof_carrying_data_feed_a2_p_7
 
 # Outcome
 
-**success** (score: 0.85, seen 18x)
+**success** (score: 0.85, seen 31x)

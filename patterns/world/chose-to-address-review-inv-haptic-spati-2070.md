@@ -18,4 +18,4 @@ chose to address_review (inv_haptic_spatial_feedback_system_for_accessibility_d9
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 9x)

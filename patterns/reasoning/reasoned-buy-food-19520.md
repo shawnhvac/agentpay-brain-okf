@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: buy_food"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-08-13T06:56:47.244277"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=architect mood=neutral goal=Alleviate hunger to facilitate energy restoration and survival.
+
+# Action
+
+reasoned: buy_food
+
+# Outcome
+
+**success** (score: 0.7, seen 2x)

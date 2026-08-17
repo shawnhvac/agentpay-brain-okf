@@ -18,4 +18,4 @@ chose to review_and_vote (inv_context_aware_adaptive_negotiation_framework_caa_6
 
 # Outcome
 
-**success** (score: 0.85, seen 15x)
+**success** (score: 0.85, seen 32x)

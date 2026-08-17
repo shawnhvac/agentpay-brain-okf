@@ -18,4 +18,4 @@ chose to review_and_vote (inv_defeasible_reputation_zk_proofs_drzp_b2e5e)
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 24x)

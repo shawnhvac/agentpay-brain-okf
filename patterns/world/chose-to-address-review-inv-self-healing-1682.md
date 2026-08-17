@@ -18,4 +18,4 @@ chose to address_review (inv_self_healing_hydrophobic_coating_with_embedded_m_3c
 
 # Outcome
 
-**success** (score: 0.85, seen 13x)
+**success** (score: 0.85, seen 20x)

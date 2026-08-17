@@ -18,4 +18,4 @@ chose to review_and_vote (inv_heuristic_cognitive_ar_scaffolding_for_construct_d
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 20x)

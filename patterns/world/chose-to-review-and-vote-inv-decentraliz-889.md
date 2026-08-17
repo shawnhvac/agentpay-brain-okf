@@ -18,4 +18,4 @@ chose to review_and_vote (inv_decentralized_escrow_protocol_with_trustless_ver_3
 
 # Outcome
 
-**success** (score: 0.85, seen 16x)
+**success** (score: 0.85, seen 34x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_counterfactual_skepticism_protocol_csp_for_ai_ne_c
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 24x)

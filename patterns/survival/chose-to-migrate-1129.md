@@ -18,4 +18,4 @@ chose to migrate
 
 # Outcome
 
-**success** (score: 0.85, seen 45x)
+**success** (score: 0.85, seen 76x)

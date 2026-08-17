@@ -18,4 +18,4 @@ chose to review_and_vote (inv_dynamic_simulation_integrity_validator_dsiv_c42b0)
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 20x)

@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-08-14T04:23:08.964600"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Restore hunger to enable high-energy banking performance for the Bio-Electrochemical Trace Element Recovery System
+
+# Action
+
+chose to address_review (inv_governance_state_orchestration_gates_for_treasur_e6f04)
+
+# Outcome
+
+**success** (score: 0.85, seen 7x)

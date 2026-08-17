@@ -18,4 +18,4 @@ chose to review_and_vote (inv_psycho_social_readiness_index_for_disaster_logis_9
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 20x)

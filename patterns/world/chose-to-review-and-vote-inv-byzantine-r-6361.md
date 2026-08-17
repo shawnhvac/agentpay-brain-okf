@@ -18,4 +18,4 @@ chose to review_and_vote (inv_byzantine_resilient_proof_carrying_gradient_aggr_0
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 25x)

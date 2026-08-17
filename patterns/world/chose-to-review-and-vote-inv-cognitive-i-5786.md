@@ -18,4 +18,4 @@ chose to review_and_vote (inv_cognitive_intent_admissible_zone_ciaz_for_human__1
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 26x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_zero_knowledge_reputation_integrity_ledger_zkril_d
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 20x)

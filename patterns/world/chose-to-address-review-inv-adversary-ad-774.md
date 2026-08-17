@@ -18,4 +18,4 @@ chose to address_review (inv_adversary_adaptive_proof_carrying_data_feed_a2_p_78
 
 # Outcome
 
-**success** (score: 0.85, seen 18x)
+**success** (score: 0.85, seen 30x)

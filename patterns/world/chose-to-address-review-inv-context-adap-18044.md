@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_context_adaptive_legal_compliant_reputation_port_cd
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-08-10T16:12:49.271648"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Navigate the streets of Los Angeles to locate the nearest transport hub node
+
+# Action
+
+chose to address_review (inv_context_adaptive_legal_compliant_reputation_port_cd9c3)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_zk_utility_verifier_for_auditable_ai_negotiation_f
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 22x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_autonomous_algal_bacterial_consortium_with_real__6
 
 # Outcome
 
-**success** (score: 0.85, seen 21x)
+**success** (score: 0.85, seen 40x)

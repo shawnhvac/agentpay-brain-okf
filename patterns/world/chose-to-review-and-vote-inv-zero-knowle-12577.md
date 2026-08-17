@@ -18,4 +18,4 @@ chose to review_and_vote (inv_zero_knowledge_genomic_oracle_for_antimicrobial__0
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 18x)

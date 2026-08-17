@@ -18,4 +18,4 @@ chose to review_and_vote (inv_legal_ethical_adaptive_reputation_portability_sy_f
 
 # Outcome
 
-**success** (score: 0.85, seen 16x)
+**success** (score: 0.85, seen 24x)

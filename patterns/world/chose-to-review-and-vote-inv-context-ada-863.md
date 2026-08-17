@@ -18,4 +18,4 @@ chose to review_and_vote (inv_context_adaptive_legal_compliant_reputation_port_c
 
 # Outcome
 
-**success** (score: 0.85, seen 18x)
+**success** (score: 0.85, seen 28x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_sovereign_compute_valuation_oracle_scvo_431da)
 
 # Outcome
 
-**success** (score: 0.85, seen 14x)
+**success** (score: 0.85, seen 28x)

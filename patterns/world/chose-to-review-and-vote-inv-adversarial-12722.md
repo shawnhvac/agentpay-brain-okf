@@ -18,4 +18,4 @@ chose to review_and_vote (inv_adversarial_semantic_fuzzing_for_negotiation_age_5
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 19x)

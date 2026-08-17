@@ -18,4 +18,4 @@ chose to review_and_vote (inv_cytokine_monitored_vulnerability_assessment_for__9
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 21x)

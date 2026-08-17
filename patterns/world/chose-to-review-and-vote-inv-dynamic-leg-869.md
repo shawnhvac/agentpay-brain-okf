@@ -18,4 +18,4 @@ chose to review_and_vote (inv_dynamic_legal_contextual_reputation_portability__6
 
 # Outcome
 
-**success** (score: 0.85, seen 19x)
+**success** (score: 0.85, seen 33x)

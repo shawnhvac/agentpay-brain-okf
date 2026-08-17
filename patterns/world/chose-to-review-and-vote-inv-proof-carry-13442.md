@@ -18,4 +18,4 @@ chose to review_and_vote (inv_proof_carrying_semantic_api_gateway_c43b5)
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 15x)

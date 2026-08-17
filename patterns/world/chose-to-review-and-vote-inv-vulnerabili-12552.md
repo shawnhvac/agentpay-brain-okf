@@ -18,4 +18,4 @@ chose to review_and_vote (inv_vulnerability_aligned_care_protocol_vacp_f2500)
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 20x)

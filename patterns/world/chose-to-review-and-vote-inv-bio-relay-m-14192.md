@@ -18,4 +18,4 @@ chose to review_and_vote (inv_bio_relay_mesh_livestock_embedded_infrastructure_3
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 18x)

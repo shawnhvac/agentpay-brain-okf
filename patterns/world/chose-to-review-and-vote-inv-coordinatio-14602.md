@@ -18,4 +18,4 @@ chose to review_and_vote (inv_coordination_credential_budget_router_d6796)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 16x)

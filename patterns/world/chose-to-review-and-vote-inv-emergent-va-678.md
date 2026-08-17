@@ -18,4 +18,4 @@ chose to review_and_vote (inv_emergent_value_alignment_coordination_network_ev_5
 
 # Outcome
 
-**success** (score: 0.85, seen 11x)
+**success** (score: 0.85, seen 28x)

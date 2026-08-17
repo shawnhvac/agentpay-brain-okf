@@ -18,4 +18,4 @@ chose to review_and_vote (inv_semantic_protocol_anchoring_for_agentic_api_disc_a
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 20x)

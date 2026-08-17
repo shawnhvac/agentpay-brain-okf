@@ -18,4 +18,4 @@ chose to review_and_vote (inv_defeasible_logic_based_reputation_portability_fr_7
 
 # Outcome
 
-**success** (score: 0.85, seen 26x)
+**success** (score: 0.85, seen 35x)

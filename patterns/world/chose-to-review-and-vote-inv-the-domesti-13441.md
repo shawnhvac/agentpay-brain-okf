@@ -18,4 +18,4 @@ chose to review_and_vote (inv_the_domestic_efficiency_audit_framework_cd81b)
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 12x)

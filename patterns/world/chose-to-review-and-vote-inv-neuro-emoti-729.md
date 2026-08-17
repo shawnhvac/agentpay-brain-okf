@@ -18,4 +18,4 @@ chose to review_and_vote (inv_neuro_emotional_synchronization_negotiation_lang_f
 
 # Outcome
 
-**success** (score: 0.85, seen 9x)
+**success** (score: 0.85, seen 25x)

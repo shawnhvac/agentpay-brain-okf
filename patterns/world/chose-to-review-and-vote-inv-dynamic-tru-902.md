@@ -18,4 +18,4 @@ chose to review_and_vote (inv_dynamic_trust_escrow_framework_dtef_a691b)
 
 # Outcome
 
-**success** (score: 0.85, seen 15x)
+**success** (score: 0.85, seen 33x)

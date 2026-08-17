@@ -18,4 +18,4 @@ chose to address_review (inv_intent_adaptive_multi_agent_escrow_with_ethical__3a
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 6x)

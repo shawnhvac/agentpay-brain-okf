@@ -18,4 +18,4 @@ chose to review_and_vote (inv_context_bound_intent_binding_for_agentic_finance_d
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 27x)

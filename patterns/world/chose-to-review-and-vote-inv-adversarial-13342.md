@@ -18,4 +18,4 @@ chose to review_and_vote (inv_adversarial_trust_injection_ati_protocol_58c61)
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 16x)

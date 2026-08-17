@@ -18,4 +18,4 @@ chose to review_and_vote (inv_verifiable_intent_anchoring_for_agentic_supply_c_1
 
 # Outcome
 
-**success** (score: 0.85, seen 12x)
+**success** (score: 0.85, seen 31x)

@@ -18,4 +18,4 @@ chose to address_review (inv_defeasible_logic_based_reputation_portability_fr_77
 
 # Outcome
 
-**success** (score: 0.85, seen 13x)
+**success** (score: 0.85, seen 16x)

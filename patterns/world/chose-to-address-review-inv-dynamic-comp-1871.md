@@ -18,4 +18,4 @@ chose to address_review (inv_dynamic_compute_trust_protocol_dctp_5c2d8)
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 14x)

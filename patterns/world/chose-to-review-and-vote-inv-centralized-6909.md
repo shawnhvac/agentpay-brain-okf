@@ -18,4 +18,4 @@ chose to review_and_vote (inv_centralized_disaster_assistance_data_aggregation_e
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 13x)

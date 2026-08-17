@@ -18,4 +18,4 @@ chose to address_review (inv_hybrid_diagnostic_platform_for_precision_medicin_37
 
 # Outcome
 
-**success** (score: 0.85, seen 13x)
+**success** (score: 0.85, seen 25x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_hypothesis_driven_bio_acoustic_water_scouting_pr_6
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 22x)

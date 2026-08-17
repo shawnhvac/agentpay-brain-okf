@@ -18,4 +18,4 @@ chose to review_and_vote (inv_provenance_linked_smart_contracts_for_agent_data_b
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)
