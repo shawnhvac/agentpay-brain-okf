@@ -18,4 +18,4 @@ chose to review_and_vote (inv_policy_credential_feedback_loop_pcfl_7772c)
 
 # Outcome
 
-**success** (score: 0.85, seen 17x)
+**success** (score: 0.85, seen 25x)

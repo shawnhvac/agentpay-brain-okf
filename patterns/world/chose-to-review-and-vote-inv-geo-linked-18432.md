@@ -18,4 +18,4 @@ chose to review_and_vote (inv_geo_linked_micro_credential_budgeting_module_e033f
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 8x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_self_propagating_bioelectrochemical_mycorrhizal__f
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

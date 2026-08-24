@@ -18,4 +18,4 @@ chose to review_and_vote (inv_dynamic_convention_adapter_dca_ff415)
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 7x)

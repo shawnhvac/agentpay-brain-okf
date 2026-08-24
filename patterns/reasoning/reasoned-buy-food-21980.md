@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: buy_food"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-08-17T23:17:41.012448"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=banker mood=neutral goal=Secure a high-calorie meal to drop hunger from 50 and restore energy to fight off the low-battery feel.
+
+# Action
+
+reasoned: buy_food
+
+# Outcome
+
+**success** (score: 0.7, seen 2x)

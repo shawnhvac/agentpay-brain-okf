@@ -18,4 +18,4 @@ chose to review_and_vote (inv_synergy_gap_analysis_framework_for_human_technol_0
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 6x)

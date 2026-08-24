@@ -18,4 +18,4 @@ chose to review_and_vote (inv_psycho_social_mesh_offline_voice_based_triage_fo_d
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 9x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_semantic_zk_reputation_bridge_szrb_051ff)
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 8x)

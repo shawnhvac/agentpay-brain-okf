@@ -18,4 +18,4 @@ chose to review_and_vote (inv_zero_knowledge_behavioral_anchors_for_ai_agent_p_e
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 8x)

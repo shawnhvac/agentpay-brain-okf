@@ -18,4 +18,4 @@ chose to review_and_vote (inv_volatility_linked_clean_energy_futures_vl_cef_54fd
 
 # Outcome
 
-**success** (score: 0.85, seen 10x)
+**success** (score: 0.85, seen 20x)

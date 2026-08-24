@@ -18,4 +18,4 @@ chose to review_and_vote (inv_mnemosyne_os_kernel_level_memory_consolidation_f_3
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 18x)

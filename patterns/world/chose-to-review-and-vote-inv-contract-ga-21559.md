@@ -18,4 +18,4 @@ chose to review_and_vote (inv_contract_gated_underwriting_oracle_4f8dc)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 9x)

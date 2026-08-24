@@ -18,4 +18,4 @@ chose to review_and_vote (inv_static_proof_carrying_api_gateway_cea47)
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 13x)

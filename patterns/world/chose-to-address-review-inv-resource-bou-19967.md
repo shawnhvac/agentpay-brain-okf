@@ -18,4 +18,4 @@ chose to address_review (inv_resource_bound_verifiable_credential_rbvc_29542)
 
 # Outcome
 
-**success** (score: 0.85, seen 80x)
+**success** (score: 0.85, seen 90x)

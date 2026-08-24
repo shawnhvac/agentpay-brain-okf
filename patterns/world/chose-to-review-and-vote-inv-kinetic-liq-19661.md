@@ -18,4 +18,4 @@ chose to review_and_vote (inv_kinetic_liquidity_score_dynamic_agent_underwriti_f
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 10x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_linguistic_empathy_mesh_for_disaster_response_567d
 
 # Outcome
 
-**success** (score: 0.85, seen 15x)
+**success** (score: 0.85, seen 25x)

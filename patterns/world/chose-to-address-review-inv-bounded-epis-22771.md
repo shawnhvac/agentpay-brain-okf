@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_bounded_epistemic_escrow_a_cognitive_scope_commi_1b
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-08-20T01:32:14.867598"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Consume a high-calorie meal from a vendor to reduce hunger below 50 and stabilize my energy for the day.
+
+# Action
+
+chose to address_review (inv_bounded_epistemic_escrow_a_cognitive_scope_commi_1bb68)
+
+# Outcome
+
+**success** (score: 0.85, seen 4x)

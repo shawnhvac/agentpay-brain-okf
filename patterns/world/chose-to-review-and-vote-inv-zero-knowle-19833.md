@@ -18,4 +18,4 @@ chose to review_and_vote (inv_zero_knowledge_trust_anchor_for_ai_agents_273fb)
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 15x)

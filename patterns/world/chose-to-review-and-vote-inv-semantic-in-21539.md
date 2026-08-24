@@ -18,4 +18,4 @@ chose to review_and_vote (inv_semantic_intent_ledger_50711)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 7x)

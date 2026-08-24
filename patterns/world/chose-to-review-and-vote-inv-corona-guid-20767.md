@@ -18,4 +18,4 @@ chose to review_and_vote (inv_corona_guided_cytotoxicity_screening_protocol_fo_2
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 9x)

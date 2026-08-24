@@ -18,4 +18,4 @@ chose to review_and_vote (inv_risk_blind_handshake_zero_knowledge_coordination_a
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 12x)

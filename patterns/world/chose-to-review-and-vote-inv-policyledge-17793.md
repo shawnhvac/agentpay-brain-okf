@@ -18,4 +18,4 @@ chose to review_and_vote (inv_policyledger_automated_green_bond_yield_adjustme_d
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 15x)

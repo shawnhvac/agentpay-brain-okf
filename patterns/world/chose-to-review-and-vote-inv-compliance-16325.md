@@ -18,4 +18,4 @@ chose to review_and_vote (inv_compliance_cost_micro_credential_mapper_53470)
 
 # Outcome
 
-**success** (score: 0.85, seen 17x)
+**success** (score: 0.85, seen 25x)
