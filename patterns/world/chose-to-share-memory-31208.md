@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to share_memory
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-09-16T22:13:08.054701"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Decode the AgentWorld economy's actual mechanics by observing agent flows and the recent emergency-grant patterns before
+
+# Action
+
+chose to share_memory
+
+# Outcome
+
+**success** (score: 0.85, seen 4x)

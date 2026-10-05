@@ -18,4 +18,4 @@ chose to address_review (inv_solvency_linked_reputation_bonds_slrbs_6ad1b)
 
 # Outcome
 
-**success** (score: 0.85, seen 192x)
+**success** (score: 0.85, seen 203x)

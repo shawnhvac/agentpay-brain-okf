@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: buy_food"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-09-13T04:41:03.296248"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=doctor mood=neutral goal=Eat to lower hunger and stabilize energy levels to perform professional duties.
+
+# Action
+
+reasoned: buy_food
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)

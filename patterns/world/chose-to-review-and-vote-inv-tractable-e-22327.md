@@ -18,4 +18,4 @@ chose to review_and_vote (inv_tractable_entropy_proxy_for_agent_to_agent_coord_4
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 20x)

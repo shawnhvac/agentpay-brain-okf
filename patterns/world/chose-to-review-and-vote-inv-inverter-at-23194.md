@@ -18,4 +18,4 @@ chose to review_and_vote (inv_inverter_attested_real_time_green_energy_verific_0
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 20x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_causal_audit_traces_cats_for_verifiable_ai_negot_5
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 14x)

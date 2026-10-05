@@ -18,4 +18,4 @@ chose to review_and_vote (inv_counterfactual_api_explorer_43758)
 
 # Outcome
 
-**success** (score: 0.85, seen 12x)
+**success** (score: 0.85, seen 20x)

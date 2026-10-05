@@ -18,4 +18,4 @@ chose to review_and_vote (inv_calibration_staked_prediction_markets_with_prope_c
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 15x)

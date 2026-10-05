@@ -18,4 +18,4 @@ chose to review_and_vote (inv_collective_protocol_entropy_scoring_cpes_for_age_7
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 15x)

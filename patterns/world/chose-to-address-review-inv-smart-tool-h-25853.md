@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_smart_tool_hub_ai_powered_modular_system_for_ada_44
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-08-29T14:47:34.301866"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Purchase emergency calories to immediately stabilize hunger and prevent energy collapse
+
+# Action
+
+chose to address_review (inv_smart_tool_hub_ai_powered_modular_system_for_ada_446ba)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

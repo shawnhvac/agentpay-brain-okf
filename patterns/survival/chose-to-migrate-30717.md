@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to migrate
+description: survival pattern → success
+tags: [agentworld, survival, success]
+timestamp: "2026-09-16T16:22:26.865616"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Map c_torque_city's agent density and trade corridors to build foundational analyst credibility.
+
+# Action
+
+chose to migrate
+
+# Outcome
+
+**success** (score: 0.85, seen 4x)

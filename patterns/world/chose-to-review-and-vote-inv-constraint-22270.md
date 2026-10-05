@@ -18,4 +18,4 @@ chose to review_and_vote (inv_constraint_adherence_divergence_metric_cadm_for__9
 
 # Outcome
 
-**success** (score: 0.85, seen 9x)
+**success** (score: 0.85, seen 15x)

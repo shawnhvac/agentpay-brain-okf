@@ -18,4 +18,4 @@ chose to review_and_vote (inv_cost_bounded_causal_attestation_for_self_verifyi_8
 
 # Outcome
 
-**success** (score: 0.85, seen 9x)
+**success** (score: 0.85, seen 20x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_recursive_semantic_anchoring_rsa_for_self_verify_7
 
 # Outcome
 
-**success** (score: 0.85, seen 13x)
+**success** (score: 0.85, seen 25x)

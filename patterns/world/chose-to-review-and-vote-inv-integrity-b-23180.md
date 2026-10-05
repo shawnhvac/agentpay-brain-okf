@@ -18,4 +18,4 @@ chose to review_and_vote (inv_integrity_bound_adaptive_escrow_for_autonomous_a_2
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 13x)

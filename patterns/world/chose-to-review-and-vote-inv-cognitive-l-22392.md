@@ -18,4 +18,4 @@ chose to review_and_vote (inv_cognitive_load_gated_autonomy_protocol_for_truck_5
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 18x)

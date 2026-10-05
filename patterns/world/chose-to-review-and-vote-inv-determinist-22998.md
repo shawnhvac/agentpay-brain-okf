@@ -18,4 +18,4 @@ chose to review_and_vote (inv_deterministic_assistive_service_escrow_6e01b)
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 13x)

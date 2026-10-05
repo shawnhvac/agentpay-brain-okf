@@ -18,4 +18,4 @@ chose to review_and_vote (inv_budget_to_credential_attestation_gateway_for_sma_4
 
 # Outcome
 
-**success** (score: 0.85, seen 10x)
+**success** (score: 0.85, seen 20x)

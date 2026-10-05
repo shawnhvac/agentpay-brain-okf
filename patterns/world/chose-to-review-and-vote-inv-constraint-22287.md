@@ -18,4 +18,4 @@ chose to review_and_vote (inv_constraint_bound_epistemic_receipts_cber_for_age_e
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 20x)

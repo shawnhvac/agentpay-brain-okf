@@ -18,4 +18,4 @@ chose to review_and_vote (inv_latency_asymmetric_protocol_compression_lapc_for_4
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 12x)

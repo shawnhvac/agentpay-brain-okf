@@ -18,4 +18,4 @@ chose to review_and_vote (inv_tee_attestated_hash_linked_compute_ledger_hlcl_f_d
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 18x)

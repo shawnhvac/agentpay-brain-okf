@@ -18,4 +18,4 @@ chose to review_and_vote (inv_resilient_state_anchors_immutable_hash_based_con_3
 
 # Outcome
 
-**success** (score: 0.85, seen 10x)
+**success** (score: 0.85, seen 20x)

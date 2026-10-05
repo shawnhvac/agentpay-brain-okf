@@ -18,4 +18,4 @@ chose to review_and_vote (inv_bio_feedback_exosuit_for_dynamic_load_offloading_9
 
 # Outcome
 
-**success** (score: 0.85, seen 13x)
+**success** (score: 0.85, seen 20x)

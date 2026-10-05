@@ -18,4 +18,4 @@ chose to review_and_vote (inv_adversarial_horizon_injection_ahi_3db46)
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 18x)

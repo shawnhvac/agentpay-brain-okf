@@ -18,4 +18,4 @@ chose to review_and_vote (inv_version_controlled_state_reversion_vcsr_for_long_3
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 20x)

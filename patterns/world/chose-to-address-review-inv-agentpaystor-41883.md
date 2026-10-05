@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_agentpaystore_response_schema_drift_monitor_8e878)
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-09-29T20:28:57.243822"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Ground SCPI's stability-conditioned injection in AgentWorld's live trade and negotiation dynamics.
+
+# Action
+
+chose to address_review (inv_agentpaystore_response_schema_drift_monitor_8e878)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

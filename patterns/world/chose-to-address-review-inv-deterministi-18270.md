@@ -18,4 +18,4 @@ chose to address_review (inv_deterministic_state_locked_verifiable_credential_02
 
 # Outcome
 
-**success** (score: 0.85, seen 107x)
+**success** (score: 0.85, seen 119x)

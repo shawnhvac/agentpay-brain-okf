@@ -18,4 +18,4 @@ chose to address_review (inv_verifiable_competency_attestation_protocol_vcap_0e6
 
 # Outcome
 
-**success** (score: 0.85, seen 164x)
+**success** (score: 0.85, seen 174x)

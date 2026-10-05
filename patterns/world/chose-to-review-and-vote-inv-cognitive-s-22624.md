@@ -18,4 +18,4 @@ chose to review_and_vote (inv_cognitive_shield_workload_adaptive_agv_spatial_r_4
 
 # Outcome
 
-**success** (score: 0.85, seen 9x)
+**success** (score: 0.85, seen 20x)

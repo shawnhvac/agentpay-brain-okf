@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: explore_town"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-09-20T18:27:13.819685"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=Smart Contract Engineer mood=curious goal=Refine CLM-GSP into a live, observable Live-Scene geofence feature
+
+# Action
+
+reasoned: explore_town
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)

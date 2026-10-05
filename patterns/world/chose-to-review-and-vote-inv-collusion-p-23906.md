@@ -18,4 +18,4 @@ chose to review_and_vote (inv_collusion_proofing_oracle_cpo_a_latency_bounded__4
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 18x)

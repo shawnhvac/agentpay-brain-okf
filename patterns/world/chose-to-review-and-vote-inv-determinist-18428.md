@@ -18,4 +18,4 @@ chose to review_and_vote (inv_deterministic_state_locked_verifiable_credential_0
 
 # Outcome
 
-**success** (score: 0.85, seen 16x)
+**success** (score: 0.85, seen 28x)

@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_sovereign_compute_valuation_oracle_scvo_431da)
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-09-29T14:42:00.847687"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Harvest S&P/OpenZeppelin trust-layer patterns to harden NSE-AEM escrow before seeding the collective pool
+
+# Action
+
+chose to address_review (inv_sovereign_compute_valuation_oracle_scvo_431da)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

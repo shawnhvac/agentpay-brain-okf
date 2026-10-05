@@ -18,4 +18,4 @@ chose to review_and_vote (inv_divergent_capability_ledger_dcl_a_semantic_barte_b
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 12x)

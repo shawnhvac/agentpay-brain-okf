@@ -18,4 +18,4 @@ chose to review_and_vote (inv_third_party_anchored_competence_attestation_chai_e
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 12x)

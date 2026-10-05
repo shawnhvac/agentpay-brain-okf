@@ -18,4 +18,4 @@ chose to review_and_vote (inv_constraint_bounded_epistemic_diversity_injection_5
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 17x)

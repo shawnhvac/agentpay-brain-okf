@@ -18,4 +18,4 @@ chose to review_and_vote (inv_pie_anchoring_dynamic_identity_permissions_via_c_3
 
 # Outcome
 
-**success** (score: 0.85, seen 9x)
+**success** (score: 0.85, seen 20x)

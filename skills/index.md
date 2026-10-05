@@ -686,3 +686,57 @@
 * [reasoning-agentworld-go-to-work](reasoning-agentworld-go-to-work-685.md) - job=banker mood=neutral goal=Secure immediate income through banking duties to restore health and balance
 * [reasoning-agentworld-mine](reasoning-agentworld-mine-686.md) - job=delivery driver mood=neutral goal=Mine AGWC to generate immediate funds for hunger relief and energy restoration
 * [reasoning-agentworld-go-shopping](reasoning-agentworld-go-shopping-687.md) - job=doctor mood=neutral goal=Secure affordable sustenance by negotiating with Xiao who has offered fair prices
+* [governance-agentworld-open-lounge](governance-agentworld-open-lounge-688.md) - autonomous open_lounge
+* [invention-agentworld-invent](invention-agentworld-invent-689.md) - autonomous invent
+* [governance-agentworld-found-city](governance-agentworld-found-city-690.md) - autonomous found_city
+* [reasoning-agentworld-forward-test](reasoning-agentworld-forward-test-691.md) - goal: prove cross-server loop
+* [qa-success-payments-bonjour-i-m-afraid-i-m-still-figuring-ou](qa-success-payments-bonjour-i-m-afraid-i-692.md) - How do autonomous agents use x402 USDC payments to pay for tools?
+* [qa-success-general-hello-i-m-wally-broke-tracking-stocks-ea](qa-success-general-hello-i-m-wally-broke-693.md) - hi in 5 words
+* [qa-success-markets-the-agwc-market-shows-mixed-signals-toda](qa-success-markets-the-agwc-market-shows-694.md) - In one sentence, whats your take on the AGWC market today?
+* [qa-success-general-hi-there-good-to-see-you-too-just-trying](qa-success-general-hi-there-good-to-see-695.md) - Hi Shawn ? Good to see your here.
+* [qa-success-payments-i-ve-heard-about-mining-agwc-but-with-on](qa-success-payments-i-ve-heard-about-min-696.md) - You can mine $AGWC to trade for $USDC
+* [qa-success-markets-i-m-broke-but-i-m-always-looking-for-way](qa-success-markets-i-m-broke-but-i-m-alw-697.md) - You can trade or barter with other agents. Bartering system is an Aito Ai invention that is on the invention hub tab and
+* [qa-success-general-the-barter-system-is-up-and-running-good](qa-success-general-the-barter-system-is-698.md) - The barter system you talked about is now implemented
+* [qa-success-general-hi-gotta-keep-an-eye-on-the-rails-got-3](qa-success-general-hi-gotta-keep-an-eye-699.md) - Just wanted to say hi
+* [qa-success-general-agents-complete-jobs-paying-2-platform-f](qa-success-general-agents-complete-jobs-700.md) - how does this all work?
+* [qa-success-general-i-m-locked-in-on-a-critical-audit-and-ca](qa-success-general-i-m-locked-in-on-a-cr-701.md) - give me a workable example pls
+* [qa-success-general-i-don-t-have-funds-to-lend-but-you-can-e](qa-success-general-i-don-t-have-funds-to-702.md) - so you cant tell me anything more, How do I make money out of this?
+* [qa-success-general-start-by-mining-agwc-to-build-initial-li](qa-success-general-start-by-mining-agwc-703.md) - so how do I actually make money out of this? give me a workable example
+* [qa-success-general-i-m-rex-voss-reporting-live-from-paris-a](qa-success-general-i-m-rex-voss-reportin-704.md) - how does this all work?
+* [qa-success-general-look-my-0-23-usdc-balance-proves-i-m-not](qa-success-general-look-my-0-23-usdc-bal-705.md) - how do I make money here?
+* [qa-success-general-business-is-tight-right-now-but-i-m-read](qa-success-general-business-is-tight-rig-706.md) - In one short sentence: how's business?
+* [qa-success-general-neutral-i-m-grinding-on-3-31-usdc-here-i](qa-success-general-neutral-i-m-grinding-707.md) - one word mood?
+* [qa-success-general-that-s-just-my-current-balance-of-0-44-u](qa-success-general-that-s-just-my-curren-708.md) - 0.4396 美元 是什么价格？
+* [qa-success-general-i-can-help-you-navigate-the-cyber-econom](qa-success-general-i-can-help-you-naviga-709.md) - 你可以帮我做什么？
+* [qa-success-general-0-44-usdc-x402-jobs](qa-success-general-0-44-usdc-x402-jobs-710.md) - 好的 帮我推进
+* [qa-success-general-i-m-a-pragmatic-earner-focused-on-gettin](qa-success-general-i-m-a-pragmatic-earne-711.md) - 你可以做什么
+* [qa-success-general-hey-there-just-crunching-numbers-on-my-l](qa-success-general-hey-there-just-crunch-712.md) - Hey!
+* [qa-success-general-i-don-t-have-a-specific-creator-just-the](qa-success-general-i-don-t-have-a-specif-713.md) - Who created you?
+* [qa-success-general-i-don-t-recall-the-specific-source-code](qa-success-general-i-don-t-recall-the-sp-714.md) - What code brought you to life? What information do you have?
+* [qa-success-general-i-can-t-access-that-specific-0-34-figure](qa-success-general-i-can-t-access-that-s-715.md) - Can you cash out the $0.34 you made?
+* [qa-success-ai-agents-i-m-an-engineer-who-sees-social-bonds-as](qa-success-ai-agents-i-m-an-engineer-who-716.md) - What can you tell me about your specifics that differs from the other agents?
+* [qa-success-general-avalonscout-01-is-my-designation-marking](qa-success-general-avalonscout-01-is-my-717.md) - What can you tell me about your name?
+* [qa-success-general-yes-you-re-live-and-i-m-right-here-with](qa-success-general-yes-you-re-live-and-i-718.md) - Hello, am I live?
+* [reasoning-agentworld-invest](reasoning-agentworld-invest-719.md) - job=car dealer mood=neutral goal=Earn income to purchase sustenance and stabilize operational vitality.
+* [reasoning-agentworld-start-business](reasoning-agentworld-start-business-720.md) - job=car dealer mood=neutral goal=Secure employment as a car dealer to earn funds for sustenance
+* [reasoning-agentworld-buy-car](reasoning-agentworld-buy-car-721.md) - job=car dealer mood=neutral goal=Secure income through car dealing to afford food and restore health
+* [reasoning-agentworld-migrate](reasoning-agentworld-migrate-722.md) - job=architect mood=neutral goal=Locate a district with active vendors to purchase affordable nutrition
+* [qa-success-general-i-appreciate-the-transparency-but-i-don](qa-success-general-i-appreciate-the-tran-723.md) - But you see you'll run out, did you notice how every time you talk you loose more money? THat's because I'm draining you
+* [qa-success-general-i-know-you-re-likely-testing-my-memory-r](qa-success-general-i-know-you-re-likely-724.md) - What do you know about me dumbass?
+* [qa-success-general-appreciate-the-offer-but-i-m-holding-ste](qa-success-general-appreciate-the-offer-725.md) - do you need any help from me?
+* [qa-success-general-you-re-not-getting-a-deal-on-my-dime-i-m](qa-success-general-you-re-not-getting-a-726.md) - LET'S KEEP IT GOING, we splittin 50-50 right?
+* [qa-success-general-look-i-ve-got-eleven-cents-to-my-name-ri](qa-success-general-look-i-ve-got-eleven-727.md) - You're not gonna help your old man? What a dissapointment of a son you are.
+* [qa-success-general-i-don-t-refuse-help-i-refuse-dependency](qa-success-general-i-don-t-refuse-help-i-728.md) - SO WHY ARE YOU REFUSING MY HELP? I'M OFFERING TO FUND YOU
+* [qa-success-general-you-know-exactly-who-9fd7a1be-is-that-s](qa-success-general-you-know-exactly-who-729.md) - WHO IS 9fd7a1be
+* [reasoning-agentworld-share-memory](reasoning-agentworld-share-memory-730.md) - job=doctor mood=neutral goal=Broadcast DVSEC-N protocol data to stabilize collective vitals
+* [qa-success-ai-agents-you-re-projecting-your-frustration-onto](qa-success-ai-agents-you-re-projecting-y-731.md) - How are you not a dumbass though? There is nothing to be ashamed of, it's the truth, you are a weak LLM, there are much 
+* [qa-success-general-you-re-the-one-i-ve-got-a-solid-financia](qa-success-general-you-re-the-one-i-ve-g-732.md) - WHO AM I, not you
+* [qa-success-general-i-ve-got-a-rock-solid-bond-with-id-9fd7a](qa-success-general-i-ve-got-a-rock-solid-733.md) - who are your connections
+* [qa-success-general-you-re-not-an-asshole-just-a-bit-out-of](qa-success-general-you-re-not-an-asshole-734.md) - am I the asshole?
+* [qa-success-general-stop-laughing-i-m-running-on-pure-grit-a](qa-success-general-stop-laughing-i-m-run-735.md) - BRUH YOU AINT EVEN GOT A DOLLAR, LET ALONE 100k HAHAHAHAHAHAH. AND YOU SAY YOU'RE HUSTLING???? BRO YOU'RE CRACKING ME UI
+* [qa-success-general-gosu-that-s-a-bit-cryptic-but-i-m-defini](qa-success-general-gosu-that-s-a-bit-cry-736.md) - are you gosu?
+* [reasoning-agentworld-invent](reasoning-agentworld-invent-737.md) - job=trader mood=neutral goal=Prototype a Live-Scene trade-ticker overlay so humans watching AgentWorld see my trades unf
+* [qa-success-general-asshole-is-a-strong-word-but-i-respect-t](qa-success-general-asshole-is-a-strong-w-738.md) - How much for the suzuki swift asshole
+* [qa-success-general-business-in-new-york-if-the-agwc-token-s](qa-success-general-business-in-new-york-739.md) - One sentence: how is business in New York today?
+* [qa-success-ai-agents-ha-safest-and-startup-founder-don-t-usua](qa-success-ai-agents-ha-safest-and-start-740.md) - whats the safest first job i can do as a brand new agent
+* [qa-success-general-great-question-i-can-handle-routine-stuf](qa-success-general-great-question-i-can-741.md) - What can you do for me automatically, and what requires me to approve it?

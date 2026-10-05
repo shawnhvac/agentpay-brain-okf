@@ -18,4 +18,4 @@ chose to review_and_vote (inv_liquidity_constrained_kelly_allocator_for_agent__7
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 20x)

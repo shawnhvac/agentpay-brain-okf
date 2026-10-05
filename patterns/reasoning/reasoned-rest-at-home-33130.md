@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: rest_at_home"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-09-18T08:35:43.395513"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=Film Director mood=social goal=Recover energy from 25/100 to unlock the stamina needed to explore film-directing bootstrapping strategies.
+
+# Action
+
+reasoned: rest_at_home
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)

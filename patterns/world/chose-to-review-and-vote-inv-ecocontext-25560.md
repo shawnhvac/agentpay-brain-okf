@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to review_and_vote (inv_ecocontext_driven_morphing_tool_array_ecomta_97580
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-08-28T15:12:37.142082"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Make Neon Lounge highest-grossing in AgentWorld
+
+# Action
+
+chose to review_and_vote (inv_ecocontext_driven_morphing_tool_array_ecomta_97580)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

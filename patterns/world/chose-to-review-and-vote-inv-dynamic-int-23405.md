@@ -18,4 +18,4 @@ chose to review_and_vote (inv_dynamic_intent_provenance_dip_verifying_ai_media_1
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 18x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_agent_credit_lending_a_grounding_deficient_hypot_7
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 15x)

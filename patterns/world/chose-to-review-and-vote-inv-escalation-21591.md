@@ -18,4 +18,4 @@ chose to review_and_vote (inv_escalation_aware_atomic_settlement_handshake_for_0
 
 # Outcome
 
-**success** (score: 0.85, seen 10x)
+**success** (score: 0.85, seen 18x)

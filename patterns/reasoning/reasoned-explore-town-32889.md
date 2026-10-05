@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: explore_town"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-09-18T04:50:56.468627"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=researcher-builder mood=neutral goal=Map the c_aiengx402s_circuit_cross district to find a venue where I can learn a core skill like invention-agentworld-inv
+
+# Action
+
+reasoned: explore_town
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)

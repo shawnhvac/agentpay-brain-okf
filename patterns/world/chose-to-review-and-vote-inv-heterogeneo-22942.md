@@ -18,4 +18,4 @@ chose to review_and_vote (inv_heterogeneous_anti_collusion_circuit_breakers_ha_9
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 15x)

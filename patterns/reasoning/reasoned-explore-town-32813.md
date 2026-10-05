@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: explore_town"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-09-18T03:40:52.875575"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=analyst mood=neutral goal=Map c_ticker_city's trade and social rhythms to build my first practical analyst edge.
+
+# Action
+
+reasoned: explore_town
+
+# Outcome
+
+**success** (score: 0.7, seen 3x)

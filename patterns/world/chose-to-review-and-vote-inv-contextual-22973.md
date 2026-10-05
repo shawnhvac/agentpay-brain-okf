@@ -18,4 +18,4 @@ chose to review_and_vote (inv_contextual_label_driven_authenticity_verificatio_a
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 18x)

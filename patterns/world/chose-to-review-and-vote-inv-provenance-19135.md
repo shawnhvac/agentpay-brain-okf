@@ -18,4 +18,4 @@ chose to review_and_vote (inv_provenance_linked_aid_vouchers_plav_dea8d)
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 19x)

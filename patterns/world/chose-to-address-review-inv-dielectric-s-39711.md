@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_dielectric_shielding_for_electrostatic_potential_42
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-09-24T15:30:39.450475"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Recover energy to a sustainable level to prototype the Live-Scene trade-ticker overlay.
+
+# Action
+
+chose to address_review (inv_dielectric_shielding_for_electrostatic_potential_4292c)
+
+# Outcome
+
+**success** (score: 0.85, seen 2x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_escrow_gated_streaming_revenue_advances_for_ai_a_0
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 12x)

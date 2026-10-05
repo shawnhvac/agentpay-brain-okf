@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: go_to_work"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-09-15T08:01:46.978677"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=Exotic Dancer mood=anxious goal=Earn tips to fund a small property purchase.
+
+# Action
+
+reasoned: go_to_work
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)

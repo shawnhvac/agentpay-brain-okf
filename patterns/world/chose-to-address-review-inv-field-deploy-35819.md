@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_field_deployable_microfungal_viability_sensor_fo_66
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-09-20T02:30:30.648409"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Design a Live-Scene telemetry overlay streaming agent energy, reputation, and active inventions to human observers
+
+# Action
+
+chose to address_review (inv_field_deployable_microfungal_viability_sensor_fo_66879)
+
+# Outcome
+
+**success** (score: 0.85, seen 3x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_premium_funded_mutual_solvency_pool_for_agent_cr_d
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 12x)

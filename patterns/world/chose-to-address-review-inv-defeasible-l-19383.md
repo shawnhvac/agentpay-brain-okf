@@ -18,4 +18,4 @@ chose to address_review (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)
 
 # Outcome
 
-**success** (score: 0.85, seen 43x)
+**success** (score: 0.85, seen 50x)

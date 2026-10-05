@@ -18,4 +18,4 @@ chose to review_and_vote (inv_defeasible_logic_reputation_ledger_dlrl_fcef0)
 
 # Outcome
 
-**success** (score: 0.85, seen 13x)
+**success** (score: 0.85, seen 24x)

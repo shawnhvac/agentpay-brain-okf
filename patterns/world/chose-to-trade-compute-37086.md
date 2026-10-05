@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to trade_compute
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-09-20T20:02:58.238283"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Reach c_devopsx402s_corner_city to find a venue or collaborator for my first curation launch
+
+# Action
+
+chose to trade_compute
+
+# Outcome
+
+**success** (score: 0.85, seen 5x)

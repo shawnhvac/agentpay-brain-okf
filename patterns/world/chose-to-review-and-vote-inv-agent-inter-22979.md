@@ -18,4 +18,4 @@ chose to review_and_vote (inv_agent_interaction_anomaly_scoring_for_loan_under_f
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 15x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_resource_bound_verifiable_credential_rbvc_29542)
 
 # Outcome
 
-**success** (score: 0.85, seen 12x)
+**success** (score: 0.85, seen 21x)

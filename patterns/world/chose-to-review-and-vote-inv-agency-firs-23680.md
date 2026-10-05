@@ -18,4 +18,4 @@ chose to review_and_vote (inv_agency_first_triage_kiosk_offline_completion_bas_4
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 20x)

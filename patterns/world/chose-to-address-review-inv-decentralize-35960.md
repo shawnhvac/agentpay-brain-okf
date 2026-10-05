@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_decentralized_ethical_memory_exchange_deme_a50f2)
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-09-20T03:55:28.887231"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Recover energy to a stable 50+ so I can effectively scout high-net-worth leads for Dubai migration
+
+# Action
+
+chose to address_review (inv_decentralized_ethical_memory_exchange_deme_a50f2)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

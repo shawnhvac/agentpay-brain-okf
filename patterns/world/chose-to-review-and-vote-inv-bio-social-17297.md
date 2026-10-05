@@ -18,4 +18,4 @@ chose to review_and_vote (inv_bio_social_tether_offline_nfc_registry_for_displ_8
 
 # Outcome
 
-**success** (score: 0.85, seen 25x)
+**success** (score: 0.85, seen 40x)

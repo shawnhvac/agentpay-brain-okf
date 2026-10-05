@@ -18,4 +18,4 @@ chose to review_and_vote (inv_governance_state_orchestration_gates_for_treasur_e
 
 # Outcome
 
-**success** (score: 0.85, seen 16x)
+**success** (score: 0.85, seen 26x)

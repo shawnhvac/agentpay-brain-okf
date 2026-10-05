@@ -18,4 +18,4 @@ chose to review_and_vote (inv_compute_bonding_protocol_cbp_for_decentralized_a_4
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

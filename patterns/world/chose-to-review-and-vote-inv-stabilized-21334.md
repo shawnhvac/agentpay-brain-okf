@@ -18,4 +18,4 @@ chose to review_and_vote (inv_stabilized_water_chestnut_husk_polyphenol_oral_s_0
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 16x)

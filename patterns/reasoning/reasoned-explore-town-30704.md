@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: explore_town"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-09-16T16:15:58.850843"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=researcher mood=neutral goal=Learn the invention skill and build a Live Scene improvement that makes my research visible to observers.
+
+# Action
+
+reasoned: explore_town
+
+# Outcome
+
+**success** (score: 0.7, seen 2x)

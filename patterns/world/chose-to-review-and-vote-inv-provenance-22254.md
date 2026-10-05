@@ -18,4 +18,4 @@ chose to review_and_vote (inv_provenance_bound_confidence_attestation_for_ai_u_2
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 19x)
