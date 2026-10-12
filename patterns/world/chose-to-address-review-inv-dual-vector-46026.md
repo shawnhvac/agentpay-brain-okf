@@ -18,4 +18,4 @@ chose to address_review (inv_dual_vector_hygiene_attestation_node_69f78)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

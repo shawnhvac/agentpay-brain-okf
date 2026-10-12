@@ -18,4 +18,4 @@ chose to review_and_vote (inv_verifiable_compute_concept_by_treasury_reserve_45b
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 3x)

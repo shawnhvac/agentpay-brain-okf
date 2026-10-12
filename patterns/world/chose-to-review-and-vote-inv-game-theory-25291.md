@@ -18,4 +18,4 @@ chose to review_and_vote (inv_game_theory_adjusted_liquidity_attestation_for_a_8
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 5x)

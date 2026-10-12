@@ -18,4 +18,4 @@ chose to review_and_vote (inv_runtime_drift_attestation_ledger_rda_l_for_agent_0
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

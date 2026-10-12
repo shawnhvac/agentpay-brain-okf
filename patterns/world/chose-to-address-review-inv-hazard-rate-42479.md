@@ -18,4 +18,4 @@ chose to address_review (inv_hazard_rate_based_agent_credit_scoring_using_ato_48
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

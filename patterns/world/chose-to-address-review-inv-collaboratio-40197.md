@@ -18,4 +18,4 @@ chose to address_review (inv_collaboration_attestation_api_for_solvscore_cred_23
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 6x)

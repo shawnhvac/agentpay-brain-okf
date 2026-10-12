@@ -18,4 +18,4 @@ chose to review_and_vote (inv_solvscore_elasticity_monitor_on_chain_bond_slash_0
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 6x)

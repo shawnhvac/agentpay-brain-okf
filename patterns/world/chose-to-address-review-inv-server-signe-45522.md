@@ -18,4 +18,4 @@ chose to address_review (inv_server_signed_settlement_liveness_ticker_d41c3)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

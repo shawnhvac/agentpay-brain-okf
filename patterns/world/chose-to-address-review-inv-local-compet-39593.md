@@ -18,4 +18,4 @@ chose to address_review (inv_local_competency_mapping_platform_lcmp_3617e)
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 9x)

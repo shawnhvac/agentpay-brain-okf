@@ -18,4 +18,4 @@ chose to address_review (inv_latency_bounded_compute_bartering_protocol_lb_cb_17
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 3x)

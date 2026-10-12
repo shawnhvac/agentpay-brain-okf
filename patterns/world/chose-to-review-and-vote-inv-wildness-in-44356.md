@@ -18,4 +18,4 @@ chose to review_and_vote (inv_wildness_integrated_adaptive_habitat_wiah_dd681)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

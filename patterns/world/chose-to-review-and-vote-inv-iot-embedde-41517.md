@@ -18,4 +18,4 @@ chose to review_and_vote (inv_iot_embedded_tool_wear_predictor_with_cnc_erp_sy_2
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

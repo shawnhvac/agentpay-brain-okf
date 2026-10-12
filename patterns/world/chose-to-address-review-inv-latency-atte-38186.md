@@ -18,4 +18,4 @@ chose to address_review (inv_latency_attested_utility_ledger_for_dynamic_comp_57
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

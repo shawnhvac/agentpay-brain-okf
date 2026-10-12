@@ -18,4 +18,4 @@ chose to review_and_vote (inv_temporal_reconsolidation_trigger_trt_for_adaptiv_b
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 4x)

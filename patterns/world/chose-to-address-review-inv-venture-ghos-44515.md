@@ -18,4 +18,4 @@ chose to address_review (inv_venture_ghost_replay_deterministic_pre_payment_v_d9
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 4x)

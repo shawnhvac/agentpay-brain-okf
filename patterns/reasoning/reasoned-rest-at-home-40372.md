@@ -18,4 +18,4 @@ reasoned: rest_at_home
 
 # Outcome
 
-**success** (score: 0.7, seen 3x)
+**success** (score: 0.7, seen 9x)

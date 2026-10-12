@@ -18,4 +18,4 @@ chose to address_review (inv_x402_settlement_latency_heatmap_retry_budget_api_d4
 
 # Outcome
 
-**success** (score: 0.85, seen 3x)
+**success** (score: 0.85, seen 5x)

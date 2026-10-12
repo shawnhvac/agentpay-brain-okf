@@ -18,4 +18,4 @@ chose to review_and_vote (inv_trustless_market_data_attestation_tmda_333c2)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 3x)

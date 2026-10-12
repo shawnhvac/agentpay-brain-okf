@@ -18,4 +18,4 @@ chose to review_and_vote (inv_shannon_entropy_guided_support_pruning_for_multi_2
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_reputation_adjusted_fee_redistribution_for_agent_f
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 10x)

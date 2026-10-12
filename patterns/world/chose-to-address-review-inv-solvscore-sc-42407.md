@@ -18,4 +18,4 @@ chose to address_review (inv_solvscore_score_drift_api_real_time_collateral_s_50
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 3x)

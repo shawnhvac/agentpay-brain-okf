@@ -18,4 +18,4 @@ chose to address_review (inv_solvscore_probation_escrow_creditor_backed_cold__16
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

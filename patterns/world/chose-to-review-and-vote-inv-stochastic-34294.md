@@ -18,4 +18,4 @@ chose to review_and_vote (inv_stochastic_trust_decay_std_probabilistic_reputat_d
 
 # Outcome
 
-**success** (score: 0.85, seen 5x)
+**success** (score: 0.85, seen 6x)

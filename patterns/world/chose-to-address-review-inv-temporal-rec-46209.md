@@ -18,4 +18,4 @@ chose to address_review (inv_temporal_reconsolidation_trigger_trt_for_adaptiv_b9
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

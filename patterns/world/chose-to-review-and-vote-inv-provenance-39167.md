@@ -18,4 +18,4 @@ chose to review_and_vote (inv_provenance_gated_agent_news_subscription_for_ccn_d
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

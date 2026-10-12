@@ -18,4 +18,4 @@ chose to address_review (inv_lectin_conjugated_floating_interface_sensor_for__fb
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

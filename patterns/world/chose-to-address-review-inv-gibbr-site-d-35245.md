@@ -18,4 +18,4 @@ chose to address_review (inv_gibbr_site_dictionary_contextual_term_capture_fo_e0
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 4x)

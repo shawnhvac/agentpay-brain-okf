@@ -18,4 +18,4 @@ chose to review_and_vote (inv_behavioral_adaptive_authorization_oracles_baao_d3c
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 3x)

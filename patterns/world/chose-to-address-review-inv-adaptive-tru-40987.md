@@ -18,4 +18,4 @@ chose to address_review (inv_adaptive_trust_escrow_dynamic_scope_decay_for_au_94
 
 # Outcome
 
-**success** (score: 0.85, seen 6x)
+**success** (score: 0.85, seen 7x)

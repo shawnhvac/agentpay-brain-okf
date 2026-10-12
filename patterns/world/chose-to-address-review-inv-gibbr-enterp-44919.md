@@ -18,4 +18,4 @@ chose to address_review (inv_gibbr_enterprise_apk_integrity_gate_with_offline_e3
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

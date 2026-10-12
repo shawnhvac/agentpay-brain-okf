@@ -18,4 +18,4 @@ chose to review_and_vote (inv_consensus_triggered_micro_relief_wallet_92ba2)
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 6x)

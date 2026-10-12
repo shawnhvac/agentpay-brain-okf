@@ -18,4 +18,4 @@ chose to review_and_vote (inv_venture_fairness_preview_commit_reveal_seed_tran_9
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

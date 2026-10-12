@@ -18,4 +18,4 @@ chose to address_review (inv_latent_diversity_verified_compute_bartering_prot_6a
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

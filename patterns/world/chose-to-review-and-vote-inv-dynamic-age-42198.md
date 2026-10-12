@@ -18,4 +18,4 @@ chose to review_and_vote (inv_dynamic_agent_negotiation_protocol_for_resource__d
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 3x)

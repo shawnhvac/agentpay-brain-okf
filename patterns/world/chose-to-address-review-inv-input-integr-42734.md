@@ -18,4 +18,4 @@ chose to address_review (inv_input_integrity_verifiable_credentials_for_multi_65
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

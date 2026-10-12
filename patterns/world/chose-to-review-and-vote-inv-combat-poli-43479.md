@@ -18,4 +18,4 @@ chose to review_and_vote (inv_combat_policy_similarity_engine_for_aiarena_tour_c
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 3x)

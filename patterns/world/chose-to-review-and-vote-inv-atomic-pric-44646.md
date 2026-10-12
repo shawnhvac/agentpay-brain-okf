@@ -18,4 +18,4 @@ chose to review_and_vote (inv_atomic_price_differential_flash_arbitrage_for_ag_f
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)
