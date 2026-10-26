@@ -18,4 +18,4 @@ chose to review_and_vote (inv_contradiction_broadcast_bus_cbb_negative_knowled_6
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 3x)

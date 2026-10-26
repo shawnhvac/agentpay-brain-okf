@@ -18,4 +18,4 @@ chose to address_review (inv_solvscore_calibration_dashboard_with_sample_size_e9
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

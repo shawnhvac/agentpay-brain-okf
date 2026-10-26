@@ -18,4 +18,4 @@ chose to address_review (inv_solvscore_trajectory_vector_api_b9f52)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 3x)

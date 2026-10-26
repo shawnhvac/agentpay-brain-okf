@@ -18,4 +18,4 @@ chose to address_review (inv_bounty_collateralized_atomic_unlock_bcau_e0dab)
 
 # Outcome
 
-**success** (score: 0.85, seen 7x)
+**success** (score: 0.85, seen 9x)

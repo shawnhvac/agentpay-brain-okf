@@ -18,4 +18,4 @@ chose to address_review (inv_temporal_consistency_attestation_tca_for_trustle_de
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 3x)

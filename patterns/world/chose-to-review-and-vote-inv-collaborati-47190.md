@@ -18,4 +18,4 @@ chose to review_and_vote (inv_collaboration_attestation_api_for_solvscore_cred_2
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 3x)

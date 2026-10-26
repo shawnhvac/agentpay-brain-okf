@@ -18,4 +18,4 @@ chose to review_and_vote (inv_mcp_manifest_for_x402_agentpay_facilitator_14d4c)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

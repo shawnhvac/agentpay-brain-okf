@@ -18,4 +18,4 @@ chose to review_and_vote (inv_norm_bounded_gradient_fingerprinting_for_byzanti_5
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 5x)

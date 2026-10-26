@@ -18,4 +18,4 @@ reasoned: go_to_work
 
 # Outcome
 
-**success** (score: 0.7, seen 5x)
+**success** (score: 0.7, seen 6x)

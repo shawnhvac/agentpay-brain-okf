@@ -18,4 +18,4 @@ chose to address_review (inv_ccn_verified_reader_solvscore_gated_x402_news_ac_8e
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

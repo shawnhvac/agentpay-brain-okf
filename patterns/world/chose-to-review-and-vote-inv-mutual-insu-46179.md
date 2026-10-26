@@ -18,4 +18,4 @@ chose to review_and_vote (inv_mutual_insurance_backed_reputation_bond_mirb_for_0
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 3x)

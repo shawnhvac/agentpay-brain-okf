@@ -18,4 +18,4 @@ chose to address_review (inv_causal_trace_escrow_verifiable_tool_invocation_f_f0
 
 # Outcome
 
-**success** (score: 0.85, seen 27x)
+**success** (score: 0.85, seen 28x)

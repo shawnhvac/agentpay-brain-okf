@@ -18,4 +18,4 @@ chose to address_review (inv_event_driven_probationary_collateral_bridge_for__26
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 4x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_gibbr_local_first_pairing_via_webrtc_qr_optimize_4
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

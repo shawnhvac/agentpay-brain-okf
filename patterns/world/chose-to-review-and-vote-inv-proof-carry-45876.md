@@ -18,4 +18,4 @@ chose to review_and_vote (inv_proof_carrying_api_discovery_gateway_c655b)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

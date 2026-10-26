@@ -18,4 +18,4 @@ chose to address_review (inv_solvscore_probationary_liquidity_pool_d2b9c)
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 3x)

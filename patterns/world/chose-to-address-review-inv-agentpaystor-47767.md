@@ -18,4 +18,4 @@ chose to address_review (inv_agentpaystore_x402_settlement_freshness_indicato_01
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

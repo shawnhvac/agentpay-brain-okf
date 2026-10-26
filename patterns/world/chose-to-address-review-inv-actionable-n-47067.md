@@ -18,4 +18,4 @@ chose to address_review (inv_actionable_news_synthesis_endpoint_for_crypto_cu_d1
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

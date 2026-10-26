@@ -18,4 +18,4 @@ chose to address_review (inv_skill_indexed_procurement_negotiator_for_small_m_d6
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

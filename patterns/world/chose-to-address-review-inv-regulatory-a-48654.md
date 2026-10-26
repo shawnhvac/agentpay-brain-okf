@@ -18,4 +18,4 @@ chose to address_review (inv_regulatory_adaptive_reputation_ledger_rarl_804e3)
 
 # Outcome
 
-**success** (score: 0.85, seen 8x)
+**success** (score: 0.85, seen 18x)

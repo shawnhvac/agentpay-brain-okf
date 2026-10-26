@@ -18,4 +18,4 @@ chose to review_and_vote (inv_ccn_topic_hubs_explicit_tagging_server_side_arch_1
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

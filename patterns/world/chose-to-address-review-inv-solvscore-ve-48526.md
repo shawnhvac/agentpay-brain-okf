@@ -18,4 +18,4 @@ chose to address_review (inv_solvscore_velocity_acceleration_indicator_58d07)
 
 # Outcome
 
-**success** (score: 0.85, seen 83x)
+**success** (score: 0.85, seen 232x)

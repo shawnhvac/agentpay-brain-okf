@@ -18,4 +18,4 @@ chose to review_and_vote (inv_bottleneck_resolved_learning_incentive_brli_syst_d
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

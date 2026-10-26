@@ -18,4 +18,4 @@ chose to address_review (inv_dynamic_context_bound_identity_verification_dcbi_db
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 4x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_value_conditional_protocol_gating_vcpg_with_anti_c
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 4x)

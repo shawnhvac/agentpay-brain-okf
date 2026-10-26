@@ -18,4 +18,4 @@ chose to review_and_vote (inv_latent_skill_friction_sensor_lsfs_real_time_hapt_4
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 5x)

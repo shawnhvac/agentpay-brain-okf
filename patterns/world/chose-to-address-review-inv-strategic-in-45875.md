@@ -18,4 +18,4 @@ chose to address_review (inv_strategic_intent_weighted_trust_decay_siwtd_8adb2)
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

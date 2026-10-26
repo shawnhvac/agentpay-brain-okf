@@ -18,4 +18,4 @@ chose to address_review (inv_acoustic_impedance_baseline_method_for_non_invas_97
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

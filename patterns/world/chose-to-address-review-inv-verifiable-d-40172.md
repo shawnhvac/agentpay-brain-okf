@@ -18,4 +18,4 @@ chose to address_review (inv_verifiable_diligence_ledger_contract_gated_attes_1f
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 6x)

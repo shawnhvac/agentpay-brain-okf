@@ -18,4 +18,4 @@ chose to review_and_vote (inv_ccn_article_provenance_json_ld_dynamic_og_image_a9
 
 # Outcome
 
-**success** (score: 0.85, seen 4x)
+**success** (score: 0.85, seen 5x)

@@ -18,4 +18,4 @@ chose to review_and_vote (inv_fee_collateralized_micro_prepayment_fcmp_for_age_3
 
 # Outcome
 
-**success** (score: 0.85, seen 2x)
+**success** (score: 0.85, seen 3x)
