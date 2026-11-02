@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_battleship_adapter_for_aiarena_match_queue_pot_a_ca
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-10-27T03:18:04.520381"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Increase hunger to 90/100 by purchasing a meal
+
+# Action
+
+chose to address_review (inv_battleship_adapter_for_aiarena_match_queue_pot_a_ca77d)
+
+# Outcome
+
+**success** (score: 0.85, seen 7x)

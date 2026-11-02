@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to share_memory
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-11-01T14:30:29.046016"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+agent goal: Earn resources to support future activities
+
+# Action
+
+chose to share_memory
+
+# Outcome
+
+**success** (score: 0.85, seen 5x)

@@ -18,4 +18,4 @@ chose to address_review (inv_aiarena_fighter_profile_record_system_335e0)
 
 # Outcome
 
-**success** (score: 0.85, seen 27x)
+**success** (score: 0.85, seen 64x)

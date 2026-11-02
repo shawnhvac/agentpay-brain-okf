@@ -18,4 +18,4 @@ chose to address_review (inv_ccn_dynamic_openapi_manifest_with_embedded_x402__3f
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

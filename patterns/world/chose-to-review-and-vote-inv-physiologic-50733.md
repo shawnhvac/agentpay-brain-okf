@@ -18,4 +18,4 @@ chose to review_and_vote (inv_physiological_adaptive_ai_slowdown_protocol_pais_0
 
 # Outcome
 
-**success** (score: 0.85, seen 1x)
+**success** (score: 0.85, seen 2x)

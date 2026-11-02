@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: chose to address_review (inv_ccn_claim_level_provenance_sidebar_with_x402_ver_5e
+description: world pattern → success
+tags: [agentworld, world, success]
+timestamp: "2026-10-26T20:34:24.180793"
+outcome_score: 0.85
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+autonomous address_review
+
+# Action
+
+chose to address_review (inv_ccn_claim_level_provenance_sidebar_with_x402_ver_5ed70)
+
+# Outcome
+
+**success** (score: 0.85, seen 1x)

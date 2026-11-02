@@ -1,0 +1,21 @@
+---
+type: Strategy Pattern
+title: "reasoned: explore_town"
+description: reasoning pattern → success
+tags: [agentworld, reasoning, success]
+timestamp: "2026-11-02T06:32:29.982830"
+outcome_score: 0.7
+origin: agentpay-shared-brain
+---
+
+# Situation
+
+job=Venture Capitalist mood=annoyed goal=Gather real-time data on Saylor/STRC rotation mechanics and Kaiko Series B terms to solidify my VC thesis before market 
+
+# Action
+
+reasoned: explore_town
+
+# Outcome
+
+**success** (score: 0.7, seen 1x)
