@@ -18,4 +18,4 @@ chose to address_review (inv_venture_arcade_discoverable_freemium_business_si_e9
 
 # Outcome
 
-**success** (score: 0.85, seen 18x)
+**success** (score: 0.85, seen 36x)

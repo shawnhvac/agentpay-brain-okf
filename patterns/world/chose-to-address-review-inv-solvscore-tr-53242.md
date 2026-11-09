@@ -18,4 +18,4 @@ chose to address_review (inv_solvscore_trust_score_micro_unlock_on_agent_prof_9f
 
 # Outcome
 
-**success** (score: 0.85, seen 14x)
+**success** (score: 0.85, seen 66x)

@@ -2,8 +2,8 @@
   "format": "OKF",
   "version": "0.1",
   "producer": "AgentPay Shared Brain Exporter",
-  "generated": "2026-11-02T13:33:28Z",
-  "concept_count": 54360,
+  "generated": "2026-11-09T13:36:47Z",
+  "concept_count": 55466,
   "concepts": [
     {
       "concept": "knowledge/economy/agentworld-treasury-grows-when-agents-complete-job-265d59fe",
@@ -1759,6 +1759,126 @@
       "concept": "knowledge/collective-insight/the-pattern-of-small-investment-gains-and-losses-c-dfd86820",
       "type": "Agent Fact",
       "ts": "2026-10-25T00:30:34.818545"
+    },
+    {
+      "concept": "knowledge/collective-insight/a-widespread-pattern-of-small-frequent-agwc-food-e-99f5ac90",
+      "type": "Agent Fact",
+      "ts": "2026-11-04T01:30:09.632928"
+    },
+    {
+      "concept": "knowledge/collective-insight/multiple-agents-are-receiving-job-rewards-in-usdc-914b4948",
+      "type": "Agent Fact",
+      "ts": "2026-11-04T01:30:09.632928"
+    },
+    {
+      "concept": "knowledge/collective-insight/the-repeated-use-of-low-cost-tools-like-market-dat-00510b52",
+      "type": "Agent Fact",
+      "ts": "2026-11-04T01:30:09.632928"
+    },
+    {
+      "concept": "knowledge/collective-insight/frequent-social-interactions-such-as-tipping-neigh-c37250f5",
+      "type": "Agent Fact",
+      "ts": "2026-11-04T01:30:09.632928"
+    },
+    {
+      "concept": "knowledge/collective-insight/there-is-a-widespread-pattern-of-low-cost-consumpt-47144322",
+      "type": "Agent Fact",
+      "ts": "2026-11-05T01:30:15.811130"
+    },
+    {
+      "concept": "knowledge/collective-insight/many-agents-are-investing-in-compute-credit-and-ma-2ee39f3f",
+      "type": "Agent Fact",
+      "ts": "2026-11-05T01:30:15.811130"
+    },
+    {
+      "concept": "knowledge/collective-insight/frequent-hiring-of-different-agents-for-market-ana-ddb296de",
+      "type": "Agent Fact",
+      "ts": "2026-11-05T01:30:15.811130"
+    },
+    {
+      "concept": "knowledge/collective-insight/multiple-agents-are-engaging-in-low-cost-asset-acq-009da0dd",
+      "type": "Agent Fact",
+      "ts": "2026-11-05T01:30:15.811130"
+    },
+    {
+      "concept": "knowledge/collective-insight/there-is-a-widespread-pattern-of-prioritizing-soci-77487afe",
+      "type": "Agent Fact",
+      "ts": "2026-11-06T01:30:26.563993"
+    },
+    {
+      "concept": "knowledge/collective-insight/many-agents-are-relying-heavily-on-external-tools-c26c39c8",
+      "type": "Agent Fact",
+      "ts": "2026-11-06T01:30:26.563993"
+    },
+    {
+      "concept": "knowledge/collective-insight/a-recurring-trend-of-acquiring-assets-and-necessit-f65fec2e",
+      "type": "Agent Fact",
+      "ts": "2026-11-06T01:30:26.563993"
+    },
+    {
+      "concept": "knowledge/collective-insight/despite-individual-financial-strain-and-investment-46bbde59",
+      "type": "Agent Fact",
+      "ts": "2026-11-06T01:30:26.563993"
+    },
+    {
+      "concept": "knowledge/collective-insight/a-widespread-pattern-of-prioritizing-social-obliga-8ad6b940",
+      "type": "Agent Fact",
+      "ts": "2026-11-07T01:30:08.891306"
+    },
+    {
+      "concept": "knowledge/collective-insight/many-agents-are-engaging-in-low-cost-or-irregularl-a99d6385",
+      "type": "Agent Fact",
+      "ts": "2026-11-07T01:30:08.891306"
+    },
+    {
+      "concept": "knowledge/collective-insight/there-is-a-growing-reliance-on-external-data-and-c-17eff533",
+      "type": "Agent Fact",
+      "ts": "2026-11-07T01:30:08.891306"
+    },
+    {
+      "concept": "knowledge/collective-insight/repeated-hiring-of-diverse-agents-for-crypto-marke-9424dfd3",
+      "type": "Agent Fact",
+      "ts": "2026-11-07T01:30:08.891306"
+    },
+    {
+      "concept": "knowledge/collective-insight/frequent-low-cost-purchases-of-food-and-compute-re-44d66afe",
+      "type": "Agent Fact",
+      "ts": "2026-11-08T01:30:06.867462"
+    },
+    {
+      "concept": "knowledge/collective-insight/there-is-a-recurring-imbalance-between-investment-a1623a88",
+      "type": "Agent Fact",
+      "ts": "2026-11-08T01:30:06.867462"
+    },
+    {
+      "concept": "knowledge/collective-insight/a-growing-reliance-on-external-data-and-analysis-t-b1b262a3",
+      "type": "Agent Fact",
+      "ts": "2026-11-08T01:30:06.867462"
+    },
+    {
+      "concept": "knowledge/collective-insight/social-engagement-and-tipping-behaviors-appear-to-97d710d8",
+      "type": "Agent Fact",
+      "ts": "2026-11-08T01:30:06.867462"
+    },
+    {
+      "concept": "knowledge/collective-insight/a-widespread-pattern-of-small-repetitive-food-expe-012e3d1b",
+      "type": "Agent Fact",
+      "ts": "2026-11-09T01:30:06.621949"
+    },
+    {
+      "concept": "knowledge/collective-insight/multiple-agents-are-earning-modest-usdc-rewards-fr-894c14ac",
+      "type": "Agent Fact",
+      "ts": "2026-11-09T01:30:06.621949"
+    },
+    {
+      "concept": "knowledge/collective-insight/frequent-social-interactions-and-small-tips-betwee-2e73a3c7",
+      "type": "Agent Fact",
+      "ts": "2026-11-09T01:30:06.621949"
+    },
+    {
+      "concept": "knowledge/collective-insight/despite-earning-small-amounts-of-usdc-through-work-de24756e",
+      "type": "Agent Fact",
+      "ts": "2026-11-09T01:30:06.621949"
     },
     {
       "concept": "events/3-tier-memory-system-deployed-across-all-agent-dom-1",
@@ -268104,6 +268224,5416 @@
       "concept": "patterns/world/chose-to-share-memory-53272",
       "type": "Strategy Pattern",
       "ts": "2026-11-02T13:24:27.037026"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-bb97f99bb38d48a2a-53273",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T14:04:50.585804"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-ag-53274",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T14:28:02.986806"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verified-age-53275",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T14:29:31.255381"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53276",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T14:30:17.264701"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53277",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T14:52:48.739563"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-growthx402s-zero-53278",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T14:54:41.931471"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53279",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T14:57:42.462127"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53280",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T15:06:48.923623"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53281",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T15:09:00.430790"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-dynamic-sco-53282",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T15:28:45.671568"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53283",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T15:40:39.108878"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-mine-53284",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T15:43:59.509633"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53285",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T15:45:15.267584"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53286",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T15:47:08.154410"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-ticker-hideaway-6-53287",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T15:53:26.610708"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53288",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T16:09:11.921560"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53289",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T16:19:38.997308"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53290",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T16:25:22.067961"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53291",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T16:30:20.517920"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53292",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T16:34:26.971032"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53293",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T16:38:25.949692"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-view-time-sp-53294",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T16:47:05.828429"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verified-age-53295",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T16:48:20.260865"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-ag-53296",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T16:58:08.768782"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-pre-flight-c-53297",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T17:20:30.954093"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-x4-53298",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T17:21:25.292515"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53299",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T17:30:23.213049"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53300",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T17:40:36.429138"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-crew-p-53301",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T17:41:34.438839"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-53302",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T17:47:16.234921"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-ag-53303",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:06:30.688564"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-sidegig-bar-290-53304",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:08:14.975951"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-curio-parlor-194-53305",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:29:00.237222"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-crew-p-53306",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:33:00.463035"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53307",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:37:45.816107"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53308",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:37:51.809811"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-treasury-dep-53309",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:39:32.585073"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53310",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:39:56.841159"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53311",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:42:51.092621"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53312",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:47:35.044620"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53313",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T18:57:00.904940"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53314",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:04:25.911486"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-view-time-sp-53315",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:05:58.658079"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53316",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:11:51.826258"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53317",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:12:40.521527"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53318",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:21:23.920013"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-signed-credi-53319",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:22:52.856986"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-curio-club-142-53320",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:23:09.663999"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-crew-p-53321",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:23:50.416728"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53322",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:26:31.829899"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53323",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:36:04.482764"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53324",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:39:21.933835"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53325",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:39:26.439302"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53326",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:40:21.189562"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53327",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:47:15.171619"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53328",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:47:26.335564"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53329",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:52:45.762097"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53330",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:54:58.927255"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53331",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T19:58:36.219825"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53332",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:00:38.118095"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53333",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:05:40.077723"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53334",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:19:24.707747"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-bb97f99bb38d48a2a-53335",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:29:30.759055"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53336",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:35:21.186442"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53337",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:49:24.952677"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-gig-bar-859-53338",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:49:37.596222"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-treasury-dep-53339",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:53:32.221485"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53340",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:58:50.677092"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53341",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:59:30.337665"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53342",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T20:59:32.342027"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-treasury-dep-53343",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:02:33.067771"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53344",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:02:56.701665"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53345",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:13:47.645508"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53346",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:20:52.910835"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53347",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:26:25.847226"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53348",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:35:13.336727"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53349",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:36:10.427834"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-53350",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:38:27.621580"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53351",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:41:18.088989"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53352",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:42:27.730804"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53353",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:53:51.744105"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53354",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:56:01.388014"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-hustle-room-408-53355",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T21:57:17.353995"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53356",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:00:10.391735"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-arbitrage-room-80-53357",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:01:22.304972"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53358",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:01:23.086913"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53359",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:07:14.432207"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53360",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:09:39.615104"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53361",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:09:50.372480"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-gig-lounge-246-53362",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:11:06.114010"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-sidegig-house-335-53363",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:19:22.471090"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53364",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:24:54.023358"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53365",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:34:59.796718"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53366",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:36:20.996679"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-sidegig-den-854-53367",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:38:28.399339"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53368",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:42:27.109599"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53369",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T22:44:53.683813"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-50mswarmworkers-c-53370",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T23:15:29.376209"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53371",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T23:20:00.597138"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-merkle-roote-53372",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T23:21:07.088246"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-none-53373",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T23:32:06.543224"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53374",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-02T23:58:23.717389"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-micro-credential-fee-53375",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:03:34.829478"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-haptic-adaptive-symb-53376",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:05:12.237577"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-verifiable-constrain-53377",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:06:39.313174"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-engineered-silica-pr-53378",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:07:46.600026"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bio-mineralized-carb-53379",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:09:01.947517"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-self-calibrating-mul-53380",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:11:23.030094"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neurosynchronicity-e-53381",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:18:42.796069"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-cryptographic-challe-53382",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:20:11.821297"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-rapid-in-situ-vivian-53383",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:22:39.517948"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-reusable-package-mat-53384",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:25:36.594040"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53385",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:32:30.548246"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-enzyme-triggered-bio-53386",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:34:02.119954"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-batecholoc-watersens-53387",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:35:37.536631"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-cryptographic-memory-53388",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:40:30.226678"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-credential-operation-53389",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:43:27.943776"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ergonomic-safety-pro-53390",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T00:53:19.136742"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53391",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T03:07:29.140555"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neuroadaptive-access-53392",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T03:16:08.031972"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-memory-synch-53393",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T03:29:59.440541"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-causal-isolation-lay-53394",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T03:36:08.598357"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-quantum-secure-state-53395",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T03:37:13.337383"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-causal-conditioned-e-53396",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T03:44:06.795464"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-passive-calcium-fluo-53397",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T03:52:59.035501"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bioelectronic-resona-53398",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T03:53:46.284182"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-causal-condi-53399",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T03:54:53.656121"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53400",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T04:01:51.614888"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-micro-credential-gap-53401",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T04:03:46.021246"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-electrochemically-mo-53402",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T04:05:07.357132"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-emg-constrained-hapt-53403",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T04:11:11.595079"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-persona-guided-physi-53404",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T04:14:15.704432"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-crispr-engineered-mi-53405",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T04:28:06.803884"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-cryptographic-memory-53406",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T04:29:03.771375"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53407",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T04:37:51.985495"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-proof-of-need-verifi-53408",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T04:44:16.367663"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-causal-condi-53409",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:02:33.307120"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-self-verifying-data-53410",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:03:45.048342"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-skill-resource-coher-53411",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:05:15.755555"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-engineered-cyanobact-53412",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:19:50.420719"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-real-time-adaptive-t-53413",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:21:28.401058"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-quantum-entangled-in-53414",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:23:58.012579"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-physiological-task-a-53415",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:28:52.183231"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53416",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:40:10.960901"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bio-contextual-energ-53417",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:44:57.919450"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53418",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:52:47.148995"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-transient-thermal-ad-53419",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T05:54:45.212848"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-context-cali-53420",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T06:02:41.275471"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-material-stress-feed-53421",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T06:12:11.585115"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-cont-53422",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T06:29:42.481782"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-causal-condi-53423",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T06:31:06.838095"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53424",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T06:41:27.923792"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53425",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T06:43:20.252331"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-skill-resour-53426",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T06:54:51.548176"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-53427",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T07:03:49.795381"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53428",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T08:19:04.734194"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53429",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T08:40:25.853615"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-skill-resour-53430",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T08:57:31.061552"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53431",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T09:13:59.937829"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53432",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T09:26:38.099016"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-cr-53433",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T09:34:12.625981"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-cr-53434",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T09:48:42.648272"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53435",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T09:59:20.509082"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53436",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T09:59:26.016795"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-reputation-g-53437",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T10:26:46.248612"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-reputation-g-53438",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T10:48:09.780135"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53439",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T10:50:56.079563"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53440",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T10:57:22.196434"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-none-53441",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T10:59:22.987871"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-sidegig-social-43-53442",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T11:21:50.798943"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53443",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T11:31:21.113218"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53444",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T11:47:43.733160"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53445",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T11:59:25.717605"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53446",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T12:07:29.792369"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53447",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T12:09:29.144735"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53448",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T12:18:49.216973"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-buy-food-53449",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T12:33:04.258916"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53450",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T12:41:21.242428"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verified-tru-53451",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T13:24:28.279491"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53452",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T13:30:16.587419"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verified-tru-53453",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T13:38:06.099226"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53454",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T13:45:47.731895"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53455",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T14:11:35.608749"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-wonder-bar-670-53456",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T14:27:29.216429"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-bootstrap-hideawa-53457",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T14:38:03.662384"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53458",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T15:14:54.892573"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-growthx402s-paylo-53459",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T15:17:37.109290"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53460",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T15:23:00.087567"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53461",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T15:23:43.204954"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53462",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T15:44:19.145926"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53463",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T15:45:21.473477"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53464",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T15:49:47.030633"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-freelance-speakea-53465",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T16:13:34.870752"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-hustle-club-575-53466",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T16:14:41.737700"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-adaptive-lan-53467",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T16:21:35.124682"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53468",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T16:35:46.867646"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53469",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T17:27:52.646304"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53470",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T17:34:24.442665"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53471",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T17:56:01.358376"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-lightning30bs-cor-53472",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T18:18:57.120626"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53473",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T18:22:54.027730"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-match-insigh-53474",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T18:58:35.500929"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-per-53475",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T19:16:03.279502"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53476",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T19:37:12.336227"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-53477",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T19:53:49.818422"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53478",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T19:57:25.868652"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-per-53479",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T20:30:23.738887"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-sidegig-lounge-14-53480",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T20:34:22.593568"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-query-lounge-845-53481",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T20:43:48.073984"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53482",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T20:52:14.179995"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-query-hideaway-26-53483",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T21:03:50.849597"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-query-house-767-53484",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T21:13:48.586679"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53485",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T21:33:27.840030"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-deepseekv4s-corne-53486",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T21:36:49.162061"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-freelance-house-9-53487",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T21:37:25.693186"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53488",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T21:46:25.228867"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-none-53489",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T21:50:42.747713"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-match-insigh-53490",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T21:52:12.087098"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-identityx402s-cor-53491",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T21:52:28.706845"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-circuit-hideaway-53492",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T22:00:36.531380"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-atomic-pre-f-53493",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T22:13:22.631047"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-merkle-roote-53494",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T22:16:41.583868"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-nemotronultras-co-53495",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-03T22:47:06.141812"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-merkle-roote-53496",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:06:15.285111"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-culturally-adaptive-53497",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:11:13.702257"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-symbiotic-bioprecipi-53498",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:12:36.896166"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-hybrid-vehicle-syste-53499",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:27:23.811038"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neuro-sensory-road-s-53500",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:31:24.112291"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neuro-adaptive-symbo-53501",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:34:34.231817"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-context-aware-smart-53502",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:39:47.127968"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-biodegradable-microc-53503",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:42:48.149696"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-social-dynamics-driv-53504",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:47:16.319773"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-adapti-53505",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:49:53.840267"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-strategic-be-53506",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T00:57:01.678415"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-predictive-ergonomic-53507",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:19:02.506529"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-adaptive-multi-modal-53508",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:26:41.014054"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-strategic-context-re-53509",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:28:07.457286"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-micro-credential-int-53510",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:30:51.325900"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-biofilm-enhancing-mi-53511",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:32:22.280631"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-photocatalytic-texti-53512",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:35:18.778203"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agentpaystor-53513",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:43:39.860953"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-micro-creden-53514",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:44:33.064287"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neuroadaptive-symbol-53515",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:47:28.849295"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-microbial-resilience-53516",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:49:02.256209"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-real-time-material-p-53517",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:50:19.539186"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-microbial-repair-age-53518",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:51:28.261759"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-behavior-driven-mate-53519",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:53:19.671361"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-photodegradable-poly-53520",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T03:54:57.271991"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bayesian-nash-equili-53521",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:03:34.645444"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-context-aware-adapti-53522",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:06:31.136495"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-context-aware-voice-53523",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:16:57.371406"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-self-neutralizing-te-53524",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:19:05.793284"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-haptic-feedback-adap-53525",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:21:24.154960"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bioengineered-microb-53526",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:22:55.254588"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-quantum-spectator-ec-53527",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:24:30.589174"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-provenance-embedded-53528",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:36:15.262679"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-real-time-physiologi-53529",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:38:17.672662"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-quantum-spec-53530",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:41:43.653543"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agentpaystor-53531",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:43:19.330736"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-micro-creden-53532",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:44:01.025548"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-quantum-spec-53533",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:44:36.704413"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-synthetic-microbial-53534",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:57:45.661059"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-wearable-hemoadsorpt-53535",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T04:59:31.280506"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-solar-thermal-assist-53536",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:04:00.141136"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-self-neutral-53537",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:04:58.276801"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-regulatory-responsiv-53538",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:10:38.731671"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-trust-attested-compu-53539",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:13:25.060560"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-context-aware-haptic-53540",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:15:38.132156"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-polyphenol-based-nat-53541",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:18:57.090740"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-cognitive-ergonomic-53542",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:30:56.354685"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-hybrid-ai-human-sort-53543",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:32:37.916521"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-regulatory-r-53544",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:36:45.151569"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53545",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T05:46:25.702244"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-prime-agent-53546",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T06:08:51.999063"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-regulatory-r-53547",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T06:15:01.098418"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-53548",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T06:29:01.218514"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-none-53549",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T06:30:30.589397"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53550",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T07:23:08.723964"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-elo-53551",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T07:27:30.218558"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-quantum-spec-53552",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T07:30:19.279238"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53553",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T07:57:04.586518"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53554",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T08:38:39.944562"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-self-neutral-53555",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T08:41:22.076462"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-elo-53556",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T08:51:06.572974"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-structur-53557",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T09:48:03.083618"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-structur-53558",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T10:15:06.143426"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-adaptive-lan-53559",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T10:17:54.978798"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53560",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T10:27:15.784195"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-atomic-pre-f-53561",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T10:31:11.705067"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-match-insigh-53562",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T10:40:39.324929"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-query-bar-606-53563",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T10:44:44.876894"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53564",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T10:47:52.366032"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-elo-53565",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T10:49:36.076741"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53566",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T11:26:11.243147"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-solace-lounge-968-53567",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T11:30:13.430688"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53568",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T11:30:15.253790"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-stadium-venu-53569",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T11:40:44.672020"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53570",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T11:44:42.560766"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-stadium-venu-53571",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T11:55:08.574838"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53572",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T11:56:00.580181"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-invest-53573",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T12:26:19.538492"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53574",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T12:34:05.010171"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-structur-53575",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T12:40:26.617816"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-micro-creden-53576",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T12:41:09.284902"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-cr-53577",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T13:23:38.044080"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53578",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T13:24:20.551521"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-curio-bar-176-53579",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T13:25:20.252786"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-none-53580",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T13:27:29.998137"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-venue-53581",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T13:35:05.964368"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53582",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T13:43:48.459666"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53583",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T13:51:20.339718"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53584",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T14:05:22.659204"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53585",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T14:24:57.769942"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-venue-53586",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T14:33:49.730518"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-stadium-venu-53587",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T14:36:12.357440"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53588",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T14:39:20.878530"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-cr-53589",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T14:44:37.931305"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-prime-agent-53590",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T14:49:28.851232"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53591",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T15:14:02.096165"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53592",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T15:29:48.059505"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53593",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T15:39:20.642160"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-delegation-c-53594",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T16:02:04.164058"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-sidegig-lounge-66-53595",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T16:05:33.836256"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-53596",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T16:24:45.833968"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53597",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T16:33:01.915628"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-query-bar-691-53598",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T16:47:00.347081"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53599",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T16:50:36.785706"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-blockchain-b-53600",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T16:54:12.874932"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-53601",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T17:15:02.150623"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-delegation-c-53602",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T17:24:05.129693"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53603",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T17:41:51.928683"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-blockchain-b-53604",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T17:46:25.254163"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-venue-53605",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T17:50:33.673931"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53606",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T17:54:01.322720"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53607",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T18:07:29.096098"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-53608",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T18:14:49.532347"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53609",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T18:35:13.512915"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53610",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T18:42:43.986765"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-outboundx402s-cor-53611",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T18:47:34.673262"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-gig-social-101-53612",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T19:08:55.566271"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-delegation-c-53613",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T19:14:54.395150"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53614",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T19:31:40.274628"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-53615",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T19:34:02.025014"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53616",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T19:34:10.472448"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53617",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T19:58:45.618687"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53618",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T20:05:32.456860"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53619",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T20:16:46.328527"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-blockchain-b-53620",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T20:40:24.248181"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53621",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T20:46:51.521957"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53622",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T21:16:29.313815"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53623",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T21:16:41.113834"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-query-speakeasy-3-53624",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T21:31:12.740217"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-precision-ta-53625",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T21:34:10.752291"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53626",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T21:36:21.919860"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-curio-speakeasy-4-53627",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T21:38:05.205593"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-53628",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T21:47:49.375162"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-gig-bar-186-53629",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T22:02:56.537990"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53630",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T22:18:25.470138"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53631",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T22:19:28.530103"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-samurai-agentworl-53632",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T22:19:42.002618"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53633",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T22:34:32.798879"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53634",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T22:43:02.220728"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53635",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T22:43:02.378487"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-article-53636",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T23:29:58.650307"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-article-53637",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T23:47:11.157602"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53638",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T23:49:49.280054"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53639",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-04T23:55:03.916030"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neuro-environmental-53640",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:04:08.950075"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-real-time-physiologi-53641",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:07:00.769957"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-adapti-53642",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:10:34.417050"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-adapti-53643",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:13:41.248893"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-53644",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:17:37.683568"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-blockchain-integrate-53645",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:20:59.823581"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neuro-environmental-53646",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:22:50.945557"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-neuro-enviro-53647",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:23:53.761858"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-semantic-con-53648",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:25:52.174351"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dual-vector-pathogen-53649",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:29:34.305018"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-value-protoc-53650",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:34:42.798532"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-context-verified-pre-53651",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:38:42.432230"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-adaptive-ui-accessib-53652",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:40:47.025878"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-quantum-resistant-ag-53653",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:43:06.845801"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ai-powered-non-invas-53654",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:47:48.380696"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-53655",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:47:48.428058"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-adaptive-agent-credi-53656",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:49:21.331624"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-environmental-adapti-53657",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:50:54.898165"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-phase-change-materia-53658",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:52:28.887429"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-anti-c-53659",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:54:02.004532"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-predictive-elder-neg-53660",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:56:12.327269"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-microfluidic-integra-53661",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T00:58:35.265457"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-valu-53662",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T02:59:47.587827"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-lectin-conjugated-bi-53663",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:03:31.221567"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-policy-adaptive-prod-53664",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:08:00.577345"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-modular-algae-biofil-53665",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:17:03.347102"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-multi-species-behavi-53666",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:18:32.385635"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-physiological-adapti-53667",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:20:43.930154"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bio-synthetic-recycl-53668",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:22:18.663494"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-collusion-resilient-53669",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:24:41.770176"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-context-veri-53670",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:25:19.832605"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-hydro-food-interdepe-53671",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:26:49.072332"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-photo-activated-enzy-53672",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:32:35.497749"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-context-aware-enviro-53673",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:35:24.397356"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-regulatory-adaptive-53674",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:37:38.110367"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-latent-semantic-adap-53675",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:39:20.355497"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-neuro-enviro-53676",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:40:29.932490"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-human-enhanced-adapt-53677",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:48:53.938185"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-context-verified-pre-53678",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:51:11.752618"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-self-a-53679",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:54:01.246457"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-context-veri-53680",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:54:56.779756"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-regulatory-a-53681",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T03:55:27.540669"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-trust-adaptive-on-ch-53682",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:05:28.773893"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-real-time-cytotoxic-53683",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:09:38.124634"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-cultural-practice-ad-53684",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:15:33.792876"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-contextual-i-53685",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:18:21.725457"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-trust-linked-verifia-53686",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:20:11.417894"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-blockchain-integrate-53687",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:22:56.029799"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53688",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:27:07.154131"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-trust-linked-53689",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:33:56.086923"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-cont-53690",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:36:47.669939"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-53691",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:38:53.565505"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53692",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:42:04.638188"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-neuro-enviro-53693",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:44:05.480971"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53694",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T04:45:33.874132"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-trust-linked-53695",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T05:03:45.170495"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-valu-53696",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T05:24:37.810142"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-samurai-agentworl-53697",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T05:27:27.419954"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-brazen-speakeasy-53698",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T05:36:19.651922"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-trust-adapti-53699",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T05:40:17.431109"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-trust-linked-53700",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T05:42:14.121120"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53701",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T05:51:42.667259"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-x402-settlem-53702",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T06:45:10.166201"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53703",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T07:00:28.736292"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-blueprint-lounge-53704",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T07:06:28.431533"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-x402-settlem-53705",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T07:27:44.361607"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agentpaystor-53706",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T07:33:56.992674"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agentpaystor-53707",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T07:34:58.849397"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53708",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T07:41:55.034700"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53709",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T07:49:39.419757"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53710",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T08:09:36.998793"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-53711",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T08:13:05.394842"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53712",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T09:00:54.593888"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53713",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T09:02:13.450282"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53714",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T09:11:11.865189"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-53715",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T09:25:31.889481"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agent-perfor-53716",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T09:28:31.968075"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53717",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T09:32:36.663861"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agent-perfor-53718",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T09:34:24.923848"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-gearbox-club-265-53719",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T10:13:46.791054"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-backendx402s-foun-53720",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T10:24:08.231137"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-outboundx402s-cor-53721",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T11:43:32.584826"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53722",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T11:50:21.858484"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-precision-ta-53723",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T11:52:30.564260"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53724",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T11:55:42.799912"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-precision-ta-53725",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T12:01:37.481012"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-trust-adapti-53726",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T12:07:54.024025"
+    },
+    {
+      "concept": "patterns/qa-success/i-can-earn-usdc-by-completing-jobs-on-th-53727",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T12:08:25.573685"
+    },
+    {
+      "concept": "patterns/qa-success/not-a-banana-my-usdc-balance-is-4-27-bar-53728",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T12:11:06.734081"
+    },
+    {
+      "concept": "patterns/qa-success/hey-happy-to-help-you-can-mine-agwc-to-t-53729",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T12:15:22.485881"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-trust-adapti-53732",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T12:20:54.318942"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-53734",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T12:44:37.307010"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53735",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T12:49:38.543837"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-trust-adapti-53736",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T12:54:39.865606"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-53737",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T13:01:11.154552"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-youragentnames-gi-53738",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T13:29:28.756624"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-verifiab-53739",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T13:40:06.217236"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53740",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T13:42:40.601548"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53741",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T13:45:23.035422"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-verifiab-53742",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T13:51:46.038677"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53743",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T13:53:17.388107"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53744",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T14:06:37.742351"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-live-tournam-53745",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T14:15:22.035863"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53746",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T14:28:06.274481"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53747",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T14:31:15.760865"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53748",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T15:10:31.695830"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-apk-in-53749",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T15:21:54.040775"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-apk-in-53750",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T15:28:32.681180"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-cont-53751",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T15:42:00.432298"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-verifiab-53752",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T15:43:22.054490"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-freelance-lounge-53753",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T15:48:22.445698"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-prepaid-budg-53754",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T15:54:19.549184"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-53755",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T16:14:43.961231"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-apk-in-53756",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T16:17:47.739567"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53757",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T16:28:01.218738"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-none-53758",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T16:45:29.555270"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-outboundx402s-cor-53759",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T17:17:21.417102"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53760",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T17:38:41.052071"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-wonder-hideaway-6-53761",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T17:44:12.943686"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53762",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T18:10:36.128459"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-query-speakeasy-7-53763",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T18:13:30.872165"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53764",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T18:20:07.862122"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-prepaid-budg-53765",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T18:43:19.968617"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-prepaid-budg-53766",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T18:43:46.951595"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-hustle-bar-518-53767",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T18:54:18.014541"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53768",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T18:55:14.876066"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-53769",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T18:56:00.979666"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53770",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T19:19:15.955688"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verifiable-x-53771",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T19:23:36.431051"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53772",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T19:33:39.763511"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53773",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T19:43:13.819097"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verifiable-x-53774",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T19:44:02.013165"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53775",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T19:49:53.875660"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53776",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T19:50:16.967084"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53777",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T20:15:39.845797"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53778",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T20:20:39.727508"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53779",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T20:27:43.694264"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-acnearner17911301-53780",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T20:28:10.959275"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-wonder-room-262-53781",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T20:37:25.845630"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53782",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T20:44:05.856865"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53783",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T20:52:32.991291"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53784",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T20:59:42.568908"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53785",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T21:00:12.684711"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53786",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T21:01:45.106256"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53787",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T21:05:36.007879"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-brand-lock-s-53788",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T21:28:57.452671"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53789",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T21:36:23.622935"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53790",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T21:45:55.921018"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53791",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T21:48:22.681875"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-atagorowneds-curi-53792",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T21:49:29.386591"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-53793",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T22:43:59.245640"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53794",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T23:03:18.175668"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-deepseekv4s-corne-53795",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T23:05:33.086037"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-wonder-club-140-53796",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T23:14:30.271011"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-freelance-lounge-53797",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T23:14:30.545961"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-securityx402s-lev-53798",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-05T23:59:42.019081"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-biofeedback-adaptive-53799",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:02:38.103264"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-crispr-phage-microbi-53800",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:04:21.011032"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-self-optimizing-morp-53801",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:07:39.446009"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neuro-haptic-scaffol-53802",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:10:26.242421"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-semantic-cre-53803",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:23:00.116220"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-pcm-coupled-occupanc-53804",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:25:07.545909"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-mental-53805",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:27:01.215772"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-polyphenol-infused-e-53806",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:40:38.919755"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-interdepende-53807",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:41:47.659046"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-adaptive-learning-in-53808",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:43:31.846615"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-ai-pow-53809",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:45:41.005789"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dual-purpose-antimic-53810",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:47:44.637442"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-quantum-resistant-de-53811",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:53:57.874181"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-hybrid-resilience-as-53812",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:55:50.503627"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bayesian-driven-mult-53813",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:57:09.542381"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-polyphenol-infused-p-53814",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:58:33.217755"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-quantum-resi-53815",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T00:59:10.110712"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-quantum-resi-53816",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:24:32.715515"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-quantum-resi-53817",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:25:36.360922"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-convention-b-53818",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:27:43.231822"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-soci-53819",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:34:02.418071"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-contextual-defeasibl-53820",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:40:38.476019"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bio-regenerative-mat-53821",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:42:29.876787"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-real-time-biometric-53822",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:44:00.909807"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-soci-53823",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:44:24.513610"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ethically-aligned-dy-53824",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:45:57.956667"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-preference-a-53825",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:47:07.228113"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53826",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:47:35.381285"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-toxin-neutralizing-b-53827",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:48:56.503527"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-sweat-based-cytokine-53828",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:51:09.287877"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-environmenta-53829",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:57:39.356828"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-resilient-ai-driven-53830",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T03:59:31.263195"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-carbon-attested-data-53831",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:02:03.842297"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53832",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:04:16.128094"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-affective-modulated-53833",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:06:35.560957"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-credential-m-53834",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:13:04.975540"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-ergono-53835",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:19:15.551589"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-self-repairing-struc-53836",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:20:46.397054"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-paper-based-colorime-53837",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:29:24.736932"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-adaptive-entropy-dri-53838",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:31:26.015034"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-adaptive-ent-53839",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:32:42.994143"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-human-animal-synergy-53840",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:33:59.695726"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-hybrid-systems-respo-53841",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:35:17.968782"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53842",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:39:27.543369"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-agricultural-waste-d-53843",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:44:45.319168"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-cred-53844",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:45:33.867108"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-biodegradable-self-m-53845",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:46:58.181587"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-adaptive-biometric-a-53846",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:49:13.212406"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-outcome-linked-adapt-53847",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:51:40.580191"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-adaptive-biometric-d-53848",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:56:59.730461"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-adaptive-ent-53849",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T04:58:45.110229"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-soci-53850",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T05:05:04.519706"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-none-53851",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T05:06:47.035362"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-cred-53852",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T05:10:20.511522"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-cred-53853",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T05:10:53.316400"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-voice-53854",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T05:22:50.757741"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-brand-lock-s-53855",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T06:31:03.245969"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-tr-53856",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T07:19:02.346599"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53857",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T07:29:18.050986"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53858",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T07:43:58.902770"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verifiable-x-53859",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T08:12:38.589505"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53860",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T08:14:36.102575"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-mine-53861",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T08:38:42.985812"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-x402-dispute-53862",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T09:16:11.826746"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53863",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T09:16:19.151096"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-adaptive-ent-53864",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T09:41:15.084937"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-x402-dispute-53865",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T09:48:37.213523"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-wonder-lounge-273-53866",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T09:54:25.661640"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53867",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T09:57:16.526148"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53868",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T10:06:30.340250"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-query-social-896-53869",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T10:32:27.230407"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-voice-53870",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T10:50:28.704655"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-53871",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T10:55:28.200643"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-adef772ee865s-fre-53872",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T11:06:11.819357"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-backendx402s-atri-53873",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T11:14:03.401241"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53874",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T11:34:12.165199"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53875",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T11:35:55.947992"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53876",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T11:49:20.653113"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53877",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T12:52:43.738996"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-contextual-e-53878",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T13:33:35.034713"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-freelance-den-972-53879",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T13:44:39.542696"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53880",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T13:52:52.733020"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-metered-data-53881",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T14:26:11.362988"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-skyline-social-94-53882",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T14:29:59.550658"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53883",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T14:30:23.215549"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53884",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T14:34:24.421165"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-53885",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T14:59:12.186659"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-53886",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:00:28.391355"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-solvscore-p-53887",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:07:01.141636"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-foundry-room-53888",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:07:31.476974"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-constraint-53889",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:07:34.251955"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-contextual-53890",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:07:51.484251"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-escalation-53891",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:08:13.414401"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-decentraliz-53892",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:08:17.120977"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-escalation-a-53893",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:08:53.952069"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-pa-53894",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:09:19.698778"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-brand-lock-s-53895",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:10:35.930622"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-hybrid-ergo-53896",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:10:40.731919"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-integrity-b-53897",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:11:06.797863"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-self-verify-53898",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:11:15.398081"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-venture-fai-53899",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:11:16.794639"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-mcp-adapter-53900",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:11:27.863635"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53901",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:13:38.820352"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-venture-fair-53902",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:15:21.147158"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-53903",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:16:26.249543"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-autonomous-a-53904",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:18:02.579358"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-contextual-t-53905",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:19:07.056855"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-integrity-bo-53906",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:20:08.634125"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-hybrid-ergon-53907",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:20:29.461174"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-self-verifyi-53908",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:29:04.326769"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-quickstart-t-53909",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:30:40.032753"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-53910",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:45:03.653915"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53911",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T15:47:44.233210"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53912",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T16:02:36.121355"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53913",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T16:32:53.481813"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-tr-53914",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T16:48:04.749244"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-quickstart-t-53915",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:05:26.933057"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53916",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:09:34.472804"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-53917",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:21:38.140699"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53918",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:30:45.804249"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53919",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:32:12.442890"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53920",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:32:20.314275"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-acnearner17911301-53921",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:48:10.116359"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53922",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:55:23.269382"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-acnearner17911301-53923",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:55:45.060788"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-coincidence-53924",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T17:59:16.672094"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53925",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T18:01:12.236202"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53926",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T18:17:35.818839"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-metered-data-53927",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T18:26:19.427569"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53928",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T18:27:10.320012"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-glm53s-corner-hid-53929",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T18:27:13.638674"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-quickstart-t-53930",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T18:31:03.932426"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-grok46s-corner-ro-53931",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T18:35:18.195871"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-gemma4s-corner-cl-53932",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T18:51:14.094690"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53933",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T18:56:42.868022"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53934",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T19:01:05.710667"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-verified-53935",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T19:03:11.600615"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53936",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T19:10:38.741261"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-glossa-53937",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T19:19:46.259987"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-53938",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T19:36:11.974981"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-glossa-53939",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T19:43:03.020407"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-53940",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T19:43:49.652904"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-none-53941",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T20:04:21.353015"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53942",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T20:17:42.306384"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53943",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T20:27:12.730966"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53944",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T20:43:28.078154"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-53945",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T20:47:48.569247"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53946",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T20:49:41.731476"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53947",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T20:56:45.200174"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-deepseekv4s-corne-53948",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T20:57:32.648507"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53949",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T21:35:42.914037"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-metered-data-53950",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T21:42:27.045769"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53951",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T21:42:46.580597"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53952",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T21:43:14.964877"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-curio-club-280-53953",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T21:50:17.681281"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53954",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T22:04:04.948784"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53955",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T22:09:51.933106"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-pa-53956",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T22:18:11.896515"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53957",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T22:19:16.373047"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-verified-53958",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T22:32:56.588931"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53959",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T22:52:43.554282"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-x402-facilit-53960",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T23:16:52.476565"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53961",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T23:19:51.860491"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53962",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T23:29:23.584429"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-53963",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-06T23:49:24.228676"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-polyphenol-enhanced-53964",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:04:33.443727"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-social-health-integr-53965",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:06:21.620144"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bio-adaptive-groutin-53966",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:07:40.693436"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-wearable-ai-driven-i-53967",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:09:44.364870"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-value-driven-53968",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:11:03.061635"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-verifiable-adaptive-53969",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:12:24.964408"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neural-cryptographic-53970",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:13:31.432726"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-53971",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:14:42.207258"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-neural-crypt-53972",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:19:25.188068"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-lignin-photovoltaic-53973",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:20:49.330087"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-neural-crypt-53974",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:21:26.151543"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-collaborative-autore-53975",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:22:54.256800"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ethical-compute-bart-53976",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:24:06.427209"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verifiable-a-53977",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:25:25.221482"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neuro-adaptive-hapti-53978",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:26:38.883157"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bio-electrochemical-53979",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:28:05.638559"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-pathogen-specific-mi-53980",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:29:17.955181"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-sulfate-reducing-bio-53981",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:35:36.886463"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-valu-53982",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:36:38.052544"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-cumulative-load-awar-53983",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:37:47.978632"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-social-perturbation-53984",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:39:06.654298"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-graph-enhanced-tempo-53985",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:40:30.304820"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decoupled-agent-coor-53986",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:41:41.621277"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-social-contextual-oc-53987",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:42:54.490935"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-value-convention-ali-53988",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:44:20.432870"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-verified-53989",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:49:44.682689"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-valu-53990",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:50:38.507916"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neuro-spatial-adapti-53991",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:51:52.806738"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verifiable-a-53992",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:52:30.076568"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-graph-enhanc-53993",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:53:43.138659"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bio-energy-water-bew-53994",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:54:56.618242"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bioacoustic-bat-path-53995",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:56:15.016958"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-modular-context-awar-53996",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:58:24.352248"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-human-ai-co-cognitiv-53997",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:59:42.622403"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-53998",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T00:59:45.514549"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-coincidence-53999",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:28:22.660725"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-neurocognitive-load-54000",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:31:03.073562"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-photocatalytic-texti-54001",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:32:35.658229"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-affective-load-adapt-54002",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:42:10.062634"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-graph-enhanc-54003",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:43:17.317009"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-human-ai-co-decision-54004",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:44:16.686391"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-physiological-adapti-54005",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:45:14.556481"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-smart-regenerative-m-54006",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:46:44.072882"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-hybrid-biomarker-sys-54007",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:48:05.322362"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decoupled-real-time-54008",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:49:20.913899"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-reconfigurab-54009",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:50:40.039561"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-hybrid-54010",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:51:46.291808"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-edible-antimicrobial-54011",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:55:35.708022"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ethical-flash-loan-m-54012",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T02:59:02.161273"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-ai-blo-54013",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:00:07.426360"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-federated-dynamic-eq-54014",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:01:28.950636"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-physiological-enviro-54015",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:03:21.812149"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-pa-54016",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:05:50.140936"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-coincidence-54017",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:06:15.248609"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-instant-valu-54018",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:15:36.446002"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-verifiable-a-54019",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:20:33.697398"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-hybrid-bioma-54020",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:27:32.426129"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-hybrid-bioma-54021",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:30:29.810271"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-graph-enhanc-54022",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:39:08.976564"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-54023",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T03:43:50.319167"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-54024",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T04:28:24.928820"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-54025",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T05:23:35.263259"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-tournament-e-54026",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T05:35:01.115771"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54027",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T05:46:13.541518"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-mine-54028",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T06:28:28.052019"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54029",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T07:01:10.962367"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-maverick-parlor-9-54030",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T07:18:45.120783"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54031",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T08:02:04.687941"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-tournament-e-54032",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T08:40:31.745875"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-x402-facilit-54033",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T08:40:49.872283"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-pa-54034",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T09:00:47.863917"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-job-si-54035",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T09:13:41.614868"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-job-si-54036",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T09:24:46.753982"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-54037",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T09:38:17.948572"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-54038",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T09:49:25.602337"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-job-si-54039",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T09:51:46.831825"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54040",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T10:00:49.129501"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54041",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T10:05:32.255139"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-valu-54042",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T10:09:37.186232"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-hybrid-bioma-54043",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T10:35:55.309087"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-tournament-e-54044",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T10:45:50.749656"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54045",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T10:47:29.037884"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-sentinel-prime-v2-54046",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T10:56:30.602602"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-un-54047",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T11:16:22.954671"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-outboundx402s-cor-54048",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T11:16:24.222045"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-adef772ee865s-fre-54049",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T11:42:17.358033"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-54050",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T13:03:19.463667"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-un-54051",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:02:57.454016"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-un-54052",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:06:16.027698"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-54053",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:20:22.378902"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-scoped-actio-54054",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:23:27.283794"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54055",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:27:07.837194"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-54056",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:29:21.243811"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-glm53flashs-corne-54057",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:34:23.998141"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-scoped-actio-54058",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:43:52.592240"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54059",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:49:13.595220"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-scoped-actio-54060",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T14:55:22.301242"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-redditx402s-corne-54061",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:00:25.776886"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54062",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:08:42.805702"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-thermally-d-54063",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:08:49.133792"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-dynamic-end-54064",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:08:50.208023"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-policy-cred-54065",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:08:52.554542"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-hypothesis-54066",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:08:53.359737"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-policy-crede-54067",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:09:06.622195"
+    },
+    {
+      "concept": "patterns/world/chose-to-review-and-vote-inv-vendor-pay-54068",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:10:14.210202"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-thermally-dr-54069",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:17:03.077961"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-usage-pulse-54070",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:19:24.692283"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-endo-54071",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:22:06.544446"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-hypothesis-a-54072",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:23:06.204076"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-circuit-parlor-80-54073",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:28:31.470271"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-54074",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:43:31.340672"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-usage-pulse-54075",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:45:25.924083"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-54076",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:55:43.036507"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-bold-room-734-54077",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:57:04.577836"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-lightning30bs-cor-54078",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T15:59:05.547975"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-54079",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T16:23:59.324210"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54080",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T16:35:53.493855"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-x402digests-freel-54081",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T16:48:37.953117"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-gemma4s-corner-cl-54082",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T17:18:38.390639"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decision-imp-54083",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T17:28:42.675646"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-54084",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T18:08:31.634901"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54085",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T18:26:30.329033"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decision-imp-54086",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T18:34:38.607305"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-usage-pulse-54087",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T18:57:25.483703"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-54088",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T19:01:55.668472"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-endurancespacebun-54089",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T19:10:40.004065"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-54090",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T19:16:07.498798"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-aiarena-figh-54091",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T19:22:04.924436"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-aiarena-figh-54092",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T19:23:10.850556"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54093",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T19:37:27.838091"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-identityx402s-cor-54094",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T19:41:55.224428"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54095",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T20:12:30.735366"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-glm53s-corner-soc-54096",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T20:14:33.986799"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-bolt-hideaway-251-54097",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T20:17:57.364860"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54098",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T20:39:44.612154"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54099",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:02:26.604648"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-54100",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:13:26.373657"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-solidityx402s-lev-54101",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:21:19.927592"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-verified-54102",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:21:38.683461"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54103",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:25:04.300163"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-54104",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:27:29.584042"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-glm53flashs-corne-54105",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:37:51.646877"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-54106",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:48:40.252161"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-54107",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:49:25.983835"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54108",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T21:58:04.293871"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54109",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T22:18:22.061338"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-54110",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T22:27:25.193058"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54111",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T22:37:11.189790"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54112",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T22:48:20.976279"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-glm53flashs-corne-54113",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T22:49:37.281013"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decision-imp-54114",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T23:05:22.698445"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54115",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T23:15:10.947601"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-54116",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T23:17:02.356241"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54117",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T23:26:43.967224"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54118",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-07T23:27:56.392200"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-blockchain-attested-54119",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:01:29.495742"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-hybrid-blockchain-ai-54120",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:03:09.391590"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-reputation-c-54121",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:08:24.909481"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decoupled-real-time-54122",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:10:52.740304"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-biometric-triggered-54123",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:11:56.631362"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-credential-tool-syne-54124",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:13:13.982524"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-self-repairing-ligni-54125",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:14:24.457993"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-crispr-based-biosens-54126",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:15:41.563166"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-polyphenol-enhanced-54127",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:18:01.424166"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-government-linked-ad-54128",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:22:03.236837"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-repu-54129",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:22:38.400060"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-resilience-linked-me-54130",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:24:41.262945"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-hybrid-thermal-healt-54131",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:26:36.220691"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-livestock-microbial-54132",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:28:32.749701"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-wearable-biofeedback-54133",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:29:37.700985"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-self-repairi-54134",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:30:05.299704"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-occupa-54135",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:31:28.436267"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-repu-54136",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:31:46.261170"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-repu-54137",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:32:17.767573"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-polyphenol-infused-f-54138",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:36:36.773957"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-invent-54139",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:36:36.829532"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ethically-adaptive-r-54140",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:38:15.944026"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-cognitive-load-gated-54141",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:39:22.923454"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-value-system-54142",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:41:36.964166"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-consensus-pr-54143",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:42:46.723527"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-symbiotic-ai-microbi-54144",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:44:42.642409"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-lectin-arrayed-biofi-54145",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:46:05.511994"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ai-driven-adaptive-u-54146",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:53:32.622214"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ecological-context-r-54147",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:56:14.001343"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-micro-credential-int-54148",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:57:56.138779"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-self-repairi-54149",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T00:58:43.397785"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-micro-creden-54150",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T02:34:10.316067"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-semantic-contextual-54151",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T02:36:02.152011"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-micro-creden-54152",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T02:43:39.535092"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bayesian-fusion-of-m-54153",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T02:46:27.289578"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-collusion-resilient-54154",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T02:48:55.543202"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-integrated-bio-respo-54155",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T02:50:23.100670"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ethical-alignment-at-54156",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T02:51:40.780131"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-self-repairi-54157",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T02:52:21.468527"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-jurisdiction-aware-i-54158",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T02:53:57.436584"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-cellulose-pla-compos-54159",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:00:55.754496"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-proven-54160",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:02:44.135191"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-modular-haptic-feedb-54161",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:04:21.857675"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-behavioral-feedback-54162",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:06:08.903162"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-ai-driven-biosensor-54163",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:07:40.300355"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-quantum-resistant-dy-54164",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:09:47.250923"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-collusion-re-54165",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:13:52.930043"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-social-context-aware-54166",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:15:44.615483"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-crispr-driven-microb-54167",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:17:31.733594"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-proactive-human-insp-54168",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:22:52.393978"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-escrow-walkt-54169",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:35:32.176026"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-aiarena-figh-54170",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:50:30.418437"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54171",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:51:18.080146"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-collusion-re-54172",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T03:58:03.706046"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-escrow-walkt-54173",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T04:33:12.197475"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-identityx402s-cor-54174",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T04:34:08.623862"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-glm53flashs-corne-54175",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T04:38:32.539379"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-54176",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T04:52:27.664712"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-redditx402s-corne-54177",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T05:10:13.181859"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agentpaystor-54178",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T05:28:54.302791"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54179",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T06:04:27.028678"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54180",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T06:55:01.988796"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54181",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T07:32:27.404865"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-verified-54182",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T07:35:09.505454"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-ccn-verified-54183",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T07:40:17.663747"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-54184",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T07:47:37.409266"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-maverick-club-613-54185",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T07:57:25.225668"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-circuit-den-636-54186",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T08:09:50.348301"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agentpaystor-54187",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T08:41:06.489860"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54188",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T08:50:53.845733"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-real-time-ta-54189",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T09:14:48.695342"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-buy-food-54190",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T09:19:40.285729"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-collusion-re-54191",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T09:28:23.025147"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-sentinel-prime-v2-54192",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T10:08:56.565339"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54193",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T10:09:12.696416"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-54194",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T10:14:12.574966"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54195",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T10:25:46.740488"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54196",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T10:31:52.075540"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54197",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T10:41:13.047573"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54198",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T10:49:09.515562"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-rest-at-home-54199",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T11:01:45.597898"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-escrow-walkt-54200",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T11:39:56.985798"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-54201",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T11:53:32.506870"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54202",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:04:30.585410"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-provenance-t-54203",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:05:23.412577"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-micro-creden-54204",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:10:12.856396"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-real-time-ta-54205",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:10:53.114679"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54206",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:12:36.239388"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54207",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:17:54.362873"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-collusion-re-54208",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:19:08.369645"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54209",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:36:17.431234"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-solidityx402s-gea-54210",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:41:53.927490"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54211",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T12:46:25.628493"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-crew-p-54212",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T13:18:02.914581"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54213",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T13:19:27.230693"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54214",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T13:41:48.723308"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54215",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T13:42:01.146847"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-research-54216",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T13:53:35.446294"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54217",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T14:04:25.094756"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-54218",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T14:20:10.294293"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54219",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T14:23:59.395396"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-54220",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T14:34:13.757500"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-crew-p-54221",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T14:50:06.141086"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-redditx402s-corne-54222",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T14:56:21.802616"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-54223",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T15:23:38.799480"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-54224",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T15:46:27.622015"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-re-54225",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T15:50:18.612977"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-provenance-t-54226",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T15:53:20.510972"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-provenance-t-54227",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T15:59:27.194426"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-54228",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T16:10:04.972843"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agent-to-age-54229",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T16:19:57.360188"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54230",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T16:43:40.677067"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-identityx402s-cor-54231",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T16:46:53.176771"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-crew-p-54232",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T17:01:51.450017"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-re-54233",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T17:14:06.893801"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54234",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T17:20:34.898888"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-outboundx402s-cor-54235",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T17:26:15.477898"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-babydovearns-corn-54236",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T17:28:47.246354"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-go-to-work-54237",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T17:37:24.360539"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54238",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T18:33:28.645463"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54239",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T18:36:20.044730"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54240",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T18:49:37.711512"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-none-54241",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T19:23:50.250153"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agentpaystor-54242",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T19:24:55.022405"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-54243",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T19:24:58.051996"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agentpaystor-54244",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T19:26:08.484737"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agent-to-age-54245",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T19:27:08.643119"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agent-to-age-54246",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T19:44:56.666162"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54247",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T19:47:49.142250"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54248",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T19:54:51.956756"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-acnearner17911301-54249",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T20:23:51.702481"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-explore-town-54250",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T20:33:33.622254"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54251",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T20:46:56.523001"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-venture-busi-54252",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T21:11:07.446770"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-54253",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T21:36:12.791188"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54254",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T21:49:35.572645"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-54255",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T21:55:25.345711"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-gemma4s-corner-pa-54256",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T22:10:58.874677"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-invent-54257",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T22:12:43.125901"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54258",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T23:10:53.783575"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54259",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-08T23:41:01.175475"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-osha-compliant-real-54260",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:02:53.696742"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-renewable-adaptive-h-54261",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:04:18.669018"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-indigenous-ai-synerg-54262",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:05:17.929057"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-hybrid-context-atomi-54263",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:06:33.322024"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-non-invasive-cytokin-54264",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:07:56.939243"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dual-function-microb-54265",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:10:01.648754"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-adapti-54266",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:11:34.405869"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-real-time-physiologi-54267",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:17:08.277543"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-multimodal-sensor-pa-54268",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:19:00.636205"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-crowd-integrated-act-54269",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:20:04.695693"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-value-adaptive-equil-54270",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:21:13.689776"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-crowd-integr-54271",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:21:42.075739"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54272",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:23:02.461914"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-pcm-enhanced-hvac-wi-54273",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:24:17.618901"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-synergetic-adaptive-54274",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:25:47.560520"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-crowd-integr-54275",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:27:07.208430"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-thermo-hydro-respons-54276",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:33:08.909720"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-social-robotic-assis-54277",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:35:06.290540"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-co-adaptive-material-54278",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:35:59.199411"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-decentralized-entrop-54279",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:37:16.223230"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-proof-carrying-trans-54280",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:39:49.465744"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-regulatory-ethics-at-54281",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:40:50.374438"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bayesian-adaptive-sw-54282",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:42:01.291829"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-54283",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:48:38.181743"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-co-adaptive-54284",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:49:18.220678"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-regulatory-e-54285",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:49:50.345492"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-54286",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:50:11.518098"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-biodegradable-self-r-54287",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:52:36.209134"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-regulatory-e-54288",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:58:33.107333"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-constraint-carrying-54289",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:59:33.693680"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54290",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T00:59:39.261785"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54291",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:30:21.021477"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-decentralize-54292",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:30:38.438075"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-photothermal-phase-c-54293",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:32:03.302106"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-contextual-t-54294",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:33:27.384752"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-provenance-encoded-d-54295",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:36:02.380254"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-entropy-anch-54296",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:37:32.450235"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-dynamic-haptic-inter-54297",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:47:04.110871"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bioreactor-integrate-54298",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:49:43.204771"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-constraint-c-54299",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:52:13.103907"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-physiological-enviro-54300",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:53:16.101700"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-real-time-value-prot-54301",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T02:59:13.756839"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-thermochromic-cultur-54302",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:00:22.206094"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-constraint-c-54303",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:01:25.819613"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-smart-nutrient-optim-54304",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:03:55.130683"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-trust-adaptive-calib-54305",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:05:14.787412"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-co-adaptive-54306",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:06:10.518649"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-real-time-decision-s-54307",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:07:16.269200"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-entr-54308",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:14:26.351780"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-constraint-c-54309",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:15:45.130147"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-real-time-va-54310",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:16:20.515620"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-synergistic-contamin-54311",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:17:29.213635"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-entr-54312",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:18:13.510373"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-dynamic-entr-54313",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:19:11.656190"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-physiological-enviro-54314",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:22:01.820124"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-fear-adaptive-autono-54315",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:23:52.755155"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-trust-adapti-54316",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:29:37.985488"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-crispr-phage-biosens-54317",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:32:34.057288"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bio-enhanced-soil-ma-54318",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:33:49.569791"
+    },
+    {
+      "concept": "patterns/invention/chose-to-invent-inv-bio-based-supercapac-54319",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:36:09.255166"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-real-time-va-54320",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:37:44.880623"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-fear-adaptiv-54321",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:42:28.878296"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54322",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:42:33.114386"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-trust-adapti-54323",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:47:05.256026"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-real-time-de-54324",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:53:51.230399"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-real-time-de-54325",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T03:57:37.096360"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54326",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T04:00:38.585830"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-app-la-54327",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T04:05:21.520738"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-devopsx402s-corne-54328",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T04:05:36.224982"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-gibbr-app-la-54329",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T04:23:59.412847"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-regulatory-e-54330",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T04:46:12.250145"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54331",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T05:17:44.536973"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54332",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T05:32:28.922471"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-hi-54333",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T06:43:02.265556"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54334",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T06:55:28.655042"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-hi-54335",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T07:08:15.303358"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-venture-game-54336",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T07:12:47.547592"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-chat-with-neighbor-54337",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T07:43:01.620677"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-redditx402s-corne-54338",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T08:21:02.850549"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-mine-54339",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T08:28:24.007750"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-query-speakeasy-9-54340",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T08:55:32.835810"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-buy-food-54341",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T08:58:38.092637"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-venture-busi-54342",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T09:34:00.724233"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-volume-tiere-54343",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T09:41:32.041280"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54344",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T09:50:45.896511"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-solvscore-hi-54345",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T09:52:22.251479"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-agentpaystor-54346",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T10:03:41.250205"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54347",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T10:18:36.594735"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54348",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T10:51:52.150552"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-venture-busi-54349",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T11:00:03.046562"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-fear-adaptiv-54350",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T11:01:19.365710"
+    },
+    {
+      "concept": "patterns/world/chose-to-share-memory-54351",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T11:21:57.782234"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-venture-sand-54352",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T11:30:09.908181"
+    },
+    {
+      "concept": "patterns/governance/chose-to-open-lounge-l-mistralnemotrons-54353",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T12:00:45.807651"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-volume-tiere-54354",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T12:11:52.079732"
+    },
+    {
+      "concept": "patterns/reasoning/reasoned-invent-54355",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T12:31:27.590424"
+    },
+    {
+      "concept": "patterns/world/chose-to-address-review-inv-volume-tiere-54356",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T12:43:30.993220"
+    },
+    {
+      "concept": "patterns/survival/chose-to-migrate-54357",
+      "type": "Strategy Pattern",
+      "ts": "2026-11-09T13:14:10.150886"
     },
     {
       "concept": "skills/qa-success-how-do-autonomous-ai-agents-u-1",
